@@ -1,0 +1,90 @@
+{
+    "price": {
+        "title1": "Desde",
+        "title2": "por persona"
+    },
+    "iconsInfo": {
+        "duracion": "Duración",
+        "altitud": "Altitud Max.",
+        "group": "Tamaño De Grupo",
+        "difficult": "Dificultad",
+        "buttonReservar": "Reserva Ahora",
+        "buttonWhatsapp": "Contáctanos Por WhatsApp",
+        "buttonEmail": "CONTÁCTENOS POR EMAIL"
+    },
+    "aside": {
+        "title": "Explora los Tours de Machupicchu by World",
+        "menu1": {
+            "title": "TOURS EN MACHU PICCHU",
+            "tour1": "Machu Picchu por Tren - FULL DAY",
+            "tour2": "Machu Picchu por Bus - 2 Días",
+            "tour3": "Camino Inca - 2 Días"
+        },
+        "menu2": {
+            "title": "TOURS EN CUSCO",
+            "tour1": "Cusco Explendor - 3 Días",
+            "tour2": "Cusco Clásico - 4 Días",
+            "tour3": "Cusco Aventurero - 5 Días",
+            "tour4": "Cusco Aventurero y Vinicunca - 5 Días",
+            "tour5": "Cusco Imperial - 6 Días",
+            "tour6": "Cusco Incaico - 7 Días",
+            "tour7": "Cusco Incaico y Puno - 7 Días",
+            "tour8": "Montaña de Colores - FULL DAY",
+            "tour9": "Laguna Humantay - FULL DAY",
+            "tour10": "7 Lagunas de Ausangate - FULL DAY",
+            "tour11": "Montaña Palcoyo - FULL DAY",
+            "tour12": "Tour Cuatrimotos Valle Sagrado - FULL DAY",
+            "tour13": "Zip Line Chincheros - FULL DAY",
+            "tour14": "Parapente Valle Sagrado - FULL DAY",
+            "tour15": "Canotaje Vilcanota - FULL DAY",
+            "tour16": "Queswachaca y 4 Lagunas - FULL DAY",
+            "tour17": "Waqrapukara - FULL DAY"
+        },
+        "menu3": {
+            "title": "TOURS PERÚ",
+            "tour1": "Tarapoto - 4 Días",
+            "tour2": "Tarapoto - 5 Días",
+            "tour3": "Arequipa - 5 Días",
+            "tour4": "Arequipa - 6 Días",
+            "tour5": "Puno Mágico - 4 Días",
+            "tour6": "Puno - 5 Días"
+        },
+        "menu4": {
+            "title": "TOURS INTERNACIONALES",
+            "tour1": "Medellín - 5 Días",
+            "tour2": "Cartagena - 4 Días",
+            "tour3": "Salar de Uyuni - FULL DAY",
+            "tour4": "Ica, Nazca, Cusco, Puno, Bolivia, La Paz, Salar de Uyuni - 13 Días"
+        },
+        "menu5": {
+            "title": "TREKKING",
+            "tour1": "Salkantay Trek - 4 Días",
+            "tour2": "Salkantay Trek - 5 Días",
+            "tour3": "Inka Trail - 2 Días",
+            "tour4": "Inka Trail - 4 Días",
+            "tour5": "Inka Jungle - 4 Días"
+        },
+        "card": {
+            "title": "¿Listo para tu próxima aventura?",
+            "subtitle": "Contáctanos hoy:",
+            "end": "¡Estamos aquí para ayudarte!"
+        }
+    },
+    "menuInfo": {
+        "resumen":{
+            "name": "RESUMEN DEL TOUR",
+            "day": "Día"
+        },
+        "itinerario": {
+            "name": "ITINERARIO",
+            "day": "Día",
+            "incluye": "Incluye:",
+            "noIncluye": "No Incluye:"
+        },
+        "incluye": "NUESTROS SERVICIOS INCLUYEN",
+        "noIncluye": "NUESTROS SERVICIOS NO INCLUYEN",
+        "extra": "SERVICIOS ADICIONALES",
+        "queLlevar": "RECOMENDAMOS LLEVAR",
+        "important": "IMPORTANTE"
+    }
+}

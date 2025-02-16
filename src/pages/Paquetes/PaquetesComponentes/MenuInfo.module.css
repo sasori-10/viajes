@@ -1,0 +1,150 @@
+.MenuPrincipal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.MenuMedia {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 75%;
+}
+
+/* menuInfo.module.css */
+.MenuAside {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 22%;
+    margin-left: 3rem;
+}
+
+/*CODIGO CSS DEL  TABLERO DE INFORMACION*/
+.menuContainer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    width: 70%;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-left: 1px solid #aaa;
+    /* Color de borde más oscuro */
+    border-right: 1px solid #aaa;
+    /* Color de borde más oscuro */
+    border-bottom: 1px solid #aaa;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    /* Sombra más intensa */
+
+}
+
+.contentContainer {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #ffffff;
+    border-top: none;
+    border-end-start-radius: 5px;
+    border-end-end-radius: 5px;
+    width: auto;
+}
+
+.menuButtons {
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    height: 70px;
+}
+
+.menuButton {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    background-color: #F5F5F7;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+    font-weight: 500;
+}
+
+.icon {
+    margin-right: 8px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.menuButton:hover {
+    background-color: #006d3a93;
+}
+
+.activeButton {
+    background-color: #006D3B;
+    color: white;
+}
+
+.menuButton.activeButton:hover {
+    background-color: #006D3B;
+    cursor: default;
+}
+
+/* Media Query para pantallas más pequeñas (móviles) */
+@media (max-width: 768px) {
+    .MenuMedia {
+        width: 900px;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+    }
+
+    .menuContainer {
+        width: 75%;
+    }
+
+    .menuButtons {
+        display: flex;
+        justify-content: center;
+        background-color: #F5F5F7;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        height: 70px;
+    }
+
+    .icon {
+        margin-right: 8px;
+        font-size: 15px;
+        vertical-align: middle;
+    }
+
+    .MenuAside {
+        display: none;
+    }
+
+    .menuButtons {
+        width: 100%;
+        padding: 0;
+        /* Elimina el padding para los botones */
+    }
+
+    .menuButton {
+        width: 100%;
+        /* Los botones ocupan todo el ancho */
+        font-size: 10px;
+    }
+
+    .contentContainer {
+        padding: 0;
+        /* Elimina el padding */
+    }
+}

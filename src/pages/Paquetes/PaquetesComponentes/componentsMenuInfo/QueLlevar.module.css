@@ -1,0 +1,34 @@
+.QueLlevar {
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+    font-family: "poppins", sans-serif;
+}
+
+.QueLlevarTitulo {
+    color: #006D3B;
+    font-size: 18px;
+}
+
+.QueLlevarLine {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.QueLlevarLine svg {
+    font-size: 20px;
+    /* Tamaño fijo para el ícono */
+    margin-right: 10px;
+    margin-top: 3px;
+    flex-shrink: 0;
+    /* Evita que el ícono se reduzca */
+}
+
+.QueLlevarLine span {
+    flex-grow: 1;
+    /* Hace que el texto ocupe el espacio restante */
+}

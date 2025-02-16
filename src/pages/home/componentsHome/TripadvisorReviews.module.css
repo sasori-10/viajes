@@ -1,0 +1,297 @@
+.contenedorText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo {
+    text-align: center;
+    /* Centra el título */
+    font-size: 20px;
+    /* Tamaño de fuente */
+    margin-bottom: 1rem;
+    /* Espaciado inferior */
+    color: #0D643A;
+    /* Color del texto */
+    position: relative;
+    padding-top: 1rem;
+}
+
+.titulo::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 30%;
+    height: 4px;
+    background-color: #FDC318;
+    transform: translateX(-50%);
+    display: block;
+    border-radius: 10px;
+    margin-top: -5px;
+}
+
+.icon {
+    width: 3rem;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 0;
+    color: #34E0A1;
+    margin-top: 2rem;
+}
+
+
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.reviews {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    transition: transform 0.3s ease-in-out;
+    width: 70%;
+    position: relative;
+    padding: 2rem;
+    overflow: hidden;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 8px;
+}
+
+.headerTitulo {
+    padding: 0;
+    margin: 0;
+}
+
+.headerTitulo>h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.headerTitulo>p {
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.googleIcon {
+    font-size: 30px;
+}
+
+.ControlIcons {
+    font-size: 24px;
+    color: #fff;
+}
+
+.review {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 270px;
+    height: 350px;
+    padding: 25px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.review.expanded {
+    height: auto;
+}
+
+.animate {
+    transform: translateX(-25%);
+    /* Ajusta según la cantidad de desplazamiento */
+}
+
+.reviewEncabezado {
+    display: flex;
+    flex-direction: column;
+    justify-items: left;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+button {
+    background-color: #006D3B;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: fit-content;
+    height: auto;
+}
+
+.ControlIcons {
+    font-size: 1.4rem;
+    padding: 0;
+    margin: 0;
+}
+
+.prev {
+    position: absolute;
+    width: 60px;
+    left: 150px;
+    border-radius: 10px;
+}
+
+.next {
+    position: absolute;
+    right: 150px;
+    width: 60px;
+    border-radius: 10px;
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.star {
+    color: #00AA6C;
+    font-size: 1.2rem;
+}
+
+.text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 10;
+    -webkit-box-orient: vertical;
+    line-height: 24px;
+    height: auto;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.review.expanded {
+    height: auto;
+    /* Ajusta automáticamente la altura cuando se expande */
+}
+
+.review.expanded .text {
+    -webkit-line-clamp: unset;
+    height: max-content;
+}
+
+.expandButton {
+    background: none;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+    padding: 0;
+    font-size: 14px;
+    margin-top: auto;
+    align-self: flex-start;
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 1024px) {
+
+    .prev {
+        width: 40px;
+        left: 30px;
+        border-radius: 10px;
+    }
+
+    .next {
+        right: 30px;
+        width: 40px;
+        border-radius: 10px;
+    }
+
+    .reviews {
+        width: 85%;
+    }
+}
+
+@media (max-width: 768px) {
+    .reviews {
+        width: 90%;
+        /* Ajusta el ancho del carrusel en pantallas pequeñas */
+    }
+
+    .review {
+        width: 200px;
+        /* Disminuye el ancho de cada tarjeta */
+        margin-right: 10px;
+        /* Ajusta el margen entre tarjetas */
+    }
+
+    .prev {
+        display: none;
+    }
+
+    .next {
+        display: none;
+    }
+
+    .headerTitulo {
+        font-size: 12px;
+    }
+
+    .header>img {
+        display: none;
+    }
+
+    .rating {
+        width: 80%;
+    }
+
+    .text {
+        font-size: 12px;
+    }
+}
+
+/* Estilos para pantallas muy pequeñas */
+@media (max-width: 480px) {
+    .reviews {
+        width: 100%;
+        /* Ancho completo en móviles */
+    }
+
+    .review {
+        width: 150px;
+        /* Aún más pequeño para dispositivos móviles */
+        margin-right: 5px;
+        /* Reduce el margen */
+    }
+
+    /* Opcional: Ajustar el padding en la tarjeta */
+    .review {
+        padding: 15px;
+        /* Reduce el padding para ajustar el contenido */
+    }
+
+    .prev {
+        display: none;
+    }
+
+    .next {
+        display: none;
+    }
+}

@@ -1,0 +1,50 @@
+.imageContainer {
+    position: relative;
+    width: 100%; /* Ajusta al ancho del contenedor padre */
+    max-width: 100%; /* Previene que exceda el ancho de la ventana */
+    height: 480px; /* Alto fijo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Oculta el contenido que se salga */
+    margin: 0; /* Elimina márgenes que puedan causar desplazamiento */
+    padding: 0; /* Elimina padding innecesario */
+    box-sizing: border-box; /* Asegura que el padding no afecte el tamaño */
+}
+
+.image {
+    position: relative;
+    width: 100%; /* La imagen ocupa el 100% del ancho disponible */
+    height: 100%; /* Altura ajustada al contenedor */
+    object-fit: cover; /* Cubre el contenedor manteniendo proporciones */
+}
+
+.textOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.288); /* Fondo semitransparente */
+    color: #fff; /* Texto blanco */
+}
+
+.title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    font-family: "Outfit", sans-serif;
+}
+
+.subtitulo {
+    font-size: 1.6rem;
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+}
+
+.textContent {
+    text-align: center;
+}

@@ -1,0 +1,291 @@
+.CaroucelCardContainer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.5s ease;
+}
+
+.cardGrid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    gap: 30px;
+    margin-top: 25px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    height: 550px;
+    overflow: hidden;
+    transition: opacity 0.5s ease-in-out;
+    animation: fadeIn 0.8s ease-out forwards, slideIn 0.8s ease-out forwards;
+
+}
+
+.iconOverlay {
+    position: absolute;
+    bottom: 10px;
+    /* Ajusta la distancia desde la parte inferior */
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    /* Espacio entre los iconos */
+    background: rgba(255, 255, 255, 0.8);
+    /* Fondo semitransparente */
+    border-radius: 20px;
+    padding: 5px 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.cardText {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+}
+
+.imageContainer {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    /* Opcional: bordes redondeados */
+    position: relative;
+}
+
+.cardImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Ajusta la imagen sin deformarla */
+}
+
+
+/* Efecto hover para las tarjetas */
+.cardTextContent {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.CardDetailsFinal {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.CardDetailsLista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.CardDetails {
+    text-align: left;
+}
+
+.CardDetailsFinal {
+    display: inline-flex;
+}
+
+.CardDetails>h4 {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+.CardDetailsIcon {
+    font-size: 16px;
+    margin-right: 0.5rem;
+    color: #006D3B;
+}
+
+.iconContainer {
+    display: flex;
+    justify-content: center;
+    gap: 0.7rem;
+}
+
+.price {
+    font-size: 14px;
+    color: #333;
+    font-weight: 300;
+    margin: 0;
+}
+
+.IconCard {
+    font-size: 26px;
+    color: #683C10;
+}
+
+.cardButton {
+    all: unset;
+    width: fit-content;
+    margin-left: auto;
+}
+
+.cardButton>a {
+    display: inline-block;
+    background-color: #006D3B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    font-size: 10px;
+    width: 50px;
+}
+
+.cardButton>a:hover {
+    background-color: #683C10;
+    /* Un verde más oscuro */
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.endContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carouselButtonRight {
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.carouselButtonLeft {
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+
+
+/* Animación de desvanecimiento para las tarjetas */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Animación de deslizamiento de la tarjeta */
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}
+
+/* Media Queries */
+@media (max-width: 1024px) {
+    .cardGrid {
+        width: 95%;
+    }
+
+    .card {
+        height: 550px;
+    }
+
+    .CardDetails>h4 {
+        font-size: 14px;
+    }
+
+    .CardDetailsIcon {
+        font-size: 18px;
+    }
+
+    .CardDetailsLista {
+        font-size: 12px;
+    }
+
+    .CardDetailsFinal {
+        margin-top: 0;
+        gap: 10px;
+    }
+
+    .price {
+        font-size: 12px;
+    }
+
+    .cardButton>a {
+        font-size: 10px;
+        padding: 10px;
+    }
+
+    .endContent {
+        margin-top: -10px;
+    }
+
+    .IconCard {
+        font-size: 15px;
+    }
+
+    .cardText {
+        padding: 10px 15px 10px 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .CaroucelCardContainer {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .cardGrid {
+        width: 90%;
+        gap: 20px;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .cardsContainer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 80%;
+        margin-bottom: 15px;
+    }
+}

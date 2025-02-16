@@ -1,0 +1,844 @@
+{
+    "labelMenu": {
+        "resumen": "OVERVIEW",
+        "itinerario": "COMPLETE ITINERARY",
+        "incluye": "INCLUDES",
+        "extras": "EXTRAS",
+        "queLlevar": "WHAT TO BRING?",
+        "importante": "IMPORTANT"
+    },
+    "Medellin": {
+        "seo": {
+            "title": "MEDELLÍN - 5 DAYS / 4 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover Medellín in 5 days, visiting Comuna 13, Plaza de Botero, Parque Explora, Guatapé, Carmen de Viboral, and Santa Fe de Antioquia. Experience Paisa culture and coffee.",
+            "keywords": [
+                "Medellín 5 days",
+                "Comuna 13",
+                "Plaza de Botero",
+                "Parque Explora",
+                "Pueblito Paisa",
+                "Guatapé",
+                "Peñol",
+                "Paisa Coffee",
+                "Paisa Culture",
+                "Santa Fe de Antioquia",
+                "Medellín Tourism",
+                "Trip to Medellín"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/medellin-5d-4n",
+            "open_graph": {
+                "title": "Medellín 5 Days - 4 Nights",
+                "description": "Live the culture and landscapes of Medellín, visiting Comuna 13, Plaza de Botero, Parque Explora, Guatapé, and Santa Fe de Antioquia on a 5-day tour.",
+                "url": "https://machupicchubyworld.com/medellin-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "MEDELLÍN",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Discover the history and culture of Medellín with visits to iconic places like Comuna 13, Plaza de Botero, and Pueblito Paisa.",
+            "Experience unique adventures at Parque Explora, Parque Arví, and savor authentic Paisa coffee.",
+            "Explore charming towns like Guatapé, El Peñol, and Carmen de Viboral, filled with tradition and color.",
+            "Connect with the authentic coffee culture on a tour of Concepción and its historical landscapes.",
+            "Enjoy a comfortable trip with transportation, accommodation in 4-star hotels, and included admissions."
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Piedra del Peñol",
+            "alt2": "Medellin",
+            "alt3": "Streets of Guatape",
+            "alt4": "Lagoon of Guatape",
+            "alt5": "Plaza Botero"
+        },
+        "lugares": "Medellín - Parque Arví - Piedra del Peñol - Municipality of Guatapé - Municipality of Concepción - Santa Fe de Antioquia",
+        "descripcion": "Discover <strong>Medellín</strong> and its surroundings in <strong>5 days</strong> filled with adventures! Explore iconic <strong>Parques del Río</strong>, <strong>Plaza de Botero</strong>, and <strong>Comuna 13</strong>, enjoy breathtaking views from <strong>Pueblito Paisa</strong>, and wander vibrant areas like <strong>Parque Lleras</strong> and <strong>El Poblado</strong>. Experience science and coffee at <strong>Parque Explora</strong> and <strong>Pergamino Café</strong>, and take the cable car to <strong>Parque Arví</strong>. Also, visit the picturesque towns of <strong>Carmen de Viboral</strong>, <strong>Peñol</strong>, <strong>Guatapé</strong>, and <strong>Concepción</strong>, and conclude with a tour of <strong>Santa Fe de Antioquia</strong>, a Colombian heritage site. A trip full of <strong>history</strong>, <strong>culture</strong>, and <strong>stunning landscapes</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Medellín – Discover the Best Places Day and Night",
+                "descripcion": "On Day 1 of the City Tour Medellín, enjoy a complete tour of Medellín visiting in the morning and afternoon Parques del Río, Plaza de Botero, Pueblito Paisa, and Comuna 13. At night, explore Parque Lleras, El Poblado, and Los Laureles."
+            },
+            "dia2": {
+                "titulo": "VISIT PARQUE EXPLORA, COFFEE TASTING, AND EXPERIENCE PARQUE ARVÍ",
+                "descripcion": "On Day 2, we will visit Parque Explora, with its planetarium and Amazon aquarium. Then, enjoy the renowned Pergamino Café and explore Parque Arví, accessing via cable car. The evening will be free for personal activities."
+            },
+            "dia3": {
+                "titulo": "VISIT CARMEN DE VIBORAL, THE MAJESTIC PEÑOL, AND THE GRAND MUNICIPALITY OF GUATAPÉ",
+                "descripcion": "On Day 3, we will visit Carmen de Viboral, El Peñol, and Guatapé, enjoying their culture, landscapes, and colorful facades. At the end, you can choose a night tour."
+            },
+            "dia4": {
+                "titulo": "ENJOY THE MUNICIPALITY OF CONCEPCIÓN AND EXPERIENCE COFFEE AND PAISA CULTURE.",
+                "descripcion": "On Day 4, we will visit Concepción, enjoying its landscapes and colonial urban center. Then, you will visit a coffee establishment to experience Paisa culture, and in the afternoon, you will head to Santa Fe de Antioquia."
+            },
+            "dia5": {
+                "titulo": "GUIDED TOUR TO ONE OF COLOMBIA'S HERITAGES: SANTA FE DE ANTIOQUIA AND ENJOY ITS VIEWPOINTS",
+                "descripcion": "You will tour Santa Fe de Antioquia, visiting its historical circuit, viewpoint, and the Bridge of the West, before heading to the airport."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "City Tour Medellín – Discover the Best Places Day and Night",
+                "descripcion": [
+                    "A.M Hotel pickup",
+                    "A.M Our tour begins with a visit to Parques del Río Medellín, a linear park located in the central area of the Colombian city of Medellín that connects both banks of the Medellín River, which flows through the city from south to north.",
+                    "A.M Visit the Barefoot Park, a thematic space created to sensitize visitors starting with their feet and ending with their spirit. It's ideal for walking and relaxing.",
+                    "A.M Visit Plaza de Botero, a park that houses 23 monumental bronze sculptures donated by Antioquian master Fernando Botero.",
+                    "P.M Afterwards, we will visit Pueblito Paisa, where you can enjoy the charm of the architecture of one of the most paisa destinations in Medellín and take photos with one of the best views of the city.",
+                    "P.M We will conclude with a graffiti tour visiting Comuna 13, where we can observe an area full of color, murals that reflect the history and culture of the neighborhood, and escalators that connect residents with the city center.",
+                    "<strong>CITY TOUR MEDELLÍN NIGHT SHIFT – EXPLORE THE BEST NIGHT SPOTS</strong>",
+                    "P.M Visit Parque Lleras, the perfect destination if you want to spend an unforgettable night in Medellín.",
+                    "P.M Visit El Poblado, one of the areas of the city with the greatest infrastructure.",
+                    "P.M Visit Los Laureles."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VISIT PARQUE EXPLORA, COFFEE TASTING, AND EXPERIENCE PARQUE ARVÍ",
+                "descripcion": [
+                    "A.M Visit Parque Explora, an interactive science museum, a planetarium, an aquarium with an emphasis on the Amazon, and a public experimentation workshop.",
+                    "A.M Visit Pergamino Café and have a unique experience enjoying one of the best coffees.",
+                    "Visit Parque Arví and enjoy a unique experience from the cable car, where you can appreciate beautiful panoramic views of the park.",
+                    "P.M Free activity in the evening."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "VISIT CARMEN DE VIBORAL, THE MAJESTIC PEÑOL, AND THE GRAND MUNICIPALITY OF GUATAPÉ",
+                "descripcion": [
+                    "A.M Visit Carmen de Viboral, a cultural paradise served in ceramics where hand-painted ceramic dishes are famous.",
+                    "Visit El Peñol, known for its impressive natural beauty, rich culture, and perfectly preserved Antioquian architecture.",
+                    "Visit the municipality of Guatapé, where you will be amazed by each house, which has a very peculiar style, and its facades present interesting designs; you will also be impressed by the combination and contrast of colors, balconies, and narrow cobblestone streets.",
+                    "Enjoy a night tour (optional)."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "ENJOY THE MUNICIPALITY OF CONCEPCIÓN AND EXPERIENCE COFFEE AND PAISA CULTURE.",
+                "descripcion": [
+                    "Visit the municipality of Concepción, where you will enjoy the beautiful landscape that accompanies us to the urban center of Concepción. Here we will start our journey back in time to the late 1800s, as the town we are visiting is embedded in this era with its cobblestone streets, large houses, church, and main park.",
+                    "We will tour a coffee establishment in the municipality and enjoy the experience of authentic Paisa culture.",
+                    "P.M Departure to Santa Fe de Antioquia."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "GUIDED TOUR TO ONE OF COLOMBIA'S HERITAGES: SANTA FE DE ANTIOQUIA AND ENJOY ITS VIEWPOINTS",
+                "descripcion": [
+                    "A.M Guided tour to one of the 18 towns considered a heritage of Colombia: Santa Fe de Antioquia.",
+                    "Visit the historical circuit, viewpoint, and Bridge of the West.",
+                    "Return and departure to the airport."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transportation",
+            "Entry to museums",
+            "Entry to specified parks and attractions",
+            "Breakfast from the second day",
+            "Courtesy cocktail at the evening event in Parque Lleras",
+            "4-star category hotel"
+        ],
+        "noIncluye": [
+            "Unspecified drinks and food",
+            "Airfare snacks"
+        ],
+        "queLlevar": [
+            "Carry a valid ID document DNI/PASSPORT.",
+            "Sunscreen.",
+            "Cap/hat for heat.",
+            "Bring appropriate clothing for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions carried out by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "No name changes or refunds for entry tickets to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, demonstrations, and any other event that may prevent the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the traveler's safety and the best overall service delivery. This may be due to issues with entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will be no refund.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as the itinerary for ticket delivery is being followed.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "Cartagena": {
+        "seo": {
+            "title": "CARTAGENA - 4 DAYS / 3 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy Cartagena in 4 days, exploring the historic center, Barú beaches, the Pink Salt Flats, and Totumo Volcano. Sail through the Rosario Islands.",
+            "keywords": [
+                "Cartagena 4 days",
+                "Historic center Cartagena",
+                "San Felipe Castle",
+                "Getsemaní",
+                "Playa Blanca Barú",
+                "Pink Salt Flats",
+                "Totumo Volcano",
+                "Rosario Islands",
+                "Trip to Cartagena",
+                "Cartagena Tourism"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cartagena-4dias",
+            "open_graph": {
+                "title": "Cartagena 4 Days - 3 Nights",
+                "description": "Explore Cartagena in 4 days, from the historic center and San Felipe Castle to Barú beaches, the Pink Salt Flats, and the Rosario Islands.",
+                "url": "https://machupicchubyworld.com/cartagena-4dias",
+                "type": "website"
+            }
+        },
+        "title": "CARTAGENA",
+        "day": "4 Days / 3 Nights",
+        "puntosClave": [
+            "Explore Cartagena and discover the San Felipe Castle and colorful Getsemaní!",
+            "Relax at Playa Blanca, with crystal-clear waters and a delicious Caribbean lunch.",
+            "Experience the magic of the Pink Salt Flats and enjoy a mud bath at Totumo Volcano!",
+            "Explore the incredible Rosario Islands and enjoy their beaches and snorkeling.",
+            "Transportation, guides, 3-star hotel, and breakfasts included for your comfort."
+        ],
+        "details": {
+            "duracion": "4 Days / 3 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Cartagena",
+            "alt2": "Balconies Cartagena",
+            "alt3": "Rosario Islands",
+            "alt4": "Rosario Islands",
+            "alt5": "Mud Volcano"
+        },
+        "lugares": "Historic Center and Getsemaní Castle - Playa Blanca in Barú - Pink Salt Flats and Mud Volcano - Rosario Islands",
+        "descripcion": "Get ready for an <strong>incredible adventure</strong>! In <strong>4 days</strong>, you will discover the best of <strong>Cartagena</strong> and its paradise <strong>islands</strong>. Start exploring the vibrant <strong>historic center</strong> and the colorful neighborhood of <strong>Getsemaní</strong>. Then, relax at the beautiful <strong>Playa Blanca de Barú</strong>, enjoying the crystal-clear sea and a delicious Caribbean lunch. On the third day, marvel at the <strong>Pink Salt Flats</strong> and enjoy a bath in the <strong>Mud Volcano</strong>, perfect for your skin! And to top it off, sail through the archipelago of the <strong>Rosario Islands</strong> and enjoy the magic of <strong>San Martín de Pajarales</strong>. An <strong>unforgettable experience</strong> awaits you!",
+        "resumen": {
+            "dia1": {
+                "titulo": "WE WILL TOUR VISITING THE HISTORIC CENTER – GETSEMANÍ CASTLE.",
+                "descripcion": "On Day 1, we will explore the historic center of Cartagena, visiting squares, the Centenary Park, Getsemaní, and the San Felipe castle, concluding in the center of Getsemaní."
+            },
+            "dia2": {
+                "titulo": "WE VISIT PLAYA BLANCA IN BARÚ, ENJOY A PANORAMIC RIDE TO THIS ISLAND WITH THE BEST BEACHES.",
+                "descripcion": "On Day 2, we will pick you up from your accommodation and take you to Playa Blanca in Barú, where you can enjoy the crystal-clear sea and a Caribbean lunch. In the late afternoon, we will return to your hotel."
+            },
+            "dia3": {
+                "titulo": "PINK SALT FLATS AND MUD VOLCANO TOUR ENJOY THE NATURE OF THE COLOMBIAN CARIBBEAN.",
+                "descripcion": "On Day 3, we will explore the pink salt flats and visit the Totumo Volcano, where you will enjoy the experience of mud therapy with medicinal mud, ideal for skin and hair, and a relaxing massage."
+            },
+            "dia4": {
+                "titulo": "TOUR THE BEST BEACHES OF THE ROSARIO ISLANDS.",
+                "descripcion": "On Day 4, with a professional guide, you will enjoy a panoramic tour of the Rosario Islands archipelago and a one-hour stop at San Martín de Pajarales Island."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "WE WILL TOUR VISITING THE HISTORIC CENTER – GETSEMANÍ CASTLE",
+                "descripcion": [
+                    "We will begin our tour of Cartagena de Indias meeting at the indicated time in the heart of the city.",
+                    "After a brief introduction, we will start the tour visiting the most emblematic areas of the historic center of Cartagena de Indias. First, we will pass by the Santa Teresa and San Pedro Claver squares. Next, we will stop at the iconic Customs Square and from there continue to the Square of the Coaches.",
+                    "Afterward, we will pass under the arches of the Clock Tower and reach Centenary Park: one of the main green areas of the old town of Cartagena de Indias.",
+                    "After learning about its history, we will delve into the beautiful Getsemaní neighborhood. We will walk along Sierpe and the colorful San Juan street, famous for its murals. Then, we will continue along the Ancho alley to a viewpoint from which we will see the San Felipe de Barajas Castle.",
+                    "After approximately two and a half hours of touring, we will conclude at the center of Getsemaní."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "WE VISIT PLAYA BLANCA IN BARÚ, ENJOY A PANORAMIC RIDE TO THIS ISLAND WITH THE BEST BEACHES.",
+                "descripcion": [
+                    "This activity begins when we pick you up at your accommodation. Then we will take you by land to Playa Blanca in Barú in a comfortable and air-conditioned bus.",
+                    "The journey takes about an hour to this beautiful and paradisiacal place. Here you can enjoy crystal-clear waters and a typical Caribbean lunch.",
+                    "In the late afternoon, we will return to the area of the hotels where we picked you up in the morning."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "PINK SALT FLATS AND MUD VOLCANO TOUR ENJOY THE NATURE OF THE COLOMBIAN CARIBBEAN.",
+                "descripcion": [
+                    "The place has a great history, and its salt flats steal the show, providing the waters with a vibrant pink color.",
+                    "Totumo Volcano, a 1.2-meter high volcano where you will enter to experience weightlessness, as you won’t sink. You will enjoy mud therapy with cold mud that has medicinal properties for skin and hair, and you can also enjoy a relaxing massage."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "TOUR THE BEST BEACHES OF THE ROSARIO ISLANDS.",
+                "descripcion": [
+                    "Accompanied by a professional guide for the entire group, who will provide recommendations and instructions.",
+                    "Panoramic tour of the Rosario Islands archipelago.",
+                    "One-hour stop at San Martín de Pajarales Island.",
+                    "Entry to the oceanarium. Cost per person COP $30,000. (Optional)",
+                    "Snorkeling activity. Cost per person COP $35,000. (Optional)",
+                    "Typical lunch (coconut rice, salad, fried plantain, fish or chicken). (Optional)",
+                    "We return at approximately 3:30 PM to Cartagena. (Optional)"
+                ]
+            }
+        ],
+        "incluye": [
+            "Transportation for each tour",
+            "Local guide for each tour",
+            "Breakfast included at the hotel",
+            "3-star hotel"
+        ],
+        "noIncluye": [
+            "Unspecified drinks and food",
+            "Lunches and dinners",
+            "Entrance to the mud volcano"
+        ],
+        "queLlevar": [
+            "Carry a valid ID document DNI/PASSPORT.",
+            "Sunscreen.",
+            "Cap/hat for heat.",
+            "Bring appropriate clothing for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "No name changes or refunds for the entrance ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, demonstrations, and any other event that may prevent the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the traveler's safety and the best overall service delivery. This may be due to issues with entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will be no refund.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as the itinerary for ticket delivery is being followed.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "Uyuni": {
+        "seo": {
+            "title": "UYUNI SALT FLAT - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy a full day at the Uyuni Salt Flats, visiting the Train Cemetery, Stairway to Heaven, Incahuasi Island, and a unique sunset in the salt flats.",
+            "keywords": [
+                "Salar de Uyuni",
+                "Full Day Uyuni",
+                "Stairway to Heaven",
+                "Incahuasi Island",
+                "Train Cemetery",
+                "Uyuni Trip",
+                "Uyuni Tour",
+                "Bolivia Salt Flats",
+                "Uyuni Sunset",
+                "Uyuni Adventure"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/salar-de-uyuni-full-day",
+            "open_graph": {
+                "title": "Salar de Uyuni Full Day",
+                "description": "Experience a full day exploring the Salar de Uyuni: the Train Cemetery, Stairway to Heaven, Incahuasi Island, and a unique sunset.",
+                "url": "https://machupicchubyworld.com/salar-de-uyuni-full-day",
+                "type": "website"
+            }
+        },
+        "title": "UYUNI SALT FLAT - BOLIVIA",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Explore the Uyuni Salt Flat in a 4x4 vehicle with an expert guide, perfect for capturing memorable photos.",
+            "Discover the Salt Flat with special boots and visit iconic spots like the Stairway to Heaven and Incahuasi Island.",
+            "Enjoy lunch on the salt flat, accompanied by wine and snacks while capturing the sunset.",
+            "Visit the Train Cemetery and the village of Colchani, learning about salt mining and local culture.",
+            "Experience a photographic sunset on the salt flat with a team of guides for a unique experience."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of Uyuni Salt Flat",
+            "alt2": "Uyuni Salt Flat",
+            "alt3": "Our travelers in Uyuni Salt Flat",
+            "alt4": "Our travelers in Uyuni Salt Flat",
+            "alt5": "Our travelers in Uyuni Salt Flat"
+        },
+        "lugares": "Train Cemetery - Uyuni Salt Flat - Stairway to Heaven - Incahuasi Island",
+        "descripcion": "Experience an <strong>unforgettable Full Day</strong> in <strong>Uyuni</strong>! Start with a welcome at the <strong>terminal</strong>, a breakfast, and an adventure that includes the <strong>Train Cemetery</strong>, the imposing <strong>Uyuni Salt Flat</strong>, the <strong>Eyes of Salt</strong>, the magical <strong>Stairway to Heaven</strong>, and <strong>Incahuasi Island</strong>. Enjoy lunch in the middle of the salt flat, a <strong>spectacular sunset</strong>, and end the day with wine and snacks. All in a day full of surprises and <strong>stunning landscapes</strong>!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "UYUNI SALT FLAT",
+                "descripcion": [
+                    "4:30 - 5:00 A.M Arrival at the Uyuni bus terminal. Our staff will be waiting with your name to help you drop off your things at the office.",
+                    "Free time for breakfast on your own.",
+                    "10:00 A.M We will gather the whole group at a specific location or at the office door to be distributed into the vehicles (6 to 8 people per vehicle). We will then begin the journey to the first stop.",
+                    "Morning Visit to the Train Cemetery, where you can see steam locomotives from the 19th and 20th centuries, perfect for photographs. Then we will proceed to provide the appropriate boots for the visit to Uyuni Salt Flat.",
+                    "Morning Guided visit to the village of Colchani to learn about the salt mining operations of the Rosario Cooperative.",
+                    "Afternoon Guided visits to the salt piles and the Eyes of Salt.",
+                    "Afternoon Guided visit to the Stairway to Heaven, an artwork by Bolivian artist Gastón Ugalde.",
+                    "Afternoon Guided visit to the Salt Hotel, where we will appreciate the immense constructions.",
+                    "Afternoon Visit to the flag plaza in Uyuni Salt Flat.",
+                    "Afternoon Visit to the Dakar monument.",
+                    "Afternoon Lunch in the middle of the salt flat and subsequent visit to Incahuasi Island.",
+                    "Afternoon Photographic sunset, capturing the colors of the sky and the salt flat at day's end, with wine and snacks.",
+                    "Evening Return to La Paz and travel to La Paz that same night or stay overnight in Uyuni, depending on individual availability."
+                ]
+            }
+        ],
+        "incluye": [
+            "Pickup from the bus terminal",
+            "Boots for walking on the Salt Flat",
+            "4x4 transportation",
+            "Driver-guide",
+            "1 lunch",
+            "Photographs and videos",
+            "Wine and snacks",
+            "Luggage storage"
+        ],
+        "noIncluye": [
+            "Entrance to Incahuasi Island",
+            "Public restrooms",
+            "Breakfast and dinner",
+            "Entrance to Stairway to Heaven (15 Bolivians)",
+            "Photos with other caricatures"
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon request).",
+            "Other train categories (upon request)."
+        ],
+        "queLlevar": [
+            "ID/DNI/PASS",
+            "The best outfit for photos",
+            "Sunscreen",
+            "Cap/hat",
+            "Bring a change of clothes"
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have low levels of risk and difficulty and ensure necessary safety.",
+            "No name changes or refunds for the entrance ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, demonstrations, and any other event that may prevent the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service delivery. This may be due to issues with entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will be no refund.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as the itinerary for ticket delivery is being followed.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "13dias": {
+        "seo": {
+            "title": "13 Days Peru and Bolivia Tour | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy 13 days of adventure traveling through Peru and Bolivia! From Lima to Machu Picchu, visiting Ica, Nazca, Cusco, Puno, Uyuni Salt Flats, and more.",
+            "keywords": [
+                "13 days Peru and Bolivia",
+                "Peru tour",
+                "Uyuni Salt Flats",
+                "Nazca Lines",
+                "Peruvian culture",
+                "Machu Picchu",
+                "Sacred Valley",
+                "Humantay Lagoon",
+                "Rainbow Mountain",
+                "Uros Islands",
+                "Peru Bolivia adventure",
+                "Peru and Bolivia trip",
+                "Machu Picchu tour",
+                "Ballestas Islands",
+                "Lima to Machu Picchu"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/ica-nazca-cusco-puno-bolivia-la-paz-salar-de-uyuni-13d-12n",
+            "open_graph": {
+                "title": "13 Days Peru and Bolivia",
+                "description": "Experience a unique 13-day journey through Peru and Bolivia, visiting Ica, Nazca, Cusco, Puno, Uyuni Salt Flats, and Machu Picchu.",
+                "url": "https://machupicchubyworld.com/ica-nazca-cusco-puno-bolivia-la-paz-salar-de-uyuni-13d-12n",
+                "type": "website"
+            }
+        },
+        "title": "Ica, Nazca, Cusco, Puno, Bolivia - La Paz, Uyuni Salt Flat",
+        "day": "13 Days / 12 Nights",
+        "puntosClave": [
+            "13 days of adventure through Peru, from Lima to Machupicchu!",
+            "We fly over Nazca, do sandboarding, and explore the Sacred Valley.",
+            "Includes transportation, guides, entrance fees, and comfortable hotels.",
+            "Enjoy stress-free assistance 24/7.",
+            "Unforgettable landscapes, culture, and flavors at every stop.",
+            "We end with Machupicchu, Humantay, and spectacular views."
+        ],
+        "details": {
+            "duracion": "13 Days / 12 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Plaza de Armas of Lima",
+            "alt2": "Costa Verde - Lima",
+            "alt3": "Ballestas Islands",
+            "alt4": "Huacachina",
+            "alt5": "Nazca Lines - Hummingbird",
+            "alt6": "Plaza de Armas of Cusco",
+            "alt7": "Moray",
+            "alt8": "Machupicchu",
+            "alt9": "Humantay Lagoon",
+            "alt10": "Rainbow Mountain",
+            "alt11": "Uros Islands",
+            "alt12": "Uros Islands",
+            "alt14": "Uyuni Salt Flat"
+        },
+        "lugares": "Lima - Ballestas Islands (Paracas) - Ica and Huacachina - Nazca Lines - Cusco - Sacred Valley of the Incas - Machupicchu - Humantay Lagoon - Rainbow Mountain - Uros and Amantani Islands (Lake Titicaca) - Uyuni Salt Flat - La Paz.",
+        "descripcion": "The package <strong>Ica, Nazca, Cusco, Puno, Bolivia-La Paz, Uyuni Salt Flat - 13 days</strong> offers you a <strong>unique experience</strong>, combining the best of <strong>Peru</strong> and <strong>Bolivia</strong>. Over 13 days, you'll discover the mystery of the <strong>Nazca Lines</strong>, the ancient history of <strong>Cusco</strong> and <strong>Machupicchu</strong>, the majesty of <strong>Lake Titicaca</strong> in <strong>Puno</strong>, and the vibrant city of <strong>La Paz</strong> in Bolivia. The tour culminates with an unforgettable visit to the stunning <strong>Uyuni Salt Flat</strong>, the largest salt flat in the world. This package is perfect for those wanting to explore the <strong>cultural</strong>, <strong>scenic</strong>, and <strong>archaeological richness</strong> of both countries in a single trip.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Welcome to the City of Lima - Transfer from the Airport to Your Hotel at Your Own Expense.",
+                "descripcion": [
+                    "Departure from your destination to the city of Lima.",
+                    "Transfer from the airport to your respective hotel at your own expense.",
+                    "Detailed explanation of your itinerary via WhatsApp.",
+                    "Overnight at your respective hotel in Lima."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Full Day Tour of Ballestas Islands Paracas - Ica Huacachina.",
+                "descripcion": [
+                    "04:20 a.m. Departure from Lima to Ica (5 to 6 hours of travel).",
+                    "Stop for breakfast and continue to Paracas.",
+                    "Arrival in Paracas and tour by boat to the Ballestas Islands, where you will see 'The Candelabro', guano birds, sea lions, and Humboldt penguins.",
+                    "Travel to Ica to visit a winery, learn about the winemaking process, and enjoy a tasting.",
+                    "Visit to the Huacachina oasis, surrounded by palm trees and dunes, ideal for relaxation. Activities such as tubing and sandboarding will be included.",
+                    "18:30 p.m. Transfer at your own expense to the Ica bus terminal.",
+                    "19:00 p.m. Bus to Nazca (2 hours of travel). Overnight at a hotel in Nazca."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Spanish-speaking guide.",
+                    "Permanent assistance 24/7.",
+                    "Entrance to the Ballestas Islands.",
+                    "Entrance to the Huacachina oasis.",
+                    "Sandboarding (board for sliding on the sand).",
+                    "Boat and life jacket.",
+                    "Bus from Ica to Nazca.",
+                    "Hotel in the city of Nazca."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside the service.",
+                    "Breakfast, lunch, and dinner.",
+                    "Pickup from the hotel for the tour."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Flight over the Nazca Lines - Tour Duration: Approximately 30 minutes.",
+                "descripcion": [
+                    "Pickup and transfer: Pickup from your hotel and transfer to María Reiche Airport.",
+                    "Flight over the Nazca Lines: The flight lasts 30 minutes and allows you to see 13 emblematic figures, such as The Astronaut (135 meters), the hummingbird (97 meters), the monkey (110 meters), and the condor (135 meters). Before the flight, an informational video will be shown about the theories surrounding the Nazca lines.",
+                    "Flight details: The fleet consists of Cessna aircraft models 206 and 172. We fly with a pilot and a tour guide, ensuring complete information during the journey. The flight goes to the right and left around the figures, so all passengers can observe them without issues.",
+                    "End of the tour and return to Lima: After the flight, you will have free time for lunch. Then, you will head to the bus terminal to take the bus back to Lima. The journey takes approximately 7 hours.",
+                    "Accommodation: Overnight at the hotel in Lima."
+                ],
+                "incluye": [
+                    "35-minute flight.",
+                    "Narration of the tour.",
+                    "Flight certificate.",
+                    "24/7 permanent assistance.",
+                    "Bus Nazca - Lima.",
+                    "Night in a hotel in Lima."
+                ],
+                "noIncluye": [
+                    "Breakfast, lunch, dinner.",
+                    "Extra expenses outside of the service.",
+                    "Airport fee of S/. 30.",
+                    "Tourist ticket of S/. 47."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Welcome and Acclimatization in Cusco with City Tour (Half Day)",
+                "descripcion": [
+                    "<strong>DAY 4 - WELCOME TO THE CITY OF CUSCO - TRANSFER FROM THE AIRPORT TO YOUR HOTEL</strong>",
+                    "Departure from Lima to Cusco.",
+                    "Reception at Alejandro Velasco Astete Airport.",
+                    "Transfer from the airport to your hotel.",
+                    "Detailed explanation of your itinerary.",
+                    "Coca tea. Welcome to the city of Cusco.",
+                    "<strong>DAY 4 - CITY TOUR – MORNING SHIFT. TOUR DURATION: HALF DAY. DAY OF ACCLIMATIZATION IN CUSCO.</strong>",
+                    "09:50 A.M. to 10:10 A.M. Pickup from the hotel for the morning city tour.",
+                    "Guided visit to the Sacsayhuamán fortress, where you can take photos with views of the city of Cusco. Then, visit the White Christ for more photographs.",
+                    "Guided visit to the Qenqo ceremonial center, where offerings are made to the deities through llama sacrifices and the pouring of AQHA (chicha). Continue to the nearby forests.",
+                    "Guided visit to the Puca Pucara fortress, an icon of military control for the defense of the route.",
+                    "Guided visit to Tambomachay, where water channels that remain constant during rain and drought can be observed.",
+                    "1:30 P.M. to 2:00 P.M. Return to the city of Cusco, near the main square, to head to the hotel on your own.",
+                    "Free time for lunch, exploring the traditional streets and museums of Cusco, and dinner.",
+                    "Overnight at the respective hotel."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Guide in Spanish/English.",
+                    "Pickup from the hotel.",
+                    "Entry ticket for the archaeological centers (BTG).",
+                    "24/7 permanent assistance."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Breakfast, lunch, and dinner."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Sacred Valley of the Incas VIP Full Day – Connection to Machupicchu. Overnight in Aguas Calientes.",
+                "descripcion": [
+                    "06:40 to 07:00 A.M. Pickup from your hotel for the VIP Valley tour.",
+                    "Visit to the archaeological center of Chinchero, where Inca constructions and the colonial church can be appreciated.",
+                    "Visit to the Chinchero textile center to learn about alpaca garment production.",
+                    "Travel to the agricultural center of Moray, used in Inca times for crop planting.",
+                    "Visit to the salt mines of Maras, where approximately 2,300 pools can be seen.",
+                    "Lunch in Urubamba.",
+                    "Visit to the archaeological complex of Ollantaytambo.",
+                    "3:00 P.M. to 3:30 P.M. End of the tour; stay in Ollantaytambo to travel to Machupicchu Pueblo that night.",
+                    "Head to the train station in Ollantaytambo and board the train to Aguas Calientes.",
+                    "Reception in Aguas Calientes and overnight at the hotel."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Guide in Spanish/English.",
+                    "Pickup from the hotel.",
+                    "24/7 permanent assistance.",
+                    "Entry to the archaeological complexes (BTG).",
+                    "Ticket for the salt mines of Maras.",
+                    "Buffet lunch in Urubamba.",
+                    "Train ticket from Ollantaytambo to Aguas Calientes.",
+                    "Hotel in Aguas Calientes."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Dinner."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "Full Day Tour of Machupicchu",
+                "descripcion": [
+                    "05:30 to 08:00 A.M. Breakfast at the hotel.",
+                    "Free time to visit the hot springs, the butterfly house, or the Manuel Chávez Ballón Museum, and for lunch.",
+                    "10:00 A.M. Check-in at the respective bus station.",
+                    "10:20 A.M. Board the bus to Machupicchu.",
+                    "11:00 A.M. Guided visit to the historical sanctuary of Machupicchu (approx. 2 hours), enjoying the landscape and flora.",
+                    "Free time for photos in Machupicchu and board the bus back to Aguas Calientes.",
+                    "Free time for lunch and the option to visit the hot springs.",
+                    "Present yourself 30 minutes before the train departure, with your ID or passport and boarding pass.",
+                    "6:20 P.M. or 7:00 P.M. Departure of the train to Ollantaytambo (1 hour and 40 minutes journey).",
+                    "Transport from Ollantaytambo to Cusco, arriving at Av. El Sol or Wánchaq station. Then, head to your hotel.",
+                    "Overnight in Cusco."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Guide in Spanish/English.",
+                    "Pickup from the hotel.",
+                    "24/7 permanent assistance.",
+                    "Entry to the archaeological complex of Machupicchu.",
+                    "Consettur bus (up and down).",
+                    "Train ticket Aguas Calientes - Ollantaytambo.",
+                    "Bus Ollantaytambo - Cusco.",
+                    "Hotel in the city of Cusco."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Lunch and dinner.",
+                    "Hot springs in Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "Full Day Tour to Humantay Lagoon.",
+                "descripcion": [
+                    "04:40 to 05:10 A.M. Pickup from your hotel for the Humantay Lagoon tour. Stop in the town of Mollepata for shopping.",
+                    "Breakfast in Mollepata and travel to Challacancha, enjoying the snowy Humantay.",
+                    "09:00 A.M. Hike to Humantay Lagoon (approximately 1.5 hours), observing the flora and fauna, such as birds and, if lucky, the Vizcacha.",
+                    "Guided visit at Humantay Lagoon; time for photos.",
+                    "Return from the lagoon (approximately 1.5 hours).",
+                    "Buffet lunch in Mollepata.",
+                    "2:40 P.M. Return by bus to Cusco.",
+                    "4:30 to 5:30 P.M. Arrival in Cusco, San Francisco square, and transfer to the designated hotel.",
+                    "Overnight in Cusco."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Guide in Spanish/English.",
+                    "Pickup from the hotel.",
+                    "24/7 permanent assistance.",
+                    "Entry to Humantay Lagoon.",
+                    "Breakfast and lunch in Mollepata.",
+                    "Trekking poles for the hike.",
+                    "Hotel in the city of Cusco."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Dinner.",
+                    "Horses for the tour."
+                ]
+            },
+            {
+                "dia": "8",
+                "titulo": "Full Day Tour of Rainbow Mountain. Travel to the City of Puno at Night.",
+                "descripcion": [
+                    "04:30 to 05:00 A.M. Pickup from the hotel for the Rainbow Mountain Tour.",
+                    "Departure from Cusco southwards, with a journey of approximately 2 hours and 30 minutes, passing by the archaeological center of Pikillaqta.",
+                    "Breakfast in the village of Cusi Pata, where Andean products are offered, including Huaro bread.",
+                    "Continue the journey in tourist transport for 1 hour and 15 minutes to the start of the hike.",
+                    "09:00 A.M. Hike to Rainbow Mountain (approximately 1.5 hours), with views of snow-capped mountains, flora, and fauna in the area.",
+                    "Guided visit at Rainbow Mountain (45 minutes) for photos. This mountain, situated at 5,036 m.a.s.l, is one of the most visited natural destinations in Cusco, with the Ausangate snow-capped mountain in front of it.",
+                    "Hike back from Rainbow Mountain to the parking area in Chillihuani (approximately 1 hour).",
+                    "Semi-buffet Andean lunch in Cusi Pata, with vegetarian options available upon request.",
+                    "2:40 P.M. Return to Cusco (approx. travel time: 2 hours).",
+                    "4:30 to 5:30 P.M. Arrival in Cusco, near the main square. Transfer to the hotel on your own.",
+                    "Free afternoon for dinner before departing to Puno.",
+                    "Transfer to the bus terminal 30 minutes before your journey.",
+                    "10:00 P.M. Departure by bus to the city of Puno."
+                ],
+                "incluye": [
+                    "Tourist transportation.",
+                    "Guide in Spanish/English.",
+                    "Pickup from the hotel.",
+                    "24/7 permanent assistance.",
+                    "Buffet lunch in Cusi Pata.",
+                    "Entry to Rainbow Mountain.",
+                    "Breakfast in Cusi Pata.",
+                    "Route maintenance in Cusi Pata.",
+                    "Trekking poles for the hike.",
+                    "Transfer to the bus terminal.",
+                    "Bus Cusco - Puno."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Horses for the tour."
+                ]
+            },
+            {
+                "dia": "9",
+                "titulo": "Tour of the Uros and Amantani Islands - FULL DAY.",
+                "descripcion": [
+                    "04:30 to 05:00 A.M. Arrival from La Paz to Puno. Staff from the Machupicchu By World Agency will be waiting to take you to the main port of Puno.",
+                    "06:40 to 07:20 A.M. Boarding the boat to explore the main attractions of the city of Puno.",
+                    "Navigation on Lake Titicaca, the largest lake in the world.",
+                    "Visit and explanation by the community members on the Uros Island.",
+                    "Option to board the famous 'Mercedes Benz', at a cost of 15 soles per person.",
+                    "Departure to Amantani Island, where you can appreciate the diversity of the region's flora and fauna.",
+                    "Lunch in family homes on Amantani Island.",
+                    "Visit to the tourist attractions of Llachón and Amantani, recommended for its focus on the renewal and maintenance of cultural identity.",
+                    "Overnight in the city of Puno."
+                ],
+                "incluye": [
+                    "Tourist boat.",
+                    "Guide in Spanish.",
+                    "Entry to the island.",
+                    "Hotel in the city of Puno.",
+                    "Lunch in Amantani."
+                ],
+                "noIncluye": [
+                    "Extra expenses outside of the service.",
+                    "Breakfast and dinner."
+                ]
+            },
+            {
+                "dia": "10",
+                "titulo": "Travel from the City of Puno to La Paz and Uyuni Salt Flat.",
+                "descripcion": [
+                    "05:45 A.M. Departure from the city of Puno to La Paz, Bolivia. The journey takes approximately 7 hours, arriving around 1:00 P.M.",
+                    "Lunch in La Paz at your own expense.",
+                    "Free time to stroll through the cable cars (optional) and for dinner.",
+                    "Be at the bus terminal 30 minutes before departure.",
+                    "10:00 P.M. Departure from La Paz to Uyuni Salt Flat on a bus journey of approximately 10 hours.",
+                    "Sleep on the sleeper bus."
+                ]
+            },
+            {
+                "dia": "11",
+                "titulo": "Full Day Tour of Uyuni Salt Flat.",
+                "descripcion": [
+                    "Free time to have breakfast at your own expense.",
+                    "10:30 A.M. Pickup to begin the tour.",
+                    "Visit to the train graveyard, where 19th and 20th-century steam locomotives can be seen, ideal for photographs.",
+                    "Guided visit to the village of Colchani to learn about the salt mining operations of the Rosario Cooperative.",
+                    "Guided visits to the salt piles and salt eyes.",
+                    "Guided visit to the ladder to heaven, a work of art by Bolivian artist Gastón Ugalde.",
+                    "Guided visit to the salt hotel.",
+                    "Visit to the flag square in the Uyuni Salt Flat.",
+                    "Visit to the Dakar monument.",
+                    "Lunch in the middle of the salar and later visit to Incahuasi Island.",
+                    "Photographic sunset, capturing the sky and salt flat hues at dusk, with wine and snacks.",
+                    "Return to La Paz and sleep on the bus."
+                ],
+                "incluye": [
+                    "4x4 transportation.",
+                    "Driver-guide.",
+                    "01 lunch.",
+                    "Photographs and videos.",
+                    "Wine and snacks.",
+                    "Bus Puno - La Paz - Cusco.",
+                    "Bus La Paz - Uyuni Salt Flat - La Paz."
+                ],
+                "noIncluye": [
+                    "Public restrooms.",
+                    "Breakfast and dinner."
+                ]
+            },
+            {
+                "dia": "12",
+                "titulo": "Travel from La Paz - Bolivia to the City of Cusco.",
+                "descripcion": [
+                    "Free time for breakfast.",
+                    "7:40 A.M. Bus departure from La Paz to the city of Cusco, the journey takes approximately 11 hours and 30 minutes.",
+                    "Free time for dinner in the city of Cusco.",
+                    "Overnight at your respective hotel."
+                ]
+            },
+            {
+                "dia": "13",
+                "titulo": "Transfer from the Hotel to the Airport Two Hours Before Your Flight.",
+                "descripcion": [
+                    "6:30 to 9:00 A.M.: Free time for breakfast at the hotel.",
+                    "Free time to rest or engage in other activities, depending on your flight schedule.",
+                    "Transfer from the hotel to the airport two hours before your flight, prior coordination."
+                ]
+            }
+        ],
+        "incluye": [
+            "Pickup and transfer from Cusco Airport",
+            "01 buffet lunch in Urubamba",
+            "01 night in a hotel in Aguas Calientes, Machupicchu",
+            "04 nights in a hotel in the city of Cusco",
+            "02 nights in a hotel in Lima",
+            "01 night in a hotel in Nazca",
+            "01 night in a hotel in Puno",
+            "04 bed bus tickets",
+            "02 breakfasts and 02 lunches on the Rainbow Mountain and Humantay Lagoon route",
+            "01 lunch in Amantani",
+            "01 lunch in Uyuni Salt Flat",
+            "Support poles for the Rainbow Mountain and Humantay Lagoon route",
+            "Flight Cusco-Lima-Cusco (Luggage only 8 kilos)",
+            "Transfer Airport-Hotel-Hotel-Lima-Airport",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Entrance to the Nazca lines and total airport fee of 77 soles",
+            "Hotel in the city of Lima",
+            "Breakfasts, lunches, and dinners not mentioned",
+            "Extra expenses outside the service",
+            "Entrance to hot springs",
+            "Lunch and dinner on the Machupicchu tour",
+            "Bus tickets to Puno"
+        ],
+        "extras": [
+            "Specialized tour guide: Accompaniment by local expert guides in each region",
+            "Private transportation: Comfortable and safe transportation throughout the tour",
+            "Assistance in acclimatization: Tips and recommendations for better adaptation to altitude",
+            "Meal options: Recommendations for local restaurants and culinary options",
+            "Travel insurance: Option to purchase insurance covering eventualities during the tour"
+        ],
+        "queLlevar": [
+            "Physical identity document (DNI - Passport)",
+            "Money in soles for your extra expenses",
+            "Hat or cap for the heat",
+            "Rain poncho",
+            "Warm clothing",
+            "Suitable shoes for the tour",
+            "Change of clothes",
+            "Mosquito repellent",
+            "Sunscreen"
+        ],
+        "importante": [
+            "The tours and activities conducted by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "No name changes or refunds for the entrance ticket to Machupicchu once purchased with the corresponding data of a person.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, protests, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the safety of the traveler and the best overall service delivery. This may be due to access issues to Machupicchu.",
+            "If you wish to leave before the service concludes, there will also be no refund.",
+            "Payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as the itinerary for ticket delivery is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice of the reservation will be issued. The remainder must be paid with the 18% VAT, if you wish for a receipt or invoice."
+        ]
+    }
+}

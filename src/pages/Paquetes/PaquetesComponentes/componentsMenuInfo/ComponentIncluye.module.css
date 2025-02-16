@@ -1,0 +1,34 @@
+.contenedor {
+    display: flex; /* Organiza los elementos en línea horizontal */
+    justify-content: space-between; /* Espaciado uniforme entre los elementos */
+    padding: 20px;
+}
+
+.itemIncluye {
+    background-color: #ffffff; /* Color de fondo de cada item */
+    border: 1px solid #ccc; /* Borde alrededor de cada item */
+    padding: 15px; /* Espaciado interno de cada item */
+    width: 30%;
+}
+.itemNoIncluye {
+    background-color: #ffffff; /* Color de fondo de cada item */
+    border: 1px solid #ccc; /* Borde alrededor de cada item */
+    padding: 15px; /* Espaciado interno de cada item */
+    width: 30%; /* Cada div ocupa el 30% del ancho del contenedor */
+}
+.itemAdicionales {
+    background-color: #ffffff; /* Color de fondo de cada item */
+    border: 1px solid #ccc; /* Borde alrededor de cada item */
+    padding: 15px; /* Espaciado interno de cada item */
+    width: 30%; /* Cada div ocupa el 30% del ancho del contenedor */
+}
+
+.item >h3 {
+    margin: 0 0 10px 0; /* Márgenes del título */
+    font-size: 1.2rem; /* Tamaño del texto del título */
+    color: #333; /* Color del título */
+}
+
+.itemIncluye >li {
+    margin: 0; /* Márgenes del párrafo */
+}

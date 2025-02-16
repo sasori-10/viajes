@@ -1,0 +1,303 @@
+.Descripcion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "poppins", sans-serif;
+}
+
+.DescripcionContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    width: 75%;
+    margin-bottom: 12px;
+}
+
+.DescripcionText>h3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-transform: uppercase;
+    color: #006D3B;
+    font-size: 16px;
+}
+
+.DescripcionText>p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 5px;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+button {
+    width: 260px;
+    padding: 10px;
+    font-size: 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: #683C10;
+    color: white;
+}
+
+.btnReservar {
+    background-color: #F5A700;
+    /* Color más oscuro que #FDC318 */
+    text-align: center;
+    /* El texto está centrado */
+    color: white;
+    font-family: "Outfit", sans-serif;
+    transition: background-color 0.3s ease;
+    /* Transición suave para el cambio de color */
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-weight: 300;
+}
+
+.btnWhatsapp {
+    background-color: #006D3B;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-family: "Outfit", sans-serif;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    /* Separación entre el ícono y el texto */
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.btnWhatsapp span {
+    display: block;
+    /* Hace que el texto se divida en líneas */
+}
+
+.number {
+    font-size: 14px;
+}
+
+.whatsappIcon {
+    font-size: 1.8rem;
+    color: white;
+    /* El icono tendrá color blanco */
+}
+
+.btnEmail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    background-color: #2563EB;
+    letter-spacing: 0.1rem;
+}
+
+.emailIcon {
+    font-size: 1.2rem;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    /* Hereda el color del elemento padre */
+}
+
+/* Pantallas <= 1024px */
+@media (max-width: 1024px) {
+    .DescripcionContent {
+        gap: 10px;
+        /* Reduce el espacio entre elementos */
+        width: 75%;
+    }
+
+    .DescripcionText>h3 {
+        font-size: 14px;
+        /* Disminuye el tamaño del título */
+    }
+
+    .DescripcionText>p {
+        font-size: 12px;
+        /* Reduce el tamaño del texto */
+        line-height: 24px;
+    }
+
+    button {
+        font-size: 12px;
+        /* Tamaño más pequeño en botones */
+        padding: 10px;
+    }
+
+    .btnWhatsapp,
+    .btnReservar,
+    .btnEmail {
+        max-width: 90%;
+        /* Asegura que se ajusten al ancho */
+    }
+
+    .whatsappIcon {
+        font-size: 32px;
+    }
+
+    .buttonContainer {
+        padding: 0;
+    }
+
+    .btnReservar {
+        width: 250px;
+        font-size: 12px;
+        padding: 7px;
+    }
+
+    .btnWhatsapp {
+        width: 250px;
+        font-size: 10px;
+        padding: 5px;
+    }
+
+    .whatsappIcon {
+        font-size: 1.5rem;
+    }
+
+    .number {
+        font-size: 12px;
+    }
+
+    .btnEmail {
+        width: 250px;
+        font-size: 10px;
+        padding: 5px;
+    }
+
+    .emailIcon {
+        font-size: 1.3rem;
+    }
+}
+
+/* Pantallas <= 768px */
+@media (max-width: 768px) {
+    .DescripcionContent {
+        display: flex;
+        gap: 10px;
+        /* Reduce el espacio entre elementos */
+        width: 75%;
+    }
+
+    .DescripcionText>h3 {
+        font-size: 14px;
+        /* Disminuye el tamaño del título */
+    }
+
+    .DescripcionText>p {
+        font-size: 12px;
+        /* Reduce el tamaño del texto */
+        line-height: 24px;
+    }
+
+    button {
+        font-size: 12px;
+        /* Tamaño más pequeño en botones */
+        padding: 10px;
+    }
+
+    .btnWhatsapp,
+    .btnReservar,
+    .btnEmail {
+        max-width: 90%;
+        /* Asegura que se ajusten al ancho */
+    }
+
+    .whatsappIcon {
+        font-size: 32px;
+    }
+
+    .buttonContainer {
+        display: flex;
+        padding: 0;
+        width: 75%;
+        gap: 10px;
+        margin-top: 0;
+        height: 40px;
+    }
+
+    .btnReservar {
+        width: 200px;
+        font-size: 12px;
+        padding: 10px;
+        height: 35px;
+    }
+
+    .btnWhatsapp {
+        width: 200px;
+        font-size: 10px;
+        padding: 10px;
+        height: 35px;
+    }
+
+    .whatsappIcon {
+        display: none;
+    }
+
+    .number {
+        display: none;
+    }
+
+    .btnEmail {
+        width: 200px;
+        font-size: 10px;
+        padding: 10px;
+        height: 35px;
+    }
+
+    .emailIcon {
+        display: none;
+    }
+}
+
+/* Pantallas <= 480px */
+@media (max-width: 480px) {
+    .DescripcionText>h3 {
+        font-size: 22px;
+    }
+
+    .DescripcionText>p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .btnWhatsapp span {
+        font-size: 12px;
+    }
+
+    .whatsappIcon {
+        font-size: 28px;
+    }
+}

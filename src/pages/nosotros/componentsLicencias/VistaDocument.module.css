@@ -1,0 +1,42 @@
+.galleryContainer {
+    display: flex;
+    flex-direction: column; /* Asegura que la imagen y el título estén en columna */
+    justify-content: center;
+    align-items: center; /* Centra la imagen y el título */
+    padding: 20px;
+    width: 100%; /* Asegura que ocupe el ancho completo del contenedor */
+}
+
+.imageWrapper {
+    max-width: 500px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.galleryImage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.galleryImage:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.imageTitle {
+    margin-top: 10px; /* Espacio entre la imagen y el título */
+    font-size: 18px; /* Tamaño del texto */
+    color: #006d3b; /* Color del texto */
+    text-align: center; /* Alineación centrada */
+    font-weight: 700; /* Peso de la fuente */
+    max-width: 100%; /* Máximo ancho disponible */
+    width: auto; /* Ancho automático según el contenido */
+    word-wrap: break-word; /* Permite que las palabras largas se rompan en líneas */
+    overflow-wrap: break-word; /* Para asegurar que el texto largo se ajuste */
+    word-break: break-word; /* Rompe las palabras largas si es necesario */
+    hyphens: auto; /* Activa la división de palabras */
+}

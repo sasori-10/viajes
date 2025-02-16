@@ -1,0 +1,1089 @@
+{
+    "labelMenu": {
+        "resumen": "RESUMEN",
+        "itinerario": "ITINERARIO COMPLETO",
+        "incluye": "INCLUYE",
+        "extras": "EXTRAS",
+        "queLlevar": "¿QUÉ LLEVAR?",
+        "importante": "IMPORTANTE"
+    },
+    "TarapotoClasico": {
+        "seo": {
+            "title": "TARAPOTO CLÁSICO - 4 Días / 3 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Disfruta de un tour completo de 4 días por Tarapoto, explorando la Laguna Azul, las Cataratas de Ahuashiyacu y el pueblo de Lamas. ¡Aventura, naturaleza y cultura te esperan!",
+            "keywords": [
+                "Tarapoto clásico",
+                "tour en Tarapoto",
+                "Laguna Azul",
+                "Cataratas de Ahuashiyacu",
+                "Aventura en Tarapoto",
+                "Lamas",
+                "Baños termales en Tarapoto",
+                "Turismo en Tarapoto",
+                "Turismo de naturaleza",
+                "Cultura de Tarapoto"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/tarapoto-4d-3n",
+            "open_graph": {
+                "title": "Tarapoto Clásico - 4 Días / 3 Noches",
+                "description": "Disfruta de 4 días llenos de aventura en Tarapoto, visitando lugares como la Laguna Azul, las Cataratas de Ahuashiyacu y mucho más. ¡Reserva tu experiencia ahora!",
+                "url": "https://machupicchubyworld.com/tarapoto-4d-3n",
+                "type": "website"
+            }
+        },
+        "title": "TARAPOTO CLÁSICO",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "Disfruta de traslados incluidos y visitas a lugares increíbles como Lamas, Laguna Azul y Ahuashiyacu.",
+            "Guías en español o inglés durante todo el tour.",
+            "Alojamiento con aire acondicionado.",
+            "Incluye desayunos, almuerzos típicos y entradas a los sitios turísticos.",
+            "Traslados y transportes turísticos para todas las actividades."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Tarapoto"
+        },
+        "lugares": "Cataratas de Ahuashiyacu - Tío Yaku (Baños Termales) - Laguna Azul - Lamas (Mirador, Castillo y Pueblo) - Mirador de Tayta Maki - Orquidiario de Moyobamba - Baños Termales de San Mateo",
+        "descripcion": "¡Prepárate para un <strong>tour lleno de aventura y naturaleza</strong>! En <strong>4 días</strong> recorreremos los increíbles paisajes de <strong>Tarapoto</strong> y sus alrededores. Comenzamos con las impresionantes <strong>Cataratas de Ahuashiyacu</strong>, seguimos con un baño relajante en las <strong>aguas termales de Tío Yaku</strong>, y luego nos dirigimos a la mágica <strong>Laguna Azul</strong> para un <strong>paseo en lancha</strong> y <strong>actividades de aventura</strong>. También exploraremos el encantador <strong>pueblo de Lamas</strong>, con sus <strong>miradores</strong> y su <strong>castillo</strong>, y disfrutaremos de la <strong>cultura local</strong>. Cada día está lleno de <strong>vistas espectaculares</strong> y <strong>experiencias únicas</strong> que te dejarán <strong>recuerdos inolvidables</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": "¡Día 1! Arribamos a Tarapoto y nos dirigimos al hotel. Después, ¡comienza la aventura! Primero, nos vamos a Lamas Nativa para disfrutar de su vegetación única. Hacemos una parada en el Mirador Natural de Lamas (¡donde podemos sacar fotos increíbles!), luego exploramos el Castillo de Lamas y terminamos en el barrio Huayco, ¡donde podremos bailar al ritmo local y llevarnos alguna artesanía para recordar este día lleno de magia! El tour finaliza cerca del hotel, ¡y ya es hora de descansar!"
+            },
+            "dia2": {
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": "¡Día 2! Iniciamos el día con un delicioso desayuno en el hotel y luego partimos hacia el puerto López, donde cruzamos el río Huallaga en bote con una vista increíble. Visitamos el Mirador de Tayta Maki, uno de los más impresionantes de la zona, y tendremos tiempo para tomar fotos. Luego, disfrutamos de un almuerzo típico cerca de la Laguna Azul. Por la tarde, navegamos en lancha por la laguna mientras escuchamos la leyenda local, ¡y luego nos lanzamos a las actividades de aventura y el baño en el agua! Al final del día, regresamos al puerto y nos trasladamos al hotel para descansar."
+            },
+            "dia3": {
+                "titulo": "ALTOMAYO - FULL DAY",
+                "descripcion": "¡Día 3! Tras un desayuno en el hotel, partimos hacia Moyobamba para visitar el Orquidiario y disfrutar de una degustación de cafés y helados. Luego, nos dirigimos a Rioja para relajarnos en los baños termales del Tío Yaku y a San Mateo para disfrutar de más aguas termales. Al mediodía, almorzamos platos típicos de la zona. Terminamos el día con una experiencia de elaboración y degustación de café, antes de regresar a Tarapoto para descansar."
+            },
+            "dia4": {
+                "titulo": "CATARATAS DE AHUASHIYACU - FULL DAY",
+                "descripcion": "¡Último día! Comenzamos con un desayuno en el hotel y luego partimos hacia el sur de Tarapoto, disfrutando de la fauna y flora de la región. Visitamos las hermosas Cataratas de Ahuashiyacu, donde tendremos una hora para bañarnos, divertirnos y tomar fotos. Después, regresamos a Tarapoto, donde el tour finaliza alrededor de la 1:00 P.M., y nos dirigimos al hotel para recoger nuestras cosas. Finalmente, realizamos el traslado al aeropuerto, 2 horas antes del vuelo, para finalizar el servicio."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": [
+                    "02:30 AM o 03:20 AM: Recojo del hotel para tour a Machupicchu.",
+                    "A.M o P.M - Sala de embarque en el aeropuerto JORGE CHAVEZ",
+                    "A.M o P.M. - Partida del vuelo ciudad de origen",
+                    "A.M o P.M - Recojo del Aeropuerto al hotel o Recojo del terminal terrestre - Hotel",
+                    "A.M o P.M - Llegada a la ciudad de Tarapoto (Aeropuerto Guillermo del Castillo Paredes)",
+                    "15:00 a 15:30 P.M - Recojo de hotel. Comienza el tour a Lamas Nativa.",
+                    "Durante el tour - A lo largo del viaje podremos apreciar diferentes vegetaciones.",
+                    "Durante el tour - Visita al Mirador Natural de Lamas, donde podremos observar toda la ciudad y la vegetación. Costo del mirador: 2 soles (opcional).",
+                    "Durante el tour - Visita al Castillo de Lamas. Conoceremos uno de los castillos más importantes con explicación del guía.",
+                    "Durante el tour - Visita al barrio Huayco donde se podrá bailar al sonido del instrumento y comprar artesanías apoyando a las comunidades de San Martín.",
+                    "18:30 a 18:50 - Finaliza el tour cerca del hotel, luego los participantes se dirigen por su propia cuenta."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": [
+                    "6:30 a 8:00 A.M - Desayuno en el hotel correspondiente.",
+                    "8:30 a 8:50 A.M - Recojo del hotel.",
+                    "Partimos desde Tarapoto hasta el puerto Lopez, donde cruzaremos en bote hacia la otra parte del río Huallaga, disfrutando de una vista increíble.",
+                    "Visita al Mirador de Tayta Maki, uno de los miradores más impresionantes del río Huallaga. Tendremos tiempo libre para tomar fotos. (Opcional: Otros miradores disponibles por un costo extra de 10 soles).",
+                    "Almuerzo cerca de la Laguna Azul, platos a la carta con un costo promedio de 20 soles (comida típica de la zona).",
+                    "Navegación en lancha en la Laguna Azul, donde el guía compartirá la leyenda local. Tiempo para bañarse y realizar actividades de aventura.",
+                    "Retorno de la Laguna Azul hacia el puerto, luego traslado al hotel correspondiente."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "ALTOMAYO - FULL DAY",
+                "descripcion": [
+                    "6:30 a 8:00 A.M - Desayuno en el hotel correspondiente.",
+                    "9:30 a 10:00 A.M - Recojo del hotel.",
+                    "Partimos desde Tarapoto hacia la ciudad de Moyobamba, donde visitaremos el Orquidiario de la zona. El guía nos dará a conocer la hermosa ciudad, con degustación de cafés y helados.",
+                    "Visita al Tío Yaku - Baños Termales: Nos dirigimos a la ciudad de Rioja, a media hora de Moyobamba, para disfrutar de las aguas termales y aprovechar para tomar fotos.",
+                    "Almuerzo en uno de los restaurantes locales. Disfrutamos de platos a la carta, con un costo promedio de 18 soles (comida típica de la zona).",
+                    "Visita a San Mateo - Baños Termales: Relajamos el cuerpo en las aguas termales de San Mateo, ideales para personas con problemas reumáticos o articulares.",
+                    "Elaboración y degustación de café: Los pobladores locales nos enseñarán todo sobre la producción y preparación del café.",
+                    "7:00 P.M - Retorno a la ciudad de Tarapoto, cerca del hotel, para descansar y cenar por cuenta propia."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "CATARATAS DE AHUASHIYACU",
+                "descripcion": [
+                    "6:30 a 8:00 A.M - Desayuno en el hotel correspondiente.",
+                    "9:30 a 10:00 A.M - Recojo del hotel.",
+                    "Partimos desde Tarapoto hacia el sur, disfrutando de la rica fauna y flora de la región de San Martín.",
+                    "Visita a las Cataratas de Ahuashiyacu: Un lugar increíble para relajarse, donde tendremos aproximadamente 1 hora para bañarnos, divertirnos y tomar fotos.",
+                    "Retorno a Tarapoto: El tour finaliza aproximadamente a las 1:00 P.M., luego nos dirigimos al hotel para sacar las cosas y despedirnos.",
+                    "Traslado hotel-aeropuerto: Después del recorrido, realizamos el traslado al aeropuerto 2 horas antes de su vuelo. Fin de nuestro servicio."
+                ]
+            }
+        ],
+        "incluye": [
+            "Vuelos con aerolíneas: STAR PERU, SKY, Latam y Jet Smart (OPCIONAL), orientado a turistas nacionales o extranjeros con vuelos internacionales e internos en Perú. Si se adquiere con nosotros, se entregará el Check-in de la aerolínea un día antes.",
+            "Traslado - AEROPUERTO - HOTEL - HOTEL - AEROPUERTO.",
+            "Traslado terminal terrestre - hotel - terminal terrestre.",
+            "Boletos turísticos para visitas a Lamas, Laguna Azul, y Altomayo.",
+            "Almuerzo a la carta en Laguna Azul y Altomayo, presupuesto de 18.00 Soles.",
+            "3 desayunos incluidos en el servicio.",
+            "Guía en todos los tours (español/inglés).",
+            "Hotel en Tarapoto según la categoría solicitada.",
+            "Transporte turístico en cada tour.",
+            "Ingreso a los baños termales en Altomayo.",
+            "Hotel con aire acondicionado."
+        ],
+        "noIncluye": [
+            "Almuerzo en el tour de City Tour Lamas (medio día).",
+            "Almuerzo en Ahuashiyacu.",
+            "Cena en los tours (ningún tour incluye cena).",
+            "Gastos extras fuera del servicio.",
+            "Ingreso al Mirador de Lamas: 3 soles (opcional).",
+            "Ingreso a otros miradores: 10 soles (opcional).",
+            "Ingreso a los baños termales de barro: 40 soles (opcional).",
+            "Actividades de aventura con costo extra.",
+            "Ingreso a Laguna Azul: 5 soles (obligatorio)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad (DNI/PASAPORTE vigente).",
+            "Llevar poncho de lluvia (dependiendo de la temporada).",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Tarapoto5dias": {
+        "seo": {
+            "title": "TARAPOTO - 5 Días / 4 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive una aventura única en Tarapoto durante 5 días, visitando Lamas, la Laguna Azul, las Cataratas de Ahuashiyacu y mucho más. ¡Explora la selva y la cultura de la Amazonía peruana!",
+            "keywords": [
+                "Tarapoto 5 días",
+                "tour en Tarapoto",
+                "Laguna Azul",
+                "Cataratas de Ahuashiyacu",
+                "Carpichuyacu",
+                "Lamas",
+                "Cultura amazónica",
+                "Turismo en Tarapoto",
+                "Aventura en la selva",
+                "Turismo de naturaleza"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/tarapoto-5d-4n",
+            "open_graph": {
+                "title": "Tarapoto 5 Días - 5 Días / 4 Noches",
+                "description": "Disfruta de 5 días llenos de aventura en la selva de Tarapoto, visitando la Laguna Azul, la Catarata Ahuashiyacu y mucho más. ¡Reserva tu tour ahora!",
+                "url": "https://machupicchubyworld.com/tarapoto-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "TARAPOTO",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Tour a Lamas, con vistas espectaculares y un castillo único.",
+            "Visita la Laguna Azul con paseos en bote y a caballo.",
+            "Refrescate en la Catarata Ahuashiyacu de 40 metros.",
+            "Caminata a las cascadas de Carpichuyacu y baños termales.",
+            "Traslados cómodos entre el aeropuerto y el hotel."
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Tarapoto"
+        },
+        "lugares": "Ciudad de Lamas, Laguna Azul, Catarata Ahuashiyacu, Cascada de Carpichuyacu (\"Pishurayacu\")",
+        "descripcion": "¡Embárcate en una emocionante aventura de <strong>5 días y 4 noches</strong> en la mágica <strong>selva de Tarapoto</strong>! Explora la encantadora ciudad de <strong>Lamas</strong>, famosa por su <strong>mirador natural</strong> y el icónico <strong>castillo</strong>. Sumérgete en la belleza de la <strong>Laguna Azul</strong>, rodeada de <strong>leyendas</strong>, y maravíllate con la majestuosa <strong>Catarata Ahuashiyacu</strong>, donde podrás disfrutar de un refrescante baño. Además, visitarás la impresionante cascada de <strong>Carpichuyacu (Pishurayacu)</strong>, un verdadero <strong>paraíso natural</strong>. ¡Únete a <strong>Machupicchu By World</strong> y vive la <strong>selva</strong> como nunca antes!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": [
+                    "Explora Lamas, la Capital Folklórica de la Amazonía Peruana, conocida como la Ciudad de los Tres Pisos. Comenzaremos el día en un mirador natural con vistas espectaculares a la comunidad nativa. Luego, visitaremos el Valle del Bajo Mayo para conocer un castillo construido en 2005, un atractivo turístico popular. Después, interactuarás con la comunidad local, aprendiendo sobre sus artesanías y teniendo la oportunidad de comprar recuerdos. Este tour promete diversión y una inmersión en las costumbres de Lamas. Al finalizar, regresarás a Tarapoto para pasar la noche en tu hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": [
+                    "Después de desayunar en el hotel, nuestro transporte recogerá a los pasajeros entre las 8:00 y 8:30 hrs para llevarlos a la Laguna Azul, ubicada a 50 km al sur de Tarapoto. Durante el trayecto, se disfrutará de vistas del río Huallaga desde la embarcación Balsa Cautiva, y se hará una parada en un mirador natural para apreciar el paisaje. Al llegar a Sauce, navegaremos en un bote motor hacia un centro turístico donde se podrán realizar diversas actividades, como un baño en la laguna y paseos a caballo (opcional). Al mediodía, se ofrecerá un almuerzo con productos locales. El tour concluirá por la tarde y esa noche se pasará en Tarapoto."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour a la Catarata Ahuashiyacu",
+                "descripcion": [
+                    "A las 10:00 hrs, después de un desayuno con productos locales, nos dirigiremos a la Catarata Ahuashiyacu, situada a 14 km de Tarapoto. Este atractivo, de 40 metros de altura, es ideal para toda la familia y ofrece un recorrido que resalta la belleza de los bosques de la selva. Al llegar, podrás disfrutar de sus aguas y refrescarte en un pozo. El regreso a la ciudad está programado entre la 1:00 y 1:30 hrs del mediodía, finalizando cerca de la plaza principal, donde podrás degustar la gastronomía local antes de pasar la noche en Tarapoto."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Cascada de Carpichuyacu Pishurayacu",
+                "descripcion": [
+                    "Entre las 09:00 y 9:30 hrs, recogeremos a los pasajeros en su hotel para dirigirnos a un lugar cercano. Comenzaremos una caminata de aproximadamente 40 minutos, cruzando un río en una balsa artesanal. En el camino, disfrutaremos de diversas especies de flora y fauna de la región. La caminata tiene dos etapas que nos llevan a las cascadas de Carpishuyacu, donde podrás disfrutar de un refrescante baño. Después de la visita, regresaremos al centro poblado de San José para disfrutar de baños termales reconocidos por sus propiedades curativas. Este tour es ideal para los amantes de la naturaleza y quienes estén en buen estado físico."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Traslado Hotel - Aeropuerto",
+                "descripcion": [
+                    "Después de disfrutar el ultimo desayuno el transporte hará el respectivo traslado desde el Hotel hasta el Aeropuerto Aeropuerto cadete Guillermo del Castillo. las recomendaciones según el vuelo de cada Aerolínea es estar presente 2 horas antes de su vuelo se hará la respectiva coordinación según a eso realizar el trasladó nuestro tour finalizará por último con el traslado."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tour a la ciudad de Lamas",
+            "Tour a la Laguna Azul",
+            "Tour a la catarata de Ahuashiyacu",
+            "Tour a la cascada de Carpishuyacu",
+            "Ingreso al castillo de Lamas",
+            "Box lunch con productos de la zona en el tour de Carpishiyacu",
+            "Paseo en bote motor Laguna Azul",
+            "Paseo en Caballos",
+            "4 Noches de Hotel",
+            "1 almuerzo a la carta en el tour de Laguna Azul",
+            "4 desayunos en el servicio",
+            "Ingreso a la catarata de Ahuashiyacu",
+            "Traslado Aeropuerto - Hotel - Aeropuerto",
+            "Asistencia Permanente"
+        ],
+        "noIncluye": [
+            "Ingreso al museo Chanca (5 soles) opcional",
+            "Actividades extras fuera del servicio",
+            "Almuerzos no mencionados en el programa",
+            "Cenas no mencionadas en el programa"
+        ],
+        "extras": [
+            "Asistencia personalizada durante el tour: Nuestro equipo estará disponible para resolver tus dudas y asegurar una experiencia cómoda.",
+            "Transporte cómodo y seguro: Contamos con vehículos modernos y conductores profesionales para tu seguridad y confort.",
+            "Guías oficiales y expertos en la región: Nuestros guías certificados te brindarán información valiosa sobre la flora, fauna y cultura local.",
+            "Box lunch con productos locales: Disfruta de un delicioso box lunch con ingredientes frescos de la región durante tus excursiones.",
+            "Actividades extras opcionales: Ofrecemos actividades como paseos a caballo y visitas a museos, para que personalices tu experiencia."
+        ],
+        "queLlevar": [
+            "Llevar zapatos de acuerdo al tour que va a realizar.",
+            "Llevar consigo ropa de acuerdo a la temporada.",
+            "Bloqueador solar.",
+            "Sombrero para los días de sol.",
+            "Medicina y/o artículos de uso personal para la altura e higiene.",
+            "Una mochila o maletín liviano de 20 litros.",
+            "Cámaras fotográficas.",
+            "Dinero extra en moneda nacional.",
+            "Lentes de sol.",
+            "Bolsas plásticas para los desechos que produzca cada uno de ustedes.",
+            "Pasaportes originales o documentos personales (no se aceptan copias)."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Arequipa5dias": {
+        "seo": {
+            "title": "AREQUIPA - 5 Días / 4 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre la magia de Arequipa en un tour de 5 días, con visitas a la Ruta del Sillar, el Valle del Colca, la Laguna de Salinas y mucho más. ¡Una experiencia única de naturaleza y cultura!",
+            "keywords": [
+                "Arequipa 5 días",
+                "Ruta del Sillar",
+                "Valle del Colca",
+                "Laguna de Salinas",
+                "Cóndores",
+                "Turismo en Arequipa",
+                "Aventura Arequipa",
+                "Cultura Wari",
+                "Cañón del Colca",
+                "Volcán Misti",
+                "Turismo de naturaleza"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/arequipa-5d-4n",
+            "open_graph": {
+                "title": "Arequipa 5 Días - 5 Días / 4 Noches",
+                "description": "Vive una aventura de 5 días en Arequipa, explorando la Ruta del Sillar, el Valle del Colca y la Laguna de Salinas. ¡Reserva tu lugar ahora y no te pierdas esta experiencia!",
+                "url": "https://machupicchubyworld.com/arequipa-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "AREQUIPA",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "¡Prepárate para explorar maravillas como la Ruta del Sillar, el imponente Valle del Colca y la mágica Laguna de Salinas!",
+            "Ofrece transporte turístico, guía profesional y asistencia permanente durante todo el viaje.",
+            "Incluye alojamiento en hoteles cómodos y desayunos según el itinerario.",
+            "Combina naturaleza, historia y cultura con actividades como avistamiento de cóndores, flamencos y petroglifos.",
+            "Garantiza traslados organizados desde y hacia el aeropuerto o terminal terrestre."
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Arequipa",
+            "alt2": "Volcan Misti",
+            "alt3": "Ruta del Sillar",
+            "alt4": "Laguna de Salinas",
+            "alt5": "Chivay"
+        },
+        "lugares": "Arequipa - Valle del Colca - Mirador de la Cruz del Cóndor - Laguna de Salinas - Canteras de Sillar.",
+        "descripcion": "¡Prepárate para una <strong>experiencia única</strong> de <strong>5 días y 4 noches</strong> llena de <strong>aventuras</strong> y <strong>paisajes impresionantes</strong>! Este tour te llevará a explorar la histórica <strong>Arequipa</strong> y sus alrededores, comenzando con un recorrido por las <strong>canteras de sillar</strong> y la <strong>Quebrada de Culebrillas</strong>, donde descubrirás la riqueza de la <strong>cultura Wari</strong>. Luego, te adentrarás en el <strong>Valle del Colca</strong>, hogar de los majestuosos <strong>cóndores</strong> y rodeado por montañas imponentes, para disfrutar de sus <strong>aguas termales</strong> y <strong>vistas panorámicas</strong>. En el cuarto día, conocerás la fascinante <strong>Laguna de Salinas</strong>, con su <strong>belleza natural</strong>, flamencos y la oportunidad de relajarte en las <strong>aguas termales</strong>. Con una <strong>guía experta</strong>, <strong>transporte cómodo</strong> y <strong>alojamientos cuidadosamente seleccionados</strong>, este tour es perfecto para aquellos que buscan una <strong>experiencia completa</strong> de Arequipa. ¡Una <strong>aventura</strong> que no querrás perderte!",
+        "resumen": {
+            "dia1": {
+                "titulo": "TOUR A LA RUTA DEL SILLAR",
+                "descripcion": "En el Día 1, el Tour a la Ruta del Sillar te lleva a descubrir los volcanes Misti, Chachani y Pichupichu desde el Mirador, explorar la Cantera de Añashuayco cortando sillar como un maestro, caminar por la Quebrada de Culebrillas entre petroglifos Wari y admirar las mágicas Apachetas. ¡Una aventura llena de historia y paisajes únicos!"
+            },
+            "dia2": {
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": "En el Día 2, iniciamos el viaje hacia uno de los cañones más profundos del mundo, partiendo desde el hotel hacia Pampa Cañahuas, donde podrás admirar los camélidos sudamericanos y tomar fotos. Continuamos por los bofedales de Tocra, donde veremos aves migratorias, y pasamos por el cráter del volcán extinto Chucura. En el mirador de los volcanes, a 4,800 m.s.n.m., disfrutarás de una vista impresionante de la cordillera occidental. Al llegar a Chivay, instalamos en el hotel y, por la tarde, tendrás tiempo para relajarte en los baños termales del Colca. Finalmente, podrás disfrutar de una cena con show folclórico antes de pernoctar en Chivay."
+            },
+            "dia3": {
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR /CHIVAY / AREQUIPA.",
+                "descripcion": "En el Día 3, después del desayuno, nos dirigimos al mirador de la Cruz del Cóndor para disfrutar del impresionante cañón y el vuelo del cóndor. En el regreso, visitaremos los pueblos de Pinchollo, Maca y Yanque, con sus iglesias coloniales, y los miradores de Choquetico y Antahuilque, donde veremos la andenería del valle y las tumbas preincaicas. Luego de un almuerzo (no incluido), partimos de regreso a Arequipa, con llegada entre las 16:00 y 17:00 p.m."
+            },
+            "dia4": {
+                "titulo": "FULL DAY A LA LAGUNA DE SALINAS ",
+                "descripcion": "El Día 4 comienza con el recojo del hotel y un desayuno en el Mirador Alto Simbral, donde se pueden observar volcanes. Se realizará un recorrido con avistamiento de vicuñas y flamencos, caminatas en la Laguna de Salinas, y visitas al pueblo de Moche y el Salar. También se explorarán las aguas termales de Lojen (opcional), el mini volcán de Lojen y la Represa de Uzuña, con actividades como paseos en bote y pesca. El regreso a Arequipa será alrededor de las 5:30 pm."
+            },
+            "dia5": {
+                "titulo": "TRASLADOS DEL HOTEL - AEROPUERTO",
+                "descripcion": "En el último día, disfrutarás de un desayuno, tiempo para visitar la Plaza Principal y comprar recuerdos, y luego te despedirás del personal de la agencia. El traslado al aeropuerto o terminal será 2 horas antes para vuelos nacionales y 3 para internacionales, con la opción de un tour si el vuelo se retrasa."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "TOUR A LA RUTA DEL SILLAR",
+                "descripcion": [
+                    "A.M o P.M Sala de embarque en el aeropuerto JORGE CHAVEZ",
+                    "A.M o P.M. Partida del vuelo ciudad de AREQUIPA",
+                    "A.M o P.M Recojo del Aeropuerto al hotel",
+                    "A.M o P.M Recojo del terminal terrestre - Hotel",
+                    "A.M o P.M Llegada a la ciudad de Arequipa (Aeropuerto Internacional Rodríguez Ballón)",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS: Bienvenidos a la ciudad de AREQUIPA</strong>",
+                    "Nuestros Hoteles. Check in 11:00 A.M. check out 09:00 A.M.",
+                    "Explicación detallada del itinerario",
+                    "<strong>TOUR A LA RUTA DEL SILLAR</strong>",
+                    "08:40 a 08:50 A.M: Dentro de este rango de horario se realizará el recojo para el turno de la mañana.",
+                    "13:40 a 13:50 P.M: Recojo del hotel o de la plaza de Arequipa para el tour de la tarde.",
+                    "Visita al Mirador de Volcanes para apreciar los volcanes Misti, Chachani y Pichupichu.",
+                    "Primera parada en la Cantera de Añashuayco, donde se explica la historia y elaboración del sillar. Los visitantes pueden experimentar el corte de piedra.",
+                    "Visita a la Quebrada de Culebrillas, la caminata será de 20 minutos y observaremos los petroglifos de la cultura Wari.",
+                    "Antes de retornar a la ciudad de Arequipa, observación de las Apachetas, formaciones de piedra.",
+                    "12:30 P.M: Retorno a la Ciudad de Arequipa.",
+                    "13:15 P.M: Llegada al centro histórico de Arequipa en el turno de la mañana.",
+                    "18:15 P.M: Llegada al centro histórico de Arequipa si se realiza el tour en el horario de la tarde."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": [
+                    "7:30 a 8:00 A.M: Recojo de su respectivo hotel para iniciar nuestro viaje a uno de los cañones más profundos del mundo.",
+                    "Tomamos la carretera de Yura, bordeando el nevado Chachani hacia Pampa Cañahuas (Reserva Nacional de Aguada Blanca y Salinas), hábitat de los bellos camélidos sudamericanos, donde podrá apreciar y tomar fotos.",
+                    "En los bofedales de Tocra, apreciaremos una gran variedad de aves migratorias.",
+                    "Pasaremos por el cráter de un volcán extinto (Chucura).",
+                    "Nos detendremos en el mirador de los volcanes, la zona más alta del camino (4,800 m.s.n.m.), donde apreciaremos gran parte de la cordillera occidental.",
+                    "13:30 a 14:00 horas aprox.: Arribo a Chivay e instalación en el hotel. Almuerzo (no incluido).",
+                    "17:00 horas: Por la tarde disfrutaremos de los baños termales del Colca, cuyas aguas termo medicinales oscilan entre 35° a 38° grados centígrados en las piscinas (ingreso 15.00 soles por persona).",
+                    "20:00 horas: Cena acompañada de un show folclórico (no incluido, opcional).",
+                    "Pernocte en Chivay Colca."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR /CHIVAY / AREQUIPA.",
+                "descripcion": [
+                    "06:00 a.m: Desayuno en nuestro hotel.",
+                    "06:30 a.m: Nos dirigiremos al mirador de la Cruz del Cóndor, punto estratégico para observar el cañón y el vuelo del cóndor.",
+                    "De retorno, realizaremos una parada en los pueblos de Pinchollo, Maca y Yanque, que cuentan con bellas iglesias coloniales.",
+                    "También visitaremos los miradores de Choquetico y Antahuilque, donde visualizaremos la impresionante andenería del valle, las tumbas y maquetas preincas.",
+                    "Almuerzo (no incluido).",
+                    "13:00 p.m: Retorno a la ciudad de Arequipa, llegando entre las 16:00 y 17:00 p.m.",
+                    "Arribo a la ciudad de Arequipa."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "FULL DAY A LA LAGUNA DE SALINAS",
+                "descripcion": [
+                    "6:00 am a 6:30 am: Recojo de su hotel.",
+                    "Primera parada en el Mirador Alto Simbral para el desayuno matutino y para observar los volcanes.",
+                    "<strong>Actividades del recorrido incluyen:</strong>",
+                    "  - Avistamiento de vicuñas.",
+                    "  - Caminata en la Laguna de Salinas.",
+                    "  - Avistamiento de flamencos.",
+                    "  - Pueblo de Moche y Salar (conocido como el Uyuni Arequipeño).",
+                    "  - Observación de llamas y alpacas.",
+                    "  - Visita al Mini volcán de Lojen.",
+                    "  - Aguas termales de Lojen (ingreso 08.00 soles por persona).",
+                    "  - Búsqueda de los espejos de agua en las lagunas de Salinas.",
+                    "  - Represa de Uzuña, donde podrán realizar paseo en bote, kayak, pesca y otras actividades.",
+                    "Almuerzo (no incluido).",
+                    "Retorno al centro histórico de Arequipa alrededor de las 5:30 pm."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "TRASLADOS DEL HOTEL - AEROPUERTO",
+                "descripcion": [
+                    "A.M: Desayuno en su respectivo hotel.",
+                    "Después, puede aprovechar para visitar la Plaza Principal para tomarse las fotos y comprar recuerdos.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si su vuelo sale tarde, puede aprovechar para cenar y esperar en la recepción del hotel.",
+                    "Recojo del hotel al aeropuerto: Si son vuelos nacionales, se realizará 2 horas antes; si son vuelos internacionales, 3 horas antes del viaje.",
+                    "Si el vuelo sale tarde, tiene la opción de realizar un tour."
+                ]
+            }
+        ],
+        "incluye": [
+            "Traslado - Aeropuerto o Terminal - Hotel - Aeropuerto o terminal terrestre.",
+            "Transporte turístico.",
+            "Guía profesional turístico.",
+            "03 noches de hotel en la ciudad de AREQUIPA (según la categoría solicitada).",
+            "01 noche de alojamiento (en el tour al Valle del Colca).",
+            "01 desayuno (en el tour al Valle del Colca).",
+            "3 desayunos en el Servicio.",
+            "Tickets de ingreso a las canteras de sillar y a Culebrillas.",
+            "Ingreso a las salinas de Arequipa.",
+            "Boleto de ingreso al Valle del Colca.",
+            "Asistencia permanente."
+        ],
+        "noIncluye": [
+            "Gastos extras fuera del servicio.",
+            "Almuerzos y cenas no mencionadas.",
+            "Cena con show folclórico en CHIVAY.",
+            "Ingreso a los baños termales de Colca 15 soles.",
+            "Desayuno y almuerzo en el tour a la Laguna de Salinas.",
+            "Ingreso a las aguas termales 10 Soles en el tour a la Laguna de Salinas.",
+            "Botellas de agua y snacks (costo adicional)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización)."
+        ],
+        "queLlevar": [
+            "Documento de identidad (DNI o pasaporte).",
+            "Dinero en soles para gastos extras.",
+            "Sombrero o gorra para el calor.",
+            "Muda de ropa de baño y sandalias.",
+            "Ropa abrigadora.",
+            "Zapatillas adecuadas para el tour."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Arequipa6dias": {
+        "seo": {
+            "title": "AREQUIPA - 6 Días / 5 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre Arequipa en un tour de 6 días, explorando la Ruta del Sillar, el Valle del Colca, la Laguna de Salinas y las Cataratas de Pillones. ¡Una aventura que te llevará por paisajes impresionantes y cultura ancestral!",
+            "keywords": [
+                "Arequipa 6 días",
+                "Ruta del Sillar",
+                "Cataratas de Pillones",
+                "Laguna de Salinas",
+                "Cóndores",
+                "Cañón del Colca",
+                "Bosque de Piedras",
+                "Turismo en Arequipa",
+                "Aventura Arequipa",
+                "Turismo de naturaleza"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/arequipa-6d-5n",
+            "open_graph": {
+                "title": "Arequipa 6 Días - 6 Días / 5 Noches",
+                "description": "Explora Arequipa durante 6 días con un tour que incluye la Ruta del Sillar, el Cañón del Colca, las Cataratas de Pillones y mucho más. ¡Reserva ahora tu lugar para esta aventura única!",
+                "url": "https://machupicchubyworld.com/arequipa-6d-5n",
+                "type": "website"
+            }
+        },
+        "title": "AREQUIPA",
+        "day": "6 Días / 5 Noches",
+        "puntosClave": [
+            "Explora la Ruta del Sillar, cortando sillar y disfrutando vistas volcánicas.",
+            "Cruza el Cañón del Colca, visitando miradores y pueblos coloniales.",
+            "Relájate en las termas de Chivay y disfruta de un show folclórico.",
+            "Visita la Laguna de Salinas y avista vicuñas y flamencos.",
+            "Aventúrate en el Bosque de Piedras y las Cataratas de Pillones."
+        ],
+        "details": {
+            "duracion": "6 Días / 5 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Arequipa",
+            "alt2": "Ruta del Sillar",
+            "alt3": "Arequipa",
+            "alt4": "Chivay",
+            "alt5": "Laguna de Salinas",
+            "alt6": "Catarata de Pillones"
+        },
+        "lugares": "Mirador de Volcanes - Valle del Colca - Mirador de la Cruz del Cóndor - Salinas de Arequipa - Catarata de Pillones",
+        "descripcion": "¡Vive una <strong>aventura única</strong> en <strong>6 días</strong>! Disfruta de un recorrido por el <strong>Mirador de Volcanes</strong>, la <strong>Cantera de Añashuayco</strong> y la <strong>Quebrada de Culebrillas</strong> con sus petroglifos. Explora el <strong>Valle del Colca</strong>, relájate en <strong>baños termales</strong> y observa cóndores en la <strong>Cruz del Cóndor</strong>. Recorre las <strong>Salinas de Arequipa</strong>, avistando <strong>vicuñas</strong> y <strong>flamencos</strong>, y visita la <strong>Laguna de Salinas</strong>. Termina tu aventura con el <strong>Bosque de Piedras</strong> y la <strong>Catarata de Pillones</strong>, todo con <strong>transporte</strong>, <strong>alojamiento</strong>, <strong>desayunos</strong> y <strong>asistencia permanente</strong> para que solo disfrutes.",
+        "resumen": {
+            "dia1": {
+                "titulo": "TOUR A LA RUTA DEL SILLAR",
+                "descripcion": "En el Día 1, el Tour a la Ruta del Sillar te lleva a descubrir los volcanes Misti, Chachani y Pichupichu desde el Mirador, explorar la Cantera de Añashuayco cortando sillar como un maestro, caminar por la Quebrada de Culebrillas entre petroglifos Wari y admirar las mágicas Apachetas. ¡Una aventura llena de historia y paisajes únicos!"
+            },
+            "dia2": {
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": "En el Día 2, iniciamos el viaje hacia uno de los cañones más profundos del mundo, partiendo desde el hotel hacia Pampa Cañahuas, donde podrás admirar los camélidos sudamericanos y tomar fotos. Continuamos por los bofedales de Tocra, donde veremos aves migratorias, y pasamos por el cráter del volcán extinto Chucura. En el mirador de los volcanes, a 4,800 m.s.n.m., disfrutarás de una vista impresionante de la cordillera occidental. Al llegar a Chivay, instalamos en el hotel y, por la tarde, tendrás tiempo para relajarte en los baños termales del Colca. Finalmente, podrás disfrutar de una cena con show folclórico antes de pernoctar en Chivay."
+            },
+            "dia3": {
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR /CHIVAY / AREQUIPA.",
+                "descripcion": "En el Día 3, después del desayuno, nos dirigimos al mirador de la Cruz del Cóndor para disfrutar del impresionante cañón y el vuelo del cóndor. En el regreso, visitaremos los pueblos de Pinchollo, Maca y Yanque, con sus iglesias coloniales, y los miradores de Choquetico y Antahuilque, donde veremos la andenería del valle y las tumbas preincaicas. Luego de un almuerzo (no incluido), partimos de regreso a Arequipa, con llegada entre las 16:00 y 17:00 p.m."
+            },
+            "dia4": {
+                "titulo": "FULL DAY A LA LAGUNA DE SALINAS ",
+                "descripcion": "El Día 4 comienza con el recojo del hotel y un desayuno en el Mirador Alto Simbral, donde se pueden observar volcanes. Se realizará un recorrido con avistamiento de vicuñas y flamencos, caminatas en la Laguna de Salinas, y visitas al pueblo de Moche y el Salar. También se explorarán las aguas termales de Lojen (opcional), el mini volcán de Lojen y la Represa de Uzuña, con actividades como paseos en bote y pesca. El regreso a Arequipa será alrededor de las 5:30 pm."
+            },
+            "dia5": {
+                "titulo": "FULL DAY A LA CATARATA DE PILLONES",
+                "descripcion": "El Día 5 empieza temprano con una parada para compras y un mate inca en Patahuasi. Exploramos el Bosque de Piedras con sus formaciones únicas y visitamos las Cataratas de Pillones, donde se puede disfrutar del paisaje. Retornamos a Arequipa por la tarde."
+            },
+            "dia6": {
+                "titulo": "TRASLADOS DEL HOTEL - AEROPUERTO",
+                "descripcion": "En el último día, disfrutarás de un desayuno, tiempo para visitar la Plaza Principal y comprar recuerdos, y luego te despedirás del personal de la agencia. El traslado al aeropuerto o terminal será 2 horas antes para vuelos nacionales y 3 para internacionales, con la opción de un tour si el vuelo se retrasa."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "TOUR A LA RUTA DEL SILLAR",
+                "descripcion": [
+                    "A.M o P.M Sala de embarque en el aeropuerto JORGE CHAVEZ",
+                    "A.M o P.M. Partida del vuelo ciudad de AREQUIPA",
+                    "A.M o P.M Recojo del Aeropuerto al hotel",
+                    "A.M o P.M Recojo del terminal terrestre - Hotel",
+                    "A.M o P.M Llegada a la ciudad de Arequipa (Aeropuerto Internacional Rodríguez Ballón)",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS: Bienvenidos a la ciudad de AREQUIPA</strong>",
+                    "Nuestros Hoteles. Check in 11:00 A.M. check out 09:00 A.M.",
+                    "Explicación detallada del itinerario",
+                    "<strong>TOUR A LA RUTA DEL SILLAR</strong>",
+                    "08:40 a 08:50 A.M: Dentro de este rango de horario se realizará el recojo para el turno de la mañana.",
+                    "13:40 a 13:50 P.M: Recojo del hotel o de la plaza de Arequipa para el tour de la tarde.",
+                    "Visita al Mirador de Volcanes para apreciar los volcanes Misti, Chachani y Pichupichu.",
+                    "Primera parada en la Cantera de Añashuayco, donde se explica la historia y elaboración del sillar. Los visitantes pueden experimentar el corte de piedra.",
+                    "Visita a la Quebrada de Culebrillas, la caminata será de 20 minutos y observaremos los petroglifos de la cultura Wari.",
+                    "Antes de retornar a la ciudad de Arequipa, observación de las Apachetas, formaciones de piedra.",
+                    "12:30 P.M: Retorno a la Ciudad de Arequipa.",
+                    "13:15 P.M: Llegada al centro histórico de Arequipa en el turno de la mañana.",
+                    "18:15 P.M: Llegada al centro histórico de Arequipa si se realiza el tour en el horario de la tarde."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": [
+                    "7:30 a 8:00 A.M: Recojo de su respectivo hotel para iniciar nuestro viaje a uno de los cañones más profundos del mundo.",
+                    "Tomamos la carretera de Yura, bordeando el nevado Chachani hacia Pampa Cañahuas (Reserva Nacional de Aguada Blanca y Salinas), hábitat de los bellos camélidos sudamericanos, donde podrá apreciar y tomar fotos.",
+                    "En los bofedales de Tocra, apreciaremos una gran variedad de aves migratorias.",
+                    "Pasaremos por el cráter de un volcán extinto (Chucura).",
+                    "Nos detendremos en el mirador de los volcanes, la zona más alta del camino (4,800 m.s.n.m.), donde apreciaremos gran parte de la cordillera occidental.",
+                    "13:30 a 14:00 horas aprox.: Arribo a Chivay e instalación en el hotel. Almuerzo (no incluido).",
+                    "17:00 horas: Por la tarde disfrutaremos de los baños termales del Colca, cuyas aguas termo medicinales oscilan entre 35° a 38° grados centígrados en las piscinas (ingreso 15.00 soles por persona).",
+                    "20:00 horas: Cena acompañada de un show folclórico (no incluido, opcional).",
+                    "Pernocte en Chivay Colca."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR /CHIVAY / AREQUIPA.",
+                "descripcion": [
+                    "06:00 a.m: Desayuno en nuestro hotel.",
+                    "06:30 a.m: Nos dirigiremos al mirador de la Cruz del Cóndor, punto estratégico para observar el cañón y el vuelo del cóndor.",
+                    "De retorno, realizaremos una parada en los pueblos de Pinchollo, Maca y Yanque, que cuentan con bellas iglesias coloniales.",
+                    "También visitaremos los miradores de Choquetico y Antahuilque, donde visualizaremos la impresionante andenería del valle, las tumbas y maquetas preincas.",
+                    "Almuerzo (no incluido).",
+                    "13:00 p.m: Retorno a la ciudad de Arequipa, llegando entre las 16:00 y 17:00 p.m.",
+                    "Arribo a la ciudad de Arequipa."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "FULL DAY A LA LAGUNA DE SALINAS",
+                "descripcion": [
+                    "6:00 am a 6:30 am: Recojo de su hotel.",
+                    "Primera parada en el Mirador Alto Simbral para el desayuno matutino y para observar los volcanes.",
+                    "<strong>Actividades del recorrido incluyen:</strong>",
+                    "  - Avistamiento de vicuñas.",
+                    "  - Caminata en la Laguna de Salinas.",
+                    "  - Avistamiento de flamencos.",
+                    "  - Pueblo de Moche y Salar (conocido como el Uyuni Arequipeño).",
+                    "  - Observación de llamas y alpacas.",
+                    "  - Visita al Mini volcán de Lojen.",
+                    "  - Aguas termales de Lojen (ingreso 08.00 soles por persona).",
+                    "  - Búsqueda de los espejos de agua en las lagunas de Salinas.",
+                    "  - Represa de Uzuña, donde podrán realizar paseo en bote, kayak, pesca y otras actividades.",
+                    "Almuerzo (no incluido).",
+                    "Retorno al centro histórico de Arequipa alrededor de las 5:30 pm."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "FULL DAY A LA CATARATA DE PILLONES",
+                "descripcion": [
+                    "06.00 a. m. Recojo del hotel para realizar el tour.",
+                    "06:30 a. m. realizaremos nuestra primera parada en el distrito de Zamacola para que puedan hacer sus últimas compras.",
+                    "El primer punto que visitaremos es el pueblo de pampa de arrieros y su estación antigua de tren, hacemos una parada en la Reserva Nacional Salinas y Aguada Blanca para la observacion de vicunas y en el sector de Patahuasi para que puedan tomar un mate inca o comer.",
+                    "10:15 a. m. Nos dirigiremos hacia el bosque de piedras, hacemos una parada en el mirador Carlitos para la vista de los volcanes de Arequipa.",
+                    "Iniciaremos la caminata de aproximadamente 40 minutos en el bosque de piedras, disfrutando el paisaje que no tiene comparación, el bosque de piedras es un lugar natural con extrañas formaciones rocosas y columnas petreas, donde tu imaginación y la diversión no tendrán límites, podran tomarse fotos.",
+                    "Continuando el recorrido en carro llegamos al centro poblado de Pillones donde se encuentra la catarata de Pillones.",
+                    "Al llegar a las cataratas podran observar rocas moldeadas por la erosion del agua, pueden descender hasta la catarata con cuidado, una vez allí podras tomarte fotos y disfrutar del paisaje, la naturaleza.",
+                    "16:30 a 17:00 p.m Dentro de este rango de horario estaremos retornando a la ciudad de Arequipa."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "TRASLADOS DEL HOTEL - AEROPUERTO",
+                "descripcion": [
+                    "A.M: Desayuno en su respectivo hotel.",
+                    "Después, puede aprovechar para visitar la Plaza Principal para tomarse las fotos y comprar recuerdos.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si su vuelo sale tarde, puede aprovechar para cenar y esperar en la recepción del hotel.",
+                    "Recojo del hotel al aeropuerto: Si son vuelos nacionales, se realizará 2 horas antes; si son vuelos internacionales, 3 horas antes del viaje.",
+                    "Si el vuelo sale tarde, tiene la opción de realizar un tour."
+                ]
+            }
+        ],
+        "incluye": [
+            "Traslado – Aeropuerto o Terminal",
+            "Hotel – Aeropuerto o terminal terrestre",
+            "Transporte turístico",
+            "Guía profesional turístico",
+            "04 noches de hotel en la ciudad de AREQUIPA (según la categoría solicitada)",
+            "01 noche de alojamiento (en el tour al Valle del Colca)",
+            "01 desayuno (en el tour al Valle del Colca)",
+            "5 desayunos en el servicio",
+            "Tickets de ingreso a las canteras de sillar y a Culebrillas",
+            "Ingreso a las salinas",
+            "Tickets de ingreso a la catarata de Pillones",
+            "Boleto de ingreso al Valle del Colca",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Gastos extras fuera del servicio.",
+            "Almuerzos y cenas no mencionadas.",
+            "Cena con show folclórico en CHIVAY.",
+            "Ingreso a los baños termales de Colca 15 soles.",
+            "Desayuno y almuerzo en el tour a la Laguna de Salinas.",
+            "Ingreso a las aguas termales 10 Soles en el tour a la Laguna de Salinas.",
+            "Botellas de agua y snacks (costo adicional)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización)."
+        ],
+        "queLlevar": [
+            "Documento de identidad (DNI o pasaporte).",
+            "Dinero en soles para gastos extras.",
+            "Sombrero o gorra para el calor.",
+            "Muda de ropa de baño y sandalias.",
+            "Ropa abrigadora.",
+            "Zapatillas adecuadas para el tour."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "PunoMagico": {
+        "seo": {
+            "title": "PUNO MÁGICO - 4 Días / 3 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre el mágico Puno en un tour de 4 días, navegando por el Lago Titicaca, explorando las Islas Uros, Amantaní y Taquile, y viviendo una experiencia cultural única con una familia local.",
+            "keywords": [
+                "Puno Mágico",
+                "Lago Titicaca",
+                "Islas Uros",
+                "Isla de Amantaní",
+                "Isla de Taquile",
+                "Chullpas de Sillustani",
+                "Turismo en Puno",
+                "Cultura local",
+                "Viaje a Puno",
+                "Aventura en Puno"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/puno-magico",
+            "open_graph": {
+                "title": "Puno Mágico - 4 Días / 3 Noches",
+                "description": "Vive la magia de Puno con este tour de 4 días, navegando por el Lago Titicaca, explorando las Islas Uros, Amantaní y Taquile, y viviendo una experiencia cultural única. ¡Reserva ahora tu aventura!",
+                "url": "https://machupicchubyworld.com/puno-magico",
+                "type": "website"
+            }
+        },
+        "title": "PUNO MÁGICO",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "Navega por el Lago Titicaca y explora las Islas Uros, Amantaní y Taquile.",
+            "Visita las Chullpas de Sillustani y disfruta de vistas impresionantes del lago.",
+            "Pasa una noche en una casa familiar en Amantaní, viviendo la cultura local.",
+            "Guía profesional bilingüe para ofrecerte información detallada durante el tour.",
+            "Incluye traslados y asistencia 24/7 a través de WhatsApp para tu tranquilidad."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Lago Titicaca",
+            "alt2": "Sillustani",
+            "alt3": "Isla de Uros",
+            "alt4": "Isla de Taquile",
+            "alt5": "Isla de Taquile"
+        },
+        "lugares": "Sillustani - Lago Titicaca - Isla de Uros - Isla de Amantaní - Isla de Taquile.",
+        "descripcion": "¡Prepárate para una <strong>aventura épica</strong> en <strong>Puno</strong>! Comienza explorando las misteriosas <strong>Chullpas de Sillustani</strong>, donde las vistas del <strong>Lago Titicaca</strong> te dejarán sin aliento. Luego, navega por el majestuoso <strong>Lago Titicaca</strong> hasta las <strong>islas flotantes de Uros</strong>, donde aprenderás sobre sus fascinantes casas de <strong>totora</strong>. Continúa hacia la encantadora <strong>Isla de Amantaní</strong> para una experiencia auténtica con una familia local. Al día siguiente, descubre la <strong>Isla de Taquile</strong>, famosa por sus <strong>textiles</strong> y tradiciones ancestrales. Finalmente, regresa a <strong>Puno</strong> con recuerdos inolvidables y una sonrisa en el rostro. ¡Este tour es una mezcla perfecta de <strong>cultura</strong>, <strong>naturaleza</strong> y <strong>diversión</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "LIMA - JULIACA - SILLUSTANI",
+                "descripcion": "¡Día 1! Llegada a Puno, check-in y descanso. A las 13:50 hrs, tour a las Chullpas de Sillustani, con vistas al Lago Titicaca. Regreso a Puno a las 17:00 hrs, tiempo libre para explorar."
+            },
+            "dia2": {
+                "titulo": "LAGO TITICACA - UROS AMANTANI",
+                "descripcion": "¡Día 2 de aventura! Desayuno, visita a la Isla de Uros para explorar sus casas flotantes y navegar en balsas. Luego, llegada a la Isla de Amantaní, almuerzo típico y noche con una familia local."
+            },
+            "dia3": {
+                "titulo": "ISLA AMANTANI- TAQUILE PUNO",
+                "descripcion": "El Día 3 comienza con un  desayuno local y viaje en lancha a la Isla Taquile, con bienvenida, presentación cultural y música tradicional. Almuerzo con trucha y regreso a Puno a las 17:00 hrs para descansar en el hotel."
+            },
+            "dia4": {
+                "titulo": "PUNO- LIMA",
+                "descripcion": "El último día, después del desayuno y traslado a Juliaca, seguido de transporte al aeropuerto con 3 horas de anticipación al vuelo, finalizando el recorrido en Puno."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arribo a la Ciudad de Juliaca - Puno - Tour a Sillustani.",
+                "descripcion": [
+                    "Al llegar a Juliaca o Puno, los recibiremos y llevaremos a su hotel.",
+                    "Después del check-in (12:00 hrs), tendrán un breve descanso.",
+                    "Entre las 13:50 y 14:10 hrs, iniciaremos el tour hacia las impresionantes Chullpas de Sillustani. Durante el trayecto, disfrutarán de vistas del Lago Titicaca mientras el guía les comparte datos interesantes sobre Puno.",
+                    "A.M. En Sillustani, explorarán las Chullpas del Lagarto y la hermosa laguna Umayo.",
+                    "También visitarán la comunidad de Hatun Qolla, famosa por sus artesanías de barro.",
+                    "Regresaremos a Puno alrededor de las 17:00 hrs, con tiempo libre para disfrutar la ciudad.",
+                    "Noche de hotel en Puno"
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour a la Isla de Uros y Amantaní",
+                "descripcion": [
+                    "Entre las 06:00 y 06:40 hrs, disfrutaremos de un desayuno en el hotel, o recibiremos un box lunch con productos locales.",
+                    "A las 07:00 A.M. partiremos hacia el puerto de Puno para comenzar la aventura.",
+                    "Navegaremos por el Lago Titicaca hacia la Isla de Uros, donde los habitantes nos mostrarán cómo construyen sus casas y cómo es su vida diaria.",
+                    "Podrán vestirse con trajes típicos o dar un paseo en su famosa embarcación de totora, el 'Mercedes Benz' (costo de 15 a 20 soles).",
+                    "Después, continuaremos hacia la Isla de Amantaní, donde una familia local nos recibirá con un almuerzo típico.",
+                    "Durante la tarde, conoceremos más sobre sus costumbres y arquitectura.",
+                    "Por la noche, compartiremos una cena local y pasaremos la noche en una casa de la familia anfitriona."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour a la Isla Taquile",
+                "descripcion": [
+                    "Entre las 06:30 y 07:30 hrs, la familia anfitriona les preparará un delicioso desayuno local.",
+                    "Luego, tomaremos la lancha hacia la Isla Taquile, conocida por preservar sus antiguas tradiciones.",
+                    "El presidente de la comunidad nos dará la bienvenida, y en la plaza de Taquile, disfrutaremos de una presentación cultural, especialmente de su famosa textilería.",
+                    "Durante el recorrido, escucharán música tradicional con tambores y zampoñas.",
+                    "Después, subiremos por el puerto Chullano y almorzaremos en un restaurante local, donde podrán probar platos típicos como la trucha.",
+                    "Tras el almuerzo, regresaremos en lancha a Puno, llegando aproximadamente a las 17:00 hrs para descansar en el hotel."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Traslado al Aeropuerto Manco Capac \"Juliaca\"",
+                "descripcion": [
+                    "Luego de tomar nuestro desayuno en el Hotel, nuestro transporte realizará el respectivo traslado desde la ciudad de Puno a la ciudad de Juliaca.",
+                    "El tiempo aproximado de este viaje es de 30 minutos.",
+                    "Para el traslado al Aeropuerto se dará 3 horas antes de que salga el vuelo.",
+                    "Nuestro recorrido por la ciudad de Puno finaliza en el Aeropuerto."
+                ]
+            }
+        ],
+        "incluye": [
+            "En caso el pasajero esté solicitando vuelos con nosotros, contamos con las aerolíneas: Sky, Latam y Jet Smart (OPCIONAL) orientado a turistas nacionales o extranjeros con vuelos internacionales e internos en Perú.",
+            "Si adquiere vuelos con nosotros, se le entregará un día antes el Check-in de la aerolínea.",
+            "Tour a Sillustani.",
+            "Tour Urus, Amantaní, Taquile.",
+            "Excursión a Chucuito.",
+            "Transporte turístico.",
+            "Entrada a atractivos turísticos.",
+            "Embarcaciones en Urus, Amantani, Taquile.",
+            "Guía profesional en español, inglés.",
+            "2 noches de hotel en Puno.",
+            "1 noche en una de las casas familiares en Amantaní.",
+            "Transporte Juliaca-Puno-Juliaca.",
+            "2 desayunos en el servicio.",
+            "1 almuerzo.",
+            "1 cena.",
+            "Traslado – Aeropuerto o Terminal – Hotel – Aeropuerto o terminal terrestre.",
+            "Ingreso a Urus.",
+            "Almuerzo en Amantani.",
+            "Guía (español/inglés).",
+            "Oxígeno de emergencia en el tour de Sillustani.",
+            "Asistencia 24/7 a través de WhatsApp."
+        ],
+        "noIncluye": [
+            "Barcos de Totora 'Mercedes Benz' 20 soles opcional.",
+            "Desayunos, almuerzos y cenas no mencionados en el programa.",
+            "Gastos extras fuera del servicio.",
+            "En ningún tour incluye cena.",
+            "Gastos extras que tengan fuera del servicio.",
+            "Almuerzos y desayunos no mencionados en el programa.",
+            "Lodge en Urus previa cotización."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad DNI/PASAPORTE vigente.",
+            "Llevar poncho para lluvia dependiendo de la temporada.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Puno5dias": {
+        "seo": {
+            "title": "PUNO - 5 DÍAS / 4 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Explora Puno en 5 días, navegando por el Lago Titicaca, visitando las Islas Uros, Amantaní y Taquile, el Templo de la Fertilidad en Chucuito, y las Chullpas de Sillustani. Vive la cultura y tradiciones locales.",
+            "keywords": [
+                "Puno 5 días",
+                "Lago Titicaca",
+                "Islas Uros",
+                "Isla de Amantaní",
+                "Isla de Taquile",
+                "Chullpas de Sillustani",
+                "Templo de la Fertilidad",
+                "Chucuito",
+                "Viaje a Puno",
+                "Aventura en Puno",
+                "Cultura local"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/puno-5d-4n",
+            "open_graph": {
+                "title": "Puno 5 Días - 4 Noches",
+                "description": "Explora Puno en 5 días, desde el Lago Titicaca hasta las Islas Uros, Amantaní y Taquile, pasando por el Templo de la Fertilidad en Chucuito y las Chullpas de Sillustani.",
+                "url": "https://machupicchubyworld.com/puno-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "PUNO",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Explora el Lago Titicaca con visitas a Uros, Amantaní y Taquile, viviendo tradiciones únicas.",
+            "Visita Sillustani y el Templo de la Fertilidad en Chucuito con impresionantes paisajes culturales.",
+            "Incluye transporte turístico, entradas y guías bilingües para una experiencia completa.",
+            "Disfruta de hospedaje en hoteles seleccionados y una noche en casa familiar en Amantaní.",
+            "Asistencia 24/7 y opciones flexibles como vuelos, hoteles y trenes personalizados."
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Moderado",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Lago Titicaca",
+            "alt2": "Sillustani",
+            "alt3": "Isla de Uros",
+            "alt4": "Isla de Taquile",
+            "alt5": "Isla de Taquile"
+        },
+        "lugares": "Sillustani - Lago Titicaca - Isla de Uros - Isla de Amantaní - Isla de Taquile - Tour a Chuicuito \"Templo de la Fertilidad\"",
+        "descripcion": "Conoce <strong>Puno</strong>, la <strong>capital folclórica</strong> de Perú y tierra de <strong>artistas</strong> y <strong>poetas</strong>. Famosa por su <strong>diversidad cultural</strong>, sus <strong>danzas autóctonas</strong> y la celebración de la <strong>Virgen de la Candelaria</strong> (1-14 de febrero), <strong>Patrimonio Inmaterial de la Humanidad</strong> por la Unesco. En este tour, explorarás el <strong>Lago Titicaca</strong>, hogar de las icónicas <strong>islas de Uros</strong>, <strong>Amantaní</strong> y <strong>Taquile</strong>, donde podrás interactuar con las comunidades locales y conocer sus tradiciones. También visitarás <strong>Chucuito</strong>, conocido por su <strong>Templo de la Fertilidad</strong>, y <strong>Sillustani</strong>, con sus impresionantes <strong>chullpas</strong>. <strong>Puno</strong> ofrece platos típicos como el <strong>pesque de quinua</strong> y en las zonas alejadas se habla <strong>aymara</strong>, preservando las raíces culturales. Visitar <strong>Puno</strong> te dejará recuerdos inolvidables por su gente y su cultura.",
+        "resumen": {
+            "dia1": {
+                "titulo": "LIMA - JULIACA - SILLUSTANI",
+                "descripcion": "¡Día 1! Al llegar a Juliaca o Puno, los recibimos y los llevamos al hotel para el check-in (12:00 hrs) y un breve descanso. A las 13:50 hrs, comenzamos el tour a las impresionantes Chullpas de Sillustani, donde disfrutarán de vistas del Lago Titicaca mientras aprenden sobre Puno. Explorarán las Chullpas del Lagarto, la laguna Umayo y la comunidad de Hatun Qolla, famosa por sus artesanías. Regresamos a Puno a las 17:00 hrs, con tiempo libre para explorar la ciudad. ¡Un primer día lleno de historia y paisajes!"
+            },
+            "dia2": {
+                "titulo": "LAGO TITICACA - UROS AMANTANI",
+                "descripcion": "¡Día 2 de aventura! Desayunamos y zarpaos hacia la Isla de Uros, donde exploramos sus casas flotantes y vivimos la experiencia de navegar en balsas de totora. Luego, continuamos a la Isla de Amantaní, donde nos reciben con un almuerzo típico, exploramos sus costumbres y pasamos la noche con una familia local."
+            },
+            "dia3": {
+                "titulo": "ISLA AMANTANI- TAQUILE PUNO",
+                "descripcion": "El Día 3 comienza con un desayuno local, seguido de un viaje en lancha a la Isla Taquile, donde se disfruta de una bienvenida, una presentación cultural y música tradicional. Tras un almuerzo con trucha en un restaurante local, se regresa a Puno alrededor de las 17:00 hrs para descansar en el hotel."
+            },
+            "dia4": {
+                "titulo": "Tour a Chuicuito \"Templo de la Fertilidad\"",
+                "descripcion": "El día 4, después del desayuno, visitaremos Chucuito, conocida por su Templo de la Fertilidad (Inca Uyo) y vistas del Lago Titicaca. Exploraremos la plaza, la iglesia dominicana y algunos miradores, con tiempo libre para disfrutar de la comida local. Retornaremos a Puno a las 12:30 hrs y la tarde será libre para descansar."
+            },
+            "dia5": {
+                "titulo": "PUNO- LIMA",
+                "descripcion": "El último día, después del desayuno en el hotel, tomaremos el transporte hacia la ciudad de Juliaca, un viaje de aproximadamente 30 minutos. Se dará el traslado al aeropuerto con 3 horas de anticipación al vuelo, finalizando así nuestro recorrido por la ciudad de Puno en el aeropuerto."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arribo a la Ciudad de Juliaca - Puno - Tour a Sillustani.",
+                "descripcion": [
+                    "Al llegar a Juliaca o Puno, los recibiremos y llevaremos a su hotel.",
+                    "Después del check-in (12:00 hrs), tendrán un breve descanso.",
+                    "Entre las 13:50 y 14:10 hrs, iniciaremos el tour hacia las impresionantes Chullpas de Sillustani. Durante el trayecto, disfrutarán de vistas del Lago Titicaca mientras el guía les comparte datos interesantes sobre Puno.",
+                    "A.M. En Sillustani, explorarán las Chullpas del Lagarto y la hermosa laguna Umayo.",
+                    "También visitarán la comunidad de Hatun Qolla, famosa por sus artesanías de barro.",
+                    "Regresaremos a Puno alrededor de las 17:00 hrs, con tiempo libre para disfrutar la ciudad."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour a la Isla de Uros y Amantaní",
+                "descripcion": [
+                    "Entre las 06:00 y 06:40 hrs, disfrutaremos de un desayuno en el hotel, o recibiremos un box lunch con productos locales.",
+                    "A las 07:00 A.M. partiremos hacia el puerto de Puno para comenzar la aventura.",
+                    "Navegaremos por el Lago Titicaca hacia la Isla de Uros, donde los habitantes nos mostrarán cómo construyen sus casas y cómo es su vida diaria.",
+                    "Podrán vestirse con trajes típicos o dar un paseo en su famosa embarcación de totora, el 'Mercedes Benz' (costo de 15 a 20 soles).",
+                    "Después, continuaremos hacia la Isla de Amantaní, donde una familia local nos recibirá con un almuerzo típico.",
+                    "Durante la tarde, conoceremos más sobre sus costumbres y arquitectura.",
+                    "Por la noche, compartiremos una cena local y pasaremos la noche en una casa de la familia anfitriona."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour a la Isla Taquile",
+                "descripcion": [
+                    "Entre las 06:30 y 07:30 hrs, la familia anfitriona les preparará un delicioso desayuno local.",
+                    "Luego, tomaremos la lancha hacia la Isla Taquile, conocida por preservar sus antiguas tradiciones.",
+                    "El presidente de la comunidad nos dará la bienvenida, y en la plaza de Taquile, disfrutaremos de una presentación cultural, especialmente de su famosa textilería.",
+                    "Durante el recorrido, escucharán música tradicional con tambores y zampoñas.",
+                    "Después, subiremos por el puerto Chullano y almorzaremos en un restaurante local, donde podrán probar platos típicos como la trucha.",
+                    "Tras el almuerzo, regresaremos en lancha a Puno, llegando aproximadamente a las 17:00 hrs para descansar en el hotel."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour a Chuicuito \"Templo de la Fertilidad\"",
+                "descripcion": [
+                    "Entre las 09:00 y 09:30 hrs, después del desayuno, pasaremos a recogerlos para llevarlos a Chucuito, conocida como la ciudad de las cajas reales.",
+                    "Durante el camino, disfrutarán de hermosas vistas del Lago Titicaca.",
+                    "En Chucuito, visitaremos el Templo de la Fertilidad, o Inca Uyo, famoso por sus curiosas piedras.",
+                    "El guía explicará la importancia del Templo como observatorio astronómico.",
+                    "También exploraremos la plaza de Chucuito, su iglesia dominicana y algunos miradores con vistas al lago.",
+                    "Tendrán tiempo libre para probar comida local por su cuenta.",
+                    "Retornaremos a Puno alrededor de las 12:30 hrs.",
+                    "La tarde será libre y pernoctaremos en la ciudad."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Traslado al Aeropuerto Manco Capac \"Juliaca\"",
+                "descripcion": [
+                    "Luego de tomar nuestro desayuno en el Hotel, nuestro transporte realizará el respectivo traslado desde la ciudad de Puno a la ciudad de Juliaca.",
+                    "El tiempo aproximado de este viaje es de 30 minutos.",
+                    "Para el traslado al Aeropuerto se dará 3 horas antes de que salga el vuelo.",
+                    "Nuestro recorrido por la ciudad de Puno finaliza en el Aeropuerto."
+                ]
+            }
+        ],
+        "incluye": [
+            "En caso el pasajero esté solicitando vuelos con nosotros, contamos con las aerolíneas: Sky, Latam y Jet Smart (OPCIONAL) orientado a turistas nacionales o extranjeros con vuelos internacionales e internos en Perú.",
+            "Si adquiere vuelos con nosotros, se le entregará un día antes el Check-in de la aerolínea.",
+            "Tour a Sillustani.",
+            "Tour Urus, Amantaní, Taquile.",
+            "Excursión a Chucuito.",
+            "Transporte turístico.",
+            "Entrada a atractivos turísticos.",
+            "Embarcaciones en Urus, Amantani, Taquile.",
+            "Guía profesional en español, inglés.",
+            "3 noches de hotel en Puno.",
+            "1 noche en una de las casas familiares en Amantaní.",
+            "Transporte Juliaca-Puno-Juliaca.",
+            "3 desayunos en el servicio.",
+            "1 almuerzo.",
+            "1 cena.",
+            "Traslado – Aeropuerto o Terminal – Hotel – Aeropuerto o terminal terrestre.",
+            "Ingreso a Urus.",
+            "Almuerzo en Amantani.",
+            "Guía (español/inglés).",
+            "Oxígeno de emergencia en el tour de Sillustani.",
+            "Asistencia 24/7 a través de WhatsApp."
+        ],
+        "noIncluye": [
+            "Barcos de Totora 'Mercedes Benz' 20 soles opcional.",
+            "Desayunos, almuerzos y cenas no mencionados en el programa.",
+            "Gastos extras fuera del servicio.",
+            "En ningún tour incluye cena.",
+            "Gastos extras que tengan fuera del servicio.",
+            "Almuerzos y desayunos no mencionados en el programa.",
+            "Lodge en Urus previa cotización."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad DNI/PASAPORTE vigente.",
+            "Llevar poncho para lluvia dependiendo de la temporada.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    }
+}

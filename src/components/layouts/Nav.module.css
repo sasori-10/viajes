@@ -1,0 +1,184 @@
+.navMenu {
+    background-color: #006d3b;
+    height: 65px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+
+/* Lista de navegación */
+.navLista {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.navLista>li {
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    height: 100%;
+    transition: border-bottom 0.3s ease;
+    cursor: pointer;
+    color: #ffffff;
+    border-bottom: 3px solid transparent;
+    /* Inicialmente invisible */
+    transition: border-bottom 0.3s ease;
+}
+
+/* Hover para la animación de la barra */
+.navLista>li:hover {
+    border-bottom: 7px solid #FFBD59;
+    /* La barra crece al 100% del ancho del elemento */
+}
+
+/* Dropdown del menú */
+.dropdownMenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 100%;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+    z-index: 10;
+    padding: 0;
+    overflow: hidden;
+    overflow-x: hidden;
+    height: auto;
+}
+
+/* Hover para mostrar el dropdown */
+.navMenu:hover .dropdownMenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+/* Icono en el título del menú */
+.navIcon {
+    color: #FFBD59;
+    font-size: 20px;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.navTitulo {
+    display: flex;
+}
+
+/* Animación para el dropdown */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.navMenu:hover .dropdownMenu {
+    animation: fadeIn 0.3s ease-out;
+}
+
+@media (max-width: 1024px) {
+    .navMenu {
+        height: 55px;
+    }
+
+    .navTitulo {
+        font-size: 12px;
+    }
+}
+
+/* Responsive para pantallas pequeñas */
+@media (max-width: 768px) {
+    .navMenu {
+        height: 60px;
+    }
+
+    .navItemContainer {
+        display: flex;
+        flex-direction: column;
+        /* Coloca los elementos hijos en una columna */
+        justify-content: flex-end;
+        /* Alinea los elementos hacia la parte inferior verticalmente */
+        height: 100%;
+        /* Asegura que ocupe toda la altura del contenedor padre */
+        text-align: center;
+        /* Opcional: centra horizontalmente el contenido */
+    }
+
+    .navItem {
+        display: flex;
+        flex-direction: column;
+        /* Texto e ícono en columnas */
+        align-items: center;
+        /* Centra el contenido horizontalmente */
+    }
+
+    .navTitulo {
+        display: flex;
+        flex-direction: column;
+        /* Mantiene texto e ícono en filas */
+        align-items: center;
+        /* Centra horizontalmente */
+
+    }
+
+    .navIcon {
+        margin-top: 2px;
+        /* Espacio entre texto e ícono */
+        font-size: 20px;
+        /* Ajusta el tamaño del ícono */
+    }
+
+    .navLista>li:hover {
+        border-bottom: none;
+    }
+}
+
+/* Responsive para pantallas muy pequeñas */
+@media (max-width: 480px) {
+
+    /* Barra de navegación */
+    .navMenu {
+        height: auto;
+        padding: 10px;
+    }
+
+    /* Lista de navegación */
+    .navLista {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navLista>li {
+        padding: 8px 0;
+        width: 100%;
+        text-align: left;
+    }
+
+    /* Icono de menú para móviles */
+    .navIcon {
+        font-size: 16px;
+    }
+}

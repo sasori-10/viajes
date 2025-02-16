@@ -1,0 +1,608 @@
+{
+    "seo": {
+        "title": "MACHUPICCHU BY WORLD | Travel Agency.",
+        "meta_description": "Explore Machu Picchu and the best destinations with our travel agency. Discover exclusive packages and experience an unforgettable journey.",
+        "keywords": [
+            "Machu Picchu",
+            "trips",
+            "tours in Peru",
+            "travel agency",
+            "tourism in Cusco",
+            "tour packages",
+            "excursions"
+        ],
+        "canonical_url": "http://www.machupicchubyworld.com/machu-picchu-by-train",
+        "open_graph": {
+            "title": "Machu Picchu by Train - Tour to Machu Picchu from Cusco",
+            "description": "Enjoy an incredible train trip to Machu Picchu with expert guides and comfortable transportation. Book your tour today!",
+            "url": "http://www.machupicchubyworld.com",
+            "type": "website"
+        }
+    },
+    "header": {
+        "logoAlt": "MachuPicchu By World Logo",
+        "email": "reservasmapibyworld@gmail.com",
+        "phone": "+51 940 842 722",
+        "languageEnglish": "English",
+        "languageSpanish": "Spanish"
+    },
+    "navBar": {
+        "MachuPicchuTitle": {
+            "title": "MACHUPICCHU TOURS",
+            "subcategories": {
+                "SoloMachuPicchu": {
+                    "name": "ONLY MACHUPICCHU",
+                    "tours": {
+                        "tour1": "Machupicchu by Train - FULL DAY",
+                        "tour2": "Machupicchu by Car - 2 Days/1 Night"
+                    },
+                    "alt": "Machupicchu by Train"
+                },
+                "MachuPicchuCaminoInca": {
+                    "name": "MACHUPICCHU + INCA TRAIL",
+                    "tours": {
+                        "tour1": "Short Inca Trail - 2 Days/1 Night"
+                    }
+                }
+            }
+        },
+        "CuscoTours": {
+            "title": "CUSCO TOURS",
+            "subcategories": {
+                "PaquetesClasicos": {
+                    "name": "CLASSIC TOURS IN CUSCO",
+                    "tours": {
+                        "tour1": "Cusco Explendor - 3 Days / 2 Nights",
+                        "tour2": "Classic Cusco - 4 Days / 3 Nights",
+                        "tour3": "Inca Cusco - 7 Days / 6 Nights",
+                        "tour4": "Inca Cusco and Puno - 7 Days / 6 Nights"
+                    }
+                },
+                "AventuraAndes": {
+                    "name": "ADVENTURE IN THE ANDES",
+                    "tours": {
+                        "tour1": "Adventure Cusco - 5 Days / 4 Nights",
+                        "tour2": "Adventure Cusco and Vinicunca - 5 Days / 4 Nights",
+                        "tour3": "Imperial Cusco - 6 Days / 5 Nights"
+                    }
+                },
+                "ExperienciasUnicas": {
+                    "name": "UNIQUE EXPERIENCES - FULL DAY",
+                    "tours": {
+                        "tour1": "Rainbow Mountain",
+                        "tour2": "Humantay Lake",
+                        "tour3": "7 Lakes of Ausangate",
+                        "tour4": "Palcoyo Mountain",
+                        "tour5": "Quad bike Tour - Sacred Valley",
+                        "tour6": "Zip Line in Chinchero",
+                        "tour7": "Paragliding in the Sacred Valley",
+                        "tour8": "Canoeing in the Vilcanota river",
+                        "tour9": "Q’eswachaka and 4 Lakes",
+                        "tour10": "Waqrapukara"
+                    }
+                }
+            }
+        },
+        "PeruTitle": {
+            "title": "PERU TOURS",
+            "subcategories": {
+                "Tarapoto": {
+                    "name": "TARAPOTO",
+                    "tours": {
+                        "tour1": "Tarapoto Classic - 4 Days / 3 Nights",
+                        "tour2": "Tarapoto - 5 Days / 4 Nights"
+                    },
+                    "alt": "Panoramic view of the lake in Tarapoto"
+                },
+                "Arequipa": {
+                    "name": "AREQUIPA",
+                    "tours": {
+                        "tour1": "Arequipa - 5 Days / 4 Nights",
+                        "tour2": "Arequipa - 6 Days / 5 Nights"
+                    },
+                    "alt": "Panoramic view of the Arequipa cathedral"
+                },
+                "Puno": {
+                    "name": "PUNO",
+                    "tours": {
+                        "tour1": "Magical Puno - 4 Days / 3 Nights",
+                        "tour2": "Puno - 5 Days / 4 Nights"
+                    },
+                    "alt": "Panoramic view of the Uros Island - Puno"
+                }
+            }
+        },
+        "InternationalTitle": {
+            "title": "INTERNATIONAL TOURS",
+            "subcategories": {
+                "Colombia": {
+                    "name": "COLOMBIA",
+                    "tours": {
+                        "tour1": "Medellin - 5 Days / 4 Nights",
+                        "tour2": "Cartagena - 4 Days / 3 Nights"
+                    }
+                },
+                "Bolivia": {
+                    "name": "BOLIVIA",
+                    "tours": {
+                        "tour1": "Salar de Uyuni - FULL DAY",
+                        "tour2": "Ica, Nazca, Cusco, Puno, Bolivia-La Paz, Salar de Uyuni - 13 Days / 12 Nights"
+                    }
+                }
+            }
+        },
+        "TrekkingTitle": {
+            "title": "TREKKING",
+            "subcategories": {
+                "SalkantayTrek": {
+                    "name": "SALKANTAY TREK",
+                    "tours": {
+                        "tour1": "Salkantay Trek + Machupicchu (4 Days / 3 Nights)",
+                        "tour2": "Salkantay Trek + Machupicchu (5 Days / 4 Nights)"
+                    }
+                },
+                "CaminoInca": {
+                    "name": "INCA TRAIL",
+                    "tours": {
+                        "tour1": "Short Inca Trail to Machupicchu (2 Days / 1 Night)",
+                        "tour2": "Classic Inca Trail to Machupicchu (4 Days / 3 Nights)"
+                    }
+                },
+                "IncaJungleTrek": {
+                    "name": "INCA JUNGLE TREK",
+                    "tours": {
+                        "tour1": "Inca Jungle + Machupicchu (4 Days / 3 Nights)"
+                    }
+                }
+            }
+        },
+        "NosotrosTitle": {
+            "title": "ABOUT US",
+            "subcategories": {
+                "SobreNosotros": {
+                    "name": "About Us"
+                },
+                "Licencias": {
+                    "name": "Our Licenses"
+                },
+                "TerminosCondiciones": {
+                    "name": "Terms and conditions"
+                }
+            }
+        }
+    },
+    "VideoHero": {
+        "title": "Welcome to",
+        "title2": "Machupicchu by World!",
+        "paragraph1": "Discover Peru with our exclusive packages",
+        "paragraph2": "and live the adventure of your life."
+    },
+    "homeDescripcion": {
+        "title1": "We are",
+        "title2": "Your Travel Agency Offering Quality, Personalization, and Local Connection in Peru and Beyond.",
+        "paragraph": "We provide exceptional service, treating each trip as if it were our own, ensuring an authentic experience through the service of local people. With a committed and responsible team, we focus on exceeding our clients' expectations, always prioritizing the environment, health and integrity of all. In addition, we explore destinations outside the country, giving you the opportunity to discover new wonders in every adventure.",
+        "moreInfo": "MORE ABOUT US"
+    },
+    "CounterNumber": {
+        "completedTours": "COMPLETED TOURS",
+        "happyTravelers": "HAPPY TRAVELERS",
+        "yearsOfExperience": "YEARS OF EXPERIENCE",
+        "ourRecognitions": "OUR RECOGNITION"
+    },
+    "homeRazon": {
+        "title1": "Why",
+        "title2": "is the Best Choice for Your Next Trip?",
+        "description": "With over six years of experience providing unforgettable travel experiences. We stand out for our excellence, innovation, and personalized attention, positioning us among the best in the tourism industry.",
+        "additionalInfo": "Additionally, we offer a wide variety of destinations designed for you to explore the best of Peru and beyond.",
+        "destinations": {
+            "cusco": "Cusco",
+            "machuPicchu": "Machupicchu",
+            "valleSagrado": "Sacred Valley",
+            "montanaColores": "Rainbow Mountain",
+            "arequipa": "Arequipa",
+            "valleColca": "Colca Valley",
+            "rutaSillar": "Sillar Route",
+            "tarapoto": "Tarapoto",
+            "amazonRichness": "Amazonian Richness",
+            "puno": "Puno",
+            "lagoTiticaca": "Lake Titicaca",
+            "islasFlotantes": "Floating Islands",
+            "icaNazca": "Ica and Nazca",
+            "dunaHuacachina": "Huacachina Dune",
+            "lineasNazca": "Nazca Lines",
+            "international": "International",
+            "colombia": "Colombia",
+            "brazil": "Brazil",
+            "bolivia": "Bolivia (Bogotá, Salar de Uyuni, Rio de Janeiro)"
+        }
+    },
+    "AventuraCards": {
+        "title1": "Adventure in the Andes and ",
+        "title2": "Machupicchu",
+        "subtitle": "Explore the best of the Andean landscapes and experience adrenaline-filled adventures, culture, and the grandeur of Machupicchu. A perfect combination for nature and history lovers."
+    },
+    "TesorosCards": {
+        "title1": "Treasures of Peru",
+        "title2": "for the Explorers",
+        "subtitle": "Perfect for those who want to discover the most iconic destinations in Peru, combining history, culture, and unforgettable landscapes in a single journey."
+    },
+    "ExtremosCards": {
+        "title1": "Extreme Adventures",
+        "title2": "in Unique Places",
+        "subtitle": "Designed for adventure lovers, this section will take you to explore unique landscapes and experience intense emotions in destinations that push the limits."
+    },
+    "Cards": {
+        "title": "RECOMMENDED TOURS",
+        "subtitle": "Adventure, culture and nature: the best tours for you",
+        "button": {
+            "desde": "From",
+            "leer": "Read More"
+        },
+        "machuPicchu": {
+            "tour1": {
+                "name": "Machupicchu by Train - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour2": {
+                "name": "Machupicchu by Bus - 2 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour3": {
+                "name": "Short Inca Trail to Machupicchu - 2 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            }
+        },
+        "cusco": {
+            "tour1": {
+                "text": "Cusco Explendor - 3 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour2": {
+                "text": "Cusco Classic - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour3": {
+                "text": "Cusco Adventure - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour4": {
+                "text": "Cusco Adventure and Vinicunca - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour5": {
+                "text": "Cusco Imperial - 6 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour6": {
+                "text": "Cusco Inca - 7 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour7": {
+                "text": "Cusco Inca and Puno - 7 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            }
+        },
+        "fullDay": {
+            "tour1": {
+                "text": "Rainbow Mountain - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour2": {
+                "text": "Humantay Lake - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour3": {
+                "text": "7 Lakes of Ausangate - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour4": {
+                "text": "Palcoyo Mountain - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour5": {
+                "text": "Quad Bike Sacred Valley Tour - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour6": {
+                "text": "Chincheros Zip Line - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour7": {
+                "text": "Sacred Valley Paragliding - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour8": {
+                "text": "Vilcanota Rafting - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            },
+            "tour9": {
+                "text": "Queswachaca and 4 Lakes - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour10": {
+                "text": "Waqrapukara - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            }
+        },
+        "peru": {
+            "tour1": {
+                "text": "Tarapoto - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour2": {
+                "text": "Tarapoto - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour3": {
+                "text": "Arequipa - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour4": {
+                "text": "Arequipa - 6 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour5": {
+                "text": "Magical Puno - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour6": {
+                "text": "Puno - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            }
+        },
+        "internacional": {
+            "tour1": {
+                "text": "Medellín - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour2": {
+                "text": "Cartagena - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour3": {
+                "text": "Salar de Uyuni - FULL DAY",
+                "grupo": "Up to 10 people",
+                "nivel": "Easy"
+            },
+            "tour4": {
+                "text": "Ica, Nazca, Cusco, Puno, Bolivia, La Paz, Salar de Uyuni - 13 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Moderate"
+            }
+        },
+        "trekking": {
+            "tour1": {
+                "text": "Salkantay Trek + Machupicchu - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Challenging"
+            },
+            "tour2": {
+                "text": "Salkantay Trek + Machupicchu - 5 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Challenging"
+            },
+            "tour3": {
+                "text": "Inka Trail to Machupicchu - 2 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Challenging"
+            },
+            "tour4": {
+                "text": "Inka Trail to Machupicchu - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Challenging"
+            },
+            "tour5": {
+                "text": "Inka Jungle - 4 Days",
+                "grupo": "Up to 10 people",
+                "nivel": "Challenging"
+            }
+        },
+        "reviewTrip": {
+            "name": "OUR CUSTOMERS' REVIEWS ON TRIPADVISOR",
+            "review1": {
+                "id": 1,
+                "RatingText": "Dec. 2024 • Family",
+                "ReviewTitle": "Wonderful",
+                "ReviewText": "They were always kind, helpful, and punctual, all the tours were fantastic!!! I had a really great time, a worry-free trip with no problems! I highly recommend it 100%, I hope to return and bring my family again! Thank you.",
+                "PublishedDate": "Written on December 28, 2024"
+            },
+            "review2": {
+                "id": 2,
+                "RatingText": "Dec. 2024 • Couple",
+                "ReviewTitle": "Wonderful Peru",
+                "ReviewText": "The guides were very good at explaining, the agency was very attentive from our arrival to our departure from Cusco. All the tours were punctual. Every day the agency sent a message asking if we were doing well and enjoying the tours. They answered all our questions and thought of a great order for our tours. All tickets and transportation for the tours were included, and we didn't have to worry about anything. Highly recommend.",
+                "PublishedDate": "Written on December 9, 2024"
+            },
+            "review3": {
+                "id": 3,
+                "RatingText": "Nov. 2024 • Couple",
+                "ReviewTitle": "Great experience in Cusco",
+                "ReviewText": "Highly recommended! I spent a week in Cusco with my girlfriend, and throughout that time they were very professional, providing support at all times. The guides were great, and they even know about photography. Good itinerary planning, pick-up from the airport, hotel, and departure locations.",
+                "PublishedDate": "Written on November 14, 2024"
+            },
+            "review4": {
+                "id": 4,
+                "RatingText": "Nov. 2024 • Solo",
+                "ReviewTitle": "Great experience if you travel alone",
+                "ReviewText": "What a wonderful experience I had with the guides and the tour from this agency. I would definitely choose them again. I could ask them everything before the trip, and they were very attentive.",
+                "PublishedDate": "Written on November 13, 2024"
+            },
+            "review5": {
+                "id": 5,
+                "RatingText": "Oct. 2024 • Family",
+                "ReviewTitle": "Excellent trip!!!",
+                "ReviewText": "I contacted Angel, who was very professional, organized the tour perfectly, and paid attention to every detail so that we could just enjoy. I would definitely hire them again!!!!",
+                "PublishedDate": "Written on October 28, 2024"
+            },
+            "review6": {
+                "id": 6,
+                "RatingText": "Oct. 2024 • Family",
+                "ReviewTitle": "Excellent Experience",
+                "ReviewText": "We are very happy to have chosen Machupicchu By World for the tours in Lima and Cusco, highly recommended; excellent service. Ángel was the person who was always very attentive to us, from our arrival in Lima to our return to our country; he stayed in touch until we safely reached our homes, even though we hadn't bought the tickets from them. You can tell they do their work with love; we met him in Cusco, and he solved all our doubts and gave us the necessary instructions so that our trip was unforgettable, and it was. The guides were excellent; they are both guides and photographers at the same time. Without a doubt, I would do the tours with them again.",
+                "PublishedDate": "Written on October 16, 2024"
+            },
+            "review7": {
+                "id": 7,
+                "RatingText": "Oct. 2024 • Friends",
+                "ReviewTitle": "Excellent experience with Machupicchu By World, personalized attention",
+                "ReviewText": "Excellent service, highly recommended 100%. I highlight Angel's kindness, who visited us at the Airbnb upon our arrival to give us a detailed explanation, itinerary, recommendations, and all necessary information for the Full Day Machu Picchu tour. When I return to Machu Picchu, I will do it again with Machupicchu By World.",
+                "PublishedDate": "Written on October 15, 2024"
+            },
+            "review8": {
+                "id": 8,
+                "RatingText": "Oct. 2024 • Couple",
+                "ReviewTitle": "Incredible, there's no other word to describe this agency",
+                "ReviewText": "This agency is incredible, punctual, affordable prices, the staff is very helpful and attentive to every detail. I highly recommend them; they made our trip unforgettable, and the experience was very satisfying... greetings from Colombia.",
+                "PublishedDate": "Written on October 14, 2024"
+            }
+        },
+        "reviewGoogle": {
+            "name": "OUR CUSTOMERS' RATINGS ON GOOGLE",
+            "review1": {
+                "id": 1,
+                "time": "October 2024",
+                "review": "We are very happy to have chosen Machupicchu By World for the tours in Lima and Cusco, highly recommended; excellent service. Ángel was the person who was always very attentive to us, from our arrival in Lima to our return to our country; he made sure we arrived safely at home, even though we didn't buy tickets from them, you can tell they do their job with love; we met him in Cusco and he answered all our questions and gave us the necessary instructions so that our trip would be unforgettable, and it was, the guides were excellent, they are both guides and photographers at the same time; without a doubt, I would do the tours with them again."
+            },
+            "review2": {
+                "id": 2,
+                "time": "October 2024",
+                "review": "For me, the best agency in Peru! It’s already a wonderful experience to visit this country, but having the assistance of this agency made the experience of visiting each place even more amazing! THE BEST!!!"
+            },
+            "review3": {
+                "id": 3,
+                "time": "October 2024",
+                "review": "It's an incredible agency, we recommend it without hesitation, attentive to every detail, affordable prices, helpful staff, punctual on all tours, they made our experience in Peru incredible and unforgettable."
+            },
+            "review4": {
+                "id": 4,
+                "time": "August 2024",
+                "review": "The best option to discover Cusco, the agency takes care of everything: tours, hotels, trains, tickets, etc. We didn’t have to worry about anything, the service was excellent, and on every tour, we had excellent guides. I am very happy to have chosen this agency, they were very kind throughout 🤩."
+            },
+            "review5": {
+                "id": 5,
+                "time": "August 2024",
+                "review": "It’s a beautiful experience, I highly recommend it, great treatment from when you make your reservation until the end of the trip. I’m leaving satisfied and happy. They met my expectations 😊."
+            },
+            "review6": {
+                "id": 6,
+                "time": "September 2024",
+                "review": "Excellent experience, a warm and attentive service. I highlight their punctuality in all itineraries, and the guides are highly prepared. Ángel is committed to every detail with the tourists. I highly recommend it."
+            },
+            "review7": {
+                "id": 7,
+                "time": "June 2024",
+                "review": "Very good choice to do my tours with you 💯 % Recommended. Thanks for the support, Ángel, and the whole Machupicchu by World team."
+            },
+            "review8": {
+                "id": 8,
+                "time": "May 2024",
+                "review": "Excellent service!!! Ángel and the Machupicchu by World team make your trip a great experience. Super friendly and helpful, highly recommended!"
+            },
+            "review9": {
+                "id": 9,
+                "time": "December 2023",
+                "review": "Excellent experience, the personalized attention from Ángel and his team has always been 10/10. All the services contracted were punctual and met all expectations. Even the farewell gesture was something unexpected. Many thanks to Machupicchu by World, and I highly recommend them for this."
+            },
+            "review10": {
+                "id": 10,
+                "time": "June 2024",
+                "review": "Excellent service, they made me have one of the best experiences of my life. 100% recommended."
+            }
+        }
+    },
+    "homeInstitucion": {
+        "name": "Your Safe Journey: Backed by Great Institutions",
+        "imagen1": {
+            "alt": "Image of our Gercetur certification"
+        },
+        "imagen2": {
+            "alt": "Image of our Responsible Tourism certification"
+        },
+        "imagen3": {
+            "alt": "Image of our TripAdvisor certification"
+        },
+        "imagen4": {
+            "alt": "Image of our Registered Agency certification"
+        },
+        "imagen5": {
+            "alt": "Image of the Miradas awards"
+        },
+        "imagen6": {
+            "alt": "Image of our Trekking certification"
+        },
+        "imagen7": {
+            "alt": "Image of our Mincetur certification"
+        }
+    },
+    "metodosPago": {
+        "title": "Choose How You Want to Pay and Start Your Adventure!",
+        "subtitle": "We accept the following payment methods"
+    },
+    "footer": {
+        "imageAlt": "Top image of the footer",
+        "logoAlt": "MachuPicchuByworld footer logo",
+        "sections": {
+            "part1": {
+                "socialReason": {
+                    "header": "COMPANY NAME"
+                },
+                "ruc": {
+                    "header": "RUC"
+                },
+                "followUs": {
+                    "header": "FOLLOW US"
+                }
+            },
+            "part2": {
+                "header": "ABOUT US",
+                "links": {
+                    "text1": "About Us",
+                    "text2": "Our Team",
+                    "text3": "Our Licenses",
+                    "text4": "Terms and Conditions"
+                }
+            },
+            "part3": {
+                "header": "CONTACT US",
+                "contactInfo": {
+                    "text1": "Address: Av. El sol N° 900 Int. 311",
+                    "text2": "Phone: +51 940 842 722 | +51 973 310 752",
+                    "text3": "Email: reservasmapibyworld@gmail.com",
+                    "text4": "Office Hours",
+                    "text5": "Monday to Saturday from 9 AM to 7 PM"
+                }
+            }
+        },
+        "copyright": {
+            "text": "Copyright © 2024 Machupicchu By World. All rights reserved."
+        }
+    }
+}

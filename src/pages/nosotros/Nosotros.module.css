@@ -1,0 +1,520 @@
+.SobreNosotrosContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.contentContainer {
+    display: flex;
+    align-items: flex-start;
+    gap: 100px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-right: 12rem;
+    padding-left: 12rem;
+}
+
+.textSection {
+    flex: 1;
+    font-size: 16px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 2rem;
+}
+
+.imageSection {
+    flex-shrink: 0;
+    width: 400px;
+}
+
+.imageSection>img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    margin-top: 0;
+    text-align: left;
+    line-height: 50px;
+    position: relative;
+}
+
+.titulo::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 30%;
+    height: 4px;
+    background-color: #FDC318;
+}
+
+.titulo>span {
+    color: #0D643A;
+}
+
+.PropositoWrapper {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.Proposito {
+    width: 80%;
+    display: inline-flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: justify;
+    gap: 3rem;
+    margin-bottom: 3rem;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.Vision {
+    width: 35%;
+    height: 100%;
+    display: block;
+    justify-content: center;
+    justify-items: center;
+    padding: 0 40px;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 2px solid #0D643A;
+}
+
+.Mision {
+    width: 35%;
+    height: 100%;
+    display: block;
+    justify-content: center;
+    justify-items: center;
+    padding: 0 20px 0px 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 2px solid #0D643A;
+}
+
+.Valores {
+    width: 40%;
+    height: 100%;
+    display: block;
+    justify-content: center;
+    justify-items: center;
+    padding: 0 30px 0px 30px;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 2px solid #0D643A;
+}
+
+.Vision>h3 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.Mision>h3 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.Valores>h3 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.Vision>p {
+    margin-top: 5px;
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.Mision>p {
+    margin-top: 5px;
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.listUnstyled {
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.ValoresList {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.ListIcon {
+    flex-shrink: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #009B17;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-right: 0.5rem;
+}
+
+.ScrollContent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ScrollContent>svg {
+    width: 4rem;
+    height: auto;
+}
+
+.TextoScroll {
+    color: #F4F4F4;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 800;
+}
+
+.TextoScrollSubtitulo {
+    margin-top: 0;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #F4F4F4;
+}
+
+.TextoScroll::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 30%;
+    height: 3px;
+    background-color: #FDC318;
+    transform: translateX(-50%);
+    display: block;
+    border-radius: 10px;
+}
+
+
+.GerenteContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    gap: 4rem;
+    padding-left: 14rem;
+    padding-right: 14rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    background-image: url("./componentsNosotros/Equipo/fondoPrueba.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.GerenteTextSectionTitulo {
+    color: #0D643A;
+    position: relative;
+    font-weight: 600;
+}
+
+.GerenteTextSectionTitulo::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -0.5rem;
+    width: 30%;
+    height: 3px;
+    background-color: #FDC318;
+}
+
+.GerenteTextSection>h3 {
+    color: #0D643A;
+    font-weight: 300;
+}
+
+.GerenteTextSection {
+    max-width: 45%;
+    text-align: left;
+    line-height: 2rem;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+}
+
+.GerenteImageSection img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+
+.EquipoContent {
+    margin-bottom: 1.5rem;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    justify-content: center;
+    background-color: #F5F5F7;
+    position: relative;
+}
+
+.EquipoContent>div {
+    flex: 0 1 calc(25% - 4rem);
+    box-sizing: border-box;
+    max-width: calc(25% - 4rem);
+}
+
+.Integrante {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.IntegranteImage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.IntegranteImage>img {
+    height: auto;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.IntegrantePuesto {
+    color: #0D643A;
+    font-weight: 300;
+    margin: 0;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+.OurWork {
+    margin-top: 2rem;
+    padding-right: 20rem;
+    padding-left: 20rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.OurWorkText {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 2rem;
+
+}
+
+.OurWorkText>h2 {
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.OurWorkText span {
+    color: #0D643A;
+}
+
+.OurWorkCollage {
+    padding-top: 0.5rem;
+}
+
+.opinionesGoogle {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+}
+
+.NosotrosRazon {
+    background-color: #E5E5E5;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* Responsividad */
+@media screen and (max-width: 1200px) {
+    .contentContainer {
+        gap: 60px;
+        padding-right: 10rem;
+        padding-left: 10rem;
+    }
+
+    .imageSection {
+        width: 300px;
+    }
+
+    .EquipoContent {
+        gap: 100px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .contentContainer {
+        flex-direction: column;
+        align-items: center;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+
+    .imageSection {
+        width: 250px;
+    }
+
+    .textSection {
+        font-size: 14px;
+    }
+
+    .titulo {
+        font-size: 20px;
+    }
+
+    .EquipoContent {
+        gap: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contentContainer {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .textSection {
+        font-size: 14px;
+    }
+
+    .titulo {
+        font-size: 18px;
+    }
+
+    .imageSection {
+        width: 200px;
+    }
+
+    .Proposito {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .Vision,
+    .Mision,
+    .Valores {
+        width: 80%;
+        padding: 1rem;
+    }
+
+    .EquipoContent {
+        flex-direction: column;
+        align-items: center;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+
+    .EquipoContent>div {
+        flex: 0 1 100%;
+        max-width: 100%;
+    }
+
+    .EquipoContent {
+        gap: 100px;
+    }
+}
+
+/* Para pantallas pequeñas */
+@media screen and (max-width: 480px) {
+    .titulo {
+        font-size: 16px;
+    }
+
+    .contentContainer {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .imageSection {
+        width: 180px;
+    }
+
+    .textSection {
+        font-size: 12px;
+    }
+
+    .Proposito {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .Vision,
+    .Mision,
+    .Valores {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    .ScrollContent>svg {
+        width: 3rem;
+    }
+
+    .TextoScroll {
+        font-size: 14px;
+    }
+
+    .GerenteContainer {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .GerenteTextSection,
+    .GerenteImageSection {
+        max-width: 100%;
+    }
+
+    .EquipoContent {
+        padding: 1rem;
+        gap: 2rem;
+    }
+
+    .IntegranteImage>img {
+        width: 100%;
+    }
+
+    .OurWork {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+}

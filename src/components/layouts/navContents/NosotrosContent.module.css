@@ -1,0 +1,205 @@
+.fullScreenDiv {
+    width: 100vh;
+    /* Ocupa todo el ancho de la pantalla */
+    overflow-x: hidden;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.NosotrosContent {
+    display: flex;
+    width: 70%;
+}
+
+/* Contenedores de contenido (content-1, content-2, content-3) */
+.content1,
+.content2,
+.content3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    margin: 25px 0 30px 0;
+}
+
+/* Estilo para el contenedor de la imagen */
+.imageContainer {
+    width: 380px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.imageContainer img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.texto {
+    width: 380px;
+}
+
+/* Alineación del título */
+.title {
+    text-align: left;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 18px;
+    margin-top: 0px;
+    color: #006d3b;
+    font-weight: 600;
+}
+
+/* Enlace del paquete */
+.packageLink {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    font-size: 16px;
+    text-decoration: none;
+    color: #000000;
+    margin-bottom: 5px;
+    font-weight: 500;
+    transition: color 0.3s ease, font-weight 0.3s ease;
+}
+
+ul {
+    list-style-type: none;
+    /* Elimina el marcador de lista */
+    padding-left: 0;
+    /* Elimina el padding de la lista */
+    margin-left: 0;
+    /* Elimina el margen izquierdo */
+}
+
+ul li {
+    margin-left: 0;
+    /* Asegura que no haya margen extra en cada <li> */
+}
+
+
+/* Cambios en hover */
+.packageLink:hover {
+    color: #006d3b;
+    font-weight: 600;
+}
+
+/* Ocultar el ícono por defecto */
+.packageLinkIcon {
+    opacity: 0;
+    margin-left: 5px;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: translateX(-5px);
+}
+
+/* Mostrar el ícono al pasar el cursor */
+.packageLink:hover .packageLinkIcon {
+    opacity: 1;
+    transform: translateX(0);
+    transform: translateY(2px);
+}
+
+/* Línea negra predeterminada */
+.packageLink::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    /* La línea siempre tendrá el mismo ancho */
+    height: 2px;
+    transition: background-color 0.3s ease;
+    /* Solo la transición de color */
+    border-radius: 20px;
+}
+
+/* Cambiar la línea a amarilla en hover */
+.packageLink:hover::after {
+    background-color: #ffbd59;
+}
+
+/* Media Queries para Responsividad (pantallas desde 1024px) */
+@media (max-width: 1024px) {
+
+    /* Ajuste de tamaño para contenedor principal */
+    .NosotrosContent {
+        width: 90%;
+        /* Se amplía el contenido */
+    }
+
+    .content1,
+    .content2,
+    .content3 {
+        margin: 15px 0;
+    }
+
+    .imageContainer {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .texto {
+        width: 100%;
+        /* Se adapta el texto al contenedor */
+    }
+
+    /* Título con tamaño adaptado */
+    .title {
+        font-size: 16px;
+        /* Reducido para pantallas medianas */
+    }
+
+    .packageLink {
+        font-size: 14px;
+        /* Reducido para pantallas medianas */
+    }
+}
+
+/* Media Queries para pantallas más pequeñas (menores a 768px) */
+@media (max-width: 480px) {
+    .fullScreenDiv {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .NosotrosContent {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .packageLink {
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .texto {
+        text-align: center;
+    }
+
+    .title {
+        font-size: 11px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .content1,
+    .content2,
+    .content3 {
+        margin: 0;
+        padding-top: 5px;
+        padding-bottom: 10px;
+    }
+}

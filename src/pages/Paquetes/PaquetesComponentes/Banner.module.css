@@ -1,0 +1,70 @@
+.imageContainer {
+    position: relative;
+    width: 100vw; /* Ocupa todo el ancho de la ventana */
+    height: 550px; /* Alto fijo de 550px */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Asegura que no se salgan los bordes de la imagen */
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    position: relative; /* Usa relative para evitar que la imagen se mueva */
+    width: 100%; /* La imagen ocupará el 100% del ancho */
+    height: 100%; /* La altura ocupará el 100% del contenedor (550px) */
+    object-fit: cover; /* La imagen cubre el contenedor, manteniendo la proporción y recortando si es necesario */
+}
+
+.textOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    background: rgba(0, 0, 0, 0.5); /* Fondo semitransparente para destacar el texto */
+    color: #fff; /* Texto blanco */
+}
+
+.title {
+    font-size: 2.7rem;
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: 800;
+    font-family: "Outfit", sans-serif;
+}
+
+.dias, .precio {
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin: 5px 0;
+}
+
+.textDetalles{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.textContent{
+    text-align: left;
+    margin-left: 200px;
+    margin-bottom: 80px;
+}
+
+.separador{
+    border: 2px solid #FDC318;
+    border-radius: 15px;
+}
+.separadorHorizontal{
+    border: 2px solid #FDC318;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    width: 150px;
+}

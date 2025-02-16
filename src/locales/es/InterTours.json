@@ -1,0 +1,845 @@
+{
+    "labelMenu": {
+        "resumen": "RESUMEN",
+        "itinerario": "ITINERARIO COMPLETO",
+        "incluye": "INCLUYE",
+        "extras": "EXTRAS",
+        "queLlevar": "¿QUÉ LLEVAR?",
+        "importante": "IMPORTANTE"
+    },
+    "Medellin": {
+        "seo": {
+            "title": "MEDELLÍN - 5 DÍAS / 4 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre Medellín en 5 días, visitando la Comuna 13, Plaza de Botero, Parque Explora, Guatapé, Carmen de Viboral y Santa Fe de Antioquia. Vive la cultura Paisa y el café.",
+            "keywords": [
+                "Medellín 5 días",
+                "Comuna 13",
+                "Plaza de Botero",
+                "Parque Explora",
+                "Pueblito Paisa",
+                "Guatapé",
+                "Peñol",
+                "Café Paisa",
+                "Cultura Paisa",
+                "Santa Fe de Antioquia",
+                "Turismo en Medellín",
+                "Viaje a Medellín"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/medellin-5d-4n",
+            "open_graph": {
+                "title": "Medellín 5 Días - 4 Noches",
+                "description": "Vive la cultura y los paisajes de Medellín, visitando la Comuna 13, Plaza de Botero, el Parque Explora, Guatapé y Santa Fe de Antioquia en un tour de 5 días.",
+                "url": "https://machupicchubyworld.com/medellin-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "MEDELLÍN",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Descubre la historia y cultura de Medellín con visitas a lugares icónicos como la Comuna 13, Plaza de Botero y Pueblito Paisa.",
+            "Vive experiencias únicas en el Parque Explora, el Parque Arví y la degustación del auténtico café Paisa.",
+            "Explora encantadores pueblos como Guatapé, El Peñol y Carmen de Viboral, llenos de tradición y color.",
+            "Conéctate con la auténtica cultura cafetera en un recorrido por Concepción y sus paisajes históricos.",
+            "Disfruta de un viaje cómodo con transporte, alojamiento en hoteles 4 estrellas y entradas incluidas."
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Piedra del Peñol",
+            "alt2": "Medellin",
+            "alt3": "Calles de Guatape",
+            "alt4": "Laguna de Guatape",
+            "alt5": "Plaza Botero"
+        },
+        "lugares": "Medellín - Parque Arví - piedra del peñol - el municipio de Guatapé - el municipio de Concepción - Santa Fe de Antioquia",
+        "descripcion": "¡Descubre <strong>Medellín</strong> y sus alrededores en <strong>5 días</strong> llenos de aventuras! Explora los icónicos <strong>Parques del Río</strong>, la <strong>Plaza de Botero</strong> y la <strong>Comuna 13</strong>, disfruta de las mejores vistas desde el <strong>Pueblito Paisa</strong> y recorre zonas vibrantes como el <strong>Parque Lleras</strong> y <strong>El Poblado</strong>. Vive la ciencia y el café en el <strong>Parque Explora</strong> y <strong>Pergamino Café</strong>, y sube al teleférico del <strong>Parque Arví</strong>. Además, visita los pintorescos pueblos de <strong>Carmen de Viboral</strong>, <strong>Peñol</strong>, <strong>Guatapé</strong> y <strong>Concepción</strong>, y culmina con un tour por <strong>Santa Fe de Antioquia</strong>, patrimonio de Colombia. ¡Un viaje lleno de <strong>historia</strong>, <strong>cultura</strong> y <strong>paisajes impresionantes</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Medellín – Descubre los Mejores Lugares de Día y Noche",
+                "descripcion": "En el Día 1 del City Tour Medellín, Disfruta un recorrido completo por Medellín visitando en la mañana y tarde el Parque del Río, Plaza de Botero, Pueblito Paisa y la Comuna 13. Por la noche, explora el Parque Lleras, El Poblado y Los Laureles."
+            },
+            "dia2": {
+                "titulo": "VISITA EL PARQUE EXPLORA, DEGUSTACION DEL CAFÉ Y VIVE LA EXPERIENCIA DEL PARQUE ARVI",
+                "descripcion": "El Día 2, visitaremos el Parque Explora, con su planetario y acuario amazónico. Luego, disfrutaremos del reconocido Pergamino Café y exploraremos el Parque Arví, accediendo en teleférico. La noche será libre para actividades personales."
+            },
+            "dia3": {
+                "titulo": "VISITA A CARME DE VIBORAL, EL MAJESTUOSO PEÑOL Y EL GRANDIOSO MUNICIPIO DE GUATAPÉ",
+                "descripcion": "El Día 3, visitaremos Carmen de Viboral, El Peñol y Guatapé, disfrutando de su cultura, paisajes y coloridos zócalos. Al final, podrás elegir un recorrido nocturno."
+            },
+            "dia4": {
+                "titulo": "DISFRUTA DEL MUNICIPIO DE CONCEPCION Y DISFRUTA DE CAFÉ Y DE LA CULTURA PAISA.",
+                "descripcion": "El Día 4, visitaremos Concepción, disfrutando de su paisaje y su casco urbano colonial. Luego, conocerás un establecimiento cafetero para experimentar la cultura Paisa, y por la tarde, partirás hacia Santa Fe de Antioquia."
+            },
+            "dia5": {
+                "titulo": "TOUR GUIADO A UNO DE LOS PATRIMONIOS DE COLOMBIA SANTA FE DE ANTIOQUIA Y DISFRUTA DE SUS MIRADORES",
+                "descripcion": "Recorrerás Santa Fe de Antioquia, visitando su circuito histórico, el mirador y el puente de occidente, antes de partir al aeropuerto."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "City Tour Medellín – Descubre los Mejores Lugares de Día y Noche",
+                "descripcion": [
+                    "A.M Recojo del hotel",
+                    "A.M Nuestro tour comienza con la visita del Parques del Río Medellín, un parque lineal localizado en la zona céntrica de la ciudad colombiana de Medellín que integra ambas orillas del río Medellín, el cual atraviesa la ciudad de sur a norte.",
+                    "A.M Visita el parque de los pies descalzos, un espacio temático creado con el propósito de sensibilizar a sus visitantes empezando por sus pies y terminando por su espíritu. Es ideal para caminar y relajarse.",
+                    "A.M Visita la plaza de Botero, un parque que alberga 23 monumentales esculturas de bronce donadas por el maestro antioqueño Fernando Botero.",
+                    "P.M Después podremos recorrer el Pueblito Paisa, donde disfrutarás del encanto de la arquitectura de uno de los destinos más paisas de Medellín y podrás tomarte fotos con una de las mejores panorámicas de la ciudad.",
+                    "P.M Finalizaremos con el graffiti tour con la visita a La Comuna 13, donde podremos observar una zona llena de color, murales que reflejan la historia y la cultura del barrio, y escaleras eléctricas que conectan a los residentes con el centro de la ciudad.",
+                    "<strong>CITY TOUR MADELIN TURNO NOCHE – RECORRE LOS MEJORES LUGARES DE POR LA NOCHE</strong>",
+                    "P.M Visita el Parque Lleras, el destino perfecto si quieres pasar una noche inolvidable en Medellín.",
+                    "P.M Visita El Poblado, una de las zonas de la ciudad con mayor infraestructura.",
+                    "P.M Visita Los Laureles."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VISITA EL PARQUE EXPLORA, DEGUSTACION DEL CAFÉ Y VIVE LA EXPERIENCIA DEL PARQUE ARVI",
+                "descripcion": [
+                    "A.M Visita el Parque Explora, un museo interactivo de ciencias, un planetario, un acuario con énfasis amazónico y un taller público de experimentación.",
+                    "A.M Visita el Pergamino Café y vive una experiencia única disfrutando uno de los mejores cafés.",
+                    "Visita el Parque Arví y vive una experiencia única desde el teleférico, donde podrás apreciar unas vistas panorámicas hermosas del parque.",
+                    "P.M Actividad libre por la noche."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "VISITA A CARME DE VIBORAL, EL MAJESTUOSO PEÑOL Y EL GRANDIOSO MUNICIPIO DE GUATAPÉ",
+                "descripcion": [
+                    "A.M Visita a Carmen de Viboral, paraíso cultural servido en cerámica donde son famosas las vajillas de cerámica pintadas a mano.",
+                    "Visita el Peñol, famosa por su impresionante belleza natural, su rica cultura y su arquitectura antioqueña perfectamente conservada.",
+                    "Visita el municipio de Guatapé, donde te asombrarás con cada casa, las cuales tienen un estilo muy peculiar y sus fachadas presentan interesantes diseños de zócalos; te impresionarás también por la combinación y contraste de los colores, los balcones y las angostas calles empedradas.",
+                    "Disfruta de un recorrido nocturno (a elección)."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "DISFRUTA DEL MUNICIPIO DE CONCEPCION Y DISFRUTA DE CAFÉ Y DE LA CULTURA PAISA.",
+                "descripcion": [
+                    "Visita al municipio de Concepción, donde disfrutarás del hermoso paisaje que nos acompaña para llegar al Casco Urbano de Concepción. Aquí iniciaremos nuestro viaje en el tiempo hasta finales de 1800, ya que el pueblo que vamos a visitar está enclavado en esta época con sus calles empedradas, sus casonas, iglesia y parque principal.",
+                    "Realizaremos un recorrido a un establecimiento cafetero del municipio y disfrutaremos de la vivencia de la auténtica cultura Paisa.",
+                    "P.M Salida hacia Santa Fe de Antioquia."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "TOUR GUIADO A UNO DE LOS PATRIMONIOS DE COLOMBIA SANTA FE DE ANTIOQUIA Y DISFRUTA DE SUS MIRADORES",
+                "descripcion": [
+                    "A.M Tour guiado a uno de los 18 pueblos, considerado como patrimonio de Colombia: Santa Fe de Antioquia.",
+                    "Visita al circuito histórico, mirador y puente de occidente.",
+                    "Retorno y salida al aeropuerto."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte",
+            "Ingresos a museos",
+            "Ingresos a parques y atracciones especificadas",
+            "Desayuno desde el segundo día",
+            "Cóctel de cortesía en evento nocturno en Parque Lleras",
+            "Hotel de categoría 4 estrellas"
+        ],
+        "noIncluye": [
+            "bebidas y alimentos no especificados",
+            "vuelos aereos snacks"
+        ],
+        "queLlevar": [
+            "Portar documento de identidad DNI/PASAPORTE vigente.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Cartagena": {
+        "seo": {
+            "title": "CARTAGENA - 4 DÍAS / 3 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Disfruta de Cartagena en 4 días, explorando el centro histórico, las playas de Barú, las Salinas Rosadas y el Volcán del Totumo. Navega por las Islas del Rosario.",
+            "keywords": [
+                "Cartagena 4 días",
+                "Centro histórico Cartagena",
+                "Castillo San Felipe",
+                "Getsemaní",
+                "Playa Blanca Barú",
+                "Salinas Rosadas",
+                "Volcán del Totumo",
+                "Islas del Rosario",
+                "Viaje a Cartagena",
+                "Turismo en Cartagena"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cartagena-4dias",
+            "open_graph": {
+                "title": "Cartagena 4 Días - 3 Noches",
+                "description": "Recorre Cartagena en 4 días, desde el centro histórico y el Castillo de San Felipe, hasta las playas de Barú, las Salinas Rosadas, y las Islas del Rosario.",
+                "url": "https://machupicchubyworld.com/cartagena-4dias",
+                "type": "website"
+            }
+        },
+        "title": "CARTAGENA",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "¡Recorre Cartagena y descubre el Castillo de San Felipe y el colorido Getsemaní!",
+            "Relájate en Playa Blanca, con aguas cristalinas y un delicioso almuerzo caribeño.",
+            "¡Vive la magia de las Salinas Rosadas y relájate con un baño de lodo en el Volcán del Totumo!",
+            "Explora las increíbles Islas del Rosario y disfruta de sus playas y snorkel.",
+            "Transporte, guías, hotel de 3 estrellas y desayunos incluidos para tu comodidad."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Facil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Cartagena",
+            "alt2": "balcones Cartagena",
+            "alt3": "Islas del Rosario",
+            "alt4": "Islas del Rosario",
+            "alt5": "Volcán de Lodo"
+        },
+        "lugares": "Centro Histórico y Castillo Getsemaní - Playa Blanca en Barú - Salinas Rosadas y Volcán de Lodo - Islas del Rosario",
+        "descripcion": "¡Prepárate para una <strong>aventura increíble</strong>! En <strong>4 días</strong>, descubrirás lo mejor de <strong>Cartagena</strong> y sus paradisíacas <strong>islas</strong>. Comienza explorando el vibrante <strong>centro histórico</strong> y el colorido barrio de <strong>Getsemaní</strong>. Luego, relájate en la hermosa <strong>Playa Blanca de Barú</strong>, disfrutando del mar cristalino y un delicioso almuerzo caribeño. El tercer día, maravíllate con las <strong>Salinas Rosadas</strong> y disfruta de un baño en el <strong>Volcán de Lodo</strong>, ¡ideal para tu piel! Y para cerrar con broche de oro, navega por el archipiélago de las <strong>Islas del Rosario</strong> y disfruta de la magia de <strong>San Martín de Pajarales</strong>. ¡Una <strong>experiencia inolvidable</strong> te espera!",
+        "resumen": {
+            "dia1": {
+                "titulo": "REALIZAREMOS EL RECORRIDO VISITANDO EL CENTRO HISTORICO – CASTILLO GETSEMANÍ.",
+                "descripcion": "En el Día 1, recorreremos el centro histórico de Cartagena, visitando plazas, el Parque Centenario, Getsemaní y el castillo de San Felipe, concluyendo en el centro de Getsemaní."
+            },
+            "dia2": {
+                "titulo": "VISITAMOS LA PLAYA BLANCA EN BARU, DISFRUTA DE UN PASEO PANORÁMICO HASTA ESTA ISLA CON LAS MEJORES PLAYAS.",
+                "descripcion": "En el Día 2, te recogeremos en tu alojamiento y te llevaremos a Playa Blanca en Barú, donde podrás disfrutar del mar cristalino y un almuerzo caribeño. Al finalizar la tarde, regresaremos a tu hotel."
+            },
+            "dia3": {
+                "titulo": "TOUR SALINAS ROSADAS Y VOLCAN DE LODO DISFRUTA DE LA NATURALEZA DEL CARIBE COLOMBIANO.",
+                "descripcion": "En el Día 3, exploraremos las salinas de un mar rosado y visitaremos el Volcán del Totumo, donde disfrutarás de la experiencia de la lodoterapia con lodo medicinal, ideal para la piel y el cabello, y un relajante masaje."
+            },
+            "dia4": {
+                "titulo": "REALIZA UN RECORRIDO POR LAS MEJORES PLAYAS DE LAS ISLAS DEL ROSARIO.",
+                "descripcion": "En el Día 4, con un guía profesional, disfrutarás de un recorrido panorámico por el archipiélago de las Islas del Rosario y una parada de 1 hora en la isla San Martín de Pajarales."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "REALIZAREMOS EL RECORRIDO VISITANDO EL CENTRO HISTORICO – CASTILLO GETSEMANÍ",
+                "descripcion": [
+                    "Comenzaremos nuestro tour por Cartagena de Indias reuniéndonos a la hora indicada en el corazón de la ciudad.",
+                    "Tras una breve introducción, iniciaremos el recorrido visitando las zonas más emblemáticas del centro histórico de Cartagena de Indias. Pasaremos primero por las plazas de Santa Teresa y San Pedro Claver. A continuación, nos detendremos en la emblemática plaza de la Aduana y, desde allí, seguiremos hasta la plaza de los Coches.",
+                    "Después, pasaremos bajo los arcos de la torre del Reloj y alcanzaremos así el Parque Centenario: una de las principales zonas verdes del casco antiguo de Cartagena de Indias.",
+                    "Tras conocer su historia, nos adentraremos en el precioso barrio de Getsemaní. Recorreremos la Sierpe y la colorida calle de San Juan, famosa por sus murales. Después, seguiremos por el callejón Ancho hasta un mirador desde el que veremos el castillo de San Felipe de Barajas.",
+                    "Tras un recorrido de aproximadamente dos horas y media, concluiremos el tour en el centro de Getsemaní."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VISITAMOS LA PLAYA BLANCA EN BARU, DISFRUTA DE UN PASEO PANORÁMICO HASTA ESTA ISLA CON LAS MEJORES PLAYAS.",
+                "descripcion": [
+                    "Esta actividad comienza cuando te recogemos en tu lugar de alojamiento. Posteriormente te trasladamos vía terrestre a Playa Blanca en Barú en un bus cómodo y climatizado.",
+                    "El recorrido es de una hora aproximadamente hasta este hermoso y paradisíaco lugar. Aquí podrás disfrutar de un mar cristalino y un típico almuerzo caribeño.",
+                    "Al finalizar la tarde retornamos a la zona de los hoteles donde te habíamos recogido en las horas de la mañana."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "TOUR SALINAS ROSADAS Y VOLCAN DE LODO DISFRUTA DE LA NATURALEZA DEL CARIBE COLOMBIANO.",
+                "descripcion": [
+                    "El lugar cuenta con una gran historia y sus salinas se roban todo el show, ya que le brindan a las aguas formando el mar rosado intenso.",
+                    "Volcán del Totumo, un volcán de 1.2 metros de altura en el que entrarás para vivir la experiencia de gravedad, ya que no te hundes. Disfrutarás de lodoterapia con un lodo frío que tiene propiedades medicinales para la piel y el cabello, donde podrás disfrutar de un masaje relajante."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "REALIZA UN RECORRIDO POR LAS MEJORES PLAYAS DE LAS ISLAS DEL ROSARIO.",
+                "descripcion": [
+                    "Acompañamiento de guía profesional para todo el grupo, el cual dará recomendaciones e instrucciones.",
+                    "Recorrido panorámico por el archipiélago de las islas del Rosario.",
+                    "Parada de 1 hora en la isla San Martín de Pajarales.",
+                    "Entrada al oceanário. Costo por persona COP $ 30.000. (Opcional)",
+                    "Actividad de snorkel. Costo por persona COP $ 35.000. (Opcional)",
+                    "Almuerzo típico (arroz de coco, ensalada, patacón, pescado o pollo frito). (Opcional)",
+                    "Regresamos a las 3:30 pm aproximadamente hacia Cartagena. (Opcional)"
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte para cada tour",
+            "Guía local para cada tour",
+            "Desayunos incluidos en el hotel",
+            "Hotel de 3 estrellas"
+        ],
+        "noIncluye": [
+            "Bebidas y alimentos no especificados",
+            "Almuerzos y cenas",
+            "Ingreso al volcán de lodo"
+        ],
+        "queLlevar": [
+            "Portar documento de identidad DNI/PASAPORTE vigente.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Uyuni": {
+        "seo": {
+            "title": "SALAR DE UYUNI - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Disfruta de un día completo en el Salar de Uyuni, visitando el Cementerio de Trenes, la Escalera al Cielo, la Isla Incahuasi y un atardecer inolvidable en el salar.",
+            "keywords": [
+                "Salar de Uyuni",
+                "Full Day Uyuni",
+                "Escalera al Cielo",
+                "Isla Incahuasi",
+                "Cementerio de Trenes",
+                "Viaje a Uyuni",
+                "Tour Uyuni",
+                "Salar de Bolivia",
+                "Atardecer en Uyuni",
+                "Aventura en Uyuni"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/salar-de-uyuni-full-day",
+            "open_graph": {
+                "title": "Salar de Uyuni Full Day",
+                "description": "Vive un día completo explorando el Salar de Uyuni: el Cementerio de Trenes, la Escalera al Cielo, la Isla Incahuasi y un atardecer único.",
+                "url": "https://machupicchubyworld.com/salar-de-uyuni-full-day",
+                "type": "website"
+            }
+        },
+        "title": "SALAR DE UYUNI - BOLIVIA",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Recorre el Salar de Uyuni en transporte 4x4 con un guía experto, ideal para tomar fotos memorables.",
+            "Explora el Salar con botas especiales y visita lugares icónicos como la Escalera al Cielo y la Isla Incahuasi.",
+            "Disfruta de un almuerzo en el salar, acompañado de vino y piqueo mientras capturas el atardecer.",
+            "Conoce el Cementerio de Trenes y el pueblo de Colchani, aprendiendo sobre la minería de sal y la cultura local.",
+            "Vive un atardecer fotográfico en el salar con un equipo de guías para una experiencia única."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Vista panoramica del Salar del Uyuni",
+            "alt2": "Salar del Uyuni",
+            "alt3": "Nuestros viajeros en el Salar de Uyuni",
+            "alt4": "Nuestros viajeros en el Salar de Uyuni",
+            "alt5": "Nuestros viajeros en el Salar de Uyuni"
+        },
+        "lugares": "Cementerio de Trenes - Salar de Uyuni - Escalera al Cielo - Isla Incahuasi",
+        "descripcion": "¡Vive un <strong>Full Day inolvidable</strong> en <strong>Uyuni</strong>! Comienza con un recibimiento en el <strong>terminal</strong>, un desayuno y una aventura que incluye el <strong>Cementerio de Trenes</strong>, el imponente <strong>Salar de Uyuni</strong>, los <strong>Ojos de Sal</strong>, la mágica <strong>Escalera al Cielo</strong> y la <strong>Isla Incahuasi</strong>. Disfruta de un almuerzo en medio del salar, un <strong>atardecer espectacular</strong> y termina el día con vino y piqueo. ¡Todo en un día lleno de sorpresas y <strong>paisajes impresionantes</strong>!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "SALAR DE UYUNI",
+                "descripcion": [
+                    "4:30 - 5:00 A.M Llegada al terminal terrestre de Uyuni. Nuestro personal estará esperando con su nombre para luego poder ir a dejar sus cosas en la oficina.",
+                    "Tiempo libre Desayuno por cuenta propia.",
+                    "10:00 A.M Nos reuniremos todo el grupo en una dirección muy específica o en la puerta de la oficina para ser distribuidos en las camionetas (6 a 8 personas por camioneta). Luego iniciamos la travesía hacia la primera parada.",
+                    "A.M Visita al Cementerio de Trenes, donde se pueden ver locomotoras de vapor del siglo XIX y XX, ideal para fotografías. Luego nos dirigimos para que nuestro guía entregue las botas correspondientes para la visita del Salar de Uyuni.",
+                    "A.M Visita guiada al pueblo de Colchani para conocer los ingenios mineros de sal de la Cooperativa Rosario.",
+                    "P.M Visitas guiadas a los montones de sal y a los ojos de sal.",
+                    "P.M Visita guiada a la Escalera al Cielo, una obra de arte del artista boliviano Gastón Ugalde.",
+                    "P.M Visita guiada al Hotel de Sal, donde apreciaremos las inmensas construcciones.",
+                    "P.M Visita a la plazoleta de las banderas en el Salar de Uyuni.",
+                    "P.M Visita al monumento al Dakar.",
+                    "P.M Almuerzo en medio del salar y posterior visita a la Isla Incahuasi.",
+                    "P.M Atardecer fotográfico, capturando las tonalidades del cielo y el salar al caer el día, con vino y piqueo.",
+                    "P.M Retorno hacia La Paz y viaje hacia La Paz esa misma noche o quedarse a dormir en Uyuni, dependiendo de la disponibilidad de cada persona."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del Terminal terrestre",
+            "Botas para caminar en el Salar",
+            "Transporte 4x4",
+            "Chofer guía",
+            "01 almuerzo",
+            "Fotografías y videos",
+            "Vino y piqueo",
+            "Almacenamiento de equipaje"
+        ],
+        "noIncluye": [
+            "Ingreso a la Isla Incahuasi",
+            "Baños públicos",
+            "Desayuno y cena",
+            "Ingreso a Escalera al Cielo (15 Bolivianos)",
+            "Fotos con otras Caricaturas"
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "DNI/PASS",
+            "El mejor outfit para fotos",
+            "Bloqueador solar",
+            "Gorra/sombrero",
+            "Trae una muda de ropa"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "13dias": {
+        "seo": {
+            "title": "13 Días por Perú y Bolivia | MACHUPICCHU BY WORLD",
+            "meta_description": "¡Disfruta de 13 días de aventura recorriendo Perú y Bolivia! Desde Lima a Machupicchu, pasando por Ica, Nazca, Cusco, Puno, el Salar de Uyuni y más.",
+            "keywords": [
+                "13 días Perú y Bolivia",
+                "Tour en Perú",
+                "Salar de Uyuni",
+                "Líneas de Nazca",
+                "Cultura peruana",
+                "Machupicchu",
+                "Valle Sagrado",
+                "Laguna Humantay",
+                "Montaña de Colores",
+                "Islas de Uros",
+                "Aventura Perú Bolivia",
+                "Perú y Bolivia",
+                "Viaje Perú",
+                "Tour Machupicchu",
+                "Islas Ballestas",
+                "Lima a Machupicchu"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/ica-nazca-cusco-puno-bolivia-la-paz-salar-de-uyuni-13d-12n",
+            "open_graph": {
+                "title": "13 Días por Perú y Bolivia",
+                "description": "Vive una experiencia única durante 13 días por Perú y Bolivia, visitando Ica, Nazca, Cusco, Puno, el Salar de Uyuni y Machupicchu.",
+                "url": "https://machupicchubyworld.com/ica-nazca-cusco-puno-bolivia-la-paz-salar-de-uyuni-13d-12n",
+                "type": "website"
+            }
+        },
+        "title": "Ica, Nazca, Cusco, Puno, Bolivia - La Paz, Salar De Uyuni",
+        "day": "13 Días / 12 Noches",
+        "puntosClave": [
+            "¡13 días de aventura por Perú, desde Lima hasta Machupicchu!",
+            "Sobrevolamos Nazca, hacemos sandboarding y exploramos el Valle Sagrado.",
+            "Incluye transporte, guías, entradas y hoteles cómodos.",
+            "Disfruta sin estrés con asistencia 24/7.",
+            "Paisajes, cultura y sabores inolvidables en cada parada.",
+            "Cerramos con Machupicchu, Humantay y vistas espectaculares."
+        ],
+        "details": {
+            "duracion": "13 Días / 12 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Plaza de armas de Lima",
+            "alt2": "Costa Verde - Lima",
+            "alt3": "Islas Ballestas",
+            "alt4": "Huacachina",
+            "alt5": "Linea de Nazca - Colibri",
+            "alt6": "Plaza de armas del Cuzco",
+            "alt7": "Moray",
+            "alt8": "Machupicchu",
+            "alt9": "Laguna Humantay",
+            "alt10": "Montaña de colores",
+            "alt11": "Islas de Uros",
+            "alt12": "Islas de Uros",
+            "alt14": "Salar de Uyuni"
+        },
+        "lugares": "Lima - Islas Ballestas (Paracas) - Ica y Huacachina - Líneas de Nazca - Cusco - Valle Sagrado de los Incas - Machupicchu - Laguna Humantay - Montaña de Colores - Islas de Uros y Amantani (Lago Titicaca) - Salar de Uyuni - La Paz.",
+        "descripcion": "El paquete <strong>Ica, Nazca, Cusco, Puno, Bolivia-La Paz, Salar de Uyuni - 13 días</strong> te ofrece una <strong>experiencia única</strong>, combinando lo mejor de <strong>Perú</strong> y <strong>Bolivia</strong>. A lo largo de 13 días, descubrirás el misterio de las <strong>Líneas de Nazca</strong>, la historia milenaria de <strong>Cusco</strong> y <strong>Machupicchu</strong>, la majestuosidad del <strong>Lago Titicaca</strong> en <strong>Puno</strong>, y la vibrante ciudad de <strong>La Paz</strong> en Bolivia. El recorrido culmina con una visita inolvidable al deslumbrante <strong>Salar de Uyuni</strong>, el salar más grande del mundo. Este paquete es perfecto para quienes desean explorar la <strong>riqueza cultural</strong>, <strong>paisajística</strong> y <strong>arqueológica</strong> de ambos países en un solo viaje.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": " Bienvenida A La Ciudad De Lima - Traslado Del Aeropuerto A Su Respectivo Hotel Por Cuenta Propia.",
+                "descripcion": [
+                    "Salida de su destino hacia la ciudad de Lima.",
+                    "Traslado Aeropuerto a su respectivo hotel por cuenta propia.",
+                    "Explicación detallada de su itinerario vía WhatsApp.",
+                    "Pernocta en su respectivo hotel de la ciudad de Lima."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour De Islas Ballestas Paracas - Ica Huacachina Full Day.",
+                "descripcion": [
+                    "04:20 a.m. Salida de Lima hacia Ica (5 a 6 horas de viaje).",
+                    "Parada para desayuno y continuación hacia Paracas.",
+                    "Llegada a Paracas y tour en deslizadores a las Islas Ballestas, donde se observarán 'El Candelabro', aves guaneras, lobos marinos y pingüinos de Humboldt.",
+                    "Viaje a Ica para visitar un viñedo, conocer el proceso de elaboración de vinos y piscos, y realizar una degustación.",
+                    "Visita al oasis de Huacachina, un lugar rodeado de palmeras y dunas, ideal para relajarse. Se realizarán actividades como el paseo en tubulares y sandboarding.",
+                    "18:30 p.m. Traslado por cuenta propia al terminal terrestre de Ica.",
+                    "19:00 p.m. Bus hacia Nazca (2 horas de viaje). Pernocte en hotel en Nazca."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español.",
+                    "Asistencia permanente 24/7.",
+                    "Ingreso a las Islas Ballestas.",
+                    "Ingreso al oasis de Huacachina.",
+                    "Sandboarding (tabla para deslizarse en la arena).",
+                    "Bote y chaleco salvavidas.",
+                    "Bus de Ica a Nazca.",
+                    "Hotel en la ciudad de Nazca."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Desayuno, almuerzo y cena.",
+                    "Recojo del hotel para el tour."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Sobrevuelo por las Líneas de Nazca - Duración del tour: 30 minutos aprox.",
+                "descripcion": [
+                    "Recojo y traslado: Recojo en su hotel y traslado al Aeropuerto María Reiche.",
+                    "Vuelo sobre las Líneas de Nazca: El vuelo tiene una duración de 30 minutos y le permitirá observar 13 figuras emblemáticas, como El Astronauta (135 metros), el colibrí (97 metros), el mono (110 metros) y el cóndor (135 metros). Antes del vuelo, se proyectará un video informativo sobre las teorías que rodean las líneas de Nazca.",
+                    "Detalles del vuelo: La flota está compuesta por aeronaves Cessna modelos 206 y 172. Volamos con un piloto y un guía turístico, asegurando información completa durante el recorrido. El vuelo se realiza a la derecha y a la izquierda alrededor de las figuras, para que todos los pasajeros puedan observarlas sin inconvenientes.",
+                    "Fin del tour y retorno a Lima: Al finalizar el sobrevuelo, dispondrá de tiempo libre para almorzar. Luego, se dirigirá al terminal terrestre para tomar el bus de regreso a Lima. El viaje dura aproximadamente 7 horas.",
+                    "Alojamiento: Pernocte en el hotel en Lima."
+                ],
+                "incluye": [
+                    "Sobrevuelo de 35 minutos.",
+                    "Narración del recorrido.",
+                    "Certificado de vuelo.",
+                    "Asistencia permanente 24/7.",
+                    "Bus Nazca - Lima.",
+                    "Noche de hotel en Lima."
+                ],
+                "noIncluye": [
+                    "Desayuno, almuerzo, cena.",
+                    "Gastos extras fuera del servicio.",
+                    "Tasa aeroportuaria de S/. 30.",
+                    "Boleto turístico de S/. 47."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Bienvenida y Aclimatación en Cusco con City Tour (Medio Día)",
+                "descripcion": [
+                    "<strong>DÍA 4 – BIENVENIDA A LA CIUDAD DE CUSCO - TRASLADO DEL AEROPUERTO A SU RESPECTIVO HOTEL</strong>",
+                    "Salida de Lima a Cusco.",
+                    "Recepción en el aeropuerto Alejandro Velasco Astete.",
+                    "Traslado del aeropuerto a su respectivo hotel.",
+                    "Explicación detallada de su itinerario.",
+                    "Matecito de coca. Bienvenido a la ciudad de Cusco.",
+                    "<strong>DÍA 4 - CITY TOUR – TURNO MAÑANA. DURACIÓN DEL TOUR: MEDIO DÍA. DÍA DE ACLIMATACIÓN EN LA CIUDAD DE CUSCO.</strong>",
+                    "09:50 A.M. a 10:10 A.M. Recojo del hotel para el city tour de la mañana.",
+                    "Visita guiada a la fortaleza de Sacsayhuamán, donde se pueden tomar fotos con vistas a la ciudad del Cusco. Luego, se visita el Cristo Blanco para más fotografías.",
+                    "Visita guiada al centro ceremonial de Qenqo, donde se realizan agradecimientos a las deidades mediante sacrificios de llama y derrame de AQHA (chicha). Se continúa hacia los bosques cercanos al sitio arqueológico.",
+                    "Visita guiada a la fortaleza de Puca Pucara, un ícono de control militar para la defensa de la ruta.",
+                    "Visita guiada a Tambomachay, donde se observan canalizaciones de agua que se mantienen constantes en lluvia y sequía.",
+                    "13:30 P.M. a 14:00 P.M. Retorno a la ciudad de Cusco, cerca de la plaza principal, para dirigirse al hotel por cuenta propia.",
+                    "Tiempo libre para almorzar, explorar las calles tradicionales y museos de Cusco, y cenar.",
+                    "Pernocte en el hotel respectivo."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español/inglés.",
+                    "Recojo del hotel.",
+                    "Ticket de ingreso para los centros arqueológicos (BTG).",
+                    "Asistencia permanente 24/7."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Desayuno, almuerzo y cena."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Valle Sagrado de los Incas VIP Full Day – Conexión a Machupicchu. Pernocte en Aguas Calientes.",
+                "descripcion": [
+                    "06:40 a 07:00 A.M. Recojo de su hotel para el tour del Valle VIP.",
+                    "Visita al centro arqueológico de Chinchero, donde se aprecian las construcciones incaicas y la iglesia colonial.",
+                    "Visita al centro textil Chinchero para aprender sobre la elaboración de prendas de alpaca.",
+                    "Viaje al centro agrícola de Moray, usado en tiempos incas para la siembra de productos.",
+                    "Visita a las salineras de Maras, donde se pueden ver aproximadamente 2,300 pozas.",
+                    "Almuerzo en Urubamba.",
+                    "Visita al complejo arqueológico de Ollantaytambo.",
+                    "15:00 P.M. a 15:30 P.M. Fin del tour; se queda en Ollantaytambo para viajar a Machupicchu Pueblo esa noche.",
+                    "Dirígete a la estación de tren en Ollantaytambo y aborda el tren con destino a Aguas Calientes.",
+                    "Recepción en Aguas Calientes y pernocte en el hotel."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español/inglés.",
+                    "Recojo del hotel.",
+                    "Asistencia permanente 24/7.",
+                    "Ingreso a los complejos arqueológicos (BTG).",
+                    "Ticket para las salineras de Maras.",
+                    "Almuerzo buffet en Urubamba.",
+                    "Ticket de tren de Ollantaytambo a Aguas Calientes.",
+                    "Hotel en Aguas Calientes."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Cena."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "Tour De Machupicchu Full Day",
+                "descripcion": [
+                    "05:30 a 08:00 A.M. Desayuno en el hotel.",
+                    "Tiempo libre para visitar los baños termales, el mariposario o el museo de Manuel Chávez Ballón, y para almorzar.",
+                    "10:00 A.M. Check-in en la estación de bus respectivo.",
+                    "10:20 A.M. Abordar el bus hacia Machupicchu.",
+                    "11:00 A.M. Visita guiada al santuario histórico de Machupicchu (aprox. 2 horas), disfrutando del paisaje y la flora.",
+                    "Tiempo libre para fotos en Machupicchu y abordar el bus de regreso a Aguas Calientes.",
+                    "Tiempo libre para almorzar y opción de visitar los baños termales.",
+                    "Preséntese 30 minutos antes de la salida del tren, con su DNI o pasaporte y tarjeta de embarque.",
+                    "18:20 o 19:00 P.M. Salida del tren a Ollantaytambo (1 hora y 40 minutos de viaje).",
+                    "Transporte de Ollantaytambo a Cusco, llegando a la Av. El Sol o estación de Wánchaq. Luego, dirígete a su hotel.",
+                    "Pernocte en Cusco."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español/inglés.",
+                    "Recojo del hotel.",
+                    "Asistencia permanente 24/7.",
+                    "Ingreso al complejo arqueológico de Machupicchu.",
+                    "Bus Consettur (subida y bajada).",
+                    "Ticket de tren Aguas Calientes - Ollantaytambo.",
+                    "Bus Ollantaytambo - Cusco.",
+                    "Hotel en la ciudad de Cusco."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Almuerzo y cena.",
+                    "Baños termales de Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "Tour De Laguna Humantay FULL DAY.",
+                "descripcion": [
+                    "04:40 a 05:10 A.M. Recojo de su hotel para el tour a la Laguna Humantay. Parada en el pueblo de Mollepata para compras.",
+                    "Desayuno en Mollepata y viaje a Challacancha, disfrutando del nevado Humantay.",
+                    "09:00 A.M. Caminata hacia la laguna de Humantay (aproximadamente 1.5 horas), observando la flora y fauna, como aves y, si hay suerte, la Vizcacha.",
+                    "Visita guiada en la Laguna Humantay; tiempo para tomar fotos.",
+                    "Retorno de la laguna (aproximadamente 1.5 horas).",
+                    "Almuerzo buffet en Mollepata.",
+                    "14:40 P.M. Retorno en bus a Cusco.",
+                    "16:30 a 17:30 P.M. Arribo a Cusco, plaza San Francisco, y traslado al hotel designado.",
+                    "Pernocte en Cusco."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español/inglés.",
+                    "Recojo del hotel.",
+                    "Asistencia permanente 24/7.",
+                    "Ingreso a la Laguna Humantay.",
+                    "Desayuno y almuerzo en Mollepata.",
+                    "Bastones de apoyo para la caminata.",
+                    "Hotel en la ciudad de Cusco."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Cena.",
+                    "Caballos para el tour."
+                ]
+            },
+            {
+                "dia": "8",
+                "titulo": "Tour De Montaña De Colores - FULL DAY. Por La Noche Viaja A La Ciudad De Puno.",
+                "descripcion": [
+                    "04:30 a 05:00 A.M. Recojo del hotel para el Tour de Montaña de Colores.",
+                    "Salida desde Cusco hacia el sur, con un viaje de aproximadamente 2 horas y 30 minutos, pasando por el centro arqueológico de Pikillaqta.",
+                    "Desayuno en el pueblo de Cusi Pata, donde se ofrecen productos andinos, incluido el pan chuta Huaro.",
+                    "Continuamos el viaje en transporte turístico durante 1 hora y 15 minutos hasta el inicio de la caminata.",
+                    "09:00 A.M. Comienza la caminata hacia la Montaña de Colores (aproximadamente 1.5 horas), con vistas a nevados, flora y fauna de la zona.",
+                    "Visita guiada en la Montaña de Colores (45 minutos) para tomar fotos. Esta montaña, situada a 5,036 m.s.n.m, es uno de los destinos naturales más visitados de Cusco, con el nevado Ausangate frente a ella.",
+                    "Caminata de regreso desde la Montaña de Colores hasta el estacionamiento en Chillihuani (aproximadamente 1 hora).",
+                    "Almuerzo semi buffet andino en Cusi Pata, con opciones vegetarianas disponibles previa solicitud.",
+                    "14:40 P.M. Regreso a Cusco (tiempo de viaje aproximado: 2 horas).",
+                    "16:30 a 17:30 P.M. Arribo a Cusco, cerca de la plaza principal. Traslado al hotel por cuenta propia.",
+                    "Tarde libre para cenar antes de partir hacia Puno.",
+                    "Traslado al terminal terrestre 30 minutos antes de su viaje.",
+                    "10:00 P.M. Salida del bus hacia la ciudad de Puno."
+                ],
+                "incluye": [
+                    "Transporte turístico.",
+                    "Guía en español/inglés.",
+                    "Recojo del hotel.",
+                    "Asistencia permanente 24/7.",
+                    "Almuerzo buffet en Cusi Pata.",
+                    "Ingreso a la Montaña de Colores.",
+                    "Desayuno en Cusi Pata.",
+                    "Mantenimiento de ruta en Cusi Pata.",
+                    "Bastones de apoyo para la caminata.",
+                    "Traslado al terminal terrestre.",
+                    "Bus Cusco - Puno."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Caballos para el tour."
+                ]
+            },
+            {
+                "dia": "9",
+                "titulo": "Tour En Las Islas De Urus Y Amantani - FULL DAY.",
+                "descripcion": [
+                    "04:30 a 05:00 A.M. Llegada de La Paz hacia Puno. El personal de la Agencia Machupicchu By World estará esperando para dirigirse al puerto principal de Puno.",
+                    "06:40 a 07:20 A.M. Abordaje de la lancha para recorrer los principales atractivos de la ciudad de Puno.",
+                    "Navegación por el lago Titicaca, el lago más grande del mundo.",
+                    "Visita y explicación por parte de los pobladores de la comunidad en la isla de Uros.",
+                    "Opción de abordar el famoso “Mercedes Benz”, con un costo de 15 soles por persona.",
+                    "Partida hacia la isla de Amantani, donde se puede apreciar la diversidad de la fauna y flora de la región.",
+                    "Almuerzo en casas familiares en la isla de Amantani.",
+                    "Visita a los atractivos turísticos de Llachón y Amantani, recomendada por su enfoque en la renovación y mantenimiento de la identidad cultural.",
+                    "Pernocte en la ciudad de Puno."
+                ],
+                "incluye": [
+                    "Embarcación turística.",
+                    "Guía en español.",
+                    "Ingreso a la isla.",
+                    "Hotel en la ciudad de Puno.",
+                    "Almuerzo en Amantani."
+                ],
+                "noIncluye": [
+                    "Gastos extras fuera del servicio.",
+                    "Desayuno y cena."
+                ]
+            },
+            {
+                "dia": "10",
+                "titulo": "Viaje Desde La Ciudad De Puno A La Paz Y Salar De Uyuni.",
+                "descripcion": [
+                    "05:45 A.M. Salida desde la ciudad de Puno hacia La Paz, Bolivia. El viaje dura aproximadamente 7 horas, llegando alrededor de la 1:00 P.M.",
+                    "Almuerzo en La Paz por cuenta propia.",
+                    "Tiempo libre para pasear por los teleféricos (opcional) y para cenar.",
+                    "30 minutos antes de la salida, estar en el terminal de buses.",
+                    "10:00 P.M. Salida de La Paz hacia el Salar de Uyuni en un viaje en bus de aproximadamente 10 horas.",
+                    "Duerme en el bus cama."
+                ]
+            },
+            {
+                "dia": "11",
+                "titulo": "Tour Del Salar De Uyuni - FULL DAY.",
+                "descripcion": [
+                    "Tiempo libre para desayunar por cuenta propia.",
+                    "10:30 A.M. Recojo para comenzar el tour.",
+                    "Visita al cementerio de trenes, donde se pueden ver locomotoras de vapor del siglo XIX y XX, ideal para fotografías.",
+                    "Visita guiada al pueblo de Colchani para conocer los ingenios mineros de sal de la Cooperativa Rosario.",
+                    "Visitas guiadas a los montones de sal y a los ojos de sal.",
+                    "Visita guiada a la escalera al cielo, una obra de arte del artista boliviano Gastón Ugalde.",
+                    "Visita guiada al hotel de sal.",
+                    "Visita a la plazoleta de las banderas en el salar de Uyuni.",
+                    "Visita al monumento al Dakar.",
+                    "Almuerzo en medio del salar y posterior visita a la Isla Incahuasi.",
+                    "Atardecer fotográfico, capturando las tonalidades del cielo y el salar al caer el día, con vino y piqueo.",
+                    "Retorno hacia La Paz y dormir en el bus."
+                ],
+                "incluye": [
+                    "Transporte 4x4.",
+                    "Chofer guía.",
+                    "01 almuerzo.",
+                    "Fotografías y videos.",
+                    "Vino y piqueo.",
+                    "Bus Puno - La Paz - Cusco.",
+                    "Bus La Paz - Salar de Uyuni - La Paz."
+                ],
+                "noIncluye": [
+                    "Baños públicos.",
+                    "Desayuno y cena."
+                ]
+            },
+            {
+                "dia": "12",
+                "titulo": "Viaje Desde La Paz - Bolivia Hacia La Ciudad De Cusco.",
+                "descripcion": [
+                    "Tiempo libre para poder desayunar.",
+                    "7:40 A.M Salida de bus desde La Paz hacia la ciudad de Cusco, el viaje dura aproximadamente 11 horas con 30 minutos.",
+                    "Tiempo libre para cenar en la ciudad de Cusco.",
+                    "Pernocte en su respectivo hotel."
+                ]
+            },
+            {
+                "dia": "13",
+                "titulo": "Traslado Del Hotel Hacia El Aeropuerto Dos Horas Antes De Su Viaje.",
+                "descripcion": [
+                    "6:30 a 9:00 A.M: Tiempo libre para poder desayunar, en el hotel.",
+                    "Tiempo libre para poder descansar o realizar otras actividades, según su horario de vuelo.",
+                    "Traslado del hotel hacia el aeropuerto dos horas antes de su vuelo, previa coordinación."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo y traslado del Aeropuerto Cusco",
+            "01 almuerzo buffet en la localidad de Urubamba",
+            "01 noche de hotel en Aguas Calientes, Machupicchu",
+            "04 noches de hotel en la ciudad de Cusco",
+            "02 noches de hotel en la ciudad de Lima",
+            "01 noche de hotel en Nazca",
+            "01 noche de hotel en Puno",
+            "04 boletos de bus cama",
+            "02 desayunos y 02 almuerzos en la ruta de la montaña de colores y Laguna Humantay",
+            "01 almuerzo en Amantani",
+            "01 almuerzo en el Salar de Uyuni",
+            "Bastones de apoyo para la ruta de la montaña de colores y Laguna Humantay",
+            "Vuelo Cusco-Lima-Cusco (Equipaje solo 8 kilos)",
+            "Traslado Aeropuerto-Hotel-Hotel-Lima-Aeropuerto",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Ingreso a las lineas de Nazca y tasa aeropuertaria total 77 soles",
+            "Hotel en la ciudad de Lima",
+            "Desayunos, almuerzos y cenas no mencionados",
+            "Gastos extras que tengan fuera del servicio",
+            "Ingreso a los baños termales",
+            "Almuerzo y cena en el tour de Machupicchu",
+            "Boletos de bus para Puno"
+        ],
+        "extras": [
+            "Guía turístico especializado: Acompañamiento de guías locales expertos en cada región",
+            "Transporte privado: Transporte cómodo y seguro durante todo el recorrido",
+            "Asistencia en aclimatación: Consejos y recomendaciones para una mejor adaptación a la altitud",
+            "Opciones de comidas: Recomendaciones sobre restaurantes locales y opciones gastronómicas",
+            "Seguro de viaje: Opción de adquirir un seguro que cubra eventualidades durante el tour"
+        ],
+        "queLlevar": [
+            "Documento de identidad en físico (DNI - Pasaporte)",
+            "Dinero en soles para sus gastos extras",
+            "Sombrero o gorra para el calor",
+            "Poncho de lluvias",
+            "Ropa abrigadora",
+            "Zapatillas adecuadas para el tour",
+            "Muda de ropa",
+            "Repelente para mosquitos",
+            "Bloqueador solar"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    }
+}

@@ -1,0 +1,163 @@
+.ItinerarioCompletoPrincipal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: "Poppins", sans-serif;
+    width: 90%;
+    margin-left: 50px;
+}
+
+.ItinerarioCompletoContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 25px;
+    gap: 30px;
+}
+
+.ItinerarioCompletoTituloPrincipal {
+    color: #006D3B;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.ItinerarioCompletoTitulo {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.ItinerarioCompletoTitulo,
+.ItinerarioCompletoSubtitulo {
+    display: flex;
+    gap: 10px;
+    color: #006D3B;
+    font-family: "Outfit", sans-serif;
+}
+
+.ItinerarioCompletoTitulo>h3 {
+    color: #fff;
+    background-color: #FDC318;
+    border-radius: 8px;
+    padding: 3px 20px;
+    font-family: "Outfit", sans-serif;
+}
+
+.ItinerarioCompletoTitulo>p {
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #006D3B;
+}
+
+.ItinerarioCompletoText {
+    flex: 1;
+    word-wrap: break-word;
+    text-align: left;
+    margin: -2.5rem 40px 0;
+}
+
+.ItinerarioCompletoText>ul {
+    list-style-type: disc;
+    line-height: 30px;
+}
+
+.ItinerarioLista {
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.ItinerarioLista>p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.ItinerarioCompletoContent:not(:last-child) {
+    border-bottom: 2px dashed #FDC318;
+    padding: 0 0 5px;
+    margin-bottom: 10px;
+}
+
+.BotonDesplegable {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+
+.ItinerarioCompletoIncluye {
+    width: 90%;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    /* Asegura que el padding y border no afecten el ancho total */
+    overflow: hidden;
+}
+
+.ItinerarioCompletoNoIncluye {
+    width: 90%;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    /* Asegura que el padding y border no afecten el ancho total */
+    overflow: hidden;
+}
+
+.TituloIncluye {
+    display: flex;
+    all: unset;
+    color: #006D3B;
+    padding: 15px;
+    margin: 0;
+    border: 1px solid #c0c0c0;
+    width: 100%;
+    display: flex;
+    /* Coloca los elementos en una fila */
+    justify-content: space-between;
+    /* Separa el texto y el ícono en las esquinas */
+    align-items: center;
+    /* Centra los elementos verticalmente */
+    box-sizing: border-box;
+
+}
+
+.TituloIncluye:hover {
+    all: unset;
+    color: #006D3B;
+    padding: 15px;
+    margin: 0;
+    border: 1px solid #c0c0c0;
+    width: 100%;
+    display: flex;
+    /* Coloca los elementos en una fila */
+    justify-content: space-between;
+    /* Separa el texto y el ícono en las esquinas */
+    align-items: center;
+    /* Centra los elementos verticalmente */
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.ListaIncluye>li {
+    display: flex;
+    align-items: center;
+}
+
+.ListaIncluye {
+    border-left: 1px solid #c0c0c0;
+    /* Borde izquierdo */
+    border-right: 1px solid #c0c0c0;
+    /* Borde derecho */
+    border-bottom: 1px solid #c0c0c0;
+    /* Borde inferior */
+    margin: 0;
+    padding: 20px;
+}
+
+.IconDay {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+}

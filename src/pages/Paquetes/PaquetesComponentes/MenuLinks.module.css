@@ -1,0 +1,180 @@
+.dropdownContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    gap: 0.5rem;
+}
+
+.dropdownHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 1.2rem 1rem 1.2rem;
+    background-color: #0D643A;
+    border: 1px solid #ddd;
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+.dropdownHeader:hover {
+    background-color: #0d643ada;
+}
+
+.dropdownOptions {
+    padding: 10px;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.15);
+    /* Sombra más oscura y pronunciada */
+    clip-path: inset(-10px -10px 0 -10px);
+    /* Oculta la sombra en la parte superior */
+    /* Opcional: bordes redondeados en la parte inferior */
+}
+
+.dropdownOption a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 0;
+    display: block;
+}
+
+.dropdownOption a:hover {
+    color: #007bff;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 15px;
+    /* Tamaño del texto */
+    font-family: 'outfit', sans-serif;
+    font-weight: 400;
+}
+
+.dropdownHeader:hover {
+    color: #FDC318;
+    /* Cambia el color al pasar el mouse */
+}
+
+.arrow {
+    transition: transform 0.3s ease;
+    /* Añade una transición suave para la rotación */
+}
+
+.arrow.up {
+    transform: rotate(180deg);
+    /* Rota el ícono cuando el dropdown está abierto */
+}
+
+.dropdownOptions {
+    background-color: #f9f9f9;
+}
+
+.dropdownOption {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.dropdownOption a {
+    color: #333;
+}
+
+.dropdownOption a:hover {
+    color: #0D643A;
+    text-decoration: underline;
+}
+
+.dropdownContainerTitulo {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* CSS de la imagen */
+.container {
+    position: relative;
+    width: 100%;
+    height: 480px;
+    /* Ajusta el alto según lo necesites */
+    overflow: hidden;
+    /* Esto evita que el contenido se salga del contenedor */
+    background-color: #0D643A;
+    margin-top: 2rem;
+}
+
+.image {
+    width: 100%;
+    /* Asegura que la imagen se ajuste al ancho del contenedor */
+    height: 100%;
+    /* Asegura que la imagen cubra toda la altura del contenedor */
+    object-fit: cover;
+    /* Ajusta la imagen sin distorsionar, recortando si es necesario */
+    object-position: center;
+    /* Centra la imagen dentro del contenedor */
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    max-width: 90%;
+    /* Limita el ancho para evitar que el texto se desborde */
+    box-sizing: border-box;
+    /* Para incluir padding en el cálculo del tamaño */
+}
+
+.heading {
+    font-size: 1.5rem;
+    /* Ajusta el tamaño según lo que necesites */
+    font-weight: bold;
+}
+
+.headingContact {
+    font-size: 1.2rem;
+    /* Ajusta según el tamaño que desees */
+    margin: 10px 10px 15px;
+    text-align: center;
+
+}
+
+.contactPhone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Alinea verticalmente el icono y el texto */
+    margin-top: 2rem;
+    color: #ffffff;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+}
+
+.contactEmail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    color: #ffffff;
+    font-weight: 200;
+}
+
+.contactIcon {
+    margin: 0;
+    padding: 0;
+    width: 2rem;
+    height: auto;
+    color: #FDC318;
+}
+
+.contactLink {
+    text-decoration: none;
+    /* Elimina el subrayado del enlace */
+    color: inherit;
+    /* Usa el color heredado del texto o iconos */
+    display: block;
+    /* Hace que el enlace abarque todo el área del `div` */
+}

@@ -1,0 +1,116 @@
+/* SECCION DE PORQUE ELEGIRNOS  */
+.homeRazon {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.homeRazonContent {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 120px;
+    margin-left: 120px;
+    gap: 100px;
+}
+
+.homeRazonContent>img {
+    height: 400px;
+    width: auto;
+}
+
+.homeRazonTexto {
+    text-align: left;
+    max-width: 550px;
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.homeTituloResaltado {
+    color: #006D3B;
+}
+
+.homeRazonTexto>p {
+    margin: 0;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.homeRazonTexto>ul {
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.homeRazonTextoLista {
+    display: block;
+    margin-bottom: 8px;
+    line-height: 1.5;
+    word-wrap: break-word;
+    object-fit: contain;
+}
+
+.homeRazonCarrucel {
+    width: 600px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Responsividad */
+@media (max-width: 1024px) {
+    .homeRazon {
+        align-items: center;
+    }
+
+    .homeRazon>h2 {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    .homeRazonContent {
+        flex-direction: column;
+        /* Cambia a columna en pantallas más pequeñas */
+        margin-right: 20px;
+        margin-left: 20px;
+        gap: 40px;
+        align-items: center;
+    }
+
+    .homeRazonTexto {
+        max-width: 70%;
+        /* Ajusta el ancho para pantallas pequeñas */
+        font-size: 14px;
+        /* Reduce el tamaño de la fuente */
+    }
+
+    .homeRazonTexto>p,
+    .homeRazonTexto>ul {
+        line-height: 24px;
+        /* Reduce el interlineado */
+    }
+
+    .homeRazonCarrucel {
+        width: 70%;
+        /* El carrusel ocupa el 100% del ancho */
+    }
+}
+
+@media (max-width: 768px) {
+    .homeRazon {
+        margin-top: 30px;
+        /* Ajusta el margen superior para móviles */
+    }
+
+    .homeRazonTexto {
+        font-size: 12px;
+        /* Tamaño de fuente más pequeño para pantallas muy pequeñas */
+    }
+
+    .homeRazonTexto>p,
+    .homeRazonTexto>ul {
+        line-height: 22px;
+        /* Ajusta el interlineado */
+    }
+}

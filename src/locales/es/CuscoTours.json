@@ -1,0 +1,2118 @@
+{
+    "labelMenu": {
+        "resumen": "RESUMEN",
+        "itinerario": "ITINERARIO COMPLETO",
+        "incluye": "INCLUYE",
+        "extras": "EXTRAS",
+        "queLlevar": "¿QUÉ LLEVAR?",
+        "importante": "IMPORTANTE"
+    },
+    "CuscoExplendor": {
+        "seo": {
+            "title": "CUSCO EXPLENDOR - TOUR DE 3 DÍAS / 2 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre Cusco con traslados seguros y visitas guiadas a Machupicchu, Sacsayhuamán y el Valle Sagrado. Disfruta de un viaje inolvidable lleno de aventura y comodidad.",
+            "keywords": [
+                "Cusco explendor",
+                "tour a Machupicchu",
+                "City Tour Cusco",
+                "Valle Sagrado",
+                "transporte seguro",
+                "guías certificados"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-explendor",
+            "open_graph": {
+                "title": "Cusco Esplendor - Tour de 3 Días / 2 Noches a Machu Picchu",
+                "description": "Vive una experiencia única en Cusco con visitas guiadas y traslados cómodos. Explora Machupicchu y el Valle Sagrado. ¡Reserva tu lugar hoy!",
+                "url": "http://www.machupicchubyworld.com/cusco-explendor",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO EXPLENDOR",
+        "day": "3 Días / 2 Noches",
+        "puntosClave": [
+            "Transporte garantizado y traslados seguros desde el aeropuerto o terminal terrestre.",
+            "City Tour en Cusco y tours guiados a Machupicchu y el Valle Sagrado de los Incas.",
+            "Incluye entradas a complejos arqueológicos, transporte y guías certificados.",
+            "Hospedaje cómodo con desayuno incluido en Cusco y Aguas Calientes.",
+            "Recomendaciones prácticas sobre qué llevar para una experiencia óptima."
+        ],
+        "details": {
+            "duracion": "3 Días / 2 Noches",
+            "nivel": "Fácil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Vista panoramica de la ciudad de Cusco",
+            "alt2": "Sacsayhuamán",
+            "alt3": "Bosque de Qenqo",
+            "alt4": "Ollantaytambo",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Cusco - Sacsayhuamán - Qenqo - Ollantaytambo - Machupicchu",
+        "descripcion": "<strong>Vive una experiencia única</strong> en <strong>Cusco</strong>, con <strong>traslados cómodos</strong>, <strong>visitas guiadas</strong> a los principales atractivos como <strong>Machupicchu</strong>, <strong>Sacsayhuamán</strong> y <strong>Qenqo</strong>, y <strong>tiempo libre</strong> para explorar y disfrutar del destino. Desde el <strong>desayuno</strong> hasta el regreso al <strong>hotel</strong>, cada detalle está pensado para ofrecerte <strong>comodidad</strong> y <strong>aventura</strong>, asegurando un <strong>viaje inolvidable</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR CUSCO",
+                "descripcion": "El viaje comienza con la llegada a Cusco, donde los pasajeros son trasladados al hotel, reciben una degustación de mate de coca y una explicación del itinerario.En el primer día, se realiza un City Tour que incluye visitas a Sacsayhuamán, Qenqo, Puka Pukara y Tambomachay, con regreso a Cusco al final del día para pernoctar en el hotel."
+            },
+            "dia2": {
+                "titulo": "MACHUPICCHU",
+                "descripcion": "El tour comienza con el recojo del hotel y un viaje en bus hacia Ollantaytambo, donde se toma el tren a Aguas Calientes. Luego, se visita Machupicchu con una guía, se disfruta de tiempo libre para fotos y explorar. Después, se regresa a Aguas Calientes, donde se puede almorzar y conocer el pueblo. Finalmente, se regresa a Cusco en tren y transporte."
+            },
+            "dia3": {
+                "titulo": "RETORNO",
+                "descripcion": "Se ofrece desayuno en el hotel si el vuelo es tarde. Luego, se realiza el recojo para el aeropuerto o terminal, 2 horas antes para vuelos nacionales y 3 para internacionales. El check-out es a las 09:00 A.M."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "LLEGADA A CUSCO - SACSAYHUAMAN - QENQO - PUKA PUKARA - TAMBOMACHAY",
+                "descripcion": [
+                    "A.M o P.M Sala de embarque en el aeropuerto JORGE CHAVEZ U OTROS",
+                    "A.M o P.M. Partida del vuelo o bus hacia la ciudad de CUSCO.",
+                    "A.M. o P.M Llegada a la ciudad de Cusco",
+                    "A.M o P.M Recojo del Aeropuerto al hotel o",
+                    "A.M o P.M Recojo del terminal terrestre - Hotel. (Aeropuerto Alejandro Velasco Astete)",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS:</strong>",
+                    "Bienvenidos a Cusco",
+                    "Degustación de su mate de coca en el Hotel.",
+                    "Check in 11.00 check out 09:00 A.M.",
+                    "Explicación detallada del itinerario.",
+                    "<strong>PRIMER DÍA CITY TOUR</strong>",
+                    "<strong>TURNO (MAÑANA - TARDE)</strong>",
+                    "09:40 a 10:10 A.M. Recojo de su Hotel para el city tour turno Mañana.",
+                    "13.50 a 14.10 P.M. Recojo del Hotel para el tour turno Tarde.",
+                    "A.M. o PM Visita guiada de la fortaleza de Sacsayhuamán.",
+                    "A.M. o PM Visita del centro ceremonial de Qenqo.",
+                    "A.M. o PM Visita de la fortaleza de Puka Pukara.",
+                    "A.M. o PM Visita de los Acueductos de Tambomachay.",
+                    "13:30 - 14:00 o 18:00 P.M. Retorno en bus a Cusco.",
+                    "14:30 o 18:30 P.M. Arribo a la ciudad de Cusco (cerca a la plaza principal).",
+                    "Pernocte en su Hotel en Cusco de acuerdo a la solicitud o categoría de Hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Ollantaytambo - Aguas Calientes - Machupicchu",
+                "descripcion": [
+                    "3:20 a 3:40 A.M. Recojo del Hotel para el tour correspondiente.",
+                    "A.M. Salida del bus desde la ciudad de Cuzco hasta el pueblo de Ollantaytambo para luego abordar el respectivo tren.",
+                    "A.M. Boarding pass Inca Rail en la estación de Ollantaytambo, tren The Voyager.",
+                    "5:05 a 8:36 A.M. Dentro de este rango de horario sale el tren de Ollantaytambo a Aguas Calientes.",
+                    "A.M. Desayuno por cuenta del pasajero.",
+                    "A.M. Dirigirse a la plaza de Aguas Calientes para encontrarse con el guía.",
+                    "A.M. Abordar junto con el guía el bus de Consetur con destino Aguas Calientes - Machupicchu dependiendo de la hora de ingreso.",
+                    "A.M. Ingreso a Machupicchu, visita guiada (2 horas aproximadamente).",
+                    "A.M. Tiempo libre para fotos en Machupicchu.",
+                    "A.M. Abordar el bus de Consetur de Machupicchu al pueblo de Aguas Calientes.",
+                    "Tiempo libre para almorzar en Machupicchu (servicio no incluido).",
+                    "Tiempo libre para conocer el pueblo de Aguas Calientes o ir a los baños termales.",
+                    "16:12 a 21:50 P.M. Dentro de este rango de horario sale el tren de Aguas Calientes con destino Ollantaytambo (tiempo de viaje: 1 hora y 40 minutos).",
+                    "P.M. Estar en la estación de tren 30 minutos antes con DNI o pasaporte y tarjeta de embarque.",
+                    "P.M. Tarjeta de embarque / Boarding pass Tren The Voyager Inca Rail.",
+                    "P.M. Salida del tren desde Aguas Calientes hacia Ollantaytambo.",
+                    "P.M. Salida de transporte de Ollantaytambo con destino a Cusco, llegando a la Av. El Sol cerca de la oficina de Inca Rail, después dirigirse al hotel por su cuenta."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Retorno",
+                "descripcion": [
+                    "6:30 a 9:00 A.M. Desayuno en su hotel si su vuelo sale tarde.",
+                    "A.M o P.M. Recojo de su respectivo hotel para el Aeropuerto o Terminal terrestre, 2 horas antes si es vuelo nacional, 3 horas antes si es vuelo internacional.",
+                    "Si usted está adquiriendo un vuelo con nosotros un día antes se le entregará el CHECK IN, pero si es por su propia cuenta, usted lo realizará.",
+                    "Check out de nuestros hoteles 09:00 A.M."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del Aeropuerto y traslado hacia el Aeropuerto Alejandro Velasco Astete.",
+            "City Tour Cusco.",
+            "Tour a Valle Sagrado de los Incas.",
+            "Tour a Machupicchu tren turístico.",
+            "Boleto de entrada a Machupicchu(Circuito 2 según a la disponibilidad).",
+            "Tickets de tren Expeditions o the Voyager, dependiendo de la categoría que adquirió nuestro Cliente.",
+            "Bus de subida y bajada al santuario Histórico Machupicchu de Aguas Calientes - Machupicchu - Pueblo de Aguas Calientes.",
+            "BTG (ingreso a los complejos arqueológicos) e ingreso a Coricancha.",
+            "Transporte en cada tour mencionado.",
+            "Guía profesional en español e inglés.",
+            "Almuerzo en el tour de Valle Sagrado.",
+            "3 Desayunos en el Hotel.",
+            "2 Noches de Hotel en Cusco.",
+            "1 Noche de Hotel en Aguas Calientes u Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Desayuno, almuerzo, cena no mencionados en el programa.",
+            "Propinas.",
+            "Bebidas adicionales.",
+            "Tickets de ingreso no mencionados en la descripción.",
+            "Gastos extras fuera del servicio.",
+            "Ticket de tren de una mejor categoria ya sea tren vista dome observatory o de 360° (previa cotización)"
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Llevar zapatos de acuerdo al tour que va a realizar.",
+            "Llevar consigo ropa de acuerdo a la temporada.",
+            "Bloqueador solar.",
+            "Sombrero para los días de sol.",
+            "Medicina y/o artículos de uso personal para la altura e higiene.",
+            "Una mochila o maletín liviano de 20 litros.",
+            "Cámaras fotográficas.",
+            "Dinero extra en moneda nacional.",
+            "Lentes de sol.",
+            "Bolsas plásticas para los desechos que produzca cada uno de ustedes.",
+            "Pasaportes originales o documentos personales (no se aceptan copias)."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoClasico": {
+        "seo": {
+            "title": "CUSCO CLÁSICO - 4 Días / 3 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Embárcate en una aventura de 4 días y 3 noches en Cusco. Disfruta de un City Tour, visita el Valle Sagrado y explora Machupicchu con guías expertos.",
+            "keywords": [
+                "Cusco clásico",
+                "tour a Machupicchu",
+                "City Tour Cusco",
+                "Valle Sagrado",
+                "transporte seguro",
+                "guías expertos"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-clasico",
+            "open_graph": {
+                "title": "Cusco Clásico - 4 Días / 3 Noches a Machu Picchu",
+                "description": "Conoce Cusco en un tour de 4 días y 3 noches. Explora la ciudad, el Valle Sagrado y Machupicchu con guías expertos. ¡Reserva tu lugar hoy!",
+                "url": "http://www.machupicchubyworld.com/cusco-clasico",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO CLÁSICO",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "¡Comienza la aventura con un City Tour en Cusco, explora el Valle Sagrado y conquista Machupicchu!",
+            "Incluye transporte, alojamiento cómodo y deliciosos almuerzos en el recorrido.",
+            "Guías expertos te mostrarán los secretos de los sitios arqueológicos más fascinantes.",
+            "Viaja en tren a Machupicchu y disfruta de los buses Consetur para llegar directo a la ciudadela.",
+            "Tres noches de hotel en Cusco, con opción de pernoctar en Aguas Calientes o Ollantaytambo."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Fácil",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Ciudad de Cusco",
+            "alt2": "Ollantaytambo",
+            "alt3": "Coricancha",
+            "alt4": "Aguas Calientes",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Cusco - Ollantaytambo - Aguas Calientes - Machupicchu",
+        "descripcion": "<strong>Dentro de nuestro paquete turístico</strong> tendrás la posibilidad de conocer, recorrer la ciudad de <strong>Cusco</strong>, sus impresionantes fortalezas incas de <strong>Saqsayhuaman</strong>, <strong>Qoricancha</strong>, entre otros. En el recorrido de <strong>valle vip</strong> se podrá observar el procedimiento de sus <strong>textiles</strong> hechos en la misma localidad de <strong>Chinchero</strong>. Además, le permitirá disfrutar de <strong>baños termales</strong>, ya que tiene una noche en el pueblo de <strong>aguas calientes</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR CUSCO",
+                "descripcion": "En este City Tour por Cusco, exploraremos los principales atractivos arqueológicos como el Coricancha, Sacsayhuamán, Qenqo, Puca Pucara y Tambomachay, con la opción de realizar el recorrido en la mañana o en la tarde, según su llegada. El tour concluye con el regreso a Cusco para pasar la noche en su hotel."
+            },
+            "dia2": {
+                "titulo": "VALLE SAGRADO",
+                "descripcion": "Después del desayuno en el hotel, emprenderemos un recorrido completo por el Valle Sagrado de los Incas con un guía profesional. Visitaremos sitios arqueológicos como Chinchero, Moray, las Salineras de Maras y Pisaq, además de explorar la tradición textil en Ollantaytambo. Disfrutaremos de un almuerzo buffet en Urubamba y, al final del día, tomaremos el tren hacia Aguas Calientes, donde seremos recibidos por el guía y trasladados a nuestro hotel para descansar."
+            },
+            "dia3": {
+                "titulo": "MACHUPICCHU",
+                "descripcion": "Después del desayuno en el hotel, iniciaremos nuestra visita a Machupicchu, donde un guía experto nos llevará a explorar la ciudadela inca y sus templos durante una visita de 2 horas y 30 minutos. Tras el recorrido, regresaremos a Aguas Calientes para almorzar, luego tomaremos el tren hacia Ollantaytambo y un traslado final a Cusco, donde pasaremos la noche en el hotel."
+            },
+            "dia4": {
+                "titulo": "RETORNO",
+                "descripcion": "Después del desayuno en el hotel, realizamos el traslado de nuestros clientes, agradeciéndoles por confiar en nosotros y permitiéndonos mostrarles las principales atracciones turísticas de la región. El traslado se hará 2 horas antes del vuelo."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "PRIMER DIA LLEGADA A CUSCO - CITY TOUR  TURNO (MAÑANA o TARDE)",
+                "descripcion": [
+                    "Sala de embarque en el aeropuerto JORGE CHAVEZ.",
+                    "Partida del vuelo ciudad de origen CUSCO.",
+                    "Recojo del Aeropuerto al hotel.",
+                    "Recojo del terminal terrestre - Hotel.",
+                    "Llegada a la ciudad de Cusco (Aeropuerto Alejandro Velasco Astete).",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS: Bienvenidos a Cusco.</strong>",
+                    "Degustación de su mate de coca en el Hotel.",
+                    "Nuestros Hoteles. Check in 11.00 check out 09:00 A.M.",
+                    "Explicación detallada del itinerario.",
+                    "<strong>PRIMER DIA CITY TOUR TURNO (MANANA - TARDE).</strong>",
+                    "Recojo de su Hotel para el city tour turno Mañana.",
+                    "Recojo del Hotel para el tour Turno Tarde.",
+                    "Visita guiada de la fortaleza de Sacsayhuamán.",
+                    "Visita del centro ceremonial de Qenqo.",
+                    "Visita de la fortaleza de Puka Pukara.",
+                    "Visita de los acueductos de Tambomachay.",
+                    "Retorno en bus a Cusco.",
+                    "Arribo a la ciudad de Cusco (cerca de la plaza principal).",
+                    "Pernocte en su hotel en Cusco de acuerdo a la solicitud o categoría de Hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VALLE VIP - MARAS - MORAY, SALINERAS",
+                "descripcion": [
+                    "Desayuno en el Hotel en la ciudad de Cusco (6:00 a 6:30 A.M).",
+                    "Recojo de su Hotel para el tour de Valle VIP para dirigirnos rumbo a Chinchero (6:30 a 6:40 A.M).",
+                    "Visita del complejo arqueológico de Chinchero.",
+                    "Visita al centro textil de Chinchero donde les darán a conocer la elaboración de los tejidos o las prendas de alpaca.",
+                    "Visita al centro arqueológico de Moray.",
+                    "Visita de la zona agrícola de Moray.",
+                    "Visita a las Salineras de Maras.",
+                    "Almuerzo buffet en el Valle Sagrado de Urubamba.",
+                    "Visita al complejo arqueológico de Ollantaytambo.",
+                    "El tour finaliza en Ollantaytambo. Dependiendo de la salida del tren para viajar a Machupicchu, se tendrá que dirigir a la estación por su cuenta.",
+                    "Bording pass dependiendo del horario del tren, siempre 30 minutos antes. El tiempo de viaje en el tren es 1 hora 40 minutos.",
+                    "Pernocte en Ollantaytambo si el pasajero lo solicita.",
+                    "Pernocte en Aguas Calientes, mayormente es la mejor opción."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "MACHUPICCHU",
+                "descripcion": [
+                    "Desayuno en el Hotel en Aguas Calientes (6:00 a 8:00 A.M).",
+                    "Punto de encuentro en la Plaza de Armas de Aguas Calientes o estación de bus Consetur, dependiendo del horario de ingreso.",
+                    "Abordamos el bus de Consetur de Aguas Calientes - Machupicchu, tiempo de viaje promedio de 40 minutos.",
+                    "Visita guiada a la llaqta de Machupicchu (aproximadamente 2 horas), o otro circuito dependiendo de la elección del pasajero. Se respeta el horario, no se puede ingresar antes, solo la opción de ingresar 30 minutos después.",
+                    "Momento libre para tomarse fotos en Machupicchu.",
+                    "Aborda el bus de Consetur de acuerdo al horario que termine la visita de la llaqta con destino a Aguas Calientes.",
+                    "Tiempo libre para almorzar por cuenta propia en Aguas Calientes o visitar los baños termales (opcional).",
+                    "Sala de espera en la estación de Aguas Calientes.",
+                    "Tarjeta de embarque/boarding pass.",
+                    "Salida de Aguas Calientes hacia Ollantaytambo.",
+                    "Recepción en Ollantaytambo (transfer).",
+                    "Retorno de Ollantaytambo a Cusco en nuestro transporte (cerca de la plaza principal).",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "TRASLADOS DEL HOTEL- AEROPUERTO",
+                "descripcion": [
+                    "Desayuno en el hotel de 6:30 a 9:00 A.M.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si en caso su vuelo sale tarde, puede hacer compras de artesanías o también adquirir tours de medio día.",
+                    "Recojo del hotel al aeropuerto: si son vuelos nacionales, se realizará 2 horas antes; si son vuelos internacionales, será 3 horas antes. El viaje puede ser al aeropuerto o terminal terrestre.",
+                    "<strong>Si el vuelo sale tarde, tiene opción de realizar un tour de salida diaria:</strong>",
+                    "- Montaña de Colores.",
+                    "- Laguna Humantay.",
+                    "- Waqrapukara.",
+                    "- Cuatrimotos en la Morada de los Dioses.",
+                    "- Otros."
+                ]
+            }
+        ],
+        "incluye": [
+            "En caso el pasajero esté solicitando vuelos con nosotros, contamos con las aerolíneas: Sky, Latam y Jet Smart (OPCIONAL), orientado a turistas nacionales o extranjeros con vuelos internacionales o vuelos internos en Perú.",
+            "Si lo adquiere con nosotros, se le entregará un día antes el check-in de la aerolínea.",
+            "Traslado - Aeropuerto o Terminal - Hotel - Aeropuerto o terminal terrestre.",
+            "Ingreso a los complejos arqueológicos BTG.",
+            "Almuerzo buffet en el tour de Valle Sagrado VIP.",
+            "3 desayunos en el servicio.",
+            "Guía en todos los tours (español/inglés).",
+            "Tren ida y vuelta (tren turístico) dependiendo de la categoría solicitada.",
+            "Bus de Consettur Aguas Calientes-Machupicchu-Aguas Calientes.",
+            "Boleto de entrada a Machupicchu(Circuito 2 según a la disponibilidad).",
+            "3 noches de hotel (en Cusco según la categoría que el pasajero está solicitando). En caso sea con tren turístico, el pasajero podrá dormir en Aguas Calientes u Ollantaytambo 1 noche.",
+            "Transporte Ollantaytambo-Cusco.",
+            "Ingreso a las Salineras de Maras.",
+            "Asistencia 24/7 a través de WhatsApp."
+        ],
+        "noIncluye": [
+            "Almuerzo en el tour de City Tour (medio día).",
+            "Almuerzo ni desayuno en el tour a Machupicchu.",
+            "En ningún tour incluye cena.",
+            "Gastos extras que tengan fuera del servicio.",
+            "Ingreso a Coricancha (20.00 soles, opcional).",
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL).",
+            "Vuelos (opcional).",
+            "Seguros de viaje (opcional)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad (DNI/PASAPORTE vigente).",
+            "Llevar poncho de lluvia (dependiendo de la temporada).",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoIncaico": {
+        "seo": {
+            "title": "CUSCO INCAICO - 7 Días / 6 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive una aventura de 7 días y 6 noches en Cusco. Explora la ciudad, el Valle Sagrado, Machupicchu, y más con guías expertos y alojamiento cómodo.",
+            "keywords": [
+                "Inca Cusco",
+                "tour a Machupicchu",
+                "Valle Sagrado",
+                "Rainbow Mountain",
+                "Lago Humantay",
+                "guías expertos"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/inca-cusco",
+            "open_graph": {
+                "title": "Inca Cusco - 7 Días / 6 Noches a Machu Picchu",
+                "description": "Descubre Cusco en un tour de 7 días y 6 noches. Explora Machupicchu, el Valle Sagrado, Rainbow Mountain y más. ¡Reserva tu lugar hoy!",
+                "url": "http://www.machupicchubyworld.com/inca-cusco",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO INCAICO",
+        "day": "7 Días / 6 Noches",
+        "puntosClave": [
+            "Explora el City Tour en Cusco, recorre el Valle Sagrado y descubre Machupicchu",
+            "Incluye transporte, alojamiento cómodo y deliciosos almuerzos",
+            "Guías expertos te revelarán los secretos de los sitios arqueológicos",
+            "Viaja en tren a Machupicchu y usa los buses Consettur para llegar a la ciudadela",
+            "Disfruta de tres noches en Cusco con opción de alojarte en Aguas Calientes u Ollantaytambo"
+        ],
+        "details": {
+            "duracion": "7 Días / 6 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Ciudad de Cusco",
+            "alt2": "Moray",
+            "alt3": "Salineras de Maras",
+            "alt4": "Montaña de colores",
+            "alt5": "Centro arqueológico de Tipón",
+            "alt6": "Laguna Humantay",
+            "alt7": "Machupicchu"
+        },
+        "lugares": "Cusco - Valle Sagrado - Machupicchu - Montaña de colores - Valle Sur - Laguna Humantay",
+        "descripcion": "Vive el tour <strong>Cusco Incaico</strong> de 7 días, una aventura inolvidable en <strong>Perú</strong> que comienza con el recojo en el <strong>Aeropuerto Alejandro Velasco Astete</strong>. Explora la rica cultura inca con un <strong>City Tour</strong> en <strong>Cusco</strong>, el <strong>Valle Sagrado</strong>, <strong>Machupicchu</strong> (incluyendo <strong>tren</strong> y <strong>bus</strong>), la <strong>Montaña de Colores</strong>, la <strong>Laguna Humantay</strong> y el <strong>Valle Sur</strong>. El paquete incluye <strong>guías expertos</strong>, <strong>transporte</strong>, <strong>almuerzos</strong> y cuatro <strong>desayunos</strong>, con <strong>alojamiento</strong> en <strong>Cusco</strong> y <strong>Aguas Calientes</strong>. ¡Embárcate en esta experiencia única y crea recuerdos invaluables en la tierra de los <strong>Incas</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR CUSCO",
+                "descripcion": "El día 1, el recorrido comienza con la llegada a Cusco, donde se realiza el traslado al hotel y una bienvenida con mate de coca. El primer día incluye un City Tour en dos turnos, visitando Sacsayhuamán, Qenqo, Puka Pukara y Tambomachay, con retorno a Cusco para pernoctar en el hotel."
+            },
+            "dia2": {
+                "titulo": "VALLE SAGRADO",
+                "descripcion": "El día 2 comienza con desayuno en Cusco, seguido de visitas a Chinchero, Moray y las salineras de Maras. Después, se disfruta de un almuerzo en Urubamba y se recorre Ollantaytambo. El tour finaliza con un viaje en tren a Machupicchu pueblo, con opción de pernoctar en Ollantaytambo o Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "MACHUPICCHU",
+                "descripcion": "El día 3 comienza con desayuno en Aguas Calientes, seguido del traslado al punto de encuentro para abordar el bus a Machupicchu. Tras un viaje de 40 minutos, se realiza una visita guiada a la Llaqta de Machupicchu (aproximadamente 2 horas), con tiempo libre para fotos. Luego, se regresa a Aguas Calientes en bus, donde se tiene tiempo libre para almorzar o visitar los Baños Termales. Después, se realiza el traslado a la estación, se entrega la tarjeta de embarque y se viaja de regreso a Ollantaytambo y luego a Cusco, donde se pernocta en el hotel."
+            },
+            "dia4": {
+                "titulo": "MONTAÑA DE COLORES",
+                "descripcion": "En el día 4, se inicia con el recojo del hotel en Cusco y un viaje hacia el pueblo de Cusi Pata, donde se disfruta de un desayuno. Luego, se continúa hacia la comunidad de Chilluhuani, para comenzar la caminata hacia la Montaña de Colores (Vinicunca), con vistas panorámicas de la región. Después de la visita, se regresa a Cusi Pata para almorzar y, finalmente, se retorna a Cusco, llegando por la tarde y pernoctando en el hotel."
+            },
+            "dia5": {
+                "titulo": "VALLE SUR",
+                "descripcion": "En el día 5, se inicia con desayuno en Cusco y el recojo para el tour al Valle Sur. Se visita el centro arqueológico de Tipón y su acueducto, seguido de una visita a Pikillaqta y el templo de Andahuaylillas, conocido como la Capilla Sixtina de América. Luego, se ofrece una visita opcional al humedal de Huasao y la posibilidad de degustar cuy. Por la tarde, se regresa a Cusco, llegando cerca de la Plaza Principal y pernoctando en el hotel seleccionado."
+            },
+            "dia6": {
+                "titulo": "LAGUNA HUMANTAY",
+                "descripcion": "El día 6 comienza con el recojo del hotel en Cusco y un viaje hacia Mollepata, donde se disfruta de un desayuno. Luego, se continúa hacia la comunidad y se inicia la caminata hacia la Laguna Humantay, con vistas espectaculares de la región. Después de la visita a la laguna, se regresa a Mollepata para almorzar y luego se retorna a Cusco, llegando por la tarde y pernoctando en el hotel."
+            },
+            "dia7": {
+                "titulo": "RETORNO",
+                "descripcion": "El día 7 empieza con el desayuno y el encuentro con el personal para la despedida. Si el vuelo es tarde, se puede aprovechar para hacer compras o tomar un tour opcional. El traslado al aeropuerto o terminal terrestre se realiza 2 horas antes para vuelos nacionales y 3 horas para vuelos internacionales. También se ofrecen tours de medio día como la visita a la Morada de Dioses o Cuatrimotos en Maras-Moray."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "LLEGADA A CUSCO - PRIMER DIA CITY TOUR - TURNO (MAÑANA O TARDE)",
+                "descripcion": [
+                    "<strong>INICIAMOS</strong>",
+                    "A.M o P.M Sala de embarque en el aeropuerto JORGE CHAVEZ U OTROS",
+                    "A.M o P.M. Partida del vuelo o bus hacia la ciudad de CUSCO.",
+                    "A.M. o P.M Llegada a la ciudad de cusco",
+                    "A.M o P.M Recojo del Aeropuerto al hotel",
+                    "A.M o P.M Recojo del terminal terrestre - Hotel. (Aeropuerto Alejandro Velasco Astete).",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS:</strong>",
+                    "<strong>Bienvenidos a Cusco</strong>",
+                    "Degustación de su mate de coca en el Hotel.",
+                    "Check in 11.00 check out 09:00 A.M.",
+                    "Explicación detalladamente del itinerario.",
+                    "<strong>PRIMER DIA CITY TOUR - TURNO (MAÑANA - TARDE)</strong>",
+                    "09:40 a 10:10 A.M. Recojo de su Hotel para el city turno Mañana.",
+                    "13.50 a 14.10 A.M recojo del Hotel para el tour Turno Tarde.",
+                    "A.M. o PM Visita guiada de la fortaleza de Sacsayhuamán.",
+                    "A.M. o PM Visita del centro ceremonial de Qenqo.",
+                    "A.M. o PM Visita de la fortaleza de Puka Pukara.",
+                    "A.M. o PM Visita de los acueductos de Tambomachay.",
+                    "13:30 - 14:00 O 18.00 P.M Retorno en bus a Cusco.",
+                    "14.30 O 18.30 P.M. Arribo a la ciudad de Cusco (cerca a la plaza principal).",
+                    "Pernocte en su Hotel en Cusco de acuerdo a la solicitud o categoría de Hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VALLE VIP-MARAS - MORAY, SALINERAS",
+                "descripcion": [
+                    "6.00 A 6.40 A.M Desayuno en el Hotel Correspondiente desde la ciudad de Cusco.",
+                    "6.30 - 7.00 A.M. Recojo de su Hotel para el tour de valle vip para dirigirnos rumbo a Chinchero.",
+                    "A.M. Visita del complejo arqueológico de Chinchero.",
+                    "A.M Visita del centro Textil de Chinchero donde les dará a conocer la elaboración de los tejidos o las prendas de alpaca.",
+                    "Después de esta visita nos dirigiremos rumbo al centro Arqueológico de Moray.",
+                    "A.M. Visita de la zona agrícola de Moray.",
+                    "A.M Visita a las Salineras de Maras.",
+                    "P.M. Almuerzo buffet en el valle sagrado de 'Urubamba'.",
+                    "P.M. Visita al complejo arqueológico de Ollantaytambo.",
+                    "P.M. El tour finaliza en Ollantaytambo dependiendo de la salida del tren para viajar a Machupicchu pueblo.",
+                    "Se tendrá que dirigirse a la estación por su cuenta del pasajero.",
+                    "P.M. Boarding pass dependiendo del horario del tren, siempre 30 minutos antes.",
+                    "El tiempo de viaje en el tren es 1 hora 40 minutos.",
+                    "P.M. Pernocte en Ollantaytambo si el pasajero lo solicita.",
+                    "P.M. Pernocte en Aguas Calientes, mayormente esa es la mejor opción."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Machupicchu",
+                "descripcion": [
+                    "6.00 a 8.00 A.M. Desayuno en el Hotel en Aguas Calientes.",
+                    "A.M. Punto de encuentro en la plaza de armas de Aguas Calientes o Estación de Bus Consetur, dependiendo del horario de ingreso.",
+                    "A.M. Abordamos bus de Consetur de Aguas Calientes - Machupicchu Llaqta, tiempo de viaje promedio de 40 minutos.",
+                    "A.M. Visita guiada a la Llaqta de Machupicchu (Aprox, 2 horas), o otro circuito dependiendo de la elección del pasajero. Se respeta el horario, no se puede ingresar antes, solo la opción de ingresar 30 minutos después.",
+                    "A.M. Momento libre para tomarse fotos en Machupicchu.",
+                    "A.M. o P.M. Aborda el bus de Consetur de acuerdo al horario que termine la visita de la Llaqta con destino a Aguas Calientes.",
+                    "P.M. Tiempo libre para que pueda almorzar por cuenta propia en Aguas Calientes o visitar los Baños Termales (Opcional).",
+                    "P.M. Sala de espera en la estación de Aguas Calientes.",
+                    "P.M. Tarjeta de embarque/boarding pass.",
+                    "P.M. Salida de Aguas Calientes a Ollantaytambo.",
+                    "P.M. Recepción en Ollantaytambo (transfer).",
+                    "P.M. Retorno de Ollantaytambo a Cusco en nuestro transporte (cerca a la plaza principal).",
+                    "Pernocte en su Hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "MONTAÑA DE COLORES",
+                "descripcion": [
+                    "4.20 A 4.40 A.M Recojo del Hotel correspondiente en la ciudad de Cusco por parte de nuestro guía o conductor.",
+                    "A.M. Viaje un promedio de 2 horas con 40 minutos hacia el pueblo de Cusi Pata.",
+                    "A.M. Desayuno en el pueblo de Cusi Pata.",
+                    "A.M. Viaje un promedio de 1 hora con 40 a 45 minutos rumbo hacia la comunidad de Chilluhuani.",
+                    "9.00 A.M. Empezamos con la caminata hacia la Montaña de Colores (1.30 horas aprox.) a lo largo de esta caminata podremos apreciar un bello paisaje rodeado por las montañas y fauna de la región del Cusco en la parte sur.",
+                    "A.M. Visita de la Montaña de Colores o más conocida como 'Vinicunca'.",
+                    "P.M. Después de la visita de la Montaña de Colores a 5036 M.S.N.M., al frente del nevado Ausangate, nos dirigimos caminando donde nos dejó la movilidad para abordar y viajar de Chilluhuani a Cusi Pata, tiempo promedio 1 hora con 20 minutos.",
+                    "P.M. Almuerzo en la comunidad de Cusi Pata degustando los productos andinos de la región del Cusco (opción vegetarianos previa solicitud).",
+                    "P.M. Viaje desde Cusi Pata a Cusco, tiempo promedio 2 horas con 20 minutos.",
+                    "16.30 a 17.30 P.M. Arribo a la ciudad de Cusco (cerca de la Plaza principal) para luego dirigirse a su hotel por su cuenta.",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "VALLE SUR",
+                "descripcion": [
+                    "06.30 a 9.00 A.M Desayuno en el Hotel correspondiente en la ciudad de Cusco con los productos andinos de la región.",
+                    "8.30 a 9.00 A.M Recojo del Hotel correspondiente para el tour correspondiente del Valle Sur.",
+                    "A.M. Viaje en transporte un promedio de 1 hora con 40 minutos al centro arqueológico de Tipón para luego visitar el Acueducto de Tipón.",
+                    "A.M. Visita guiada del acueducto de Tipón, que en tiempo de los incas sirvió como irrigación a todos los productos que se sembraban ahí.",
+                    "Después de la visita de Tipón, visitaremos uno de los centros arqueológicos de Pikillaqta, más importante de la cultura Wari. Continuando el viaje, nos dirigiremos hacia el templo de Andahuaylillas.",
+                    "A.M. Visita de la Capilla Sixtina de América, uno de los más importantes que se encuentran en Latinoamérica, en la región de Cusco.",
+                    "P.M. Visita opcional del humedal de Huasao para luego nuestro guía nos dará las indicaciones correspondientes para poder degustar del cuy (opcional por cuenta del pasajero).",
+                    "P.M. Retorno a la ciudad de Cusco, tiempo promedio de viaje 40 minutos.",
+                    "P.M. Llegada a la ciudad de Cusco, cerca a la Plaza Principal, para luego dirigirse a su respectivo hotel.",
+                    "Pernocte en la ciudad de Cusco, dependiendo de la categoría que el cliente esté solicitando."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "LAGUNA HUMANTAY",
+                "descripcion": [
+                    "4.20 a 4.40 A.M Recojo del Hotel correspondiente en la ciudad de Cusco por parte de nuestro guía o conductor.",
+                    "A.M. Viaje un promedio de 2 horas con 40 minutos hacia el pueblo de Mollepata.",
+                    "A.M. Desayuno en el pueblo de Mollepata.",
+                    "A.M. Viaje un promedio de 1 hora con 40 a 45 minutos hacia la comunidad.",
+                    "9.00 A.M. Empezamos con la caminata hacia Laguna Humantay (aprox. 1.30 horas). A lo largo de esta caminata podremos apreciar un bello paisaje rodeado por las montañas y fauna de la región del Cusco en la parte Norte.",
+                    "A.M. Visita de Laguna Humantay, que se encuentra al borde del nevado Salkantay.",
+                    "P.M. Después de la visita de Laguna Humantay a 4800 metros sobre el nivel del mar, nos dirigimos caminando donde nos dejó la movilidad para abordar y viajar de Mollepata hacia Cusco, tiempo promedio 3 horas.",
+                    "P.M. Almuerzo en el restaurante típico de Mollepata degustando los productos andinos de la región (opción vegetarianos previa solicitud).",
+                    "P.M. Viaje desde Mollepata a Cusco, tiempo promedio 2 horas con 30 minutos.",
+                    "17:30 - 18:00 P.M. Arribo a la ciudad de Cusco (cerca de la plaza principal).",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "TRASLADOS DEL HOTEL- AEROPUERTO",
+                "descripcion": [
+                    "Desayuno en el hotel de 6:30 a 9:00 AM.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si en caso su vuelo sale tarde, puede hacer compras de artesanías o también adquirir tours de medio día.",
+                    "Recojo del hotel al aeropuerto: si son vuelos nacionales se realizará 2 horas antes. Si son vuelos internacionales será 3 horas antes del vuelo. El traslado puede ser al aeropuerto o terminal terrestre.",
+                    "<strong>Si el vuelo sale tarde, tiene opción de realizar un tour de salidas diarias:</strong>",
+                    " - Morada de Dioses.",
+                    " - Cuatrimotos en Maras - Moray.",
+                    " - Waqrapukara.",
+                    " - Cuatrimotos en Morada de los Dioses.",
+                    " - Otros."
+                ]
+            }
+        ],
+        "incluye": [
+            "En caso el pasajero esté solicitando vuelos con nosotros, contamos con las aerolíneas: Sky, Latam y Jet Smart (OPCIONAL), orientado a turistas nacionales o extranjeros con vuelos internacionales e internos en Perú. Si lo adquiere con nosotros, se le entregará un día antes el check-in de la aerolínea.",
+            "Traslado - Aeropuerto o Terminal - Hotel - Aeropuerto o terminal terrestre.",
+            "Ingreso a los Complejos Arqueológicos BTG.",
+            "Almuerzo buffet en el tour de Valle Sagrado VIP.",
+            "6 desayunos en el servicio.",
+            "Guía en todos los tours (español/inglés).",
+            "Tren ida y vuelta (tren turístico), dependiendo de la categoría solicitada.",
+            "Bus de Concetur Aguas Calientes - Machupicchu - Aguas Calientes.",
+            "Boleto de entrada a Machupicchu (Circuito 2 según a la disponibilidad).",
+            "6 noches de hotel (en Cusco, según la categoría solicitada). En caso de ser con tren turístico, el pasajero podrá dormir en Aguas Calientes o Ollantaytambo por 1 noche.",
+            "Transporte Ollantaytambo - Cusco.",
+            "Desayuno y almuerzo en el tour a Montaña de Colores.",
+            "Desayuno y almuerzo en el tour a Laguna Humantay.",
+            "Ingresos a Montaña de Colores y Laguna Humantay.",
+            "Bastones de apoyo en Montaña de Colores y Laguna Humantay.",
+            "Ingreso a las Salineras de Maras.",
+            "Oxígeno de emergencia en Montaña y Laguna.",
+            "Ingreso al Templo de Andahuaylillas.",
+            "Ingreso al Humedal de Huasao.",
+            "Asistencia 24/7 a través de WhatsApp."
+        ],
+        "noIncluye": [
+            "Almuerzo en el tour de City Tour (medio día).",
+            "Almuerzo ni desayuno en el tour a Machupicchu.",
+            "En ningún tour incluye cena.",
+            "Almuerzo en Valle Sur.",
+            "Gastos extras que tengan fuera del servicio.",
+            "Almuerzos y desayunos no mencionados en el programa.",
+            "Ingreso a Qoricancha (20.00, opcional).",
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL).",
+            "Vuelos (Opcional)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad (DNI/PASAPORTE vigente).",
+            "Llevar poncho de lluvia (dependiendo de la temporada).",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoIncaicoPuno": {
+        "seo": {
+            "title": "CUSCO INCAICO PUNO - 7 Días / 6 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre la aventura de 7 días y 6 noches en Cusco y Puno. Explora la cultura inca, Machupicchu, y mucho más con guías expertos y alojamiento cómodo.",
+            "keywords": [
+                "Cusco Incaico Puno",
+                "tour a Machupicchu",
+                "Valle Sagrado",
+                "Rainbow Mountain",
+                "Lago Humantay",
+                "guías expertos"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-incaico-puno",
+            "open_graph": {
+                "title": "Cusco Incaico Puno - 7 Días / 6 Noches",
+                "description": "Vive una experiencia única en Cusco y Puno. Explora Machupicchu, el Valle Sagrado y más. ¡Reserva tu tour hoy!",
+                "url": "http://www.machupicchubyworld.com/cusco-incaico-puno",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO INCAICO Y PUNO",
+        "day": "7 Días / 6 Noches",
+        "puntosClave": [
+            "Recorrido por Cusco, Valle Sagrado, Machupicchu y Puno",
+            "Visita guiada a maravillas arqueológicas y culturales",
+            "Transporte turístico con comodidad y seguridad",
+            "Hospedaje en hoteles seleccionados con desayuno incluido",
+            "Conexión con comunidades locales en los Andes peruanos",
+            "Navegación por el Lago Titicaca y visita a las islas Uros y Taquile",
+            "Incluye traslados, tickets de ingreso y asistencia personalizada"
+        ],
+        "details": {
+            "duracion": "7 Días / 6 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Ciudad de Cusco",
+            "alt2": "Montaña de colores",
+            "alt3": "Puno",
+            "alt4": "Sillustani",
+            "alt5": "Islas de Uros",
+            "alt6": "Tambomachay",
+            "alt7": "Saqsaywaman",
+            "alt8": "Machupicchu"
+        },
+        "lugares": "Cusco - Montaña de colores - Puno - Valle Sagrado - Machupicchu",
+        "descripcion": "Embárcate en una aventura de <strong>7 días y 6 noches</strong> por Perú, explorando su rica <strong>cultura</strong> y <strong>naturaleza</strong>. Comienza con un <strong>City Tour en Cusco</strong>, visitando lugares como <strong>Coricancha</strong> y <strong>Sacsayhuamán</strong>, luego disfruta de la <strong>Montaña de Colores</strong>. Viaja a <strong>Puno</strong> para conocer las <strong>Islas de Uros</strong>, <strong>Amantaní</strong> y <strong>Taquile</strong> en el <strong>Lago Titicaca</strong>. La experiencia culmina con la visita a <strong>Machupicchu</strong>, una de las <strong>maravillas del mundo</strong>. Un tour que combina <strong>historia</strong>, <strong>cultura</strong> y <strong>paisajes impresionantes</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": "En este tour, que se realiza por la mañana o por la tarde, se visitan los principales sitios arqueológicos alrededor de Cusco, con la guía de un profesional. El recorrido incluye el Coricancha (Templo del Sol), Sacsayhuamán, famosa por el Inti Raymi, Qenqo (Templo de Q´usilluchayoq), Puca Pucara y Tambomachay, conocidos por su historia y arquitectura incaica. Al finalizar, se regresa a la plaza principal de Cusco para pasar la noche en el hotel."
+            },
+            "dia2": {
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": "El tour comienza con el traslado desde Cusco a Cusi Pata, donde se disfruta de un desayuno. Luego, se camina hacia la Montaña de Colores, con opción de montar a caballo. Después de la visita, se almuerza en Cusi Pata y se regresa a Cusco para pernoctar."
+            },
+            "dia3": {
+                "titulo": "Tour Puno - Isla de Uros - Amantaní",
+                "descripcion": "Al llegar a Puno, un transfer llevará al grupo al puerto para visitar las islas flotantes de Uros, donde se conocerá la vida local y se podrán ver casas y artesanías. Luego, se continuará hacia Amantani, donde se disfrutará de un almuerzo local y una caminata hasta la cima de la isla para ver el atardecer sobre el Lago Titicaca. La noche será en una casa de familia local."
+            },
+            "dia4": {
+                "titulo": "Tour Amantaní - Taquile - Puno - Cusco",
+                "descripcion": "Los participantes desayunan en Amantani y parten hacia Taquile para explorar la isla, su cultura y zonas no turísticas mientras aprenden sobre tradiciones ancestrales. Luego, regresan a Puno, donde pueden almorzar y visitar la plaza de armas antes de tomar el bus hacia Cusco, llegando al hotel alrededor de las 5 A.M."
+            },
+            "dia5": {
+                "titulo": "Valle Sagrado de Los Incas",
+                "descripcion": "El tour por el Valle Sagrado comienza a las 8:00 A.M. con visitas al Mirador del Valle, Pisaq, almuerzo en Urubamba y Ollantaytambo. Luego, se toma el tren hacia Aguas Calientes, donde se pernocta y se explica el recorrido del día siguiente."
+            },
+            "dia6": {
+                "titulo": "Visita a la Ciudad Inca de Machupicchu 'Maravilla Mundial'",
+                "descripcion": "Desayuno en el hotel seguido de una caminata a la Plaza de Aguas Calientes para tomar el bus hacia Machupicchu. Durante la visita de 2 horas y 30 minutos, el guía explicará la historia de la ciudadela y se explorarán templos y Huaynapicchu. Luego, se regresa a Aguas Calientes para almorzar, abordar el tren hacia Ollantaytambo y continuar en transfer a Cusco, donde se pernocta en el hotel."
+            },
+            "dia7": {
+                "titulo": "Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": "Después del desayuno en el hotel, realizamos el traslado de nuestros clientes al aeropuerto, agradeciéndoles por confiar en nosotros y por haber disfrutado de las principales atracciones turísticas de la región. El traslado se realiza 2 horas antes del vuelo."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "BIENVENIDA A CUSCO - City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": [
+                    "Este tour te permitirá visitar los principales centros arqueológicos alrededor de Cusco, en un recorrido que puede realizarse por la mañana o la tarde, según tu hora de llegada.",
+                    "El tour puede llevarse a cabo de manera grupal o privada, acompañado de un guía profesional.",
+                    "Visitaremos el Templo del Sol o Coricancha.",
+                    "Nos dirigiremos al complejo arqueológico de Sacsayhuamán, famoso por el Inti Raymi, celebrado el 24 de junio.",
+                    "Exploraremos Qenqo, con sus tallados de animales como serpientes y monos.",
+                    "Veremos la fortaleza de Puca Pucara y sus grandes murallas.",
+                    "Visitaremos Tambomachay, conocido por sus fuentes de agua.",
+                    "El recorrido finaliza en la Plaza de Armas de Cusco.",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": [
+                    "4:30 a 5:00 A.M.: Recogida en el hotel por el transfer.",
+                    "Traslado desde Cusco al pueblo de Cusi Pata, donde se ofrece un desayuno.",
+                    "Traslado a la Comunidad de Phulawasipata: Llegada al punto de estación de buses.",
+                    "Caminata: Aproximadamente 1 hora y 30 minutos, disfrutando de la fauna y flora. Se ofrece la opción de montar a caballo en caso de dificultad (costo adicional).",
+                    "Llegada a la montaña de colores: El guía proporciona una explicación sobre la zona.",
+                    "Regreso: Caminata de vuelta a la estación de buses y traslado a Cusi Pata para un almuerzo con platos típicos preparados por los cocineros.",
+                    "Regreso a Cusco: Viaje de aproximadamente 2 horas, finalizando cerca de la Plaza Principal de Cusco.",
+                    "Pernocte: En el hotel correspondiente en Cusco."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour Puno - Isla de Uros - Amantaní",
+                "descripcion": [
+                    "Al llegar al terminal terrestre de Puno, un transfer estará esperando para recoger a los participantes.",
+                    "Desayuno por cuenta propia antes de dirigirse al puerto de Puno para abordar un bote hacia las islas flotantes de Uros, construidas con totora.",
+                    "Visita a la isla principal y recorrido entre 2 y 3 islas durante 40 minutos con explicaciones del guía sobre la vida local.",
+                    "Se podrán apreciar casas, artesanías y comida tradicional a base de trucha. Tiempo libre para fotos y comprar recuerdos, incluyendo los famosos botes Mercedes Benz.",
+                    "Traslado hacia la isla de Amantani, donde los habitantes ofrecerán un almuerzo con productos locales.",
+                    "Caminata opcional hasta la cima de Amantani, a 4,130 m de altitud, para disfrutar de una magnífica vista del atardecer sobre el Lago Titicaca.",
+                    "Regreso al alojamiento en una casa de familia local."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Amantaní - Taquile - Puno - Cusco",
+                "descripcion": [
+                    "6:30 a 7:00 A.M.: Desayuno preparado por la familia anfitriona en Amantani.",
+                    "Despedida de la familia y partida hacia la isla de Taquile, utilizada como cárcel en la época colonial.",
+                    "Tiempo libre para explorar Taquile, conocer su cultura, textiles y tradiciones.",
+                    "Visita a zonas no turísticas, como templos, tumbas y terrazas preincaicas, con explicaciones del guía sobre prácticas ancestrales.",
+                    "Descenso al puerto y embarque hacia Puno.",
+                    "Almuerzo por cuenta propia y recorrido por la plaza de armas de Puno.",
+                    "Traslado al terminal de buses para el viaje hacia Cusco, con un trayecto de aproximadamente 8 horas.",
+                    "Llegada a Cusco alrededor de las 5 A.M. y traslado al hotel."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Valle Sagrado de Los Incas",
+                "descripcion": [
+                    "A las 8:00 A.M., después del desayuno en el hotel, se inicia un recorrido por el Valle Sagrado de los Incas, acompañado por guías profesionales.",
+                    "La primera parada será en el Mirador del Valle Sagrado para disfrutar de las vistas panorámicas.",
+                    "Luego, visitaremos el Centro arqueológico de Pisaq, famoso por su intihuatana (reloj solar) y los andenes agrícolas.",
+                    "A continuación, se realizará una parada para almorzar en Urubamba, con un buffet que dura entre 40 y 50 minutos.",
+                    "Después, visitaremos Ollantaytambo, un importante centro arqueológico con zonas agrícolas, almacenes de alimentos (colcas) y un centro textil, donde también exploraremos las costumbres locales.",
+                    "Al finalizar el tour, se dirigirá a la estación de tren de Ollantaytambo para viajar hacia Aguas Calientes.",
+                    "Un guía los recibirá en Aguas Calientes y los llevará al hotel, donde se explicará el recorrido del día siguiente.",
+                    "Pernocte en Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "Visita a la Ciudad Inca de Machupicchu 'Maravilla Mundial'",
+                "descripcion": [
+                    "6:30 a 8:30 A.M.: Desayuno en el hotel.",
+                    "Caminata hacia la plaza de Aguas Calientes para encontrarse con el guía.",
+                    "Subida en bus al santuario histórico de Machupicchu (40 minutos), disfrutando de la flora, fauna y el río Vilcanota.",
+                    "Llegada a Machupicchu: Presentación de tickets en el puesto de control.",
+                    "Visita guiada: Duración de 2 horas y 30 minutos, donde el guía explicará la historia de Machupicchu y resolverá dudas mientras se visitan templos como el Templo del Sol y el Templo de la Luna, con vistas a la montaña Huayna Picchu.",
+                    "Regreso a Aguas Calientes: Después de la visita, toma el bus de regreso y tiempo libre para almorzar en el pueblo.",
+                    "Tarde: Dirigirse a la estación de tren, pasando el control de boletos, para viajar de Aguas Calientes a Ollantaytambo.",
+                    "Transfer a Cusco: Recibimiento por un transfer en la estación de Ollantaytambo y traslado en bus o sprinter a la ciudad de Cusco, cerca de la Plaza de Armas.",
+                    "Pernocte: En el hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": [
+                    "Después del desayuno en su Hotel. Es una de la actividad que cumple nuestra empresa despiendolo a nuestros clientes por confiar en nosotros y poder haber brindado nuestro servicio haciendo recorrer las principales atracciones turísticos de la región. el traslado correspondiente se realizará 2 horas antes del vuelo."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del Aeropuerto y traslado hacia el Aeropuerto Alejandro Velasco Astete.",
+            "Tour a City Tours.",
+            "Tour a Valle Sagrado de los Incas.",
+            "Tour a Machupicchu en tren turístico.",
+            "Tour a Montaña de Colores.",
+            "Tour a Laguna Humantay.",
+            "Tour a Valle Sur.",
+            "Boleto de entrada a Machupicchu (Circuito 2 según a la disponibilidad).",
+            "Tickets de tren Expeditions o the Voyager, dependiendo de la categoría que adquirió nuestro Cliente.",
+            "Bus de subida y bajada al Santuario Histórico Machupicchu (Aguas Calientes - Machupicchu - Pueblo de Aguas Calientes).",
+            "BTG (Ingreso a los complejos Arqueológicos) e ingreso a Coricancha.",
+            "Transporte en cada tour mencionado.",
+            "Guía profesional en español e inglés.",
+            "Almuerzo en el tour de Valle Sagrado, Montaña, Laguna.",
+            "4 Desayunos en el hotel.",
+            "2 Noches de hotel en Cusco",
+            "Bus cama 140° CUSCO - PUNO - CUSCO.",
+            "1 Almuerzo, cena  y desayuno en Amantaní",
+            "1 Noche en Amantaní",
+            "1 Noche de hotel en Aguas Calientes o Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Desayuno, almuerzo, cena no mencionados en el programa.",
+            "Propinas.",
+            "Bebidas adicionales.",
+            "Tickets de ingreso no mencionados en la descripción.",
+            "Gastos extras fuera del servicio.",
+            "Recorrido en caballitos de totora (30.00 soles)",
+            "Almuerzo en Taquile (40.00 soles)",
+            "Tasa por el uso del terminal en Cusco y Puno",
+            "Desayuno cuando lleguen Puno"
+        ],
+        "extras": [
+            "Guías Profesionales: Disfruta de tours con guías especializados en historia y cultura inca",
+            "Almuerzos Incluidos: Saborea la gastronomía local en almuerzos buffet en lugares seleccionados",
+            "Transporte Cómodo: Viaja en vehículos confortables y seguros durante todo el recorrido",
+            "Opciones de Caballo: Accede a la opción de caballos en caminatas desafiantes, para mayor comodidad",
+            "Asistencia Personalizada: Servicio personalizado desde tu llegada al aeropuerto hasta el final del tour"
+        ],
+        "queLlevar": [
+            "Llevar documento de identificación (DNI/PASAPORTE válido).",
+            "Traer un poncho para la lluvia (dependiendo de la temporada).",
+            "Protector solar.",
+            "Sombrero/Gorra para el calor.",
+            "Llevar un cambio de ropa adecuado para el viaje.",
+            "Repelente de mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoAventurero": {
+        "seo": {
+            "title": "CUSCO AVENTURERO - 5 DÍAS / 4 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre la experiencia Cusco Aventurero en 5 días y 4 noches. Explora Machupicchu, el Valle Sagrado y el Valle Sur con guías expertos y total comodidad.",
+            "keywords": [
+                "Cusco Aventurero",
+                "tour a Machupicchu",
+                "Valle Sagrado",
+                "Valle Sur",
+                "Salineras de Maras",
+                "Moray",
+                "Andahuaylillas",
+                "guías expertos",
+                "paquete turístico Cusco"
+            ],
+            "canonical_url": "https://www.machupicchubyworld.com/cusco-aventurero",
+            "open_graph": {
+                "title": "CUSCO AVENTURERO - 5 DÍAS / 4 NOCHES",
+                "description": "Vive la aventura en Cusco, el Valle Sagrado y Machupicchu con todo incluido. ¡Reserva tu tour ahora!",
+                "url": "https://www.machupicchubyworld.com/cusco-aventurero",
+                "type": "website",
+                "images": [
+                    {
+                        "url": "https://www.machupicchubyworld.com/images/cusco-aventurero.jpg",
+                        "alt": "Vista panorámica de Machupicchu"
+                    }
+                ]
+            }
+        },
+        "title": "CUSCO AVENTURERO",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Vive la magia de Cusco, el Valle Sagrado, Machupicchu y el Valle Sur.",
+            "Explora Moray, las Salineras de Maras y el encantador Templo de Andahuaylillas.",
+            "Disfruta de guías expertos que te acompañan en español e inglés.",
+            "Viaja con comodidad, ya que todo el transporte está incluido.",
+            "Relájate en cómodos alojamientos en Cusco y Aguas Calientes.",
+            "Saborea un delicioso almuerzo buffet en el Valle Sagrado.",
+            "Accede a las entradas a los principales sitios arqueológicos para que no te pierdas nada."
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Ciudad de Cusco",
+            "alt2": "Moray",
+            "alt3": "Salineras de Maras",
+            "alt4": "Machupicchu",
+            "alt5": "Iglesia de Andahuaylillas"
+        },
+        "lugares": "Cusco - Valle Sagrado - Machupicchu - Valle Sur",
+        "descripcion": "Este fascinante recorrido de <strong>cinco días</strong> en <strong>Cusco</strong> te invita a descubrir los tesoros del <strong>Imperio Inca</strong>. Comienza con un tour por los principales sitios arqueológicos de <strong>Cusco</strong>, como <strong>Sacsayhuamán</strong> y <strong>Coricancha</strong>. Luego, explora el <strong>Valle Sagrado</strong> visitando <strong>Chinchero</strong>, <strong>Moray</strong>, <strong>Maras</strong> y <strong>Ollantaytambo</strong>. El tercer día, vivirás la inolvidable experiencia de <strong>Machupicchu</strong>. Finalmente, recorre el <strong>Valle Sur</strong>, donde conocerás <strong>Pikillaqta</strong>, <strong>Andahuaylillas</strong> y <strong>Tipón</strong>. Incluye <strong>traslados</strong>, <strong>guías</strong>, <strong>alojamiento</strong> y <strong>entradas</strong>.¡Perfecto para quienes buscan una inmersión en la historia y cultura inca!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": "Este tour te lleva a los principales sitios arqueológicos de Cusco, incluyendo el Templo del Sol, Sacsayhuamán, Qenqo, Puca Pucara y Tambomachay, con la opción de hacerlo de manera grupal o privada. El recorrido finaliza en la Plaza de Armas de Cusco, donde pernoctarás en tu hotel."
+            },
+            "dia2": {
+                "titulo": "Súper Valle Sagrado de Los Incas VIP",
+                "descripcion": "Después del desayuno, iniciaremos un tour de día completo por el Valle Sagrado, visitando Chinchero, Moray, las Salineras de Maras, Pisaq y Ollantaytambo, donde exploraremos sitios históricos, agrícolas y culturales. Disfrutaremos de un almuerzo buffet en Urubamba antes de finalizar el recorrido en la estación de tren de Ollantaytambo, con destino a Aguas Calientes, donde pasaremos la noche. El guía nos recibirá en Aguas Calientes para explicar el recorrido del día siguiente."
+            },
+            "dia3": {
+                "titulo": "Visita a la Ciudad Inca de Machupicchu 'Maravilla Mundial'",
+                "descripcion": "Después del desayuno, caminaremos hacia la plaza de Aguas Calientes para encontrarnos con el guía y tomar un bus hacia Machupicchu. La visita guiada, de aproximadamente 2 horas y 30 minutos, incluirá el Templo del Sol, el Templo de la Luna y la Montaña Huayna Picchu. Tras el recorrido, regresaremos a Aguas Calientes para almorzar, luego tomaremos el tren a Ollantaytambo, donde un transfer nos llevará a Cusco. Finalmente, nos alojaremos en un hotel en Cusco para pernoctar."
+            },
+            "dia4": {
+                "titulo": "Tour Valle Sur Medio Día",
+                "descripcion": "Después del desayuno, comenzaremos el tour por el Valle Sur, visitando el Centro Arqueológico de Pikillaqta, el Templo de Andahuaylillas, conocido como la Capilla Sixtina de América, y el sitio de Tipón con sus canales de agua. Finalizaremos el recorrido en el Humedal de Huaso, famoso por sus tallados en raíces de árboles. El tour terminará en Cusco, cerca de la plaza principal, donde podrán disfrutar de un almuerzo y luego pernoctar en su hotel."
+            },
+            "dia5": {
+                "titulo": " Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": "Después del desayuno en su hotel, realizaremos el traslado al aeropuerto, dos horas antes del vuelo, como parte de nuestro servicio de despedida, agradeciendo a nuestros clientes por confiar en nosotros y haber recorrido las principales atracciones turísticas de la región."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": [
+                    "Este tour te permitirá visitar los principales centros arqueológicos alrededor de Cusco, en un recorrido que puede realizarse por la mañana o la tarde, según tu hora de llegada.",
+                    "El tour puede llevarse a cabo de manera grupal o privada, acompañado de un guía profesional.",
+                    "Visitaremos el Templo del Sol o Coricancha.",
+                    "Nos dirigiremos al complejo arqueológico de Sacsayhuamán, famoso por el Inti Raymi, celebrado el 24 de junio.",
+                    "Exploraremos Qenqo, con sus tallados de animales como serpientes y monos.",
+                    "Veremos la fortaleza de Puca Pucara y sus grandes murallas.",
+                    "Visitaremos Tambomachay, conocido por sus fuentes de agua.",
+                    "El recorrido finaliza en la Plaza de Armas de Cusco.",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Súper Valle Sagrado de Los Incas VIP",
+                "descripcion": [
+                    "6:30 a 7:00 A.M. Después del desayuno en el hotel, iniciaremos un tour de día completo por el Valle Sagrado de los Incas, guiados por profesionales que compartirán la historia inca.",
+                    "Chinchero: Exploraremos caminos prehispánicos, terrazas agrícolas y el proceso de transformación de la lana en textiles.",
+                    "Moray: Visitaremos los hoyos naturales utilizados como centro de investigación agrícola.",
+                    "Salineras de Maras: Observaremos más de 3,000 pozos de sal.",
+                    "Pisaq: Conoceremos el intihuatana y la historia detrás del nombre del lugar (perdiz en quechua “pisaqa”).",
+                    "Almuerzo buffet en Urubamba: Disfrutaremos de platos típicos durante 40 a 50 minutos, donde saborearemos los ricos platos típicos de nuestra región.",
+                    "Ollantaytambo: Recorreremos un importante centro con zonas agrícolas, palacios y colcas.",
+                    "Finalizaremos el tour en la estación de tren de Ollantaytambo para viajar a Aguas Calientes, donde pasaremos la noche. El guía nos recibirá y nos llevará al hotel para explicar el recorrido del día siguiente.",
+                    "Pernocte en Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visita a la Ciudad Inca de Machupicchu 'Maravilla Mundial'",
+                "descripcion": [
+                    "6:30 a 8:30 A.M.: Desayuno en el hotel. Caminaremos hacia la plaza de Aguas Calientes para encontrarnos con nuestro guía.",
+                    "Viaje a Machupicchu: Tomaremos un bus hacia Machupicchu. El trayecto dura aproximadamente 40 minutos, donde podremos apreciar la flora, fauna y el río Vilcanota.",
+                    "Ingreso a Machupicchu: Presentaremos los boletos de ingreso en el puesto de control. La visita guiada durará alrededor de 2 horas y 30 minutos, durante la cual se explicará la historia del sitio y se podrán ver templos como el Templo del Sol y el Templo de la Luna, así como la Montaña Huayna Picchu.",
+                    "Regreso a Aguas Calientes: Después de la visita, regresaremos en bus a Aguas Calientes, donde tendrán tiempo para almorzar.",
+                    "Viaje en tren a Ollantaytambo: Por la tarde, se dirigirán a la estación de tren según el horario de salida. Pasaremos el control de boletos y tomaremos el tren hacia Ollantaytambo.",
+                    "Transfer a Cusco: Al llegar, un transfer les esperará para llevarlos a su bus o sprinter, que los trasladará desde Ollantaytambo hasta la ciudad de Cusco, cerca de la Plaza de Armas.",
+                    "Pernocte en Cusco: Alojamiento en el hotel correspondiente en la ciudad de Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Valle Sur Medio Día",
+                "descripcion": [
+                    "8:30 A.M.: Después del desayuno en su hotel, nuestro transporte los recogerá para iniciar el tour del Valle Sur, donde exploraremos importantes sitios arqueológicos y culturales.",
+                    "Centro Arqueológico de Pikillaqta: Comenzaremos en Pikillaqta, famoso por sus calles y canales bien estructurados, que fue un importante ingreso desde el Collasuyo.",
+                    "Templo de Andahuaylillas: Luego, visitaremos el templo de Andahuaylillas, conocido como la Capilla Sixtina de América, donde admiraremos el estilo barroco andino y una destacada pintura de la escuela de Bellas Artes de Cusco.",
+                    "Sitio de Tipón: A continuación, nos trasladaremos a Tipón, donde observaremos parte de la construcción inca y las ingeniosas canalizaciones de agua para la agricultura.",
+                    "Humedal de Huaso: Finalmente, visitaremos el Humedal de Huaso, conocido por sus diseños tallados en las raíces de los árboles que representan personajes de la ficción y animales del ecosistema.",
+                    "El tour concluirá en la ciudad de Cusco, cerca de la plaza principal, donde podrán disfrutar de un almuerzo en cualquier restaurante local.",
+                    "Pernocte en el hotel correspondiente en la ciudad de Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": [
+                    "Después del desayuno en su Hotel. Es una de la actividad que cumple nuestra empresa despiendolo a nuestros clientes por confiar en nosotros y poder haber brindado nuestro servicio haciendo recorrer las principales atracciones turísticos de la región. el traslado correspondiente se realizará 2 horas antes del vuelo."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del Aeropuerto y traslado hacia el Aeropuerto Alejandro Velasco Astete.",
+            "City Tour Cusco.",
+            "Tour a Valle Sagrado de los Incas.",
+            "Tour a Machupicchu en tren turístico.",
+            "Tour a Valle Sur.",
+            "Boleto de entrada a Machupicchu (Circuito 2 según a la disponibilidad).",
+            "Tickets de tren Expeditions, Vista Dome o Vista Dome Observatorio, dependiendo de la categoría que adquirió nuestro cliente.",
+            "Bus de subida y bajada al santuario histórico Machupicchu (Aguas Calientes - Machupicchu - Pueblo de Aguas Calientes).",
+            "BTG (ingreso a los complejos arqueológicos) e ingreso a Coricancha.",
+            "Transporte en cada tour mencionado.",
+            "Guía profesional en español e inglés.",
+            "Almuerzo en el tour del Valle Sagrado, Montaña, Laguna.",
+            "4 Desayunos en el hotel.",
+            "3 Noches de hotel en Cusco.",
+            "1 Noche de hotel en Aguas Calientes o Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Desayuno, almuerzo, cena no mencionados en el programa.",
+            "Propinas.",
+            "Bebidas adicionales.",
+            "Tickets de ingreso no mencionados en la descripción.",
+            "Gastos extras fuera del servicio."
+        ],
+        "extras": [
+            "Traslados Aeropuerto - Hotel - Aeropuerto: Incluido en el paquete, tanto al inicio como al final del tour.",
+            "Entradas a Sitios Arqueológicos: Incluye el Boleto Turístico General (BTG) para los complejos arqueológicos y la entrada a Machupicchu.",
+            "Almuerzo Buffet en el Valle Sagrado: Durante el recorrido por el Valle Sagrado, disfrutarás de un almuerzo buffet en Urubamba.",
+            "Alojamiento: El paquete incluye 3 noches de alojamiento en Cusco y 1 noche en Aguas Calientes u Ollantaytambo, según disponibilidad."
+        ],
+        "queLlevar": [
+            "Llevar zapatos de acuerdo al tour que va a realizar.",
+            "Llevar consigo ropa de acuerdo a la temporada.",
+            "Bloqueador solar.",
+            "Sombrero para los días de sol.",
+            "Medicina y/o artículos de uso personal para la altura e higiene.",
+            "Una mochila o maletín liviano de 20 litros.",
+            "Cámaras fotográficas.",
+            "Dinero extra en moneda nacional.",
+            "Lentes de sol.",
+            "Bolsas plásticas para los desechos que produzca cada uno de ustedes.",
+            "Pasaportes originales o documentos personales (no se aceptan copias)."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoAventureroVinicunca": {
+        "seo": {
+            "title": "CUSCO AVENTURERO + VINICUNCA - 5 DÍAS / 4 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre lo mejor de Cusco en 5 días. Explora Machupicchu, Valle Sagrado y la Montaña de Colores con guías expertos y total comodidad.",
+            "keywords": [
+                "Cusco Aventurero",
+                "tour a Machupicchu",
+                "Montaña de Colores",
+                "Valle Sagrado",
+                "Salineras de Maras",
+                "guías expertos",
+                "Cusco cultural y natural"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cusco-aventurero-vinicunca",
+            "open_graph": {
+                "title": "Cusco Aventurero + Vinicunca - 5 Días / 4 Noches",
+                "description": "Vive una aventura única explorando Cusco, Machupicchu, Valle Sagrado y la Montaña de Colores. ¡Reserva tu experiencia hoy!",
+                "url": "https://machupicchubyworld.com/cusco-aventurero-vinicunca",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO AVENTURERO + VINICUNCA",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Tours variados con visitas culturales, arqueológicas y naturales como Valle Sagrado, Machupicchu y Montaña de Colores",
+            "Traslados cómodos con transporte para los tours y opciones de hospedaje estratégicas",
+            "Experiencias flexibles con actividades adicionales y tiempo libre",
+            "Guías profesionales, alimentación planificada y atención personalizada",
+            "Ingresos incluidos a los principales atractivos turísticos del itinerario"
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Ciudad de Cusco",
+            "alt2": "Coricancha",
+            "alt3": "Salineras de Maras",
+            "alt4": "Machupicchu",
+            "alt5": "Machupicchu",
+            "alt6": "Iglesia de Andahuaylillas"
+        },
+        "lugares": "Cusco - Valle Sagrado - Machupicchu - Montaña de Colores",
+        "descripcion": "¡Prepárate para una <strong>aventura épica en Cusco</strong>! Este tour de <strong> 5 días</strong> te llevará por los mejores <strong>tesoros naturales y culturales de Perú</strong>. Comenzarás con un emocionante <strong>City Tour en Cusco</strong>, donde el pasado <strong>inca</strong> te espera con brazos abiertos. Luego, explorarás el fascinante <strong>Valle Sagrado</strong> y te maravillarás en <strong>Machupicchu</strong>, la <strong>joya del Imperio Inca</strong>. Pero eso no es todo: ¡te llevarás una paleta de <strong>colores vibrantes</strong> al escalar la famosa <strong>Montaña de Colores</strong>! Con <strong>guías expertos</strong> y una mezcla de <strong>historia</strong>, <strong>naturaleza</strong> y un poco de <strong>ejercicio</strong>, ¡esta es la escapada perfecta!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": "El primer día incluye la llegada a Cusco, donde los turistas serán recibidos en el aeropuerto y trasladados al hotel. Después de un breve descanso con mate de coca, realizarán un City Tour en dos turnos, visitando Sacsayhuamán, Qenqo, Puka Pukara y Tambomachay. Al finalizar el tour, regresarán a Cusco y pernoctarán en el hotel según la categoría seleccionada."
+            },
+            "dia2": {
+                "titulo": "Valle Sagrado de Los Incas",
+                "descripcion": "El segundo día del tour Valle VIP-Maras-Moray incluye un desayuno, seguido de visitas al complejo arqueológico de Chinchero, al centro textil de Chinchero, a Moray y a las Salineras de Maras. Después, los turistas disfrutan de un almuerzo buffet en Urubamba y visitan Ollantaytambo. El día termina con el traslado a la estación para tomar el tren a Machupicchu, con opción de pernoctar en Ollantaytambo o Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "Visita a la Ciudad Inca de Machupicchu",
+                "descripcion": "El tercer día del tour comienza con un desayuno en Aguas Calientes, seguido de un traslado en bus a Machupicchu para una visita guiada de aproximadamente 2 horas. Luego, los turistas tienen tiempo libre para fotos antes de regresar a Aguas Calientes. Después, se puede almorzar o visitar los Baños Termales (opcional). El día concluye con el viaje a Ollantaytambo y el retorno a Cusco para el pernocte."
+            },
+            "dia4": {
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": "Este día incluye un traslado temprano desde Cusco hasta Cusi Pata para desayunar, seguido de un viaje a Phulawasipata, desde donde se inicia una caminata de 1 hora y 30 minutos hacia la Montaña de Colores. Allí se realiza un recorrido guiado antes de regresar a Cusi Pata para almorzar. Finalmente, el transporte lleva de regreso a Cusco, concluyendo cerca de la Plaza de Armas, con pernocte en el hotel."
+            },
+            "dia5": {
+                "titulo": "Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": "Después del desayuno en su Hotel. Es una de la actividad que cumple nuestra empresa despiendolo a nuestros clientes por confiar en nosotros y poder haber brindado nuestro servicio haciendo recorrer las principales atracciones turísticos de la región. el traslado correspondiente se realizará 2 horas antes del vuelo."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "LLegada a Cusco - City Tour 'Mañana o Tarde'",
+                "descripcion": [
+                    "<strong>INICIAMOS</strong>",
+                    "A.M o P.M Sala de embarque en el aeropuerto JORGE CHAVEZ",
+                    "A.M o P.M. Partida del vuelo ciudad de origen CUSCO",
+                    "A.M o P.M Recojo del Aeropuerto al hotel",
+                    "A.M o P.M Recojo del terminal terrestre - Hotel.",
+                    "A.M. o P.M Llegada a la ciudad de Cusco (Aeropuerto Alejandro Velasco Astete).",
+                    "<strong>COMIENZO DE NUESTROS SERVICIOS:</strong>",
+                    "<strong>Bienvenidos a Cusco</strong>",
+                    "Degustación de su mate de coca en el Hotel.",
+                    "Check in 11.00 check out 09:00 A.M.",
+                    "Explicación detallada del itinerario.",
+                    "<strong>PRIMER DIA CITY TOUR TURNO (MANANA - TARDE)</strong>",
+                    "09:40 a 10:10 A.M. Recojo de su Hotel para el city turno Mañana.",
+                    "13:50 a 14:10 A.M recojo del Hotel para el tour Turno Tarde.",
+                    "A.M. o PM Visita guiada de la fortaleza de Sacsayhuamán.",
+                    "A.M. o PM Visita del centro ceremonial de Qenqo.",
+                    "A.M. o PM Visita de la fortaleza de Puka Pukara.",
+                    "A.M. o PM Visita de los acueductos de Tambomachay.",
+                    "13:30 - 14:00 O 18.00 P.M Retorno en bus a Cusco",
+                    "14:30 O 18:30 P.M. Arribo a la ciudad de Cusco (cerca a la plaza principal).",
+                    "Pernocte en su Hotel en Cusco de acuerdo a la solicitud o categoría de Hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VALLE VIP-MARAS - MORAY, SALINERAS",
+                "descripcion": [
+                    "6:00 A 6:30 A.M Desayuno en el Hotel previa coordinación correspondiente",
+                    "6:30 – 06:50 A.M. Recojo de su Hotel para el tour de valle VIP para dirigirnos rumbo a Chinchero",
+                    "A.M. Visita del complejo arqueológico de Chinchero",
+                    "A.M. Visita del centro Textil de Chinchero donde les dará a conocer la elaboración de los tejidos o las prendas de alpaca",
+                    "Después de esta visita nos dirigiremos rumbo al centro Arqueológico de Moray",
+                    "A.M. Visita de la zona agrícola de Moray",
+                    "A.M. Visita a las Salineras de Maras",
+                    "P.M. Almuerzo buffet en el valle sagrado de Urubamba",
+                    "P.M. Visita al complejo arqueológico de Ollantaytambo",
+                    "P.M. El tour finaliza en Ollantaytambo, dependiendo de la salida del tren para viajar a Machupicchu pueblo, se tendrá que dirigir a la estación por su cuenta",
+                    "P.M. Boarding pass dependiendo del horario del tren siempre 30 minutos antes, el tiempo de viaje en el tren es 1 hora 40 minutos",
+                    "P.M. Pernocte en Ollantaytambo si el pasajero lo solicita",
+                    "P.M. Pernocte en Aguas Calientes, mayormente eso es la mejor opción"
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visita a la Ciudad Inca de Machupicchu",
+                "descripcion": [
+                    "05:30 a 8:00 A.M. Desayuno en el Hotel en Aguas Calientes.",
+                    "A.M. Punto de encuentro en la plaza de armas de Aguas Calientes o Estación de Bus Consetur, dependiendo del horario de ingreso.",
+                    "A.M. Abordamos el bus de Consetur de Aguas Calientes a Machupicchu llaqta, tiempo de viaje promedio 40 minutos.",
+                    "A.M. Visita guiada a la llaqta de Machupicchu (aprox. 2 horas) u otro circuito según la elección del pasajero. Se respeta el horario, no se puede ingresar antes, solo la opción de ingresar 30 minutos después.",
+                    "A.M. Momento libre para tomarse fotos en Machupicchu.",
+                    "A.M. o P.M. Aborda el bus de Consetur de acuerdo al horario que termine la visita de la llaqta con destino a Aguas Calientes.",
+                    "P.M. Tiempo libre para almorzar por cuenta propia en Aguas Calientes o visitar los Baños Termales (opcional).",
+                    "P.M. Sala de espera en la estación de Aguas Calientes.",
+                    "P.M. Tarjeta de embarque / boarding pass.",
+                    "P.M. Salida de Aguas Calientes - Ollantaytambo.",
+                    "P.M. Recepción en Ollantaytambo (transfer).",
+                    "P.M. Retorno de Ollantaytambo a Cusco en nuestro transporte (cerca de la plaza principal).",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": [
+                    "4:20 A 4:40 A.M Recojo del Hotel correspondiente en la ciudad de Cusco por parte de nuestro guía o conductor.",
+                    "A.M Viaje un promedio de 2 horas con 40 minutos hacia el pueblo de Cusi Pata.",
+                    "A.M Desayuno en el pueblo de Cusi Pata.",
+                    "A.M Viaje un promedio de 1 hora con 40 a 45 minutos rumbo hacia la Comunidad de Chilluhuani.",
+                    "9:00 A.M. Comenzamos con la caminata hacia la Montaña de Colores (aproximadamente 1.30 horas aprox) a lo largo de esta caminata podremos apreciar un bello paisaje rodeado por las montañas y Fauna de la region del Cusco a la parte sur.",
+                    "A.M. Visita de la Montaña de Colores, también conocida como 'Vinicunca'.",
+                    "P.M Después de la visita de la Montaña de Colores a 5036 M.S.N.M, nos dirigimos caminando hacia el punto donde nos dejó la movilidad para abordar y viajar de Chilluhuani a Cusi Pata, tiempo promedio 1 hora con 20 minutos.",
+                    "P.M Almuerzo en la Comunidad de Cusi Pata degustando los productos andinos de la región del Cusco (opción vegetariana previa solicitud).",
+                    "P.M Viaje desde Cusi Pata a Cusco, tiempo promedio 2 horas con 20 minutos.",
+                    "16:30 a 17:30 P.M. Arribo a la ciudad de Cusco (cerca de la Plaza principal), para luego dirigirse a su hotel por su cuenta.",
+                    "P.M. Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "TRASLADOS DEL HOTEL- AEROPUERTO",
+                "descripcion": [
+                    "Desayuno en el hotel de 6:30 a 9:00 AM.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si en caso que su vuelo salga tarde, puede hacer compras de artesanías o también adquirir tours de medio día.",
+                    "Recojo del hotel al aeropuerto: Si son vuelos nacionales, se realizará 2 horas antes; si son vuelos internacionales, será 3 horas antes de viaje. Puede ser al aeropuerto o terminal terrestre.",
+                    "<strong>Si el vuelo sale tarde, tiene opción de realizar un tour.</strong>",
+                    "8 salidas diarias:",
+                    "• Montaña de Colores",
+                    "• Laguna Humantay",
+                    "• Waqrapukara",
+                    "• Cuatrimotos en Morada de los Dioses",
+                    "• Otros"
+                ]
+            }
+        ],
+        "incluye": [
+            "En caso el pasajero esté solicitando vuelos con nosotros, contamos con las aerolíneas: Sky, Latam y Jet Smart (OPCIONAL), orientado a turistas nacionales o extranjeros con vuelos internacionales y vuelos internos en Perú. Si lo adquiere con nosotros, se le entregará un día antes el Check-in de la aerolínea.",
+            "Traslado - Aeropuerto o Terminal - Hotel - Aeropuerto o terminal terrestre.",
+            "Ingreso a los Complejos Arqueológicos BTG.",
+            "Almuerzo buffet en el tour de Valle Sagrado VIP.",
+            "4 desayunos en el servicio.",
+            "Guía en todos los tours (español/inglés).",
+            "Tren ida y vuelta (tren turístico), dependiendo de la categoría solicitada.",
+            "Bus de Consetur Aguas Calientes-Machupicchu-Aguas Calientes.",
+            "Boleto de entrada a Machupicchu(Circuito 2 según a la disponibilidad).",
+            "4 noches de hotel en Cusco según la categoría que el pasajero está solicitando. En caso sea con tren turístico, el pasajero podrá dormir en Aguas Calientes u Ollantaytambo (1 noche).",
+            "Transporte Ollantaytambo-Cusco.",
+            "Ingreso a Salineras de Maras.",
+            "Desayuno y almuerzo en Montaña.",
+            "Ingreso y mantenimiento en Montaña.",
+            "Bastones de apoyo para la caminata.",
+            "Asistencia 24/7 a través de WhatsApp."
+        ],
+        "noIncluye": [
+            "Almuerzo en el tour de City Tour (medio día).",
+            "Almuerzo ni desayuno en el tour a Machupicchu.",
+            "En ningún tour incluye cena.",
+            "Gastos extras que tengan fuera del servicio.",
+            "Caballos para la caminata en la Montaña de Colores (Opcional).",
+            "Ingreso a Coricancha (20.00, opcional).",
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL).",
+            "Vuelos (Opcional).",
+            "Seguros de viaje (Opcional)."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Portar documento de identidad (DNI/PASAPORTE vigente).",
+            "Llevar poncho para lluvia dependiendo de la temporada.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "CuscoImperial": {
+        "seo": {
+            "title": "CUSCO IMPERIAL - 6 DÍAS / 5 NOCHES | MACHUPICCHU BY WORLD",
+            "meta_description": "Embárcate en una aventura de 6 días explorando las mejores atracciones de Cusco: Valle Sagrado, Machupicchu, Montaña de Colores y Laguna Humantay. ¡Reserva ahora!",
+            "keywords": [
+                "Tour Cusco Imperial",
+                "Viaje a Machu Picchu",
+                "Aventura en Valle Sagrado",
+                "Trekking Montaña de Colores",
+                "Excursión Laguna Humantay",
+                "Tours guiados en Cusco",
+                "Paquete turístico Perú"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cusco-imperial",
+            "open_graph": {
+                "title": "Cusco Imperial - 6 Días / 5 Noches",
+                "description": "Descubre las maravillas culturales y naturales de Cusco: explora Machupicchu, Valle Sagrado, Montaña de Colores y Laguna Humantay con guías expertos.",
+                "url": "https://machupicchubyworld.com/cusco-imperial",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO IMPERIAL",
+        "day": "6 Días / 5 Noches",
+        "puntosClave": [
+            "Recorridos por los sitios más emblemáticos de Cusco, como Sacsayhuamán y Tambomachay.",
+            "Aventura en el Valle Sagrado, con paradas en Chinchero, Moray, Maras y Ollantaytambo.",
+            "Una visita guiada a Machupicchu para descubrir su magia y luego tiempo libre para explorarlo.",
+            "Escalada a la Montaña de Colores, donde los paisajes te dejarán sin aliento.",
+            "Caminata hasta la Laguna Humantay, un lugar increíble al pie del nevado Salkantay."
+        ],
+        "details": {
+            "duracion": "6 Días / 5 Noches",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Monumento Inca Pachacutec",
+            "alt2": "Cusco",
+            "alt3": "Valle Sagrado",
+            "alt4": "Ollantaytambo",
+            "alt5": "Machupicchu",
+            "alt6": "Montaña de Colores",
+            "alt7": "Laguna Humantay"
+        },
+        "lugares": "Cusco - Valle Sagrado - Machupicchu - Montaña de colores - Valle Sur - Laguna Humantay",
+        "descripcion": "Embárcate en <strong>6 días épicos</strong> por <strong>Cusco</strong> y sus maravillas: explora sitios <strong> arqueológicos impresionantes</strong> en el <strong>City Tour</strong>, déjate asombrar por el <strong> Valle Sagrado</strong> y la <strong>majestuosa Machupicchu</strong>, escala la vibrante <strong> Montaña de Colores</strong>, y descubre la serena <strong>Laguna Humantay</strong>. Todo acompañado de <strong>guías expertos</strong>, vistas <strong>alucinantes</strong> y deliciosa <strong>comida local</strong>. ¡Una mezcla perfecta de <strong>cultura</strong>, <strong>historia</strong> y <strong>naturaleza</strong> en un solo viaje<strong> inolvidable</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Mañana o Tarde'",
+                "descripcion": "El Día 1 comienza con la llegada a Cusco, donde los viajeros serán recibidos en el aeropuerto o terminal terrestre y trasladados al hotel. Después de una breve explicación del itinerario y una degustación de mate de coca, se realiza un City Tour en dos turnos (mañana y tarde), visitando Sacsayhuamán, Qenqo, Puka Pukara y Tambomachay. El día concluye con el retorno a Cusco y pernocte en el hotel."
+            },
+            "dia2": {
+                "titulo": "Valle Sagrado de Los Incas",
+                "descripcion": "El Día 2 comienza con un desayuno en el hotel en Cusco, seguido por el recojo para un tour al Valle VIP, visitando el complejo arqueológico de Chinchero y su centro textil. Luego, se dirigen a Moray para explorar su zona agrícola y las Salineras de Maras. Tras un almuerzo buffet en Urubamba, el tour continúa con la visita al complejo arqueológico de Ollantaytambo. El día termina con el traslado a la estación para tomar el tren hacia Machupicchu Pueblo, con la opción de pernoctar en Ollantaytambo o, generalmente, en Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "Visita a la Ciudad Inca de Machupicchu",
+                "descripcion": "El Día 3 comienza con el desayuno en Aguas Calientes, seguido de un bus hacia Machupicchu para una visita guiada de 2 horas. Después, hay tiempo libre para fotos antes de regresar a Aguas Calientes, donde se puede almorzar o visitar los baños termales. Por la tarde, el pasajero toma el tren a Ollantaytambo y luego el transfer a Cusco para pernoctar en el hotel."
+            },
+            "dia4": {
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": "En el día 4, se inicia con el recojo del hotel en Cusco y un viaje hacia el pueblo de Cusi Pata, donde se disfruta de un desayuno. Luego, se continúa hacia la comunidad de Chilluhuani, para comenzar la caminata hacia la Montaña de Colores (Vinicunca), con vistas panorámicas de la región. Después de la visita, se regresa a Cusi Pata para almorzar y, finalmente, se retorna a Cusco, llegando por la tarde y pernoctando en el hotel."
+            },
+            "dia5": {
+                "titulo": "Tour Laguna Humantay",
+                "descripcion": "El Día 5 inicia con el recojo en Cusco y un viaje hacia Molle Pata, donde se desayuna. Luego, se viaja a Soraypampa para caminar hacia la Laguna Humantay, al borde del nevado Salkantay. Después de la visita, se regresa a Molle Pata para almorzar y, por la tarde, se regresa a Cusco, donde se llega y se dirige al hotel para pernoctar."
+            },
+            "dia6": {
+                "titulo": "Traslado desde su Hotel hasta el Aeropuerto del Cusco",
+                "descripcion": "El día 6 empieza con el desayuno y el encuentro con el personal para la despedida. Si el vuelo es tarde, se puede aprovechar para hacer compras o tomar un tour opcional. El traslado al aeropuerto o terminal terrestre se realiza 2 horas antes para vuelos nacionales y 3 horas para vuelos internacionales. También se ofrecen tours de medio día como la visita a la Morada de Dioses o Cuatrimotos en Maras-Moray."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "LLegada a Cusco - City Tour 'Mañana o Tarde'",
+                "descripcion": [
+                    "A.M o P.M Sala de embarque en el aeropuerto Jorge Chávez",
+                    "A.M o P.M Partida del vuelo ciudad de origen",
+                    "A.M o P.M Recojo del Aeropuerto al hotel o terminal terrestre - Hotel",
+                    "A.M o P.M Llegada a la ciudad de Cusco (Aeropuerto Alejandro Velasco Astete)",
+                    "<strong>A.M o P.M Comienzo de nuestros servicios</strong>",
+                    "A.M o P.M Bienvenidos a Cusco - Degustación de su mate de coca en el Hotel",
+                    "Check in 11:00 A.M, Check out 09:00 A.M Nuestros Hoteles",
+                    "A.M o P.M Explicación detallada del itinerario",
+                    "<strong>PRIMER DÍA CITY TOUR TURNO (Mañana - Tarde)</strong>",
+                    "09:40 a 10:10 A.M. Recojo de su Hotel para el city tour turno mañana",
+                    "13:50 a 14:10 A.M. Recojo del Hotel para el tour turno tarde",
+                    "A.M o P.M Visita guiada de la fortaleza de Sacsayhuamán",
+                    "A.M o P.M Visita del centro ceremonial de Qenqo",
+                    "A.M o P.M Visita guiada de la fortaleza de Puka Pukara",
+                    "A.M o P.M Visita guiada al templo del agua Tambomachay",
+                    "13:30 - 14:00 o 18:00 P.M. Retorno en bus a Cusco",
+                    "14:30 o 18:30 P.M. Arribo a la ciudad de Cusco (cerca a la plaza principal)",
+                    "A.M o P.M Pernocte en su Hotel en Cusco de acuerdo a la solicitud o categoría de Hotel"
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VALLE VIP-MARAS - MORAY, SALINERAS",
+                "descripcion": [
+                    "6:00 A 6:30 A.M Desayuno en el Hotel previa coordinación correspondiente",
+                    "6:30 – 06:50 A.M. Recojo de su Hotel para el tour de valle VIP para dirigirnos rumbo a Chinchero",
+                    "A.M. Visita del complejo arqueológico de Chinchero",
+                    "A.M. Visita del centro Textil de Chinchero donde les dará a conocer la elaboración de los tejidos o las prendas de alpaca",
+                    "Después de esta visita nos dirigiremos rumbo al centro Arqueológico de Moray",
+                    "A.M. Visita de la zona agrícola de Moray",
+                    "A.M. Visita a las Salineras de Maras",
+                    "P.M. Almuerzo buffet en el valle sagrado de Urubamba",
+                    "P.M. Visita al complejo arqueológico de Ollantaytambo",
+                    "P.M. El tour finaliza en Ollantaytambo, dependiendo de la salida del tren para viajar a Machupicchu pueblo, se tendrá que dirigir a la estación por su cuenta",
+                    "P.M. Boarding pass dependiendo del horario del tren siempre 30 minutos antes, el tiempo de viaje en el tren es 1 hora 40 minutos",
+                    "P.M. Pernocte en Ollantaytambo si el pasajero lo solicita",
+                    "P.M. Pernocte en Aguas Calientes, mayormente eso es la mejor opción"
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visita a la Ciudad Inca de Machupicchu",
+                "descripcion": [
+                    "05:30 a 8:00 A.M. Desayuno en el Hotel en Aguas Calientes.",
+                    "A.M. Punto de encuentro en la plaza de armas de Aguas Calientes o Estación de Bus Consetur, dependiendo del horario de ingreso.",
+                    "A.M. Abordamos el bus de Consetur de Aguas Calientes a Machupicchu llaqta, tiempo de viaje promedio 40 minutos.",
+                    "A.M. Visita guiada a la llaqta de Machupicchu (aprox. 2 horas) u otro circuito según la elección del pasajero. Se respeta el horario, no se puede ingresar antes, solo la opción de ingresar 30 minutos después.",
+                    "A.M. Momento libre para tomarse fotos en Machupicchu.",
+                    "A.M. o P.M. Aborda el bus de Consetur de acuerdo al horario que termine la visita de la llaqta con destino a Aguas Calientes.",
+                    "P.M. Tiempo libre para almorzar por cuenta propia en Aguas Calientes o visitar los Baños Termales (opcional).",
+                    "P.M. Sala de espera en la estación de Aguas Calientes.",
+                    "P.M. Tarjeta de embarque / boarding pass.",
+                    "P.M. Salida de Aguas Calientes - Ollantaytambo.",
+                    "P.M. Recepción en Ollantaytambo (transfer).",
+                    "P.M. Retorno de Ollantaytambo a Cusco en nuestro transporte (cerca de la plaza principal).",
+                    "Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Montaña de Colores",
+                "descripcion": [
+                    "4:20 A 4:40 A.M Recojo del Hotel correspondiente en la ciudad de Cusco por parte de nuestro guía o conductor.",
+                    "A.M Viaje un promedio de 2 horas con 40 minutos hacia el pueblo de Cusi Pata.",
+                    "A.M Desayuno en el pueblo de Cusi Pata.",
+                    "A.M Viaje un promedio de 1 hora con 40 a 45 minutos rumbo hacia la Comunidad de Chilluhuani.",
+                    "9:00 A.M. Comenzamos con la caminata hacia la Montaña de Colores (aproximadamente 1.30 horas aprox) a lo largo de esta caminata podremos apreciar un bello paisaje rodeado por las montañas y Fauna de la region del Cusco a la parte sur.",
+                    "A.M. Visita de la Montaña de Colores, también conocida como 'Vinicunca'.",
+                    "P.M Después de la visita de la Montaña de Colores a 5036 M.S.N.M, nos dirigimos caminando hacia el punto donde nos dejó la movilidad para abordar y viajar de Chilluhuani a Cusi Pata, tiempo promedio 1 hora con 20 minutos.",
+                    "P.M Almuerzo en la Comunidad de Cusi Pata degustando los productos andinos de la región del Cusco (opción vegetariana previa solicitud).",
+                    "P.M Viaje desde Cusi Pata a Cusco, tiempo promedio 2 horas con 20 minutos.",
+                    "16:30 a 17:30 P.M. Arribo a la ciudad de Cusco (cerca de la Plaza principal), para luego dirigirse a su hotel por su cuenta.",
+                    "P.M. Pernocte en su hotel en Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Tour Laguna Humantay",
+                "descripcion": [
+                    "4:20 a 4:40 A.M. Recojo del Hotel correspondiente en la ciudad de Cusco por parte de nuestro guía o conductor",
+                    "A.M. Viaje de aproximadamente 2 horas con 40 minutos hacia el pueblo de Molle Pata",
+                    "A.M. Desayuno en el pueblo de Molle Pata",
+                    "A.M. Viaje de aproximadamente 1 hora con 40 a 45 minutos rumbo hacia la Comunidad de Soraypampa",
+                    "9:00 A.M. Comienza la caminata hacia Laguna Humantay (aproximadamente 1.5 horas), apreciando un bello paisaje rodeado por montañas y fauna de la región del Cusco en el norte",
+                    "A.M. Visita a Laguna Humantay, ubicada al borde del nevado Salkantay",
+                    "P.M. Después de la visita a Laguna Humantay a 4800 M.S.N.M, al borde del nevado Salkantay, nos dirigimos caminando hacia el punto donde nos dejó la movilidad para abordar y viajar de Sorayapampa a Molle Pata (aproximadamente 1 hora con 20 minutos)",
+                    "P.M. Almuerzo en la Comunidad de Molle Pata, degustando productos andinos de la región del Cusco (opción vegetariana previa solicitud)",
+                    "P.M. Viaje desde Molle Pata a Cusco, tiempo promedio de 2 horas con 20 minutos",
+                    "17:30 a 18:00 P.M. Arribo a la ciudad de Cusco (cerca de la Plaza principal) para luego dirigirse a su hotel por su cuenta",
+                    "Pernocte en su hotel en Cusco"
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "TRASLADOS DEL HOTEL- AEROPUERTO",
+                "descripcion": [
+                    "Desayuno en el hotel de 6:30 a 9:00 AM.",
+                    "Encuentro con el personal de la agencia para la despedida.",
+                    "Si en caso que su vuelo salga tarde, puede hacer compras de artesanías o también adquirir tours de medio día.",
+                    "Recojo del hotel al aeropuerto: Si son vuelos nacionales, se realizará 2 horas antes; si son vuelos internacionales, será 3 horas antes de viaje. Puede ser al aeropuerto o terminal terrestre.",
+                    "<strong>Si el vuelo sale tarde, tiene opción de realizar un tour.</strong>",
+                    "8 salidas diarias:",
+                    "• Montaña de Colores",
+                    "• Laguna Humantay",
+                    "• Waqrapukara",
+                    "• Cuatrimotos en Morada de los Dioses",
+                    "• Otros"
+                ]
+            }
+        ],
+        "incluye": [
+            "Vuelos con aerolíneas Sky, Latam y Jet Smart (OPCIONAL) para turistas nacionales o extranjeros con vuelos internacionales e internos en Perú, con check-in un día antes",
+            "Traslado - Aeropuerto o Terminal - Hotel - Aeropuerto o terminal terrestre",
+            "Ingreso a los complejos arqueológicos BTG",
+            "Almuerzo buffet en el tour de Valle Sagrado VIP",
+            "5 desayunos durante el servicio",
+            "Guía en todos los tours (español/inglés)",
+            "Tren ida y vuelta (tren turístico) dependiendo de la categoría solicitada",
+            "Bus de Consetur Aguas Calientes - Machupicchu - Aguas Calientes",
+            "Boleto de entrada a Machupicchu (Circuito 2 según a la disponibilidad).",
+            "5 noches de hotel en Cusco según la categoría solicitada (con tren turístico, el pasajero podrá dormir en Aguas Calientes u Ollantaytambo por 1 noche)",
+            "Transporte Ollantaytambo - Cusco",
+            "Desayuno y almuerzo en el tour Montaña de Colores",
+            "Desayuno y almuerzo en el tour Laguna Humantay",
+            "Ingresos a Montaña de Colores y Laguna Humantay",
+            "Bastones de apoyo en Montaña de Colores y Laguna Humantay",
+            "Ingreso a las Salineras de Maras",
+            "Oxígeno de emergencia en Montaña y Laguna Humantay",
+            "Asistencia 24/7 a través de WhatsApp"
+        ],
+        "noIncluye": [
+            "Almuerzo en el tour de City tour (medio día)",
+            "Almuerzo ni desayuno en el tour a Machupicchu",
+            "En ningún tour incluye cena",
+            "Almuerzo en Valle Sur",
+            "Gastos extras fuera del servicio",
+            "Almuerzos y desayunos no mencionados en el programa",
+            "Ingreso a Qoricancha 20.00 (opcional)",
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL)"
+        ],
+        "queLlevar": [
+            "Portar documento de identidad (DNI/PASAPORTE vigente).",
+            "Llevar poncho para lluvia dependiendo de la temporada.",
+            "Bloqueador solar.",
+            "Gorra/sombrero para el calor.",
+            "Llevar muda de ropas adecuadas para el viaje.",
+            "Repelente para mosquitos."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "MontanaColores": {
+        "seo": {
+            "title": "MONTAÑA DE COLORES - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive la experiencia única de la Montaña de Colores en un tour full day desde Cusco. Transporte, guía y alimentación incluidos. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Tour Montaña de Colores",
+                "Viaje a Vinicunca",
+                "Excursión 7 Colores",
+                "Trekking en Cusco",
+                "Turismo en Perú",
+                "Tour aventura Cusco",
+                "Montaña de Colores desde Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/montana-de-colores",
+            "open_graph": {
+                "title": "Montaña de Colores - Full Day",
+                "description": "Explora la Montaña de Colores en un increíble tour de un día. Disfruta de paisajes espectaculares, guías expertos y una experiencia inolvidable.",
+                "url": "https://machupicchubyworld.com/montana-de-colores",
+                "type": "website"
+            }
+        },
+        "title": "MONTAÑA DE COLORES",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Gestionado por expertos locales para una experiencia auténtica.",
+            "Incluye transporte, desayuno, almuerzo y asistencia durante el tour.",
+            "Grupos pequeños y exclusivos para una experiencia más personalizada.",
+            "Guía bilingüe (español, inglés y portugués) para una experiencia sin barreras.",
+            "Vistas espectaculares y momentos únicos en la caminata hacia la Montaña de Colores."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Vista panoramica de la Montaña de colores",
+            "alt2": "Montaña de colores",
+            "alt3": "Fotografia de nuestros clientes en la Montaña de colores",
+            "alt4": "Fotografia de nuestros clientes en la Montaña de colores",
+            "alt5": "Fotografia de nuestros clientes en la Montaña de colores"
+        },
+        "lugares": "Cusco - Cusi Pata - Pitumarca - Montaña de Colores - Cusi Pata - Cusco",
+        "descripcion": "La <strong>Montaña de Colores</strong>, conocida también como <strong> Montaña de 7 Colores</strong>, por la forma que tiene y porque transmite los colores del <strong> arcoíris</strong>, otra forma de llamarla en quechua es <strong> Vinincunca</strong>. Durante el recorrido a la <strong>montaña de colores</strong> podrás apreciar el <strong>icchu</strong>, los animales como la <strong>llama</strong>, <strong>alpaca</strong>, <strong>oveja</strong> y <strong>vizcacha</strong>; entre las aves, a la <strong>Huallata</strong> y <strong>Caracara</strong>. En la ruta está situada el <strong>nevado Ausangate</strong>, esta montaña es una belleza, es el más alto de la región del <strong>Cusco</strong> a <strong>6384 m.s.n.m.</strong>",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Cusi Pata - Pitumarca - Montaña de Colores - Cusi Pata - Cusco",
+                "descripcion": [
+                    "4:20 a 4:50 A.M Recojo del hotel para el tour de Montaña de Colores o Vinicunca, tiempo de viaje 1 hora con 40 minutos a Cusi Pata",
+                    "A.M Desayuno en el pueblo de Cusi Pata preparado con los productos andinos de la zona",
+                    "A.M Viaje hacia la localidad de Pitumarca, tiempo de viaje aproximadamente 1 hora hasta el inicio de la caminata de Montaña de Colores",
+                    "A.M Inicio de caminata hacia la Montaña de Colores, donde estarán acompañados de nuestro guía oficial de turismo, la caminata dura 1 hora con 40 minutos hasta llegar al mirador",
+                    "P.M Retorno de Montaña hacia la comunidad de Cusi Pata en nuestro transporte turístico",
+                    "P.M Almuerzo en Cusi Pata para recargar las energías, luego retornamos en transporte a Cusco",
+                    "16:30 a 17:20 P.M Llegada a la ciudad de Cusco cerca de la plaza principal, para luego dirigirse a su hotel por cuenta propia"
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte Turístico",
+            "01 desayuno",
+            "01 Almuerzo",
+            "Guía profesional bilingüe español - portugués – inglés",
+            "Tickets de ingreso a la Montaña de Colores",
+            "Bastones de apoyo para la caminata",
+            "Equipo de primeros auxilios / oxígeno",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Caballos (puede rentarlos directamente)",
+            "Gastos extras",
+            "Propinas para el Guía",
+            "Cuatrimotos (previa cotización)"
+        ],
+        "queLlevar": [
+            "Usar zapatos de trekking o tenis",
+            "Casaca abrigadora",
+            "Bloqueador solar",
+            "Sombrero para los días de sol",
+            "Medicina y/o artículos de uso personal para la altura e higiene",
+            "Una mochila o maletín liviano de 20 litros",
+            "Cámaras fotográficas",
+            "Dinero extra en moneda nacional",
+            "Pantalones cómodos de caminata y chompas abrigadoras",
+            "Lentes de sol",
+            "Bolsas plásticas para los desechos que produzca cada uno de ustedes",
+            "Pasaportes originales o documentos personales (no se aceptan copias)"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "LagunaHumantay": {
+        "seo": {
+            "title": "LAGUNA HUMANTAY - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Descubre la Laguna Humantay en un tour de un día. Caminata impresionante, vistas espectaculares y una experiencia inolvidable en los Andes. ¡Reserva ahora!",
+            "keywords": [
+                "Tour Laguna Humantay",
+                "Excursión a Laguna Humantay",
+                "Trekking en los Andes",
+                "Aventura en Cusco",
+                "Laguna Humantay desde Cusco",
+                "Viajes en Perú",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/laguna-humantay",
+            "open_graph": {
+                "title": "Laguna Humantay - Full Day",
+                "description": "Explora la Laguna Humantay con una caminata guiada en los Andes. Transporte, guía experto y almuerzo incluidos para una aventura única.",
+                "url": "https://machupicchubyworld.com/laguna-humantay",
+                "type": "website"
+            }
+        },
+        "title": "LAGUNA HUMANTAY",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Gestionado por expertos locales para garantizar una experiencia única en la Laguna Humantay.",
+            "Incluye transporte, desayuno, almuerzo y bebidas, además de un guía profesional bilingüe.",
+            "La caminata a la Laguna Humantay es acompañada por un guía experto, asegurando la seguridad y disfrute.",
+            "Grupo reducido para una experiencia más personalizada y de calidad.",
+            "El paquete ofrece flexibilidad y opciones adicionales, como alquiler de caballos para quienes prefieren no caminar."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Laguna Humantay",
+            "alt2": "Laguna Humantay",
+            "alt3": "Laguna Humantay",
+            "alt4": "Laguna Humantay",
+            "alt5": "Laguna Humantay"
+        },
+        "lugares": "Cusco - Mollepata - Soraypampa - Laguna Humantay - Mollepata - Cusco",
+        "descripcion": "La <strong>Laguna Humantay</strong> es una de las maravillas más famosas de la Región del <strong>Cusco</strong>, por sus aguas cristalinas que descienden desde el <strong>Nevado Humantay</strong> ubicado a 3500 m.s.n.m. Es un paisaje rodeado de flora y fauna y de comunidades andinas, sus trajes típicos demuestran encanto a todos los visitantes, nuestra agencia de viajes <strong>Machupichu by World</strong> te ofrece los mejores servicios y los mejores tours donde podrás disfrutar y quedar encantado de este maravilloso atractivo.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Mollepata - Soraypampa - Laguna Humantay - Mollepata - Cusco",
+                "descripcion": [
+                    "4:20 a 4:40 A.M: Recojo del hotel para el tour de Laguna Humantay, tiempo de viaje aproximado 2 horas hacia la comunidad de Mollepata.",
+                    "Desayuno en el pueblo de Mollepata, preparado con productos locales.",
+                    "Viaje hacia la localidad de Soraypampa, tiempo de viaje aproximado 1 hora con 20 minutos desde Mollepata.",
+                    "Inicio de caminata hacia la Laguna Humantay, acompañados por un guía oficial de turismo, la caminata dura aproximadamente 2 horas.",
+                    "Retorno hacia Mollepata en nuestro transporte turístico.",
+                    "Almuerzo en Mollepata para recargar energías, luego retorno a Cusco.",
+                    "17:40 a 18:20 P.M: Llegada a la ciudad de Cusco cerca de la plaza principal, luego se dirigirá al hotel por cuenta propia."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte Turístico",
+            "01 desayuno - 01 Almuerzo",
+            "Guía profesional bilingüe español - inglés",
+            "Tickets de ingreso a Laguna Humantay",
+            "Bastones de apoyo para la caminata",
+            "Equipo de primeros auxilios / oxígeno",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Caballos (puede rentarlos directamente)",
+            "Gastos extras",
+            "Propinas para el Guía"
+        ],
+        "queLlevar": [
+            "Usar zapatos de treking o tenis.",
+            "Casaca abrigadora.",
+            "Bloqueador solar.",
+            "Sombrero para los días de sol.",
+            "Medicina y/o artículos de uso personal para la altura e higiene.",
+            "Una mochila o maletín liviano de 20 litros.",
+            "Cámaras fotográficas.",
+            "Dinero extra en moneda nacional.",
+            "Pantalones cómodos de caminata y chompas abrigadoras.",
+            "Lentes de sol.",
+            "Bolsas plásticas para los desechos que produzca cada uno de ustedes.",
+            "Pasaportes originales o documentos personales (no se aceptan copias)."
+        ],
+        "extras": [
+            "Alquiler de Caballos: Disponibles para aquellos que prefieren no caminar.",
+            "Asistencia Personalizada: Soporte continuo por parte de nuestro equipo durante todo el tour.",
+            "Guías Expertos: Nuestro personal está altamente capacitado para brindarte la mejor experiencia.",
+            "Opciones de Transporte: Transporte cómodo y seguro en minivan.",
+            "Flexibilidad en el Itinerario: Adaptamos el tour según las necesidades y preferencias de los visitantes."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Ausangate": {
+        "seo": {
+            "title": "7 LAGUNAS AUSANGATE - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Emprende una aventura de un día completo por los impresionantes 7 lagos de Ausangate. Disfruta de una caminata escénica, vistas impresionantes y baños termales al final. ¡Reserva ahora!",
+            "keywords": [
+                "Tour 7 Lagunas Ausangate",
+                "Excursión Lagunas Ausangate",
+                "Trekking en la Cordillera Vilcanota",
+                "Aventura en Cusco",
+                "Baños termales en Pacchanta",
+                "Viajes a Perú",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/7-lagunas-ausangate",
+            "open_graph": {
+                "title": "7 Lagunas Ausangate - Día Completo",
+                "description": "Descubre la belleza de las 7 lagunas de Ausangate con una caminata guiada por la Cordillera Vilcanota. Disfruta de los baños termales y el almuerzo en Pacchanta.",
+                "url": "https://machupicchubyworld.com/7-lagunas-ausangate",
+                "type": "website"
+            }
+        },
+        "title": "7 LAGUNAS AUSANGATE",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Guía experto durante todo el tour, explicando sobre la fauna y cultura local.",
+            "Recorrido por las lagunas de Ausangate: Azul Cocha, Otorongo, Pucacocha, Alqacocha y Q’omercocha.",
+            "Posibilidad de ver animales como alpacas, llamas y cóndores andinos.",
+            "Disfrute de las aguas termales de Pacchanta al finalizar el tour.",
+            "Parada en el pueblo de Tinke para conocer la vida local."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Laguna del Ausangate",
+            "alt2": "Laguna del Ausangate"
+        },
+        "lugares": "Pacchanta - Tinke - Lagunas de Ausangate - Aguas termales de Pacchanta - Cusco",
+        "descripcion": "Nuestra excursión de un día a las <strong>7 Lagunas Ausangate</strong> es una hermosa experiencia donde puedes ver varios lagos de color turquesa, pertenecientes a la <strong>Cordillera de Vilcanota</strong>. También estarás cerca de las montañas de <strong>Ausangate</strong>, que es la montaña más alta de <strong>Perú</strong>. Al final, disfrutarás de las aguas termales con una hermosa vista de las montañas que te rodean y de la vida cotidiana de los agricultores de la comunidad de <strong>Pacchanta</strong>.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Pacchanta - Tinke - Lagunas de Ausangate: Azul Cocha, Otorongo, Pucacocha, Alqacocha, Q’omercocha - Aguas termales de Pacchanta - Cusco",
+                "descripcion": [
+                    "4:00 a.m.: Recogida del hotel y salida hacia el pueblo de Pacchanta.",
+                    "Parada breve en Tinke.",
+                    "Continuación del viaje hacia Pacchanta (45 minutos).",
+                    "Desayuno en Pacchanta.",
+                    "Ingreso a la caminata hacia las lagunas de Ausangate: Azul Cocha, Otorongo, Pucacocha, Alqacocha y Q’omercocha.",
+                    "Durante la caminata, se pueden observar aves, alpacas, llamas y, con suerte, el cóndor andino.",
+                    "Regreso a Pacchanta para disfrutar de las aguas termales.",
+                    "Almuerzo buffet en Pacchanta.",
+                    "Viaje de regreso a Cusco.",
+                    "Llegada a Cusco alrededor de las 7:00 p.m., finalizando el tour cerca de la plaza principal."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guía en todos los tours.",
+            "Transporte para cada tour mencionado.",
+            "Bastones de apoyo para el tour.",
+            "Desayuno en Pacchanta.",
+            "Almuerzo en Pacchanta.",
+            "Ingreso al circuito a las lagunas."
+        ],
+        "noIncluye": [
+            "Cena.",
+            "Ingreso a los baños termales de Pacchanta"
+        ],
+        "queLlevar": [
+            "DNI físico.",
+            "Dinero en soles para gastos extras.",
+            "Sombrero o gorra para el calor.",
+            "Poncho de lluvias.",
+            "Ropa abrigadora.",
+            "Zapatillas adecuadas para el tour.",
+            "Muda de ropa."
+        ],
+        "extras": [
+            "Bastones de apoyo para el recorrido: Proveemos bastones de trekking para facilitar la caminata, especialmente en terrenos irregulares y para dar mayor estabilidad durante el recorrido por las lagunas.",
+            "Guía especializado durante todo el tour: Contarás con un guía experto que no solo te acompañará en todo el recorrido, sino que también te explicará detalles sobre las lagunas, la fauna, las montañas y la cultura local de Pacchanta.",
+            "Aguas termales en Pacchanta para relajación: Al final del tour, tendrás la oportunidad de disfrutar de un baño relajante en las aguas termales de Pacchanta, ideales para aliviar el cansancio muscular tras la caminata.",
+            "Parada en el pueblo de Tinke para exploración rápida: En el trayecto al punto de inicio de la caminata, se realizará una breve parada en el pintoresco pueblo de Tinke, donde podrás conocer un poco más sobre la vida local."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Palcoyo": {
+        "seo": {
+            "title": "MONTAÑA PALCOYO - DÍA COMPLETO | MACHUPICCHU BY WORLD",
+            "meta_description": "Explora la Montaña de Palcoyo en un tour de un día completo. Disfruta de caminatas escénicas, paisajes vibrantes y el único Puente Colgante de Checacupe. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Tour Montaña Palcoyo",
+                "Trekking en Palcoyo",
+                "Aventura en Cusco",
+                "Puente Colgante Checacupe",
+                "Montaña Arcoíris Palcoyo",
+                "Viajes en Perú",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/palcoyo-mountain",
+            "open_graph": {
+                "title": "Montaña Palcoyo - Día Completo",
+                "description": "Explora la impresionante Montaña Palcoyo, famosa por sus paisajes vibrantes y caminatas escénicas. Visita el histórico Puente Colgante de Checacupe y disfruta de comidas locales.",
+                "url": "https://machupicchubyworld.com/palcoyo-mountain",
+                "type": "website"
+            }
+        },
+        "title": "MONTAÑA PALCOYO",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Exploración de la Montaña de Palcoyo, con caminatas escénicas y tiempo para fotos.",
+            "Visita al puente colgante de Checacupe, un atractivo histórico único en la ruta.",
+            "Incluye desayuno andino, almuerzo buffet y bebidas calientes.",
+            "Guía profesional bilingüe y equipo de primeros auxilios durante todo el recorrido.",
+            "Opción de alquilar caballos para facilitar la caminata."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Montaña Palcoyo"
+        },
+        "lugares": "Cusco - Palcoyo",
+        "descripcion": "<strong>Palcoyo</strong> es conocido por sus paisajes que, gracias a sus colores de arcoíris, se asemeja a un hermano gemelo de la famosa <strong>Montaña de Colores</strong>. Durante el recorrido hacia <strong>Palcoyo</strong>, podrás apreciar el <strong>icchu</strong> y animales típicos como <strong>llamas</strong>, <strong>alpacas</strong>, <strong>ovejas</strong> y <strong>vizcachas</strong>. Entre las aves destaca la <strong>huallata</strong>.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Montaña de Palcoyo - Cusco",
+                "descripcion": [
+                    "Recojo entre las 04:30 y 05:00 a.m. hacia Cusi Pata.",
+                    "Parada breve en el camino para adquirir provisiones.",
+                    "Inicio de la caminata hacia Palcoyoc.",
+                    "Desayuno andino a las 08:00 a.m.",
+                    "Continuación en minibús hacia Combapata.",
+                    "Caminata de 40 minutos hacia la Montaña de Palcoyoc, con tiempo para fotos y refrigerio.",
+                    "Regreso caminando a Combapata.",
+                    "Visita al puente colgante de Checacupe.",
+                    "Almuerzo buffet en Cusi Pata.",
+                    "Retorno a Cusco, con llegada al centro histórico alrededor de las 5:00 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte turístico",
+            "01 desayuno, 01 almuerzo.",
+            "Guía profesional bilingüe (español e inglés)",
+            "Entradas a la Montaña de Palcoyo",
+            "Bastones de apoyo para la caminata",
+            "Equipo de primeros auxilios / oxígeno",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Caballos (disponibles para alquilar directamente)",
+            "Gastos extras",
+            "Propinas para el guía"
+        ],
+        "queLlevar": [
+            "Zapatos de trekking o tenis",
+            "Casaca abrigadora",
+            "Bloqueador solar",
+            "Sombrero para los días soleados",
+            "Medicamentos y/o artículos personales para la altura e higiene",
+            "Mochila o maletín liviano de 20 litros",
+            "Cámara fotográfica",
+            "Dinero extra en moneda nacional",
+            "Pantalones cómodos para caminar y chompas abrigadoras",
+            "Lentes de sol",
+            "Bolsas plásticas para desechos personales",
+            "Pasaporte original o documento personal (no se aceptan copias)"
+        ],
+        "extras": [
+            "Bastones de apoyo para la caminata",
+            "Equipo de primeros auxilios y oxígeno",
+            "Paradas estratégicas para provisiones",
+            "Opción de alquilar caballos en la ruta",
+            "Asistencia permanente durante todo el recorrido"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Cuatrimotos": {
+        "seo": {
+            "title": "TOUR CUATRIMOTOS VALLE SAGRADO - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Explora el Valle Sagrado en un tour de cuatrimotos de un día. Descubre Moray, las Salineras de Maras y la Laguna Huaypo con impresionantes vistas y un toque cultural. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Tour Cuatrimotos Valle Sagrado",
+                "Tour Moray",
+                "Salineras de Maras",
+                "Laguna Huaypo Tour",
+                "Aventura Valle Sagrado",
+                "Cuatrimotos Cusco",
+                "Tours en Perú"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cuatrimotos-valle-sagrado",
+            "open_graph": {
+                "title": "Tour Cuatrimotos Valle Sagrado - Full Day",
+                "description": "Disfruta de un emocionante recorrido en cuatrimoto por el Valle Sagrado. Visita las terrazas agrícolas de Moray, las Salineras de Maras y la Laguna Huaypo con vistas espectaculares y una experiencia cultural única.",
+                "url": "https://machupicchubyworld.com/cuatrimotos-valle-sagrado",
+                "type": "website"
+            }
+        },
+        "title": "TOUR CUATRIMOTOS VALLE SAGRADO",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Tours diarios en horarios de mañana y tarde.",
+            "Guiado en español, inglés y portugués.",
+            "Aventura segura con equipo de seguridad.",
+            "Rutas panorámicas con vistas a nevados.",
+            "Experiencia cultural en Moray y Salineras."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Moray",
+            "alt2": "Salineras de Maras"
+        },
+        "lugares": "Laguna Huaypo - Moray - Salineras de Maras",
+        "descripcion": "El circuito de <strong>cuatrimotos</strong> por la <strong>Laguna Huaypo</strong>, <strong>Moray</strong> y las <strong>Salineras de Maras</strong> combina aventura, cultura y paisajes únicos. <strong>Moray</strong> destaca por sus terrazas circulares usadas como <strong>laboratorio agrícola inca</strong>, y <strong>Maras</strong> por sus <strong>salineras naturales</strong>. Ideal para disfrutar naturaleza y cultura en un solo tour.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Ruta 1: Maras - Moray (resto arqueológico) y salineras de Maras.",
+                "descripcion": [
+                    "El tour comienza en Cruzpata tras un breve entrenamiento en cuatrimotos.",
+                    "La primera parada es en los andenes de Moray, un centro inca de experimentación agrícola, donde se ofrece una explicación guiada.",
+                    "Luego, se visita el pueblo de Maras, con vistas impresionantes de la Cordillera de Urubamba y los nevados Verónica y Chicón.",
+                    "Finalmente, se llega a las Salineras de Maras, para luego retornar a Cruzpata en una nueva ruta antes de regresar a Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Ruta 2: Laguna de Huaypo y Salineras de Maras",
+                "descripcion": [
+                    "Después del entrenamiento en Cruzpata, la primera parada es en la Laguna de Huaypo, famosa por sus historias y leyendas.",
+                    "Luego, se sigue hacia Maras, disfrutando de las vistas de la Cordillera de Urubamba y los nevados Verónica y Chicón.",
+                    "La última parada es en las Salineras, con una breve explicación guiada.",
+                    "Finalmente, se toma una ruta distinta de regreso a Cruzpata y se regresa a Cusco."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte ida y vuelta",
+            "Equipo de seguridad (casco y guantes)",
+            "Guía profesional bilingüe (inglés y español)",
+            "Una Cuatrimoto simple (Honda 420, año 2021)",
+            "Gasolina",
+            "Poncho de lluvia",
+            "Convertidor de mochila",
+            "Equipo de primeros auxilios"
+        ],
+        "noIncluye": [
+            "Tickets de ingreso para Moray y Salineras de Maras",
+            "Gastos extras",
+            "Propinas para el guía"
+        ],
+        "queLlevar": [
+            "Usar zapatos cómodos",
+            "Casaca impermeable",
+            "Bloqueador solar y lentes de sol",
+            "Sombrero para los días soleados",
+            "Cámaras fotográficas",
+            "Dinero extra en moneda nacional"
+        ],
+        "extras": [
+            "El deporte es para jóvenes y adultos que quieren disfrutar de una aventura inolvidable.",
+            "Tipos de servicios: Servicio individual (1 persona en una moto) - Servicio doble (2 personas en una moto)",
+            "Salidas diarias en dos grupos: Mañana: 07:00 - 13:00 - Tarde: 13:00 - 18:00"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Zipline": {
+        "seo": {
+            "title": "ZIP LINE VALLE SAGRADO \"CHINCHERO\" - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive la emoción del Zip Line en el Valle Sagrado de los Incas. Disfruta de las vistas del Valle Sagrado, el cañón de Pacchayoc y los nevados Chicón y Pitusiray. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Zip Line Valle Sagrado",
+                "Tour tirolesa Chinchero",
+                "Racchi",
+                "Aventura Valle Sagrado",
+                "Cañón de Pacchayoc",
+                "Tirolina Cusco",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/zip-line-chincheros",
+            "open_graph": {
+                "title": "Zip Line Valle Sagrado Chinchero - Full Day",
+                "description": "Disfruta de una aventura emocionante en el Zip Line de Cusco. Vuela sobre el Valle Sagrado y el Cañón de Pacchayoc con impresionantes vistas y adrenalina al máximo.",
+                "url": "https://machupicchubyworld.com/zip-line-chincheros",
+                "type": "website"
+            }
+        },
+        "title": "ZIP LINE VALLE SAGRADO \"CHINCHERO\"",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "4 cables con distintas alturas y vistas",
+            "Transporte seguro y cómodo",
+            "Asistencia permanente en todo el tour",
+            "Guías profesionales y capacitados",
+            "Horarios flexibles de mañana y tarde"
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Chincheros"
+        },
+        "lugares": "Racchi - Valle Sagrado de los Incas - Chinchero (opcional).",
+        "descripcion": "El <strong>Zip Line de Cusco</strong>, ubicado en <strong>Racchi</strong> a 35 km de la ciudad, ofrece una experiencia emocionante rodeada de paisajes espectaculares, como el <strong>Valle Sagrado</strong>, el <strong>cañón de Pacchayoc</strong> y los nevados <strong>Chicón</strong> y <strong>Pitusiray</strong>. Consta de 4 cables: el primero, suave para ganar confianza; el segundo, el más veloz; el tercero, el más largo para movimientos extremos; y el cuarto, con vistas impresionantes del cañón y las montañas.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Racchi - Valle Sagrado de los Incas - Chinchero (opcional).",
+                "descripcion": [
+                    "El tour inicia con el recojo desde nuestra oficina y el traslado al lugar conocido como Racchi, donde se realizará la tirolesa en medio de un magnífico paisaje natural. Los participantes se deslizarán por los diferentes cables, disfrutando de la sensación de volar mientras aprecian los paisajes andinos, el Valle Sagrado de los Incas, las montañas y la cultura viva de la comunidad de Racchi Ayllu. Al finalizar la actividad, se retorna a la ciudad de Cusco. De manera opcional, los participantes pueden visitar los centros textiles en Chinchero. La duración aproximada del tour es de 4 horas."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte Turístico",
+            "Instructor para la actividad 'Tirolina'",
+            "04 líneas de Tirolina",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Servicio de Video y Fotografías",
+            "Snacks"
+        ],
+        "queLlevar": [
+            "Usar zapatos cómodos",
+            "Casaca abrigadora",
+            "Bloqueador solar",
+            "Sombrero para los días de sol",
+            "Cámaras fotográficas",
+            "Dinero extra en moneda nacional",
+            "Pantalones cómodos",
+            "Lentes de sol"
+        ],
+        "extras": [
+            "Visita opcional a centros textiles en Chinchero",
+            "Transporte turístico de ida y vuelta",
+            "Oportunidad de interactuar con la comunidad de Racchi",
+            "Opciones de horarios flexibles (mañana y tarde)"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    }
+}

@@ -1,0 +1,570 @@
+.homeDescripcion {
+    background-color: #fff;
+    justify-items: center;
+}
+
+.homeText {
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.homeTitulo {
+    margin-right: 50px;
+    margin-left: 50px;
+    line-height: 45px;
+    font-weight: 600;
+    font-weight: 700;
+}
+
+.homeTituloResaltado {
+    color: #006d3b;
+}
+
+.homeOracion {
+    line-height: 35px;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.buttonHome {
+    margin-bottom: 50px;
+    color: #fff;
+    background-color: #006d3b;
+    border-radius: 50px;
+    padding: 15px;
+    font-weight: 500;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: "poppins", sans-serif;
+}
+
+.buttonHome:hover {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #FDC318;
+}
+
+
+.homeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #EDEDED;
+}
+
+.CounterNumber {
+    display: flex;
+    text-align: center;
+    margin: 0 10px;
+    gap: 50px;
+    justify-items: center;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* SECCION DE PORQUE ELEGIRNOS  */
+.homeRazon {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.homeRazonContent {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 120px;
+    margin-left: 120px;
+    gap: 100px;
+}
+
+.homeRazonContent>img {
+    height: 400px;
+    width: auto;
+}
+
+.homeRazonTexto {
+    text-align: left;
+    max-width: 550px;
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.homeRazonTexto>p {
+    margin: 0;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.homeRazonTexto>ul {
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.homeRazonTextoLista {
+    display: block;
+    /* Permite que el contenido fluya en líneas múltiples */
+    margin-bottom: 8px;
+    /* Espaciado entre los elementos de la lista */
+    line-height: 1.5;
+    /* Mejora la legibilidad del texto */
+    word-wrap: break-word;
+    /* Asegura que las palabras largas se ajusten al ancho del contenedor */
+    object-fit: contain;
+}
+
+.homeRazonCarrucel {
+    width: 600px;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.RazonContainer {
+    border-bottom: 35px solid #F4F4F4;
+}
+
+/* Contenido del scroll */
+.ScrollContent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 4rem;
+}
+
+.TextContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.TextoScrollGreen {
+    color: #006d3b;
+}
+
+.ScrollContent>svg {
+    width: 4rem;
+    height: auto;
+    color: #888888;
+}
+
+.TextoScroll {
+    color: #333;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.TextoScrollSubtitulo {
+    width: 70%;
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+    color: #888888;
+    padding: 0 150px;
+}
+
+.TextoScroll::after {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    width: 30%;
+    height: 4px;
+    background-color: #FDC318;
+    transform: translateX(-50%);
+    display: block;
+    /* Asegura que la línea sea un bloque */
+    border-radius: 10px;
+}
+
+
+/* SECCION DE RESEÑAS EN TRIPADVISOR */
+.homeReview {
+    background-color: #ffffff;
+    border-top: 35px solid #F4F4F4;
+}
+
+.homeReview>h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.homeReview>p {
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+/* SEGUNDA SECCION DEL HOME (SECCIONNDE RECONOCIMIENTOS) */
+.homeReconocimientos {
+    display: flex;
+    /* Flexbox para diseño */
+    flex-direction: column;
+    /* Apila elementos en columna (vertical) */
+    justify-content: center;
+    /* Centrado horizontal */
+    align-items: center;
+    /* Centrado vertical */
+    margin: 40px 40px 40px 40px;
+    height: auto;
+    /* Altura dinámica según contenido */
+}
+
+.homeReconocimientosImage {
+    display: block;
+    gap: 20px;
+}
+
+.homeReconocimientos h2 {
+    text-align: center;
+    /* Centra el texto */
+    max-width: 300px;
+    /* Define un ancho máximo */
+    word-wrap: break-word;
+    /* Ajuste automático de palabras largas */
+    word-break: break-word;
+    /* Permite cortes en palabras largas */
+    margin-bottom: 7px;
+}
+
+.Tripadvisor,
+.Miradas {
+    width: auto;
+    /* Ajusta automáticamente el ancho */
+    height: 120px;
+    /* Altura fija */
+    margin: 0 10px;
+    /* Espaciado entre imágenes */
+}
+
+/* ULTIMA SECCION DE HOME METODOS DEL PAGO */
+.homeMethodPay {
+    text-align: center;
+    background-color: #EDEDED;
+    padding: 10px;
+}
+
+.homeMethodPay>h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+.homeMethodPay>p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.homeMethodPayImage {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.ImageVisa {
+    height: 60px;
+    width: auto;
+}
+
+.ImageIzipay {
+    height: 50px;
+    width: auto;
+}
+
+.ImageWestern {
+    height: 40px;
+    width: auto;
+}
+
+.ImageYape {
+    height: 70px;
+    width: auto;
+}
+
+.ImageWetravel {
+    height: 50px;
+    width: auto;
+}
+
+.homeRazonTexto {
+    max-width: 100%;
+    font-size: 14px;
+}
+
+.homeRazonCarrucel {
+    width: 100%;
+}
+
+.ScrollContent {
+    padding: 2rem;
+}
+
+.TextoScrollSubtitulo {
+    padding: 0 100px;
+}
+
+.homeReconocimientosImage {
+    flex-direction: column;
+    gap: 20px;
+}
+
+.homeMethodPayImage {
+    gap: 80px;
+}
+
+
+.ImageWestern {
+    height: 40px;
+    width: auto;
+}
+
+@media (max-width: 1024px) {
+    .homeContainer {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    .homeReconocimientos h2 {
+        font-size: 20px;
+    }
+
+    .homeReconocimientosImage {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .homeReconocimientosImage img {
+        width: 100px;
+        height: auto;
+        margin: 0;
+    }
+
+    .MachuPicchuIcon {
+        width: 50px;
+        height: auto;
+    }
+
+    .MontanaIcon {
+        width: 50px;
+        height: auto;
+    }
+
+    .CompasIcon {
+        font-size: 16px;
+    }
+
+    .homeMethodPayImage {
+        flex-direction: row;
+        /* Asegura que las imágenes se mantengan en filas */
+        gap: 20px;
+        /* Espacio entre las imágenes */
+    }
+
+    .homeMethodPayImage>img {
+        width: calc(20% - 30px);
+        /* Ocupa el 50% del ancho y ajusta el espacio entre ellas */
+        height: auto;
+    }
+
+    .ImageVisa {
+        height: 70px;
+    }
+
+    .ImageIzipay {
+        height: 60px;
+    }
+
+    .ImageWestern {
+        height: 50px;
+    }
+
+    .ImageYape {
+        height: 70px;
+    }
+
+    .ImageWetravel {
+        height: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .homeContainer {
+        padding-left: 8rem;
+        padding-right: 8rem;
+    }
+
+    .homeText {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .homeRazonContent {
+        margin-right: 20px;
+        margin-left: 20px;
+        gap: 30px;
+    }
+
+    .homeRazonCarrucel {
+        width: 100%;
+    }
+
+    .homeMethodPay>h2 {
+        font-size: 20px;
+        /* Smaller heading for smaller screens */
+        margin-top: 20px;
+    }
+
+    .homeMethodPayImage {
+        flex-direction: row;
+        /* Asegura que las imágenes se mantengan en filas */
+        gap: 10px;
+        /* Reduce el espacio entre las imágenes */
+    }
+
+    .homeMethodPayImage>img {
+        width: calc(20% - 30px);
+        /* Ocupa el 50% del ancho, con menos espacio entre ellas */
+        height: auto;
+    }
+
+    .ImageVisa {
+        height: 60px;
+    }
+
+    .ImageIzipay {
+        height: 55px;
+    }
+
+    .ImageWestern {
+        height: 45px;
+    }
+
+    .ImageYape {
+        height: 65px;
+    }
+
+    .ImageWetravel {
+        height: 45px;
+    }
+
+    .homeTitulo {
+        font-size: 24px;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .homeOracion {
+        font-size: 16px;
+    }
+
+    .buttonHome {
+        width: 200px;
+    }
+
+    .homeReconocimientos h2 {
+        font-size: 18px;
+    }
+
+    .homeReconocimientosImage {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .homeReconocimientosImage img {
+        width: 80px;
+        height: auto;
+        margin: 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .homeContainer {
+        display: none;
+    }
+
+    .homeText {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .homeTitulo {
+        font-size: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .homeOracion {
+        font-size: 14px;
+    }
+
+    .buttonHome {
+        font-size: 12px;
+        padding: 12px;
+    }
+
+    .homeRazonContent {
+        margin-right: 10px;
+        margin-left: 10px;
+        gap: 20px;
+    }
+
+    .ScrollContent {
+        padding: 1rem;
+    }
+
+    .TextoScrollSubtitulo {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+
+    .homeMethodPayImage {
+        flex-direction: row;
+        /* Asegura que las imágenes se mantengan en filas */
+        gap: 10px;
+        /* Reduce el espacio entre las imágenes */
+    }
+
+    .homeMethodPayImage>img {
+        width: calc(50% - 10px);
+        /* Ocupa el 50% del ancho, con espacio ajustado entre ellas */
+        height: auto;
+    }
+
+    .ImageVisa {
+        height: 50px;
+    }
+
+    .ImageIzipay {
+        height: 50px;
+    }
+
+    .ImageWestern {
+        height: 40px;
+    }
+
+    .ImageYape {
+        height: 60px;
+    }
+
+    .ImageWetravel {
+        height: 40px;
+    }
+}

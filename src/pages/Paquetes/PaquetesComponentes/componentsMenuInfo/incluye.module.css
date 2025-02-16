@@ -1,0 +1,35 @@
+.contenedor {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "poppins", sans-serif;
+}
+
+.item {
+    margin-bottom: 50px;
+}
+
+.titulo {
+    color: #006D3B;
+    font-size: 18px;
+}
+
+.lista>li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.icono {
+    font-size: 18px;
+    margin-right: 10px;
+    color: #62B01D;
+    flex-shrink: 0;
+}
+
+.iconoNoIncluye {
+    font-size: 22px;
+    margin-right: 10px;
+    color: #F70000;
+    flex-shrink: 0;
+}

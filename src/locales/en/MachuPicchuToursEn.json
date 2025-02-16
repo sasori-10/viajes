@@ -1,0 +1,396 @@
+{
+    "labelMenu": {
+        "resumen": "OVERVIEW",
+        "itinerario": "COMPLETE ITINERARY",
+        "incluye": "INCLUDES",
+        "extras": "EXTRAS",
+        "queLlevar": "WHAT TO BRING?",
+        "importante": "IMPORTANT"
+    },
+    "machuPicchuTren": {
+        "seo": {
+            "title": "MACHUPICCHU BY TRAIN | TOUR FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy the iconic Machupicchu by Train tour. Daily departures from Cusco, including comfortable transportation and expert guides. Book now with Machupicchu by World!",
+            "keywords": [
+                "Machupicchu by Train",
+                "Machupicchu tour",
+                "train trip to Machupicchu",
+                "tour from Cusco",
+                "Machupicchu by train 1 day",
+                "trips to Machupicchu"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/machu-picchu-por-tren",
+            "open_graph": {
+                "title": "Machupicchu by Train - Tour to Machupicchu from Cusco",
+                "description": "Enjoy an incredible train trip to Machupicchu with expert guides and comfortable transportation. Book your tour today!",
+                "url": "http://www.machupicchubyworld.com/machu-picchu-por-tren",
+                "type": "website"
+            }
+        },
+        "title": "MACHUPICCHU BY TRAIN",
+        "day": "1 Day",
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of the Machupicchu citadel",
+            "alt2": "Panoramic view of Machupicchu",
+            "alt3": "Panoramic view of the agricultural terraces of Machupicchu",
+            "alt4": "View from inside a tourist train on the route to Machupicchu",
+            "alt5": "Machupicchu ruins surrounded by mist"
+        },
+        "lugares": "Cusco - Ollantaytambo - Aguas Calientes - Machupicchu",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Ollantaytambo - Aguas Calientes - Machupicchu - Cusco",
+                "descripcion": [
+                    "02:30 AM or 03:20 AM: Pickup from the hotel for the Machupicchu tour.",
+                    "Departure from Cusco to Ollantaytambo, the bus departs depending on the departure time of the Ollantaytambo train. Arrives at the train station.",
+                    "05:05 AM to 09:30 AM: Within this time frame, the train will depart from Ollantaytambo heading to Aguas Calientes.",
+                    "Reception by our transfers in the town of Aguas Calientes. You will receive prior information about the meeting time to go up to Machupicchu.",
+                    "Free time to visit the town of Aguas Calientes or visit the hot springs.",
+                    "Free time for lunch in the town of Aguas Calientes. Service not included.",
+                    "AM or PM: Bus to the historic sanctuary of Machupicchu.",
+                    "AM or PM: Guided tour of the historic sanctuary of Machupicchu (approx. 2-3 hours).",
+                    "PM: Free time for more photos at Machupicchu.",
+                    "PM: We board the Consetur bus heading to Aguas Calientes, where the bus will drop you off in the town, and then we will head to the train station in Aguas Calientes.",
+                    "15:20 PM to 21:50 PM: Within this time frame, trains will depart from Machupicchu village. It will depend on the time you enter Machupicchu.",
+                    "PM: Be at the station 30 minutes before the boarding pass.",
+                    "PM: Departure of the train from Aguas Calientes to Ollantaytambo.",
+                    "PM: Departure of the transport from Ollantaytambo to Cusco. If it is Ica Rail, it will arrive at AV El Sol. If it is Peru Rail, it will arrive at the Wanchaq station.",
+                    "PM: You will head to your respective hotel on your own."
+                ]
+            }
+        ],
+        "puntosClave": [
+            "Enjoy an unforgettable day at Machupicchu with an expert guide!",
+            "Travel comfortably with quality transportation and trains, worry-free.",
+            "Make the most of your free time in Aguas Calientes to explore or relax.",
+            "Easy and secure booking, with payment options in Cusco or by card.",
+            "Don't forget the essentials and ask about extras like flights and hotels."
+        ],
+        "descripcion": "Visit one of the wonders of the world in a single day, appreciating the <strong>biodiversity</strong> and <strong>cultural richness</strong> of our beloved <strong>Machupicchu</strong>. Accompanied by the <strong>best certified professionals</strong> to pursue this beautiful career, we will explore the <strong>majestic Inca city</strong> of <strong>Machupicchu</strong>, located at <strong>2,200 meters above sea level</strong>. This enigmatic <strong>archaeological site</strong> is one of the <strong>7 wonders of the world</strong>. While visiting <strong>Cusco</strong>, you can't miss it!",
+        "incluye": [
+            "Transportation from Cusco to Ollantaytambo - Cusco.",
+            "Inca Rail or Peru Rail train from Ollantaytambo - Aguas Calientes - Ollantaytambo.",
+            "Official tour guide in Spanish or English.",
+            "Entry ticket to Machupicchu (Circuit 2 subject to availability).",
+            "Consetur bus for uphill and downhill from Aguas Calientes - Machupicchu - Aguas Calientes.",
+            "Permanent assistance."
+        ],
+        "noIncluye": [
+            "Breakfast, lunch, dinner.",
+            "Extra or personal expenses.",
+            "Unmentioned entries.",
+            "Entry to thermal baths.",
+            "Hotel.",
+            "Airplane ticket."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon request).",
+            "Other train categories (upon request)."
+        ],
+        "queLlevar": [
+            "ID/PASS.",
+            "Bring a rain poncho.",
+            "Sunscreen.",
+            "Cap/hat.",
+            "Bring a change of clothes.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions offered by this operator have low risk and difficulty levels, ensuring the necessary safety.",
+            "There is no name change or refund for the Machupicchu entry ticket once purchased with the correct personal details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may change at the operator's discretion, always to ensure the safety of the traveler and the best development of the service. It could be related to Machupicchu entry issues.",
+            "If you wish to leave before the service ends, there will be no refund for that.",
+            "The payment for the tourist package will be made in cash in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "A 50% deposit will be issued as a ticket or invoice for the reservation. The remainder must be paid with the 18% VAT, if you want an invoice or receipt."
+        ]
+    },
+    "machuPicchuBus": {
+        "seo": {
+            "title": "MACHUPICCHU BY CAR - 2 DAYS / 1 NIGHT TOUR | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience a unique journey with the Machupicchu by Bus tour. Daily departures from Cusco, including safe transportation, certified guides, and a tour through the Sacred Valley. Book now with Machupicchu by World!",
+            "keywords": [
+                "MachuPicchu by Bus",
+                "Machupicchu by Bus tour",
+                "trip to Machupicchu",
+                "tour from Cusco",
+                "MachuPicchu 2 days 1 night",
+                "bus trip to Machupicchu"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/machu-picchu-by-bus",
+            "open_graph": {
+                "title": "MachuPicchu by Bus - 2 Days / 1 Night Tour to Machupicchu",
+                "description": "Enjoy the most comfortable and adventurous trip to Machupicchu with our bus tour. With certified guides and safe transportation. Book your spot today!",
+                "url": "http://www.machupicchubyworld.com/machu-picchu-by-bus",
+                "type": "website"
+            }
+        },
+        "title": "MACHUPICCHU BY CAR",
+        "day": "2 Days / 1 Night",
+        "puntosClave": [
+            "Tours organized by a local tour operator with extensive experience in Cusco.",
+            "Safe transportation and guaranteed services for a worry-free experience.",
+            "Itineraries designed for small groups, offering personalized attention.",
+            "Certified guides ensuring an unforgettable visit to Machupicchu.",
+            "Live the trip you’ve always imagined with us!"
+        ],
+        "details": {
+            "duracion": "2 Days / 1 Night",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of the Machupicchu citadel",
+            "alt2": "Panoramic view of Machupicchu",
+            "alt3": "Panoramic view of the agricultural terraces of Machupicchu",
+            "alt4": "Hidroelectrica stop",
+            "alt5": "View from inside a tourist train on the route to Machupicchu",
+            "alt6": "Machupicchu ruins surrounded by mist",
+            "alt7": "Conssetur bus"
+        },
+        "lugares": "Ollantaytambo - Hidroelectrica - Aguas Calientes - Machupicchu",
+        "descripcion": "The second option to reach <strong>Machupicchu</strong> is ideal for <strong>adventure lovers</strong>. Enjoy a tour through the <strong>Sacred Valley of the Incas</strong>, passing through <strong>Abra Málaga</strong>, and reaching <strong>Quillabamba</strong>. This journey, guided by our <strong>professional team</strong>, will connect you with nature and allow you to enjoy unique landscapes.",
+        "resumen": {
+            "dia1": {
+                "titulo": "Historic Center of Cusco - Ollantaytambo - Hydroelectric - Aguas Calientes",
+                "descripcion": "The first day starts with hotel pick-up and a trip to Hydroelectric, with a stop in Ollantaytambo for breakfast. Then, arrive at Hydroelectric, have lunch, and walk to Aguas Calientes (or take the optional train). After checking into the hotel, you have free time in the afternoon, with the option to visit the hot springs. The day ends with a briefing from the guide about Machupicchu and an overnight stay at the hotel."
+            },
+            "dia2": {
+                "titulo": "Aguas Calientes - Hiram Bingham Route - Machupicchu - Aguas Calientes - Hydroelectric - Return trip to Cusco",
+                "descripcion": "The second day begins with breakfast at the Aguas Calientes hotel, followed by a bus ride (40 minutes) to Machupicchu, where a guided tour takes place for approximately 2 hours. Then, return to Aguas Calientes, with free time for lunch and begin the walk to Hydroelectric (2 hours and 30 minutes), or take the optional train. Arrival at Hydroelectric should be at 2:15 PM to take the bus back to Cusco, where you will arrive around 11:20 PM and the service ends near the main square."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Historic Center of Cusco - Ollantaytambo - Hidroelectrica - Aguas Calientes",
+                "descripcion": [
+                    "Hotel pick-up between 6:00 am to 6:30 am (historic center).",
+                    "Tour recommendations and instructions by the guide.",
+                    "7:00 am start of the trip towards Hidroelectrica.",
+                    "9:00 am Technical stop at Ollantaytambo where you can have breakfast on your own or take your box lunch.",
+                    "1:00 pm arrival at Hidroelectrica and Semi-buffet lunch.",
+                    "Walk to Aguas Calientes, with an approximate 2-hour 30-minute walk. You will walk alone (Optional Train, approx. 37 USD).",
+                    "Check-in at your respective hotels as requested.",
+                    "Free afternoon in Aguas Calientes.",
+                    "Optional visit to the hot springs in Aguas Calientes.",
+                    "The guide will provide the briefing for the visit to Machupicchu.",
+                    "Overnight at the hotel in Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Aguas Calientes - Hiram Bingham Route - Machupicchu - Aguas Calientes - Hidroelectrica - Return Trip to Cusco",
+                "descripcion": [
+                    "5:30 to 8:00 AM: Breakfast at the hotel in Aguas Calientes.",
+                    "Bus trip (approximately 40 minutes), enjoying the flora and fauna on the Hiram Bingham route.",
+                    "Guided tour in Machupicchu (approximately 2 hours) with our guide.",
+                    "10:00 AM: Return to Aguas Calientes, free time for lunch, and start the walk.",
+                    "Start of the walk to Hidroelectrica (approximately 2 hours and 30 minutes), with an option to take the train (approximately 37 USD).",
+                    "Arrival at Hidroelectrica at 14:15, as the bus departs at that time.",
+                    "Return trip from Hidroelectrica to Cusco, arriving around 11:20 PM near the main square and then heading to the hotel on your own.",
+                    "End of service."
+                ]
+            }
+        ],
+        "incluye": [
+            "Hotel pick-up in Cusco historic center.",
+            "Round-trip tourist transportation.",
+            "Entry ticket to Machupicchu (Circuit 2, subject to availability).",
+            "Guided tour of approximately 2 hours in Machupicchu.",
+            "Professional guide in English or Spanish.",
+            "1 night at a hotel in Aguas Calientes.",
+            "1 lunch (first day), 1 breakfast (second day).",
+            "Bus ticket Machupicchu - Aguas Calientes (round trip).",
+            "Vegetarian and special diets upon request."
+        ],
+        "noIncluye": [
+            "Meals and drinks not mentioned in the program.",
+            "Walking sticks (can be rented at the office, USD 10.00).",
+            "Entry to Huayna Picchu or Machupicchu Mountain (additional USD 60.00).",
+            "Travel Insurance.",
+            "Extra activities and tips for staff (optional).",
+            "Entry to the Hot Springs (PEN 10.00, optional)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon request).",
+            "Other categories of trains (upon request)."
+        ],
+        "queLlevar": [
+            "Bring a rain poncho depending on the season.",
+            "Bring extra money in Peruvian soles.",
+            "Bring comfortable clothing.",
+            "Bring mosquito repellent.",
+            "IMPORTANT: BRING THE ENTRIES PROVIDED BY THE AGENCY."
+        ],
+        "importante": [
+            "The tours and activities provided by this operator have low risk and difficulty levels and ensure necessary safety.",
+            "No name changes or refunds for Machupicchu entry tickets once purchased with the corresponding person’s details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, protests, or any other event that may hinder the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler’s safety and the best service development. It may be due to Machupicchu entry issues.",
+            "If you wish to leave before the service ends, there will be no refund for this.",
+            "Payment for the tourist package will be made effectively in Cusco on the first day of arrival in the city, as the ticket delivery schedule is followed.",
+            "If the passenger wishes to pay with a credit card, a 6% commission fee will apply.",
+            "From the 50% deposit, a ticket or reservation invoice will be issued. The remaining amount must be paid with the 18% VAT, and if you want a receipt or invoice, please specify."
+        ]
+    },
+    "CaminoInca": {
+        "seo": {
+            "title": "INCA TRAIL - 2 DAYS / 1 NIGHT TOUR | MACHUPICCHU BY WORLD",
+            "meta_description": "Hike the legendary Inca Trail on a 2-day, 1-night adventure to Machu Picchu. Experience stunning landscapes, ancient ruins, and expert-guided tours. Book now with Machupicchu by World!",
+            "keywords": [
+                "Inca Trail",
+                "Inca Trail tour",
+                "hike to Machu Picchu",
+                "Inca Trail 2 days 1 night",
+                "short Inca Trail",
+                "Machu Picchu trek"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/inca-trail",
+            "open_graph": {
+                "title": "Inca Trail - 2 Days / 1 Night Tour to Machu Picchu",
+                "description": "Embark on the iconic Inca Trail and reach Machu Picchu in just 2 days. Enjoy breathtaking scenery and expert guidance. Secure your spot today!",
+                "url": "http://www.machupicchubyworld.com/inca-trail",
+                "type": "website"
+            }
+        },
+        "title": "SHORT INCA TRAIL",
+        "day": "2 Days / 1 Night",
+        "puntosClave": [
+            "Guided hikes from kilometer 104 to Machupicchu, with local experts.",
+            "Fast and secure services: transportation, accommodation, and guaranteed entries.",
+            "Exclusive experience in small groups, with a personalized focus.",
+            "Certified local guide to uncover the secrets of Machupicchu and Wiñaywayna.",
+            "Tailored itineraries, with additional options for a unique trip."
+        ],
+        "details": {
+            "duracion": "2 Days / 1 Night",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of the Machupicchu citadel",
+            "alt2": "Panoramic view of Machupicchu",
+            "alt3": "Panoramic view of the agricultural terraces of Machupicchu",
+            "alt4": "View from inside a tourist train on the route to Machupicchu",
+            "alt5": "Machupicchu ruins surrounded by mist",
+            "alt6": "Wiñay Wayna"
+        },
+        "lugares": "Chachabamba (KM 104) - Wiñay Wayna - Machupicchu - Aguas Calientes Town",
+        "descripcion": "Explore one of the most important tourist attractions in the <strong>Cusco</strong> region, mainly <strong>Machupicchu</strong>, on one of the most incredible hikes that stands out today: the <strong>2-day 1-night Inca Trail</strong> via <strong>Chacha Bamba</strong>, an important alternative for <strong>hiking enthusiasts</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "OLLANTAYTAMBO - CHACHABAMBA KM 104 - MACHUPICHU.",
+                "descripcion": "The tour begins with a briefing and delivery of the box lunch in Cusco. At 4:00 a.m., the group is picked up and taken to Ollantaytambo to board the train to Aguas Calientes. After disembarking at kilometer 104, a 3-hour hike begins towards Wiñaywayna, passing through landscapes and wildlife. After lunch, the group reaches Intipunku to view Machupicchu. The day ends with a bus ride to Aguas Calientes, where the night is spent in a hotel with dinner provided."
+            },
+            "dia2": {
+                "titulo": "AGUAS CALIENTES - CUSCO.",
+                "descripcion": "After breakfast at the hotel, take the bus to Machupicchu for a 2-hour guided tour, visiting places like the Guardian's House and Intihuatana. Then, descend to Aguas Calientes, where there is free time to have lunch and explore the town. Finally, take the train back to Ollantaytambo and a bus to Cusco, finishing near the main square."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "HIKE CHACHABAMBA, KM 104 – MACHUPICHU.",
+                "descripcion": [
+                    "We will start with a 04:00 A.M. pickup from your respective hotel in the city of Cusco to head towards Ollantaytambo. There we will make a quick stop to buy necessary items such as repellent, sunscreen, etc.",
+                    "Then we will head to the train station to board the train towards KM 104, enjoying the beautiful landscape along the Vilcanota River.",
+                    "A.M. We will begin the hike from Chachabamba KM 104 at an altitude of 2,150 meters above sea level. During this journey, we will appreciate the flora and fauna.",
+                    "P.M. Visit the archaeological site of Wiñay Wayna at an altitude of 2,650 meters above sea level, enjoying its beautiful terraces like the qochas and Inca baths, etc.",
+                    "P.M. Arrive at the Sun Gate (Intipunku) at an altitude of 2,730 meters above sea level, appreciating the beautiful Inca terraces. Then we will head to the Machupicchu citadel, where you will have a stunning view of the Machupicchu citadel and its beautiful landscape.",
+                    "P.M. Then we will board the Consetur buses to Aguas Calientes.",
+                    "P.M. Overnight at your respective hotel in the town of Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VISIT THE MACHUPICHU CITTADEL",
+                "descripcion": [
+                    "05:30 Breakfast will be served at the corresponding hotel.",
+                    "Then, according to the scheduled time to enter Machupicchu, we will head to the station where Consetur buses depart.",
+                    "The bus ride will take approximately 40 minutes. During the journey along Hiram Bingham's road, we will enjoy beautiful landscapes and observe flora and fauna.",
+                    "Once we enter the Machupicchu citadel, the guided tour will last about 2 hours with your guide, who will provide information about this modern world wonder.",
+                    "You will visit the most impressive places, such as the Temple of the Three Windows, the Main Temple, the Sacred Plaza, the famous Intihuatana, stairways, plazas, fountains, etc.",
+                    "After the guided tour, you will have free time to explore the site on your own.",
+                    "Then, you will descend to Aguas Calientes by Consetur bus.",
+                    "Finally, you will have free time in Aguas Calientes (to have lunch, shop, etc.).",
+                    "Later in the afternoon, we will return on the train to Ollantaytambo, where our driver will be waiting to take us back to the city of Cusco.",
+                    "Overnight at your respective hotel in the city of Cusco."
+                ]
+            }
+        ],
+        "incluye": [
+            "Briefing and pickup from the tourist's hotel",
+            "Complete guide for the tour (Spanish/English)",
+            "Round-trip train (tourist train), depending on the requested category",
+            "Box Lunch",
+            "One night of accommodation in Aguas Calientes (Machupicchu town)",
+            "Consetur bus Machupicchu - Aguas Calientes - Machupicchu - Aguas Calientes",
+            "Entry to the Inca Trail",
+            "Entry to Wiñaywayna",
+            "Ticket to visit the Machupicchu Citadel",
+            "Transportation Cusco - Ollantaytambo - Cusco",
+            "Emergency oxygen for the Inca Trail hike",
+            "24/7 assistance via WhatsApp"
+        ],
+        "noIncluye": [
+            "Extra expenses not included in the service",
+            "Entry to the hot springs in Aguas Calientes (20 SOLES OPTIONAL)",
+            "Flights (Optional)",
+            "Lunch on the second day",
+            "Dinner on the days",
+            "Porters (Optional)",
+            "Entry to Huayna Picchu or Machupicchu Mountain 60.00 USD"
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (prior quotation).",
+            "Other train categories (prior quotation)."
+        ],
+        "queLlevar": [
+            "Valid passport",
+            "Extra money in soles",
+            "Personal medications",
+            "Water bottle",
+            "Insect repellent",
+            "Personal hygiene products",
+            "Mountain boots/shoes",
+            "Light footwear or sandals",
+            "Hiking socks",
+            "Thermal pants",
+            "Shorts",
+            "Waterproof socks",
+            "Long sleeve t-shirts",
+            "Thermal jacket",
+            "Waterproof jacket",
+            "Waterproof poncho",
+            "Wool or waterproof gloves",
+            "Sun hat",
+            "Wool hat",
+            "Neck scarf",
+            "UV protection glasses",
+            "Medium-sized backpack (15 to 25 liters)",
+            "Swimsuit, towel",
+            "Camera, external battery, flashlight"
+        ],
+        "importante": [
+            "The tours and activities provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "No name changes or refunds for the Machupicchu entrance ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, or any other event preventing the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion to ensure the safety of the traveler and the best service development. This may be due to Machupicchu entry requirements.",
+            "If you wish to leave before the service ends, no refund will be issued.",
+            "The payment for the tourist package will be made in full in the city of Cusco on the first day of arrival, as the ticket delivery schedule is being followed.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "The 50% deposit will generate a reservation ticket or invoice. The remainder must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    }
+}

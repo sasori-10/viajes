@@ -1,0 +1,52 @@
+.barra {
+    display: flex;
+    justify-content: space-around; /* Espaciado uniforme entre secciones */
+    align-items: center; /* Centrar contenido verticalmente */
+    background-color: #ffffff; /* Color de fondo */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para estilo */
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 1px solid #006d3b;
+}
+
+.seccion {
+    display: flex;
+    flex-direction: row; /* Elementos uno debajo del otro */
+    align-items: center; /* Centrar contenido */
+    width: 15%; /* Ancho proporcional de cada sección */
+    text-align: left; /* Alinear texto */
+    padding: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 5px;
+}
+.textoContainer {
+    display: flex;
+    flex-direction: column; /* Los elementos dentro de textoContainer estarán en columna */
+    margin-left: 20px;
+}
+
+.icono {
+    font-size: 2.2rem; /* Tamaño del icono */
+    color: #006d3b; /* Color del icono */
+    margin-bottom: -15px; /* Espaciado debajo del icono */
+}
+
+.tema {
+    font-size: 1.1rem; /* Tamaño del tema */
+    font-weight: bold; /* Texto en negrita */
+    color: #000000; /* Color del texto */
+    margin-bottom: 5px; /* Espaciado debajo del tema */
+}
+
+.descripcion {
+    font-size: 1rem; /* Tamaño de la descripción */
+    color: #000000; /* Color del texto */
+    margin-top: -2px;
+    font-weight: 300;
+}
+.barraSeparador{
+    border: 1.9px solid #FDC318;
+    border-radius: 10px;
+    height: 70px;
+}

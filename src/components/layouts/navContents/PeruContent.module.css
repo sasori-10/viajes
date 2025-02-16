@@ -1,0 +1,239 @@
+/* Contenedor principal */
+.fullWidthDiv {
+    width: 100%;
+    /* Ocupa todo el ancho de la pantalla */
+    overflow-x: hidden;
+    display: flex;
+    /* Disposición en línea horizontal */
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+/* Divisiones horizontales internas */
+.horizontalDiv {
+    flex: 1;
+    /* Todos los divs ocupan el mismo espacio disponible */
+    display: flex;
+    /* Disposición interna */
+    flex-direction: column;
+    /* Alineación vertical de elementos internos */
+    align-items: center;
+    /* Centra horizontalmente los hijos */
+    margin: 40px 0;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.horizontalDiv:nth-of-type(2) {
+    border-left: 3px solid #ffbd59;
+    border-right: 3px solid #ffbd59;
+}
+
+/* Contenedor de texto */
+.textDiv {
+    width: 420px;
+    /* Tamaño fijo para el texto */
+    text-align: left;
+    margin-bottom: 10px;
+    /* Separación del texto respecto a la imagen */
+    font-size: 16px;
+    font-weight: bold;
+    word-wrap: break-word;
+    /* Ajusta las palabras largas */
+    height: auto;
+}
+
+/* Estilo de lista dentro del contenedor de texto */
+.textDiv ul {
+    list-style: none;
+    /* Elimina el estilo de viñetas */
+    padding-left: 0;
+    /* Elimina el margen izquierdo */
+    margin: 0;
+    /* Elimina márgenes innecesarios */
+}
+
+.textDiv ul a {
+    text-decoration: none;
+    /* Sin subrayado en enlaces */
+}
+
+
+/* Contenedor de imágenes */
+.imageDiv {
+    width: 380px;
+    height: 100%;
+    /* O ajusta al tamaño deseado, si es necesario */
+    display: flex;
+    justify-content: center;
+    /* Alinea horizontalmente al centro */
+    align-items: end;
+    /* Alinea verticalmente al centro */
+    margin: 10px;
+    /* Margen superior e inferior */
+    box-sizing: border-box;
+    /* Asegura que el margen no afecte al tamaño total */
+}
+
+/* Imagen dentro del contenedor */
+.imageDiv img {
+    width: 100%;
+    /* La imagen ocupará el 100% del ancho del contenedor */
+    height: auto;
+    /* Ajusta la altura de la imagen al 100% del contenedor */
+    object-fit: cover;
+    /* Asegura que la imagen cubra el área sin distorsionarse */
+    border-radius: 15px;
+}
+
+
+/* Alineación del título */
+.title {
+    text-align: left;
+    width: 100%;
+    margin: 0 0 15px;
+    font-size: 18px;
+    color: #006d3b;
+    font-weight: 600;
+}
+
+/* Estilo del enlace del paquete */
+.packageLink {
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+    margin-bottom: 10px;
+    font-weight: 500;
+    transition: color 0.3s ease, font-weight 0.3s ease;
+}
+
+/* Cambios en hover para el enlace */
+.packageLink:hover {
+    color: #006d3b;
+    font-weight: 600;
+}
+
+/* Ocultar el ícono por defecto */
+.packageLinkIcon {
+    opacity: 0;
+    margin-left: 5px;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: translateX(-5px);
+}
+
+/* Mostrar el ícono al pasar el cursor */
+.packageLink:hover .packageLinkIcon {
+    opacity: 1;
+    transform: translateX(0) translateY(3px);
+}
+
+/* Línea predeterminada debajo del enlace */
+.packageLink::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    transition: background-color 0.3s ease;
+    /* Solo la transición de color */
+    border-radius: 20px;
+}
+
+/* Cambiar la línea a amarilla en hover */
+.packageLink:hover::after {
+    background-color: #ffbd59;
+    /* Cambia a amarillo al hacer hover */
+}
+
+/* Pantallas grandes (1024px) */
+@media (max-width: 1024px) {
+    .horizontalDiv {
+        flex: 1 1 50%;
+        /* Las divisiones ocupan el 50% del ancho */
+        border: none;
+        /* Elimina las líneas laterales */
+        margin: 20px 0;
+    }
+
+    .textDiv,
+    .imageDiv {
+        max-width: 80%;
+        /* Reduce el ancho de los elementos */
+        margin: 0 auto;
+        /* Centra los elementos */
+    }
+
+    .packageLink {
+        font-size: 12px;
+    }
+
+    .title {
+        font-size: 12px;
+        /* Ajusta el tamaño del título */
+    }
+
+    .imageDiv>img {
+        border-radius: 12px;
+    }
+
+    .textDiv {
+        max-width: 280px;
+    }
+
+    .imageDiv {
+        max-width: 250px;
+    }
+
+    .horizontalDiv:nth-of-type(2) {
+        border-left: 2px solid #ffbd59;
+        border-right: 2px solid #ffbd59;
+    }
+}
+
+/* Pantallas medianas (tablets) */
+@media (max-width: 480px) {
+    .fullScreenDiv {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .fullWidthDiv {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .horizontalDiv {
+        flex: 1 1 50%;
+        border: none;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    .packageLink {
+        font-size: 8px;
+        font-weight: 400;
+    }
+
+    .title {
+        font-size: 8px;
+        font-weight: 500;
+    }
+
+    .textDiv {
+        max-width: 250px;
+    }
+
+    .imageDiv {
+        display: none;
+    }
+
+    .horizontalDiv:nth-of-type(2) {
+        border-left: none;
+        border-right: none;
+    }
+}

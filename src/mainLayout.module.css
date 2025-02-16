@@ -1,0 +1,27 @@
+/* MainLayout.module.css */
+
+.page-transition-enter {
+    opacity: 0;
+    transform: translateY(-50%); /* El contenido comienza ligeramente desplazado hacia arriba */
+}
+
+.page-transition-enter-active {
+    opacity: 1;
+    transform: translateY(0); /* El contenido se mueve hacia su posición original */
+    transition: opacity 500ms ease-in-out, transform 500ms ease-in-out; /* Transición suave */
+}
+
+.page-transition-exit {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.page-transition-exit-active {
+    opacity: 0;
+    transform: translateY(50%); /* El contenido se mueve ligeramente hacia abajo al salir */
+    transition: opacity 500ms ease-in-out, transform 500ms ease-in-out; /* Transición suave */
+}
+
+.mainContent {
+    position: relative;
+}

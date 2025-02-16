@@ -1,0 +1,1089 @@
+{
+    "labelMenu": {
+        "resumen": "OVERVIEW",
+        "itinerario": "COMPLETE ITINERARY",
+        "incluye": "INCLUDES",
+        "extras": "EXTRAS",
+        "queLlevar": "WHAT TO BRING?",
+        "importante": "IMPORTANT"
+    },
+    "TarapotoClasico": {
+        "seo": {
+            "title": "TARAPOTO CLASSIC - 4 Days / 3 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy a complete 4-day tour in Tarapoto, exploring the Blue Lagoon, Ahuashiyacu Falls, and the town of Lamas. Adventure, nature, and culture await you!",
+            "keywords": [
+                "Tarapoto classic",
+                "tour in Tarapoto",
+                "Blue Lagoon",
+                "Ahuashiyacu Falls",
+                "Adventure in Tarapoto",
+                "Lamas",
+                "Hot Springs in Tarapoto",
+                "Tarapoto tourism",
+                "Nature tourism",
+                "Culture in Tarapoto"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/tarapoto-4d-3n",
+            "open_graph": {
+                "title": "Tarapoto Classic - 4 Days / 3 Nights",
+                "description": "Experience 4 days of adventure in Tarapoto, visiting places like the Blue Lagoon, Ahuashiyacu Falls, and much more. Book your experience now!",
+                "url": "https://machupicchubyworld.com/tarapoto-4d-3n",
+                "type": "website"
+            }
+        },
+        "title": "CLASSIC TARAPOTO",
+        "day": "4 Days / 3 Nights",
+        "puntosClave": [
+            "Enjoy included transfers and visits to amazing places like Lamas, Laguna Azul, and Ahuashiyacu.",
+            "Spanish or English-speaking guides throughout the tour.",
+            "Accommodation with air conditioning.",
+            "Includes breakfasts, typical lunches, and entry tickets to tourist sites.",
+            "Transfers and tourist transport for all activities."
+        ],
+        "details": {
+            "duracion": "4 Days / 3 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Tarapoto"
+        },
+        "lugares": "Ahuashiyacu Falls - Tío Yaku (Hot Springs) - Laguna Azul - Lamas (Viewpoint, Castle, and Town) - Tayta Maki Viewpoint - Moyobamba Orchidarium - San Mateo Hot Springs",
+        "descripcion": "Get ready for a <strong>tour full of adventure and nature</strong>! In <strong>4 days</strong>, we will explore the incredible landscapes of <strong>Tarapoto</strong> and its surroundings. We start with the stunning <strong>Ahuashiyacu Falls</strong>, followed by a relaxing bath in the <strong>Tío Yaku hot springs</strong>, and then head to the magical <strong>Laguna Azul</strong> for a <strong>boat ride</strong> and <strong>adventure activities</strong>. We will also explore the charming <strong>town of Lamas</strong>, with its <strong>viewpoints</strong> and <strong>castle</strong>, and enjoy the <strong>local culture</strong>. Each day is filled with <strong>spectacular views</strong> and <strong>unique experiences</strong> that will leave you with <strong>unforgettable memories</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": "Day 1! We arrive in Tarapoto and head to the hotel. Then, the adventure begins! First, we go to Lamas Nativa to enjoy its unique vegetation. We stop at the Natural Viewpoint of Lamas (where we can take incredible photos!), then explore the Castle of Lamas and end in the Huayco neighborhood, where we can dance to the local rhythm and take home some handicrafts to remember this magical day! The tour ends near the hotel, and it’s time to rest!"
+            },
+            "dia2": {
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": "Day 2! We start the day with a delicious breakfast at the hotel and then head to López port, where we cross the Huallaga River by boat with an incredible view. We visit the Tayta Maki Viewpoint, one of the most impressive in the area, and have time to take photos. Then, we enjoy a typical lunch near Laguna Azul. In the afternoon, we navigate by boat through the lagoon while listening to the local legend, and then we dive into adventure activities and swimming! At the end of the day, we return to the port and transfer to the hotel to rest."
+            },
+            "dia3": {
+                "titulo": "ALTOMAYO - FULL DAY",
+                "descripcion": "Day 3! After breakfast at the hotel, we head to Moyobamba to visit the Orchidarium and enjoy a tasting of coffees and ice creams. Then, we go to Rioja to relax in the Tío Yaku hot springs and to San Mateo for more hot springs. At noon, we have lunch with typical dishes from the area. We end the day with a coffee-making and tasting experience before returning to Tarapoto to rest."
+            },
+            "dia4": {
+                "titulo": "AHUASHIYACU FALLS - FULL DAY",
+                "descripcion": "Last day! We start with breakfast at the hotel and then head south of Tarapoto, enjoying the fauna and flora of the region. We visit the beautiful Ahuashiyacu Falls, where we will have an hour to swim, have fun, and take photos. Afterward, we return to Tarapoto, where the tour ends around 1:00 PM, and we head to the hotel to collect our things. Finally, we transfer to the airport, 2 hours before the flight, to conclude the service."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": [
+                    "02:30 AM or 03:20 AM: Pickup from the hotel for the tour to Machupicchu.",
+                    "AM or PM - Boarding area at Jorge Chavez Airport.",
+                    "AM or PM - Departure of the flight from the city of origin.",
+                    "AM or PM - Pickup from the airport to the hotel or pickup from the land terminal - Hotel.",
+                    "AM or PM - Arrival in Tarapoto (Guillermo del Castillo Paredes Airport).",
+                    "15:00 to 15:30 PM - Pickup from the hotel. The tour to Lamas Nativa begins.",
+                    "During the tour - Throughout the journey, we will appreciate different vegetation.",
+                    "During the tour - Visit to the Natural Viewpoint of Lamas, where we can see the entire city and vegetation. Cost of the viewpoint: 2 soles (optional).",
+                    "During the tour - Visit to the Castle of Lamas. We will learn about one of the most important castles with the guide's explanation.",
+                    "During the tour - Visit to the Huayco neighborhood where we can dance to the sound of the instrument and buy handicrafts, supporting the communities of San Martín.",
+                    "18:30 to 18:50 - The tour ends near the hotel, then participants head back on their own."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": [
+                    "6:30 to 8:00 AM - Breakfast at the corresponding hotel.",
+                    "8:30 to 8:50 AM - Pickup from the hotel.",
+                    "We leave from Tarapoto to López port, where we will cross by boat to the other side of the Huallaga River, enjoying an incredible view.",
+                    "Visit to the Tayta Maki Viewpoint, one of the most impressive viewpoints of the Huallaga River. We will have free time to take photos. (Optional: Other viewpoints available for an extra cost of 10 soles).",
+                    "Lunch near Laguna Azul, à la carte dishes with an average cost of 20 soles (typical food of the area).",
+                    "Boating on Laguna Azul, where the guide will share the local legend. Time to swim and engage in adventure activities.",
+                    "Return from Laguna Azul to the port, then transfer to the corresponding hotel."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "ALTOMAYO - FULL DAY",
+                "descripcion": [
+                    "6:30 to 8:00 AM - Breakfast at the corresponding hotel.",
+                    "9:30 to 10:00 AM - Pickup from the hotel.",
+                    "We depart from Tarapoto to the city of Moyobamba, where we will visit the local Orchidarium. The guide will introduce us to the beautiful city, with tastings of coffees and ice creams.",
+                    "Visit to Tío Yaku - Hot Springs: We head to the city of Rioja, half an hour from Moyobamba, to enjoy the hot springs and take photos.",
+                    "Lunch in one of the local restaurants. We enjoy à la carte dishes, with an average cost of 18 soles (typical food of the area).",
+                    "Visit to San Mateo - Hot Springs: We relax our bodies in the hot springs of San Mateo, ideal for people with rheumatic or joint problems.",
+                    "Coffee-making and tasting: Local residents will teach us all about coffee production and preparation.",
+                    "7:00 PM - Return to the city of Tarapoto, near the hotel, to rest and have dinner at our own expense."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "AHUASHIYACU FALLS",
+                "descripcion": [
+                    "6:30 to 8:00 AM - Breakfast at the corresponding hotel.",
+                    "9:30 to 10:00 AM - Pickup from the hotel.",
+                    "We depart from Tarapoto southward, enjoying the rich fauna and flora of the San Martín region.",
+                    "Visit to the Ahuashiyacu Falls: An incredible place to relax, where we will have approximately 1 hour to swim, have fun, and take photos.",
+                    "Return to Tarapoto: The tour ends approximately at 1:00 PM, then we head to the hotel to pack our things and say goodbye.",
+                    "Hotel-airport transfer: After the tour, we will transfer to the airport 2 hours before your flight. End of our service."
+                ]
+            }
+        ],
+        "incluye": [
+            "Flights with airlines: STAR PERU, SKY, Latam, and Jet Smart (OPTIONAL), aimed at national or foreign tourists with international and domestic flights in Peru. If purchased with us, the airline check-in will be provided a day before.",
+            "Transfer - AIRPORT - HOTEL - HOTEL - AIRPORT.",
+            "Transfer from land terminal - hotel - land terminal.",
+            "Tourist tickets for visits to Lamas, Laguna Azul, and Altomayo.",
+            "À la carte lunch in Laguna Azul and Altomayo, budget of 18.00 soles.",
+            "3 breakfasts included in the service.",
+            "Guide on all tours (Spanish/English).",
+            "Hotel in Tarapoto according to the requested category.",
+            "Tourist transport on each tour.",
+            "Entry to the hot springs in Altomayo.",
+            "Hotel with air conditioning."
+        ],
+        "noIncluye": [
+            "Lunch on the City Tour Lamas (half day).",
+            "Lunch at Ahuashiyacu.",
+            "Dinner on the tours (no tour includes dinner).",
+            "Extra expenses outside the service.",
+            "Entry to the Viewpoint of Lamas: 3 soles (optional).",
+            "Entry to other viewpoints: 10 soles (optional).",
+            "Entry to the mud hot springs: 40 soles (optional).",
+            "Adventure activities at an extra cost.",
+            "Entry to Laguna Azul: 5 soles (mandatory)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon prior quotation)."
+        ],
+        "queLlevar": [
+            "Carry an identification document (valid DNI/PASSPORT).",
+            "Bring a rain poncho (depending on the season).",
+            "Sunscreen.",
+            "Cap/hat for the heat.",
+            "Bring a change of suitable clothes for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to variation without prior notice, due to climatic reasons (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that does not allow the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the safety of the traveler and the best development of the service as a whole. It may be due to entrance issues to Machupicchu.",
+            "If you wish to withdraw before the service ends, there will also be no refund for that.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% IGV if a receipt or invoice is desired."
+        ]
+    },
+    "Tarapoto5dias": {
+        "seo": {
+            "title": "TARAPOTO - 5 Days / 4 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience a unique adventure in Tarapoto for 5 days, visiting Lamas, the Blue Lagoon, Ahuashiyacu Falls, and much more. Explore the jungle and culture of the Peruvian Amazon!",
+            "keywords": [
+                "Tarapoto 5 days",
+                "tour in Tarapoto",
+                "Blue Lagoon",
+                "Ahuashiyacu Falls",
+                "Carpichuyacu",
+                "Lamas",
+                "Amazonian culture",
+                "Tarapoto tourism",
+                "Jungle adventure",
+                "Nature tourism"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/tarapoto-5d-4n",
+            "open_graph": {
+                "title": "Tarapoto 5 Days - 5 Days / 4 Nights",
+                "description": "Enjoy 5 days of adventure in the Tarapoto jungle, visiting the Blue Lagoon, Ahuashiyacu Falls, and more. Book your tour now!",
+                "url": "https://machupicchubyworld.com/tarapoto-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "TARAPOTO",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Tour to Lamas, with spectacular views and a unique castle.",
+            "Visit Laguna Azul with boat and horseback rides.",
+            "Refresh yourself at the 40-meter Ahuashiyacu Waterfall.",
+            "Hike to the Carpichuyacu waterfalls and thermal baths.",
+            "Comfortable transfers between the airport and the hotel."
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Tarapoto"
+        },
+        "lugares": "City of Lamas, Laguna Azul, Ahuashiyacu Waterfall, Carpichuyacu Waterfall (\"Pishurayacu\")",
+        "descripcion": "Embark on an exciting adventure of <strong>5 days and 4 nights</strong> in the magical <strong>jungle of Tarapoto</strong>! Explore the charming city of <strong>Lamas</strong>, famous for its <strong>natural viewpoint</strong> and iconic <strong>castle</strong>. Immerse yourself in the beauty of <strong>Laguna Azul</strong>, surrounded by <strong>legends</strong>, and marvel at the majestic <strong>Ahuashiyacu Waterfall</strong>, where you can enjoy a refreshing swim. Additionally, you will visit the stunning <strong>Carpichuyacu waterfall (Pishurayacu)</strong>, a true <strong>natural paradise</strong>. Join <strong>Machupicchu By World</strong> and experience the <strong>jungle</strong> like never before!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "CITY TOUR LAMAS",
+                "descripcion": [
+                    "Explore Lamas, the Folkloric Capital of Peruvian Amazon, known as the City of Three Floors. We will start the day at a natural viewpoint with spectacular views of the native community. Then, we will visit the Bajo Mayo Valley to see a castle built in 2005, a popular tourist attraction. Afterward, you will interact with the local community, learning about their crafts and having the opportunity to buy souvenirs. This tour promises fun and immersion in the customs of Lamas. At the end, you will return to Tarapoto to spend the night at your hotel."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "LAGUNA AZUL - FULL DAY",
+                "descripcion": [
+                    "After breakfast at the hotel, our transportation will pick up passengers between 8:00 and 8:30 AM to take them to Laguna Azul, located 50 km south of Tarapoto. During the journey, enjoy views of the Huallaga River from the Balsa Cautiva boat, and we will stop at a natural viewpoint to appreciate the landscape. Upon arrival in Sauce, we will navigate in a motorboat to a tourist center where various activities can be carried out, such as swimming in the lagoon and horseback riding (optional). At noon, a lunch with local products will be offered. The tour will conclude in the afternoon, and that night you will spend in Tarapoto."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour to Ahuashiyacu Waterfall",
+                "descripcion": [
+                    "At 10:00 AM, after a breakfast with local products, we will head to Ahuashiyacu Waterfall, located 14 km from Tarapoto. This attraction, 40 meters high, is ideal for the whole family and offers a route that highlights the beauty of the jungle's forests. Upon arrival, you can enjoy its waters and refresh yourself in a pool. The return to the city is scheduled between 1:00 and 1:30 PM, ending near the main square, where you can taste local cuisine before spending the night in Tarapoto."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour to Carpichuyacu Pishurayacu Waterfall",
+                "descripcion": [
+                    "Between 9:00 and 9:30 AM, we will pick up passengers at their hotel to head to a nearby location. We will start a hike of approximately 40 minutes, crossing a river on a handmade raft. Along the way, we will enjoy various species of flora and fauna from the region. The hike has two stages that lead us to the Carpichuyacu waterfalls, where you can enjoy a refreshing swim. After the visit, we will return to the San José community to enjoy thermal baths known for their healing properties. This tour is ideal for nature lovers and those in good physical condition."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Transfer Hotel - Airport",
+                "descripcion": [
+                    "After enjoying the last breakfast, transportation will make the respective transfer from the hotel to the Guillermo del Castillo Airport. The recommendations according to each airline's flight is to be present 2 hours before your flight. The transfer will be coordinated accordingly, and our tour will conclude with this transfer."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tour to the city of Lamas",
+            "Tour to Laguna Azul",
+            "Tour to Ahuashiyacu Waterfall",
+            "Tour to Carpichuyacu Waterfall",
+            "Entry to the castle of Lamas",
+            "Box lunch with local products on the Carpichuyacu tour",
+            "Motorboat ride at Laguna Azul",
+            "Horseback rides",
+            "4 Nights in a hotel",
+            "1 à la carte lunch on the Laguna Azul tour",
+            "4 breakfasts included in the service",
+            "Entry to Ahuashiyacu Waterfall",
+            "Airport - Hotel - Airport transfer",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Entry to Chanca Museum (5 soles) optional",
+            "Extra activities outside the service",
+            "Lunches not mentioned in the program",
+            "Dinners not mentioned in the program"
+        ],
+        "extras": [
+            "Personalized assistance during the tour: Our team will be available to resolve your doubts and ensure a comfortable experience.",
+            "Comfortable and safe transportation: We have modern vehicles and professional drivers for your safety and comfort.",
+            "Official guides and experts in the region: Our certified guides will provide valuable information about local flora, fauna, and culture.",
+            "Box lunch with local products: Enjoy a delicious box lunch with fresh ingredients from the region during your excursions.",
+            "Optional extra activities: We offer activities such as horseback rides and museum visits, so you can customize your experience."
+        ],
+        "queLlevar": [
+            "Bring shoes appropriate for the tour you will undertake.",
+            "Bring clothing suitable for the season.",
+            "Sunscreen.",
+            "Hat for sunny days.",
+            "Medicine and/or personal items for altitude and hygiene.",
+            "A lightweight backpack or bag of 20 liters.",
+            "Cameras.",
+            "Extra money in local currency.",
+            "Sunglasses.",
+            "Plastic bags for any waste you produce.",
+            "Original passports or personal documents (copies are not accepted)."
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to variation without prior notice, due to climatic reasons (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that does not allow the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the safety of the traveler and the best development of the service as a whole. It may be due to entrance issues to Machupicchu.",
+            "If you wish to withdraw before the service ends, there will also be no refund for that.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% IGV if a receipt or invoice is desired."
+        ]
+    },
+    "Arequipa5dias": {
+        "seo": {
+            "title": "AREQUIPA - 5 Days / 4 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover the magic of Arequipa on a 5-day tour, visiting the Route of the Sillar, Colca Valley, Laguna de Salinas, and more. A unique experience of nature and culture!",
+            "keywords": [
+                "Arequipa 5 days",
+                "Route of the Sillar",
+                "Colca Valley",
+                "Laguna de Salinas",
+                "Condors",
+                "Arequipa tourism",
+                "Arequipa adventure",
+                "Wari culture",
+                "Colca Canyon",
+                "Misti Volcano",
+                "Nature tourism"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/arequipa-5d-4n",
+            "open_graph": {
+                "title": "Arequipa 5 Days - 5 Days / 4 Nights",
+                "description": "Embark on a 5-day adventure in Arequipa, exploring the Route of the Sillar, Colca Valley, and Laguna de Salinas. Book your spot now and don’t miss this experience!",
+                "url": "https://machupicchubyworld.com/arequipa-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "AREQUIPA",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Get ready to explore wonders like the Ruta del Sillar, the imposing Colca Valley, and the magical Laguna de Salinas!",
+            "Includes tourist transport, professional guide, and permanent assistance throughout the trip.",
+            "Includes accommodation in comfortable hotels and breakfasts as per the itinerary.",
+            "Combines nature, history, and culture with activities like condor watching, flamingos, and petroglyphs.",
+            "Guarantees organized transfers to and from the airport or land terminal."
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Arequipa",
+            "alt2": "Volcan Misti",
+            "alt3": "Ruta del Sillar",
+            "alt4": "Laguna de Salinas",
+            "alt5": "Chivay"
+        },
+        "lugares": "Arequipa - Colca Valley - Cruz del Cóndor Viewpoint - Laguna de Salinas - Sillar Quarries.",
+        "descripcion": "Get ready for a <strong>unique experience</strong> of <strong>5 days and 4 nights</strong> filled with <strong>adventures</strong> and <strong>stunning landscapes</strong>! This tour will take you to explore the historic <strong>Arequipa</strong> and its surroundings, starting with a tour of the <strong>sillar quarries</strong> and the <strong>Culebrillas Ravine</strong>, where you will discover the richness of the <strong>Wari culture</strong>. Then, you will delve into the <strong>Colca Valley</strong>, home to majestic <strong>condors</strong> and surrounded by imposing mountains, to enjoy its <strong>hot springs</strong> and <strong>panoramic views</strong>. On the fourth day, you will visit the fascinating <strong>Laguna de Salinas</strong>, with its <strong>natural beauty</strong>, flamingos, and the opportunity to relax in the <strong>thermal waters</strong>. With an <strong>expert guide</strong>, <strong>comfortable transport</strong>, and <strong>carefully selected accommodations</strong>, this tour is perfect for those seeking a <strong>complete experience</strong> of Arequipa. A <strong>adventure</strong> you won't want to miss!",
+        "resumen": {
+            "dia1": {
+                "titulo": "TOUR TO THE SILLAR ROUTE",
+                "descripcion": "On Day 1, the Tour to the Sillar Route takes you to discover the Misti, Chachani, and Pichupichu volcanoes from the viewpoint, explore the Añashuayco Quarry cutting sillar like a master, walk through the Culebrillas Ravine among Wari petroglyphs, and admire the magical Apachetas. An adventure filled with history and unique landscapes!"
+            },
+            "dia2": {
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": "On Day 2, we begin the journey to one of the deepest canyons in the world, departing from the hotel to Pampa Cañahuas, where you can admire South American camelids and take photos. We continue through the Tocra wetlands, where we will see migratory birds, and pass by the crater of the extinct Chucura volcano. At the viewpoint of the volcanoes, at 4,800 m.a.s.l., you will enjoy an impressive view of the western mountain range. Upon arrival in Chivay, we check into the hotel, and in the afternoon, you will have time to relax in the Colca hot springs. Finally, enjoy dinner with a folkloric show before spending the night in Chivay."
+            },
+            "dia3": {
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR / CHIVAY / AREQUIPA.",
+                "descripcion": "On Day 3, after breakfast, we head to the Cruz del Cóndor viewpoint to enjoy the impressive canyon and the flight of the condor. On the way back, we will visit the towns of Pinchollo, Maca, and Yanque, with their colonial churches, and the viewpoints of Choquetico and Antahuilque, where we will see the valley's terraces and pre-Inca tombs. After lunch (not included), we depart back to Arequipa, arriving between 4:00 and 5:00 p.m."
+            },
+            "dia4": {
+                "titulo": "FULL DAY AT LAGUNA DE SALINAS",
+                "descripcion": "Day 4 begins with hotel pick-up and breakfast at the Alto Simbral viewpoint, where volcanoes can be observed. There will be a tour with vicuña and flamingo sightings, hiking in the Salinas Lagoon, and visits to the town of Moche and the Salar. You will also explore the hot springs of Lojen (optional), the mini volcano of Lojen and the Uzuña Dam, with activities such as boat rides and fishing. Return to Arequipa around 5:30 pm."
+            },
+            "dia5": {
+                "titulo": "HOTEL - AIRPORT TRANSFERS",
+                "descripcion": "On the last day, enjoy breakfast, time to visit the Main Square and buy souvenirs, and then say goodbye to the agency staff. The transfer to the airport or terminal will be 2 hours before for domestic flights and 3 hours for international flights, with the option for a tour if the flight is delayed."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "TOUR TO THE SILLAR ROUTE",
+                "descripcion": [
+                    "A.M or P.M Boarding area at JORGE CHAVEZ airport",
+                    "A.M or P.M Departure of the flight to AREQUIPA city",
+                    "A.M or P.M Pickup from the airport to the hotel",
+                    "A.M or P.M Pickup from the land terminal - Hotel",
+                    "A.M or P.M Arrival in the city of Arequipa (Rodríguez Ballón International Airport)",
+                    "<strong>BEGINNING OF OUR SERVICES: Welcome to the city of AREQUIPA</strong>",
+                    "Our Hotels. Check in 11:00 A.M. check out 09:00 A.M.",
+                    "Detailed explanation of the itinerary",
+                    "<strong>TOUR TO THE SILLAR ROUTE</strong>",
+                    "08:40 to 08:50 A.M: Pickup for the morning shift will take place within this time range.",
+                    "13:40 to 13:50 P.M: Pickup from the hotel or the Arequipa plaza for the afternoon tour.",
+                    "Visit to the Volcanoes Viewpoint to appreciate the Misti, Chachani, and Pichupichu volcanoes.",
+                    "First stop at the Añashuayco Quarry, where the history and production of sillar is explained. Visitors can experience stone cutting.",
+                    "Visit to the Culebrillas Ravine, the walk will be 20 minutes and we will observe the petroglyphs of the Wari culture.",
+                    "Before returning to the city of Arequipa, observation of the Apachetas, stone formations.",
+                    "12:30 P.M: Return to the City of Arequipa.",
+                    "13:15 P.M: Arrival at the historic center of Arequipa in the morning shift.",
+                    "18:15 P.M: Arrival at the historic center of Arequipa if the tour is conducted in the afternoon."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": [
+                    "7:30 to 8:00 A.M: Pickup from your respective hotel to begin our journey to one of the deepest canyons in the world.",
+                    "We take the Yura road, skirting the snowy Chachani towards Pampa Cañahuas (National Reserve of Aguada Blanca and Salinas), habitat of beautiful South American camelids, where you can appreciate and take photos.",
+                    "At the Tocra wetlands, we will appreciate a great variety of migratory birds.",
+                    "We will pass by the crater of an extinct volcano (Chucura).",
+                    "We will stop at the viewpoint of the volcanoes, the highest point of the road (4,800 m.a.s.l.), where we will appreciate a large part of the western mountain range.",
+                    "Around 13:30 to 14:00 hours: Arrival in Chivay and check-in at the hotel. Lunch (not included).",
+                    "17:00 hours: In the afternoon, we will enjoy the Colca hot springs, whose thermal waters range from 35° to 38° Celsius in the pools (entrance 15 soles per person).",
+                    "20:00 hours: Dinner accompanied by a folkloric show (not included, optional).",
+                    "Overnight in Chivay Colca."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR / CHIVAY / AREQUIPA.",
+                "descripcion": [
+                    "06:00 a.m: Breakfast at our hotel.",
+                    "06:30 a.m: We will head to the Cruz del Cóndor viewpoint, a strategic point to observe the canyon and the flight of the condor.",
+                    "On the way back, we will make a stop in the towns of Pinchollo, Maca, and Yanque, which have beautiful colonial churches.",
+                    "We will also visit the viewpoints of Choquetico and Antahuilque, where we will view the impressive terracing of the valley, tombs, and pre-Inca models.",
+                    "Lunch (not included).",
+                    "1:00 p.m: Return to the city of Arequipa, arriving between 4:00 and 5:00 p.m.",
+                    "Arrival in the city of Arequipa."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "FULL DAY AT LAGUNA DE SALINAS",
+                "descripcion": [
+                    "6:00 a.m to 6:30 a.m: Pickup from your hotel.",
+                    "First stop at the Alto Simbral Viewpoint for morning breakfast and to observe the volcanoes.",
+                    "<strong>Activities during the tour include:</strong>",
+                    "  - Vicuña watching.",
+                    "  - Walking in the Laguna de Salinas.",
+                    "  - Flamingo watching.",
+                    "  - Visit to the Moche town and Salar (known as the Arequipeño Uyuni).",
+                    "  - Observation of llamas and alpacas.",
+                    "  - Visit to the Mini volcano of Lojen.",
+                    "  - Lojen hot springs (entrance 8 soles per person).",
+                    "  - Searching for water mirrors in the Salinas lagoons.",
+                    "  - Uzuña Dam, where you can do boat rides, kayaking, fishing, and other activities.",
+                    "Lunch (not included).",
+                    "Return to the historic center of Arequipa around 5:30 p.m."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "HOTEL - AIRPORT TRANSFERS",
+                "descripcion": [
+                    "A.M: Breakfast at your respective hotel.",
+                    "Afterwards, you can take the opportunity to visit the Main Square to take photos and buy souvenirs.",
+                    "Meeting with the agency staff for farewell.",
+                    "If your flight is late, you can enjoy dinner and wait in the hotel reception.",
+                    "Pickup from the hotel to the airport: If it is a domestic flight, it will be done 2 hours before; if it is an international flight, 3 hours before departure.",
+                    "If the flight is delayed, you have the option to do a tour."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transfer - Airport or Terminal - Hotel - Airport or land terminal.",
+            "Tourist transport.",
+            "Professional tourist guide.",
+            "03 nights of hotel in the city of AREQUIPA (according to the requested category).",
+            "01 night of accommodation (in the Colca Valley tour).",
+            "01 breakfast (in the Colca Valley tour).",
+            "3 breakfasts in the Service.",
+            "Entry tickets to the sillar quarries and Culebrillas.",
+            "Entry to the Arequipa salinas.",
+            "Entry ticket to the Colca Valley.",
+            "Permanent assistance."
+        ],
+        "noIncluye": [
+            "Extra expenses outside the service.",
+            "Lunches and dinners not mentioned.",
+            "Dinner with folkloric show in CHIVAY.",
+            "Entry to the Colca hot springs 15 soles.",
+            "Breakfast and lunch in the Laguna de Salinas tour.",
+            "Entry to the hot springs 10 soles in the Laguna de Salinas tour.",
+            "Bottled water and snacks (additional cost)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon prior quote)."
+        ],
+        "queLlevar": [
+            "Identity document (DNI or passport).",
+            "Money in soles for extra expenses.",
+            "Hat or cap for the heat.",
+            "Change of swimwear and sandals.",
+            "Warm clothing.",
+            "Appropriate shoes for the tour."
+        ],
+        "importante": [
+            "The tours and activities carried out by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, protests, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service development. This may be due to entrance issues to Machupicchu.",
+            "If you wish to leave before the service ends, there will be no refund for that.",
+            "The payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as we are fulfilling the itinerary for the delivery of tickets.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% IGV if you wish for a receipt or invoice."
+        ]
+    },
+    "Arequipa6dias": {
+        "seo": {
+            "title": "AREQUIPA - 6 Days / 5 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover Arequipa on a 6-day tour exploring the Route of the Sillar, Colca Valley, Laguna de Salinas, and Pillones Waterfalls. An adventure that will take you through stunning landscapes and ancient culture!",
+            "keywords": [
+                "Arequipa 6 days",
+                "Route of the Sillar",
+                "Pillones Waterfalls",
+                "Laguna de Salinas",
+                "Condors",
+                "Colca Canyon",
+                "Stone Forest",
+                "Arequipa tourism",
+                "Arequipa adventure",
+                "Nature tourism"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/arequipa-6-dias",
+            "open_graph": {
+                "title": "Arequipa 6 Days - 6 Days / 5 Nights",
+                "description": "Embark on a 6-day tour through Arequipa including the Route of the Sillar, Colca Canyon, Pillones Waterfalls, and more. Book now for this unique adventure!",
+                "url": "https://machupicchubyworld.com/arequipa-6-dias",
+                "type": "website"
+            }
+        },
+        "title": "AREQUIPA",
+        "day": "6 Days / 5 Nights",
+        "puntosClave": [
+            "Explore the Sillar Route, cutting sillar and enjoying volcanic views.",
+            "Cross the Colca Canyon, visiting viewpoints and colonial towns.",
+            "Relax in the Chivay hot springs and enjoy a folkloric show.",
+            "Visit the Salinas Lagoon and spot vicuñas and flamingos.",
+            "Adventure in the Stone Forest and the Pillones Waterfalls."
+        ],
+        "details": {
+            "duracion": "6 Days / 5 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Arequipa",
+            "alt2": "Sillar Route",
+            "alt3": "Arequipa",
+            "alt4": "Chivay",
+            "alt5": "Salinas Lagoon",
+            "alt6": "Pillones Waterfall"
+        },
+        "lugares": "Volcanoes Viewpoint - Colca Valley - Cruz del Cóndor Viewpoint - Salinas de Arequipa - Pillones Waterfall",
+        "descripcion": "Experience a <strong>unique adventure</strong> in <strong>6 days</strong>! Enjoy a tour of the <strong>Volcanoes Viewpoint</strong>, the <strong>Añashuayco Quarry</strong>, and the <strong>Culebrillas Gorge</strong> with its petroglyphs. Explore the <strong>Colca Valley</strong>, relax in <strong>thermal baths</strong>, and observe condors at the <strong>Cruz del Cóndor</strong>. Visit the <strong>Salinas de Arequipa</strong>, spotting <strong>vicuñas</strong> and <strong>flamingos</strong>, and see the <strong>Salinas Lagoon</strong>. End your adventure with the <strong>Stone Forest</strong> and the <strong>Pillones Waterfall</strong>, all with <strong>transportation</strong>, <strong>accommodation</strong>, <strong>breakfasts</strong>, and <strong>permanent assistance</strong> so you can just enjoy.",
+        "resumen": {
+            "dia1": {
+                "titulo": "TOUR TO THE SILLAR ROUTE",
+                "descripcion": "On Day 1, the Tour to the Sillar Route takes you to discover the Misti, Chachani, and Pichupichu volcanoes from the viewpoint, explore the Añashuayco Quarry cutting sillar like a master, walk through the Culebrillas Gorge among Wari petroglyphs, and admire the magical Apachetas. A journey full of history and unique landscapes!"
+            },
+            "dia2": {
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": "On Day 2, we start the journey to one of the deepest canyons in the world, departing from the hotel to Pampa Cañahuas, where you can admire South American camelids and take photos. We continue through the Tocra wetlands, where we will see migratory birds, and pass by the crater of the extinct Chucura volcano. At the volcano viewpoint, at 4,800 m.a.s.l., you will enjoy an impressive view of the western mountain range. Upon arrival in Chivay, we check into the hotel, and in the afternoon, you will have time to relax in the Colca thermal baths. Finally, you can enjoy a dinner with a folkloric show before staying overnight in Chivay."
+            },
+            "dia3": {
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR / CHIVAY / AREQUIPA.",
+                "descripcion": "On Day 3, after breakfast, we head to the Cruz del Cóndor viewpoint to enjoy the impressive canyon and the flight of the condor. On the way back, we will visit the towns of Pinchollo, Maca, and Yanque, with their colonial churches, and the viewpoints of Choquetico and Antahuilque, where we will see the terracing of the valley and pre-Incan tombs. After lunch (not included), we return to Arequipa, arriving between 4:00 and 5:00 p.m."
+            },
+            "dia4": {
+                "titulo": "FULL DAY TO THE SALINAS LAGOON",
+                "descripcion": "Day 4 begins with pickup from the hotel and breakfast at the Alto Simbral Viewpoint, where volcanoes can be observed. The tour will include spotting vicuñas and flamingos, walking in the Salinas Lagoon, and visiting the town of Moche and the Salar. We will also explore the Lojen hot springs (optional), the mini volcano of Lojen, and the Uzuña Dam, with activities like boating and fishing. The return to Arequipa will be around 5:30 p.m."
+            },
+            "dia5": {
+                "titulo": "FULL DAY TO THE PILLONES WATERFALL",
+                "descripcion": "Day 5 starts early with a stop for shopping and an Inca tea in Patahuasi. We explore the Stone Forest with its unique formations and visit the Pillones Waterfalls, where you can enjoy the landscape. We return to Arequipa in the afternoon."
+            },
+            "dia6": {
+                "titulo": "TRANSFERS FROM HOTEL - AIRPORT",
+                "descripcion": "On the last day, you will enjoy breakfast, time to visit the Main Square and buy souvenirs, and then say goodbye to the agency staff. The transfer to the airport or terminal will be 2 hours before for domestic flights and 3 for international ones, with the option of a tour if the flight is delayed."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "TOUR TO THE SILLAR ROUTE",
+                "descripcion": [
+                    "A.M or P.M Check-in at Jorge Chavez Airport.",
+                    "A.M or P.M Departure from the flight to Arequipa.",
+                    "A.M or P.M Pickup from the Airport to the hotel.",
+                    "A.M or P.M Pickup from the land terminal - Hotel.",
+                    "A.M or P.M Arrival in Arequipa (Rodríguez Ballón International Airport).",
+                    "<strong>START OF OUR SERVICES: Welcome to the city of AREQUIPA</strong>",
+                    "Our Hotels. Check-in 11:00 A.M. check-out 09:00 A.M.",
+                    "Detailed explanation of the itinerary.",
+                    "<strong>TOUR TO THE SILLAR ROUTE</strong>",
+                    "08:40 to 08:50 A.M: Pickup will be done within this time range for the morning shift.",
+                    "13:40 to 13:50 P.M: Pickup from the hotel or the Arequipa square for the afternoon tour.",
+                    "Visit to the Volcanoes Viewpoint to appreciate the Misti, Chachani, and Pichupichu volcanoes.",
+                    "First stop at the Añashuayco Quarry, where the history and production of sillar are explained. Visitors can experience cutting stone.",
+                    "Visit to the Culebrillas Gorge, with a 20-minute walk to observe the petroglyphs of the Wari culture.",
+                    "Before returning to Arequipa, observation of the Apachetas, stone formations.",
+                    "12:30 P.M: Return to the City of Arequipa.",
+                    "13:15 P.M: Arrival at the historic center of Arequipa for the morning shift.",
+                    "18:15 P.M: Arrival at the historic center of Arequipa if the afternoon tour is conducted."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "AREQUIPA / CHIVAY",
+                "descripcion": [
+                    "7:30 to 8:00 A.M: Pickup from your respective hotel to start our journey to one of the deepest canyons in the world.",
+                    "We take the Yura road, skirting the snow-capped Chachani towards Pampa Cañahuas (Aguada Blanca and Salinas National Reserve), habitat of beautiful South American camelids, where you can appreciate and take photos.",
+                    "At the Tocra wetlands, we will see a great variety of migratory birds.",
+                    "We will pass by the crater of an extinct volcano (Chucura).",
+                    "We will stop at the volcano viewpoint, the highest point on the route (4,800 m.a.s.l.), where we will appreciate much of the western mountain range.",
+                    "13:30 to 14:00 hours approx.: Arrival in Chivay and check-in at the hotel. Lunch (not included).",
+                    "17:00 hours: In the afternoon we will enjoy the thermal baths of Colca, whose thermal waters range between 35° to 38° Celsius in the pools (entry 15 soles per person).",
+                    "20:00 hours: Dinner accompanied by a folkloric show (not included, optional).",
+                    "Overnight in Chivay Colca."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "CHIVAY / CRUZ DEL CÓNDOR / CHIVAY / AREQUIPA.",
+                "descripcion": [
+                    "06:00 a.m: Breakfast at our hotel.",
+                    "06:30 a.m: We will head to the Cruz del Cóndor viewpoint, a strategic point to observe the canyon and the flight of the condor.",
+                    "On the way back, we will stop in the towns of Pinchollo, Maca, and Yanque, which have beautiful colonial churches.",
+                    "We will also visit the viewpoints of Choquetico and Antahuilque, where we will see the impressive terracing of the valley, tombs, and pre-Incan models.",
+                    "Lunch (not included).",
+                    "13:00 p.m: Return to the city of Arequipa, arriving between 16:00 and 17:00 p.m.",
+                    "Arrival in the city of Arequipa."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "FULL DAY TO THE SALINAS LAGOON",
+                "descripcion": [
+                    "6:00 am to 6:30 am: Pickup from your hotel.",
+                    "First stop at the Alto Simbral Viewpoint for breakfast and to observe the volcanoes.",
+                    "<strong>Activities during the tour include:</strong>",
+                    "  - Spotting vicuñas.",
+                    "  - Walking in the Salinas Lagoon.",
+                    "  - Spotting flamingos.",
+                    "  - Town of Moche and Salar (known as the Arequipeño Uyuni).",
+                    "  - Observation of llamas and alpacas.",
+                    "  - Visit to the Mini volcano of Lojen.",
+                    "  - Lojen hot springs (entry 08.00 soles per person).",
+                    "  - Searching for water mirrors in the Salinas lagoons.",
+                    "  - Uzuña Dam, where you can do boating, kayaking, fishing, and other activities.",
+                    "Lunch (not included).",
+                    "Return to the historic center of Arequipa around 5:30 pm."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "FULL DAY TO THE PILLONES WATERFALL",
+                "descripcion": [
+                    "06.00 a.m. Pickup from the hotel to start the tour.",
+                    "06:30 a.m. Our first stop will be in the Zamacola district for last-minute shopping.",
+                    "The first point we will visit is the Pampa de Arrieros town and its old train station, stopping at the Salinas and Aguada Blanca National Reserve to observe vicuñas and at the Patahuasi sector for an Inca tea or a meal.",
+                    "10:15 a.m. We will head towards the Stone Forest, making a stop at the Carlitos viewpoint for views of the Arequipa volcanoes.",
+                    "We will start a 40-minute walk in the Stone Forest, enjoying the incomparable landscape, which features strange rock formations and stone columns, where your imagination and fun will have no limits, and you can take photos.",
+                    "Continuing the tour by vehicle, we arrive at the Pillones community where the Pillones Waterfall is located.",
+                    "Upon arriving at the waterfalls, you will observe rocks shaped by water erosion; you can carefully descend to the waterfall, where you can take photos and enjoy the scenery and nature.",
+                    "16:30 to 17:00 p.m. We will be returning to the city of Arequipa within this time range."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "TRANSFERS FROM HOTEL - AIRPORT",
+                "descripcion": [
+                    "A.M: Breakfast at your respective hotel.",
+                    "Afterward, you can take the opportunity to visit the Main Square for photos and souvenirs.",
+                    "Meet with the agency staff for the farewell.",
+                    "If your flight is late, you can enjoy dinner and wait in the hotel reception.",
+                    "Pickup from hotel to the airport: For domestic flights, it will be done 2 hours prior; for international flights, 3 hours prior.",
+                    "If the flight is delayed, there is an option to take a tour."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transfer – Airport or Terminal",
+            "Hotel – Airport or land terminal",
+            "Tourist transport",
+            "Professional tourist guide",
+            "04 nights of hotel in the city of AREQUIPA (according to the requested category)",
+            "01 night of accommodation (in the Colca Valley tour)",
+            "01 breakfast (in the Colca Valley tour)",
+            "5 breakfasts in the service",
+            "Entry tickets to the sillar quarries and to Culebrillas",
+            "Entry to the salinas",
+            "Entry tickets to the Pillones Waterfall",
+            "Entry ticket to the Colca Valley",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Extra expenses outside the service.",
+            "Lunches and dinners not mentioned.",
+            "Dinner with folkloric show in CHIVAY.",
+            "Entry to the Colca thermal baths 15 soles.",
+            "Breakfast and lunch in the Salinas Lagoon tour.",
+            "Entry to the hot springs 10 soles in the Salinas Lagoon tour.",
+            "Bottled water and snacks (additional cost)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon request)."
+        ],
+        "queLlevar": [
+            "Identity document (DNI or passport).",
+            "Money in soles for extra expenses.",
+            "Hat or cap for the heat.",
+            "Change of swimwear and sandals.",
+            "Warm clothing.",
+            "Suitable sneakers for the tour."
+        ],
+        "importante": [
+            "The tours and activities conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding details of a person.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the safety of the traveler and the best development of the service in its entirety. It may be due to the entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will be no refund for that.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as the itinerary for delivering tickets is being followed.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "PunoMagico": {
+        "seo": {
+            "title": "MAGICAL PUNO - 4 Days / 3 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover the magical Puno in a 4-day tour, navigating Lake Titicaca, exploring the Uros, Amantaní, and Taquile Islands, and living a unique cultural experience with a local family.",
+            "keywords": [
+                "Magical Puno",
+                "Lake Titicaca",
+                "Uros Islands",
+                "Amantaní Island",
+                "Taquile Island",
+                "Sillustani Tombs",
+                "Puno Tourism",
+                "Local culture",
+                "Trip to Puno",
+                "Puno Adventure"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/puno-magico",
+            "open_graph": {
+                "title": "Magical Puno - 4 Days / 3 Nights",
+                "description": "Experience the magic of Puno with this 4-day tour, navigating Lake Titicaca, exploring Uros, Amantaní, and Taquile Islands, and enjoying a unique cultural experience. Book your adventure now!",
+                "url": "https://machupicchubyworld.com/puno-magico",
+                "type": "website"
+            }
+        },
+        "title": "MAGICAL PUNO",
+        "day": "4 Days / 3 Nights",
+        "puntosClave": [
+            "Navigate Lake Titicaca and explore the Uros, Amantaní, and Taquile Islands.",
+            "Visit the Sillustani Chullpas and enjoy stunning views of the lake.",
+            "Spend a night in a family home in Amantaní, experiencing local culture.",
+            "Bilingual professional guide to provide detailed information during the tour.",
+            "Includes transfers and 24/7 assistance via WhatsApp for your peace of mind."
+        ],
+        "details": {
+            "duracion": "4 Days / 3 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Lake Titicaca",
+            "alt2": "Sillustani",
+            "alt3": "Uros Island",
+            "alt4": "Taquile Island",
+            "alt5": "Taquile Island"
+        },
+        "lugares": "Sillustani - Lake Titicaca - Uros Island - Amantaní Island - Taquile Island.",
+        "descripcion": "Get ready for an <strong>epic adventure</strong> in <strong>Puno</strong>! Start exploring the mysterious <strong>Chullpas of Sillustani</strong>, where views of <strong>Lake Titicaca</strong> will leave you breathless. Then, navigate the majestic <strong>Lake Titicaca</strong> to the <strong>floating Uros Islands</strong>, where you will learn about their fascinating <strong>totora</strong> houses. Continue to the charming <strong>Amantaní Island</strong> for an authentic experience with a local family. The next day, discover <strong>Taquile Island</strong>, famous for its <strong>textiles</strong> and ancestral traditions. Finally, return to <strong>Puno</strong> with unforgettable memories and a smile on your face. This tour is a perfect mix of <strong>culture</strong>, <strong>nature</strong>, and <strong>fun</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "LIMA - JULIACA - SILLUSTANI",
+                "descripcion": "Day 1! Arrival in Puno, check-in, and rest. At 1:50 PM, tour to the Chullpas of Sillustani, with views of Lake Titicaca. Return to Puno at 5:00 PM, free time to explore."
+            },
+            "dia2": {
+                "titulo": "LAKE TITICACA - UROS AMANTANI",
+                "descripcion": "Day 2 of adventure! Breakfast, visit to Uros Island to explore its floating houses and navigate in rafts. Then, arrival at Amantaní Island, typical lunch, and night with a local family."
+            },
+            "dia3": {
+                "titulo": "AMANTANI ISLAND - TAQUILE PUNO",
+                "descripcion": "Day 3 starts with a local breakfast and a boat trip to Taquile Island, with a welcome, cultural presentation, and traditional music. Lunch with trout and return to Puno at 5:00 PM to rest at the hotel."
+            },
+            "dia4": {
+                "titulo": "PUNO - LIMA",
+                "descripcion": "On the last day, after breakfast and transfer to Juliaca, followed by transport to the airport with 3 hours before the flight, ending the tour in Puno."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arrival in Juliaca City - Puno - Tour to Sillustani.",
+                "descripcion": [
+                    "Upon arrival in Juliaca or Puno, we will welcome you and take you to your hotel.",
+                    "After check-in (12:00 PM), you will have a short rest.",
+                    "Between 1:50 PM and 2:10 PM, we will start the tour to the impressive Chullpas of Sillustani. During the journey, you will enjoy views of Lake Titicaca while the guide shares interesting facts about Puno.",
+                    "In Sillustani, you will explore the Chullpas del Lagarto and the beautiful Umayo lagoon.",
+                    "You will also visit the Hatun Qolla community, famous for its clay crafts.",
+                    "We will return to Puno around 5:00 PM, with free time to enjoy the city.",
+                    "Overnight at the hotel in Puno."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour to Uros and Amantaní Islands",
+                "descripcion": [
+                    "Between 6:00 AM and 6:40 AM, we will enjoy breakfast at the hotel or receive a box lunch with local products.",
+                    "At 7:00 AM, we will depart for the Puno port to begin the adventure.",
+                    "We will navigate Lake Titicaca to Uros Island, where the inhabitants will show us how they build their houses and what their daily life is like.",
+                    "You can dress in traditional clothing or take a ride on their famous totora boat, the 'Mercedes Benz' (cost of 15 to 20 soles).",
+                    "After that, we will continue to Amantaní Island, where a local family will welcome us with a typical lunch.",
+                    "In the afternoon, we will learn more about their customs and architecture.",
+                    "In the evening, we will share a local dinner and spend the night in a host family home."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour to Taquile Island",
+                "descripcion": [
+                    "Between 6:30 AM and 7:30 AM, the host family will prepare a delicious local breakfast.",
+                    "Then, we will take the boat to Taquile Island, known for preserving its ancient traditions.",
+                    "The president of the community will welcome us, and in the Taquile square, we will enjoy a cultural presentation, especially of their famous textiles.",
+                    "During the tour, you will listen to traditional music with drums and pan flutes.",
+                    "Afterwards, we will climb up to Chullano port and have lunch in a local restaurant, where you can try typical dishes like trout.",
+                    "After lunch, we will return by boat to Puno, arriving around 5:00 PM to rest at the hotel."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Transfer to Manco Capac Airport \"Juliaca\"",
+                "descripcion": [
+                    "After having breakfast at the hotel, our transport will carry out the respective transfer from the city of Puno to Juliaca.",
+                    "The approximate travel time for this trip is 30 minutes.",
+                    "For the transfer to the airport, we will leave 3 hours before the flight departs.",
+                    "Our tour of the city of Puno concludes at the airport."
+                ]
+            }
+        ],
+        "incluye": [
+            "In case the passenger is requesting flights with us, we have airlines: Sky, Latam, and Jet Smart (OPTIONAL) aimed at national or foreign tourists with international and domestic flights in Peru.",
+            "If you purchase flights with us, the airline check-in will be provided a day before.",
+            "Tour to Sillustani.",
+            "Tour to Uros, Amantaní, Taquile.",
+            "Excursion to Chucuito.",
+            "Tourist transportation.",
+            "Entrance to tourist attractions.",
+            "Boats in Uros, Amantaní, Taquile.",
+            "Professional guide in Spanish and English.",
+            "2 nights in a hotel in Puno.",
+            "1 night in one of the family houses in Amantaní.",
+            "Transportation Juliaca-Puno-Juliaca.",
+            "2 breakfasts included.",
+            "1 lunch.",
+            "1 dinner.",
+            "Transfer – Airport or Terminal – Hotel – Airport or bus terminal.",
+            "Entry to Uros.",
+            "Lunch in Amantaní.",
+            "Guide (Spanish/English).",
+            "Emergency oxygen during the Sillustani tour.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Totora boats 'Mercedes Benz' 20 soles optional.",
+            "Breakfasts, lunches, and dinners not mentioned in the program.",
+            "Extra expenses outside the service.",
+            "No tour includes dinner.",
+            "Additional expenses outside the service.",
+            "Lunches and breakfasts not mentioned in the program.",
+            "Lodge in Uros upon prior quotation."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon prior quotation)."
+        ],
+        "queLlevar": [
+            "Bring valid ID document DNI/PASSPORT.",
+            "Carry a rain poncho depending on the season.",
+            "Sunscreen.",
+            "Cap/hat for the heat.",
+            "Bring a change of suitable clothes for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions carried out by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There are no name changes or refunds for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rains, landslides, floods, etc.), strikes, demonstrations, and any other event that does not allow the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the traveler's safety and the best overall service development. This may be due to Machupicchu entry issues.",
+            "If you wish to leave before the service concludes, there will also be no refund for that.",
+            "Payment for the tour package will be effectively made in the city of Cusco on the first day of arrival in the city, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you wish for a receipt or invoice."
+        ]
+    },
+    "Puno5dias": {
+        "seo": {
+            "title": "PUNO - 5 DAYS / 4 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Explore Puno in 5 days, sailing Lake Titicaca, visiting Uros, Amantaní, and Taquile Islands, the Temple of Fertility in Chucuito, and the Sillustani Tombs. Live the local culture and traditions.",
+            "keywords": [
+                "Puno 5 days",
+                "Lake Titicaca",
+                "Uros Islands",
+                "Amantaní Island",
+                "Taquile Island",
+                "Sillustani Tombs",
+                "Temple of Fertility",
+                "Chucuito",
+                "Puno Trip",
+                "Puno Adventure",
+                "Local Culture"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/puno-5d-4n",
+            "open_graph": {
+                "title": "Puno 5 Days - 4 Nights",
+                "description": "Explore Puno in 5 days, from Lake Titicaca to Uros, Amantaní, and Taquile Islands, through the Temple of Fertility in Chucuito and the Sillustani Tombs.",
+                "url": "https://machupicchubyworld.com/puno-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "PUNO",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Explore Lake Titicaca with visits to Uros, Amantaní, and Taquile, experiencing unique traditions.",
+            "Visit Sillustani and the Temple of Fertility in Chucuito with stunning cultural landscapes.",
+            "Includes tourist transportation, entrance fees, and bilingual guides for a complete experience.",
+            "Enjoy accommodation in selected hotels and one night in a family home in Amantaní.",
+            "24/7 assistance and flexible options like flights, hotels, and personalized trains."
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Lake Titicaca",
+            "alt2": "Sillustani",
+            "alt3": "Uros Island",
+            "alt4": "Taquile Island",
+            "alt5": "Taquile Island"
+        },
+        "lugares": "Sillustani - Lake Titicaca - Uros Island - Amantaní Island - Taquile Island - Tour to Chuicuito \"Temple of Fertility\"",
+        "descripcion": "Discover <strong>Puno</strong>, the <strong>folkloric capital</strong> of Peru and land of <strong>artists</strong> and <strong>poets</strong>. Famous for its <strong>cultural diversity</strong>, its <strong>native dances</strong>, and the celebration of the <strong>Virgin of Candelaria</strong> (February 1-14), recognized as <strong>Intangible Cultural Heritage</strong> by UNESCO. On this tour, you will explore <strong>Lake Titicaca</strong>, home to the iconic <strong>Uros islands</strong>, <strong>Amantaní</strong>, and <strong>Taquile</strong>, where you can interact with local communities and learn about their traditions. You will also visit <strong>Chucuito</strong>, known for its <strong>Temple of Fertility</strong>, and <strong>Sillustani</strong>, with its impressive <strong>chullpas</strong>. <strong>Puno</strong> offers typical dishes like <strong>quinoa soup</strong>, and in remote areas, <strong>aymara</strong> is spoken, preserving cultural roots. Visiting <strong>Puno</strong> will leave you with unforgettable memories of its people and culture.",
+        "resumen": {
+            "dia1": {
+                "titulo": "LIMA - JULIACA - SILLUSTANI",
+                "descripcion": "Day 1! Upon arrival in Juliaca or Puno, we will greet you and take you to the hotel for check-in (12:00 hrs) and a brief rest. At 13:50 hrs, we start the tour to the impressive Chullpas of Sillustani, where you will enjoy views of Lake Titicaca while learning about Puno. You will explore the Chullpas of Lagarto, the Umayo lagoon, and the community of Hatun Qolla, famous for its crafts. We return to Puno at 17:00 hrs, with free time to explore the city. A first day full of history and landscapes!"
+            },
+            "dia2": {
+                "titulo": "LAKE TITICACA - UROS AMANTANI",
+                "descripcion": "Day 2 of adventure! We have breakfast and set sail to Uros Island, where we explore its floating houses and experience navigating on totora rafts. Then we continue to Amantaní Island, where we are welcomed with a typical lunch, explore their customs, and spend the night with a local family."
+            },
+            "dia3": {
+                "titulo": "AMANTANI ISLAND - TAQUILE PUNO",
+                "descripcion": "Day 3 begins with a local breakfast, followed by a boat trip to Taquile Island, where you will enjoy a welcome, a cultural presentation, and traditional music. After a trout lunch at a local restaurant, we return to Puno around 17:00 hrs to rest at the hotel."
+            },
+            "dia4": {
+                "titulo": "Tour to Chuicuito \"Temple of Fertility\"",
+                "descripcion": "On day 4, after breakfast, we will visit Chucuito, known for its Temple of Fertility (Inca Uyo) and views of Lake Titicaca. We will explore the square, the Dominican church, and some viewpoints, with free time to enjoy local food. We will return to Puno at 12:30 hrs and the afternoon will be free to rest."
+            },
+            "dia5": {
+                "titulo": "PUNO - LIMA",
+                "descripcion": "On the last day, after breakfast at the hotel, we will take transportation to the city of Juliaca, a journey of approximately 30 minutes. We will transfer to the airport with 3 hours' notice before the flight, thus concluding our tour of the city of Puno at the airport."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arrival in the City of Juliaca - Puno - Tour to Sillustani.",
+                "descripcion": [
+                    "Upon arrival in Juliaca or Puno, we will greet you and take you to your hotel.",
+                    "After check-in (12:00 hrs), you will have a brief rest.",
+                    "Between 13:50 and 14:10 hrs, we will begin the tour to the impressive Chullpas of Sillustani. During the journey, you will enjoy views of Lake Titicaca while the guide shares interesting facts about Puno.",
+                    "In Sillustani, you will explore the Chullpas of Lagarto and the beautiful Umayo lagoon.",
+                    "You will also visit the community of Hatun Qolla, famous for its clay crafts.",
+                    "We will return to Puno around 17:00 hrs, with free time to enjoy the city."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Tour to Uros Island and Amantaní",
+                "descripcion": [
+                    "Between 06:00 and 06:40 hrs, we will enjoy breakfast at the hotel, or receive a box lunch with local products.",
+                    "At 07:00 A.M., we will depart for the port of Puno to begin the adventure.",
+                    "We will navigate Lake Titicaca to Uros Island, where the inhabitants will show us how they build their houses and what their daily life is like.",
+                    "You can dress in traditional clothing or take a ride on their famous totora boat, the 'Mercedes Benz' (cost of 15 to 20 soles).",
+                    "Afterward, we will continue to Amantaní Island, where a local family will welcome us with a typical lunch.",
+                    "In the afternoon, we will learn more about their customs and architecture.",
+                    "In the evening, we will share a local dinner and spend the night in the host family's house."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Tour to Taquile Island",
+                "descripcion": [
+                    "Between 06:30 and 07:30 hrs, the host family will prepare a delicious local breakfast for you.",
+                    "Then, we will take the boat to Taquile Island, known for preserving its ancient traditions.",
+                    "The community president will welcome us, and in the Taquile square, we will enjoy a cultural presentation, especially of their famous textiles.",
+                    "During the tour, you will hear traditional music with drums and panpipes.",
+                    "Afterward, we will climb up to Chullano port and have lunch at a local restaurant, where you can try typical dishes like trout.",
+                    "After lunch, we will return by boat to Puno, arriving around 17:00 hrs to rest at the hotel."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour to Chuicuito \"Temple of Fertility\"",
+                "descripcion": [
+                    "Between 09:00 and 09:30 hrs, after breakfast, we will pick you up to take you to Chucuito, known as the city of the royal boxes.",
+                    "During the journey, you will enjoy beautiful views of Lake Titicaca.",
+                    "In Chucuito, we will visit the Temple of Fertility, or Inca Uyo, famous for its curious stones.",
+                    "The guide will explain the importance of the Temple as an astronomical observatory.",
+                    "We will also explore the square of Chucuito, its Dominican church, and some viewpoints with views of the lake.",
+                    "You will have free time to try local food on your own.",
+                    "We will return to Puno around 12:30 hrs.",
+                    "The afternoon will be free, and we will stay overnight in the city."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Transfer to Manco Capac Airport \"Juliaca\"",
+                "descripcion": [
+                    "After having breakfast at the hotel, our transportation will carry out the respective transfer from the city of Puno to the city of Juliaca.",
+                    "The approximate time for this trip is 30 minutes.",
+                    "For the transfer to the airport, we will leave 3 hours before the flight departs.",
+                    "Our tour of the city of Puno concludes at the airport."
+                ]
+            }
+        ],
+        "incluye": [
+            "If the passenger is requesting flights with us, we work with airlines: Sky, Latam, and Jet Smart (OPTIONAL) aimed at national or foreign tourists with international and domestic flights in Peru.",
+            "If you purchase flights with us, you will receive the airline check-in one day before.",
+            "Tour to Sillustani.",
+            "Tour to Uros, Amantaní, Taquile.",
+            "Excursion to Chucuito.",
+            "Tourist transportation.",
+            "Entrance to tourist attractions.",
+            "Boats in Uros, Amantaní, Taquile.",
+            "Professional guide in Spanish and English.",
+            "3 nights in a hotel in Puno.",
+            "1 night in one of the family homes in Amantaní.",
+            "Transportation Juliaca-Puno-Juliaca.",
+            "3 breakfasts included.",
+            "1 lunch.",
+            "1 dinner.",
+            "Transfer – Airport or Terminal – Hotel – Airport or land terminal.",
+            "Admission to Uros.",
+            "Lunch in Amantaní.",
+            "Guide (Spanish/English).",
+            "Emergency oxygen on the Sillustani tour.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Totora boats 'Mercedes Benz' 20 soles optional.",
+            "Breakfasts, lunches, and dinners not mentioned in the program.",
+            "Extra expenses outside the service.",
+            "No tour includes dinner.",
+            "Extra expenses that occur outside the service.",
+            "Lunches and breakfasts not mentioned in the program.",
+            "Lodge in Uros upon prior quotation."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon prior quotation)."
+        ],
+        "queLlevar": [
+            "Carry a valid identity document DNI/PASSPORT.",
+            "Bring a rain poncho depending on the season.",
+            "Sunscreen.",
+            "Cap/hat for the heat.",
+            "Bring appropriate clothing for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding details of a person.",
+            "The service is subject to change without prior notice due to climatic reasons (rains, landslides, floods, etc.), strikes, protests, and any other event that does not allow the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best development of the service as a whole. It may be due to entry issues at Machupicchu.",
+            "If you wish to withdraw before the service ends, there will also be no refund for this.",
+            "The payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as we are fulfilling the itinerary for the delivery of tickets.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    }
+}

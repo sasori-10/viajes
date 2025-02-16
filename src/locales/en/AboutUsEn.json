@@ -1,0 +1,192 @@
+{
+    "aboutUs": {
+        "seo": {
+            "title": "About Us | MACHUPICCHU BY WORLD",
+            "meta_description": "Machupicchu By World is a travel agency based in Cusco, specializing in unique and sustainable experiences. With over 6 years of experience, we prioritize safety, quality, and customer satisfaction.",
+            "keywords": [
+                "Cusco travel agency",
+                "Machu Picchu tours",
+                "Peru travel experiences",
+                "Sustainable tourism Cusco",
+                "Best travel agency in Cusco",
+                "Adventure travel Machu Picchu",
+                "Responsible tourism Peru"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/about-us",
+            "open_graph": {
+                "title": "About Us | Machupicchu By World",
+                "description": "We are a travel agency specializing in sustainable and high-quality tourism in Cusco. Learn about our history, vision, and team.",
+                "url": "https://machupicchubyworld.com/about-us",
+                "type": "website"
+            }
+        },
+        "imageHeader": {
+            "title": "ABOUT US",
+            "subtitle": "MEET THE MACHU PICCHU BY WORLD TEAM"
+        },
+        "textSeccion": {
+            "nameCompany": "Machu Picchu by World",
+            "title": "Dedicated to Making Every Trip a Unique Story",
+            "descripcion": "Machupicchu By World Travel Agency is a tour operator company founded in the historic city of Cusco in 2019. Since its creation, it has positioned itself as a local company committed to quality tourism, standing out among the first in providing memorable experiences and excellent service. With more than six years of experience in the tourism industry, it offers a wide variety of services both nationally and internationally, designed to meet the expectations of its customers. Its focus is on guaranteeing unforgettable trips, prioritizing the comfort, safety and satisfaction of each traveler who trusts in its experience and dedication."
+        },
+        "values": {
+            "vision": {
+                "name": "Vision",
+                "content1": "To be leaders in sustainable tourism, offering unique experiences that connect travelers with cultural and natural heritage, promoting environmental conservation and social equity.",
+                "content2": "Our vision highlights sustainability and social responsibility, attracting a public conscious of traveling responsibly."
+            },
+            "mission": {
+                "name": "Mission",
+                "content1": "Offer unforgettable tourist experiences with excellence, quality, and innovation, contributing to the economic and social development of destinations and promoting environmental conservation.",
+                "content2": "Our mission prioritizes customer satisfaction, the sustainable development of destinations, and environmental care, with excellence in service as a fundamental pillar."
+            },
+            "valores": {
+                "name": "Our Values",
+                "subtitle": "At Machu Picchu by World, we are fully committed to our clients.",
+                "text1": "We are committed to quality and service excellence.",
+                "text2": "Our priority is the safety and comfort of our travelers.",
+                "text3": "Satisfy the expectations of each client with personalized attention.",
+                "text4": "Innovative and high-level tourism packages.",
+                "text5": "Contribute to the sustainable development of tourism."
+            }
+        },
+        "scroll1": {
+            "title": "Meet Our Team",
+            "subtitle": "A team passionate about providing you with unforgettable experiences."
+        },
+        "team": {
+            "manager": {
+                "name": "LUIS ANGEL RONDAN CUEVA",
+                "position": "General Manager",
+                "description": "Luis Angel is a young man passionate about the world of tourism. He was born in the district of Maras, in the department of Cusco. Since he was a child, he supported his mother, who was dedicated to rural tourism. He attended primary school in Urubamba and secondary school in Anta. After finishing with good grades, he moved to the city of Cusco, where he began to study the professional career of Official Tourism Guide. Along the way, he worked in different very important companies, gaining experience in the tourism field. During his studies, the idea was born to create a company dedicated to offer unique experiences for different travelers, highlighting the care of the environment and the revaluation of the importance of the Inca culture. Over time, this vision materialized in various experiences of excellence, reflected in platforms such as TripAdvisor.",
+                "imageAlt": "Luis Ángel Rondan Cueva - (General Manager)"
+            },
+            "teamMembers": {
+                "member1": {
+                    "name": "Noemi Conde Yupanqui",
+                    "position": "Assistant General Manager",
+                    "imageAlt": "Noemi Conde Yupanqui (General Manager)"
+                },
+                "member2": {
+                    "name": "Miluska Quispe Gallegos",
+                    "position": "Sales Manager",
+                    "imageAlt": "Miluska Quispe Gallegos (Sales Manager)"
+                },
+                "member3": {
+                    "name": "Alvaro Álvarez Taqquiare",
+                    "position": "Reservations Executive",
+                    "imageAlt": "Alvaro Álvarez Taqquiare (Reservations Executive)"
+                },
+                "member4": {
+                    "name": "Pilar Alahui Quentasi",
+                    "position": "Sales Manager",
+                    "imageAlt": "Pilar Alahui Quentasi (Sales Manager)"
+                },
+                "member5": {
+                    "name": "Ronald Huanca Palacios",
+                    "position": "Sales Executive",
+                    "imageAlt": "Ronald Huanca Palacios (Sales Executive)"
+                },
+                "member6": {
+                    "name": "Jhordan Chacon Guerra",
+                    "position": "Marketing",
+                    "imageAlt": "Jhordan Chacon Guerra (Marketing)"
+                }
+            }
+        },
+        "scroll2": {
+            "title": "We Travel Together, We Grow Together",
+            "subtitle": "Uniting dreams and destinies while supporting communities that need it most"
+        },
+        "ourWork": {
+            "title1": "Smiles in",
+            "title2": "A Special Day for the Little Ones",
+            "subtitle": "At Machu Picchu by World, we not only focus on tourism, but also work to bring joy to communities. During our visit to Rosaspata, we organized a children's show and gave small gifts to the children, creating moments of fun and happiness for them."
+        },
+        "scroll3": {
+            "title": "Traveler Reviews",
+            "subtitle": "Real experiences, unforgettable memories"
+        }
+    },
+    "ourLicenses": {
+        "seo": {
+            "title": "Our Licenses & Certifications | MACHUPICCHU BY WORLD",
+            "meta_description": "We guarantee your safety with all the necessary certifications and licenses to operate in the tourism sector. Learn about our licenses issued by GERCETUR, Cusco Municipality, and SUNAT.",
+            "keywords": [
+                "Travel agency licenses Cusco",
+                "Tourism certifications in Peru",
+                "GERCETUR Machu Picchu",
+                "Tourism operational license",
+                "Certified travel agency in Cusco",
+                "Safe tourism Machu Picchu"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/our-licenses",
+            "open_graph": {
+                "title": "Our Licenses & Certifications | Machupicchu By World",
+                "description": "We have all the necessary certifications and licenses to operate legally and ensure a safe and reliable service.",
+                "url": "https://machupicchubyworld.com/our-licenses",
+                "type": "website"
+            }
+        },
+        "title": "OUR LICENSES",
+        "subtitle": "Your peace of mind is our priority. We have all the necessary certifications and licenses to operate.",
+        "text1": {
+            "name": "CERTIFICATE ISSUED BY GERCETUR",
+            "alt": "LICENSE ISSUED BY GERCETUR TO MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        },
+        "text2": {
+            "name": "TECHNICAL INSPECTION CERTIFICATE",
+            "alt": "TECHNICAL INSPECTION CERTIFICATE ISSUED BY THE MUNICIPALITY OF CUSCO TO MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        },
+        "text3": {
+            "name": "SUNAT - RUC RECORD",
+            "alt": "CERTIFICATE OF REGISTERED INFORMATION (CIR) - RUC RECORD OF MACHU PICCHU BY WORLD, OFFICIAL SUNAT DATA"
+        },
+        "text4": {
+            "name": "OPERATIONAL LICENSE",
+            "alt": "OPERATIONAL LICENSE ISSUED BY THE MUNICIPALITY OF CUSCO TO MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        }
+    },
+    "terminos": {
+        "seo": {
+            "title": "Terms and Conditions | MACHUPICCHU BY WORLD",
+            "meta_description": "Read our terms and conditions to enjoy a safe experience with Machu Picchu by World. Information on reservations, payments, cancellations, and more.",
+            "keywords": [
+                "Travel terms and conditions",
+                "Machu Picchu booking policies",
+                "Tour cancellations and refunds Peru",
+                "Machu Picchu travel rules",
+                "Travel agency service conditions",
+                "Machu Picchu legal terms"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/terms-conditions",
+            "open_graph": {
+                "title": "Terms and Conditions | Machupicchu By World",
+                "description": "Check our reservation policies, payments, cancellations, and responsibilities to ensure a smooth and secure journey.",
+                "url": "https://machupicchubyworld.com/terms-conditions",
+                "type": "website"
+            }
+        },
+        "title": "TERMS AND CONDITIONS",
+        "subtitle": "Know the rules and policies to enjoy our tourist services with safety and peace of mind.",
+        "listContent": {
+            "list1": "The tours and excursions offered by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "list2": "There is no name change or refund for the Machu Picchu entrance ticket once purchased with the corresponding personal details.",
+            "list3": "The service is subject to change without prior notice due to weather conditions (rain, mudslides, floods, etc.), strikes, protests, or any other event that prevents the normal development of the itinerary.",
+            "list4": "The itinerary may change at the operator's discretion, always to ensure the traveler's safety and the best development of the service in its entirety. This may be related to Machu Picchu entrance issues.",
+            "list5": "The payment for the tourist package will be made in full in the city of Cusco on the first day of arrival, as the itinerary for ticket delivery is being followed.",
+            "list6": "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "list7": "Customer information handling: To proceed with the reservation, we will request personal information, which will be used strictly confidentially. The customer details include full name, age, nationality, cell phone number, passport number, international and domestic flight information, and medical condition (essential for adventure tours).",
+            "list8": "Reservations: To confirm the reservation of our services, an initial payment of 50% of the total price of the requested services must be made. For Machu Picchu tours, it is necessary to make the reservation with 50% of the service price. Payments can be made via deposits, bank transfers, or apps from BCP, BBVA, Interbank, Yape, or Plin. It is important to mention that some payment methods by card or via link, PayPal, incur commissions, which will be assumed by the customer.",
+            "list9": "Balance payment: The remaining balance must be paid in cash or by transfer in person on the day of arrival in Cusco, at the time of explaining the itinerary and delivering the tickets and entries. For no reason will the guided visits be allowed if the balance payment is not made.",
+            "list10": "The rates for our programs are subject to modifications based on market exchange trends. Prices do not include legal taxes for national tourists. For foreign tourists, Law No. 919 will apply according to the regulations in the country.",
+            "list11": "Itinerary: The activities scheduled in the different itineraries may be modified due to external factors that are beyond the company's control. The travel agency will consider taking such actions when necessary to prioritize the safety of our tourists in the case of unforeseen events such as social issues, government actions, weather conditions, natural disasters, epidemics, pandemics, or any other factor that prevents the free development of activities. The travel agency is not responsible for these events, additional expenses they may incur, or the non-provision of services caused by the aforementioned factors.",
+            "list12": "Modifications: Date modifications requested by the client will incur a penalty of 5% of the total price. Modifications to Machu Picchu bookings are not possible for any reason, nor are modifications less than 48 hours before any other tour. Regarding hotel modifications, the client is subject to the policies of the hotel establishment.",
+            "list13": "Cancellations and annulments: No refunds will be made for cancellations and annulments.",
+            "list14": "No show: In the event of not showing up for the tour, no refund will be issued, and it will be considered a no show. Customer responsibility and commitment: Customers are responsible for carrying their valid personal documentation at all times, including their migration card and valid passport. They must take care of their personal belongings during the use of international and national transportation. Luggage must have the appropriate documentation from the service provider to file claims in case of loss or damage. We recommend having travel insurance before leaving your country. Consult with your agent. Customers must practice responsible and sustainable tourism, considering that the care and respect for cultural and natural tourist attractions are essential for engaging in activities. Following the behavior norms at each tourist site will safeguard both personal and group integrity.",
+            "list15": "Company responsibilities: MachuPicchu by World is obliged to fulfill 100% of the services contracted by the client. In unforeseen cases, if the services are not provided as agreed in this contract and this responsibility is attributable to the company, the client is entitled to request a full refund for the services not provided. In such cases, the travel agency commits to finding the best alternative solutions and offering all necessary assistance to repair the damage caused. Unforeseen events, such as social issues, government actions, weather conditions, natural disasters, epidemics, pandemics, or any other factor that prevents the free development of activities, are not attributable to the travel agency.",
+            "list16": "For sending a digital reservation voucher: By making the reservation payment, you accept the terms and conditions present in this document, freely and expressly consenting to the processing of your personal data, which implies the collection and use of this data solely for updating our database and the services contracted. You also acknowledge being informed and advised about the risks associated with participating in tourist activities in their various forms.",
+            "list17": "Important: Promotional rates are subject to seasonal changes."
+        }
+    }
+}

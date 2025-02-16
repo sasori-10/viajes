@@ -1,0 +1,2116 @@
+{
+    "labelMenu": {
+        "resumen": "OVERVIEW",
+        "itinerario": "COMPLETE ITINERARY",
+        "incluye": "INCLUDES",
+        "extras": "EXTRAS",
+        "queLlevar": "WHAT TO BRING?",
+        "importante": "IMPORTANT"
+    },
+    "CuscoExplendor": {
+        "seo": {
+            "title": "CUSCO EXPLENDOR - 3 DAYS / 2 NIGHTS TOUR | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover Cusco with secure transfers and guided tours to Machupicchu, Sacsayhuamán, and the Sacred Valley. Enjoy an unforgettable journey filled with adventure and comfort.",
+            "keywords": [
+                "Cusco EXPLENDOR",
+                "Machupicchu tour",
+                "City Tour Cusco",
+                "Sacred Valley",
+                "secure transport",
+                "certified guides"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-explendor",
+            "open_graph": {
+                "title": "Cusco EXPLENDOR - 3 Days / 2 Nights Tour to Machu Picchu",
+                "description": "Experience the unique beauty of Cusco with guided visits and comfortable transfers. Explore Machupicchu and the Sacred Valley. Book your spot today!",
+                "url": "http://www.machupicchubyworld.com/cusco-explendor",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO EXPLENDOR",
+        "day": "3 Days / 2 Nights",
+        "puntosClave": [
+            "Guaranteed transportation and safe transfers from the airport or bus terminal.",
+            "City Tour in Cusco and guided tours to Machupicchu and the Sacred Valley of the Incas.",
+            "Includes entry tickets to archaeological sites, transportation, and certified guides.",
+            "Comfortable accommodation with breakfast included in Cusco and Aguas Calientes.",
+            "Practical recommendations on what to bring for an optimal experience."
+        ],
+        "details": {
+            "duracion": "3 Days / 2 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of the city of Cusco",
+            "alt2": "Sacsayhuamán",
+            "alt3": "Qenqo Forest",
+            "alt4": "Ollantaytambo",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Cusco - Sacsayhuamán - Qenqo - Ollantaytambo - Machupicchu",
+        "descripcion": "<strong>Experience something unique</strong> in <strong>Cusco</strong>, with <strong>comfortable transfers</strong>, <strong>guided visits</strong> to major attractions like <strong>Machupicchu</strong>, <strong>Sacsayhuamán</strong>, and <strong>Qenqo</strong>, and <strong>free time</strong> to explore and enjoy the destination. From <strong>breakfast</strong> to the return to the <strong>hotel</strong>, every detail is designed to offer you <strong>comfort</strong> and <strong>adventure</strong>, ensuring an <strong>unforgettable journey</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CUSCO CITY TOUR",
+                "descripcion": "The journey begins with arrival in Cusco, where passengers are transferred to the hotel, offered a coca tea tasting, and given an explanation of the itinerary. On the first day, a City Tour is conducted, including visits to Sacsayhuamán, Qenqo, Puka Pukara, and Tambomachay, returning to Cusco at the end of the day to stay overnight at the hotel."
+            },
+            "dia2": {
+                "titulo": "MACHUPICCHU",
+                "descripcion": "The tour begins with a hotel pick-up and a bus trip to Ollantaytambo, where the train to Aguas Calientes is boarded. Then, Machupicchu is visited with a guide, followed by free time for photos and exploration. Afterward, return to Aguas Calientes for lunch and exploring the town. Finally, return to Cusco by train and transportation."
+            },
+            "dia3": {
+                "titulo": "RETURN",
+                "descripcion": "Breakfast is offered at the hotel if the flight is late. Then, pick-up for the airport or terminal is done 2 hours before domestic flights and 3 hours before international flights. Check-out is at 9:00 AM."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "ARRIVAL IN CUSCO - SACSAYHUAMÁN - QENQO - PUKA PUKARA - TAMBOMACHAY",
+                "descripcion": [
+                    "AM or PM Boarding area at JORGE CHAVEZ Airport or others.",
+                    "AM or PM Departure by flight or bus to Cusco city.",
+                    "AM or PM Arrival in Cusco city.",
+                    "AM or PM Pick-up from the airport to the hotel or",
+                    "AM or PM Pick-up from the bus terminal to the hotel. (Alejandro Velasco Astete Airport)",
+                    "<strong>START OF OUR SERVICES:</strong>",
+                    "Welcome to Cusco",
+                    "Coca tea tasting at the Hotel.",
+                    "Check-in at 11:00 AM and check-out at 9:00 AM.",
+                    "Detailed itinerary explanation.",
+                    "<strong>FIRST DAY CITY TOUR</strong>",
+                    "<strong>TURN (MORNING - AFTERNOON)</strong>",
+                    "9:40 to 10:10 AM Pick-up from your Hotel for the morning city tour.",
+                    "1:50 to 2:10 PM Pick-up from the Hotel for the afternoon tour.",
+                    "AM or PM Guided visit to the Sacsayhuamán fortress.",
+                    "AM or PM Visit to the ceremonial center of Qenqo.",
+                    "AM or PM Visit to the Puka Pukara fortress.",
+                    "AM or PM Visit to the Tambomachay aqueducts.",
+                    "1:30 - 2:00 PM or 6:00 PM Return to Cusco by bus.",
+                    "2:30 or 6:30 PM Arrival in Cusco (near the main square).",
+                    "Overnight at your Hotel in Cusco according to your request or Hotel category."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Ollantaytambo - Aguas Calientes - Machupicchu",
+                "descripcion": [
+                    "3:20 to 3:40 AM Pick-up from the Hotel for the corresponding tour.",
+                    "AM Departure by bus from Cusco to Ollantaytambo to board the respective train.",
+                    "AM Boarding pass at Inca Rail station in Ollantaytambo, The Voyager train.",
+                    "5:05 to 8:36 AM Train from Ollantaytambo to Aguas Calientes departs within this time range.",
+                    "AM Breakfast on your own.",
+                    "AM Head to the Aguas Calientes plaza to meet the guide.",
+                    "AM Board the Consetur bus with the guide from Aguas Calientes to Machupicchu, depending on the entry time.",
+                    "AM Entry to Machupicchu, guided visit (approximately 2 hours).",
+                    "AM Free time for photos at Machupicchu.",
+                    "AM Board the Consetur bus from Machupicchu to Aguas Calientes.",
+                    "Free time for lunch in Machupicchu (service not included).",
+                    "Free time to explore Aguas Calientes or visit the hot springs.",
+                    "4:12 to 9:50 PM Train from Aguas Calientes to Ollantaytambo departs within this time range (travel time: 1 hour and 40 minutes).",
+                    "PM Arrive at Ollantaytambo station 30 minutes before with ID or passport and boarding pass.",
+                    "PM Boarding pass The Voyager train by Inca Rail.",
+                    "PM Departure by train from Aguas Calientes to Ollantaytambo.",
+                    "PM Transfer from Ollantaytambo to Cusco, arriving near Av. El Sol."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Return",
+                "descripcion": [
+                    "6:30 to 9:00 AM Breakfast at your hotel if your flight is late.",
+                    "AM or PM Pick-up from your hotel to the Airport or Bus Terminal, 2 hours before for domestic flights, 3 hours before for international flights.",
+                    "If you purchased a flight with us, your CHECK-IN will be provided the day before; otherwise, you must perform it yourself.",
+                    "Check-out from our hotels at 9:00 AM."
+                ]
+            }
+        ],
+        "incluye": [
+            "Pick-up from the Airport and transfer to Alejandro Velasco Astete Airport.",
+            "City Tour Cusco.",
+            "Tour to the Sacred Valley of the Incas.",
+            "Tour to Machupicchu by tourist train.",
+            "Entry ticket to Machupicchu (Circuit 2 subject to availability).",
+            "Expedition or The Voyager train tickets, depending on the client's purchased category.",
+            "Bus up and down to the Historical Sanctuary Machupicchu from Aguas Calientes - Machupicchu - Aguas Calientes village.",
+            "BTG (entry to archaeological complexes) and entry to Coricancha.",
+            "Transportation for each mentioned tour.",
+            "Professional guide in Spanish and English.",
+            "Lunch during the Sacred Valley tour.",
+            "3 Hotel breakfasts.",
+            "2 Nights of Hotel in Cusco.",
+            "1 Night of Hotel in Aguas Calientes or Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Breakfast, lunch, dinner not mentioned in the program.",
+            "Tips.",
+            "Additional beverages.",
+            "Tickets not mentioned in the description.",
+            "Extra expenses outside the service.",
+            "Train ticket of a higher category, such as Vista Dome Observatory or 360° (prior quotation)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher-category hotels (prior quotation).",
+            "Other train categories (prior quotation)."
+        ],
+        "queLlevar": [
+            "Wear shoes suitable for the tour to be undertaken.",
+            "Bring clothing according to the season.",
+            "Sunscreen.",
+            "Hat for sunny days.",
+            "Medicine and/or personal items for altitude and hygiene.",
+            "A lightweight 20-liter backpack or bag.",
+            "Cameras.",
+            "Extra money in local currency.",
+            "Sunglasses.",
+            "Plastic bags for waste.",
+            "Original passports or personal documents (copies not accepted)."
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entrance ticket once purchased with a person's corresponding information.",
+            "The service is subject to variation without prior notice due to weather conditions (rain, landslides, overflows, etc.), strikes, protests, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the optimal development of the service as a whole. This may include changes related to Machupicchu entry.",
+            "If you wish to leave before the service concludes, there will also be no refund.",
+            "Payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as this coincides with the itinerary for ticket delivery.",
+            "If the passenger wishes to pay by credit card, a 6% commission fee will be charged for the purchase.",
+            "For the 50% deposit, a receipt or invoice for the reservation will be issued. The remaining balance must be paid with an 18% VAT if a receipt or invoice is requested."
+        ]
+    },
+    "CuscoClasico": {
+        "seo": {
+            "title": "CLASSIC CUSCO - 4 Days / 3 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Embark on a 4-day, 3-night adventure in Cusco. Enjoy a City Tour, explore the Sacred Valley, and visit Machupicchu with expert guides.",
+            "keywords": [
+                "Cusco classic",
+                "Machu Picchu tour",
+                "City Tour Cusco",
+                "Sacred Valley",
+                "secure transport",
+                "expert guides"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-classic",
+            "open_graph": {
+                "title": "Cusco Classic - 4 Days / 3 Nights to Machu Picchu",
+                "description": "Explore Cusco on a 4-day, 3-night tour. Discover the city, Sacred Valley, and Machupicchu with expert guides. Book your spot today!",
+                "url": "http://www.machupicchubyworld.com/cusco-classic",
+                "type": "website"
+            }
+        },
+        "title": "CLASSIC CUSCO",
+        "day": "4 Days / 3 Nights",
+        "puntosClave": [
+            "Start your adventure with a City Tour in Cusco, explore the Sacred Valley, and conquer Machupicchu!",
+            "Includes transportation, comfortable accommodation, and delicious lunches along the way.",
+            "Expert guides will reveal the secrets of the most fascinating archaeological sites.",
+            "Travel by train to Machupicchu and enjoy the Consetur buses directly to the citadel.",
+            "Three nights in a hotel in Cusco, with the option to stay in Aguas Calientes or Ollantaytambo."
+        ],
+        "details": {
+            "duracion": "4 Days / 3 Nights",
+            "nivel": "Easy",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "City of Cusco",
+            "alt2": "Ollantaytambo",
+            "alt3": "Coricancha",
+            "alt4": "Aguas Calientes",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Cusco - Ollantaytambo - Aguas Calientes - Machupicchu",
+        "descripcion": "<strong>In our tour package</strong>, you will have the opportunity to explore the city of <strong>Cusco</strong>, its impressive Inca fortresses such as <strong>Saqsayhuaman</strong>, <strong>Qoricancha</strong>, and others. The <strong>VIP valley</strong> tour will allow you to observe the process of making <strong>textiles</strong> in the town of <strong>Chinchero</strong>. You will also enjoy <strong>hot springs</strong> as there is an overnight stay in <strong>Aguas Calientes</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR CUSCO",
+                "descripcion": "On this City Tour in Cusco, we will explore major archaeological attractions such as Coricancha, Sacsayhuamán, Qenqo, Puca Pucara, and Tambomachay, with the option to take the tour in the morning or afternoon depending on your arrival. The tour concludes with a return to Cusco for the night at your hotel."
+            },
+            "dia2": {
+                "titulo": "SACRED VALLEY",
+                "descripcion": "After breakfast at the hotel, we will embark on a comprehensive tour of the Sacred Valley of the Incas with a professional guide. We will visit archaeological sites like Chinchero, Moray, the Maras Salt Mines, and Pisaq, as well as explore the textile tradition in Ollantaytambo. We will enjoy a buffet lunch in Urubamba and, at the end of the day, take the train to Aguas Calientes, where we will be met by our guide and transferred to our hotel for rest."
+            },
+            "dia3": {
+                "titulo": "MACHUPICCHU",
+                "descripcion": "After breakfast at the hotel, we will begin our visit to Machupicchu, where an expert guide will take us on a 2.5-hour tour of the Inca citadel and its temples. After the tour, we will return to Aguas Calientes for lunch, then take the train to Ollantaytambo, followed by a final transfer to Cusco, where we will spend the night at the hotel."
+            },
+            "dia4": {
+                "titulo": "RETURN",
+                "descripcion": "After breakfast at the hotel, we will arrange for the transfer of our clients, thanking them for trusting us and allowing us to show them the main tourist attractions of the region. The transfer will be made 2 hours before the flight."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "FIRST DAY ARRIVAL IN CUSCO - CITY TOUR (MORNING or AFTERNOON)",
+                "descripcion": [
+                    "Boarding area at Jorge Chavez Airport.",
+                    "Flight departure from origin city to CUSCO.",
+                    "Pick up from Airport to hotel.",
+                    "Pick up from the land terminal - Hotel.",
+                    "Arrival in the city of Cusco (Alejandro Velasco Astete Airport).",
+                    "<strong>START OF OUR SERVICES: Welcome to Cusco.</strong>",
+                    "Coca tea tasting at the Hotel.",
+                    "Check-in at the hotel. Check-in at 11:00 AM, check-out at 9:00 AM.",
+                    "Detailed explanation of the itinerary.",
+                    "<strong>FIRST DAY CITY TOUR (MORNING or AFTERNOON).</strong>",
+                    "Pick up from your hotel for the morning city tour.",
+                    "Pick up from the hotel for the afternoon tour.",
+                    "Guided visit to the Sacsayhuamán fortress.",
+                    "Visit to the Qenqo ceremonial center.",
+                    "Visit to the Puka Pukara fortress.",
+                    "Visit to the Tambomachay aqueducts.",
+                    "Return by bus to Cusco.",
+                    "Arrival in Cusco (near the main square).",
+                    "Overnight stay at your hotel in Cusco according to your request or hotel category."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VIP VALLEY - MARAS - MORAY, SALINERAS",
+                "descripcion": [
+                    "Breakfast at the hotel in Cusco (6:00 to 6:30 AM).",
+                    "Pick up from your hotel for the VIP Valley tour to Chinchero (6:30 to 6:40 AM).",
+                    "Visit to the Chinchero archaeological complex.",
+                    "Visit to the Chinchero textile center where the making of alpaca textiles or garments will be explained.",
+                    "Visit to the Moray archaeological site.",
+                    "Visit to the agricultural area of Moray.",
+                    "Visit to the Maras Salt Mines.",
+                    "Buffet lunch in the Sacred Valley of Urubamba.",
+                    "Visit to the Ollantaytambo archaeological complex.",
+                    "The tour ends in Ollantaytambo. Depending on the train departure time for Machupicchu, you will need to go to the station on your own.",
+                    "Boarding pass depending on the train schedule, always 30 minutes before. Travel time by train is 1 hour 40 minutes.",
+                    "Overnight in Ollantaytambo if requested by the passenger.",
+                    "Overnight in Aguas Calientes, which is usually the best option."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "MACHUPICCHU",
+                "descripcion": [
+                    "Breakfast at the hotel in Aguas Calientes (6:00 to 8:00 AM).",
+                    "Meeting point at the Plaza de Armas in Aguas Calientes or the Consetur bus station, depending on the entry time.",
+                    "Board the Consetur bus from Aguas Calientes to Machupicchu, with an average travel time of 40 minutes.",
+                    "Guided visit to the Machupicchu archaeological site (approximately 2 hours), or another circuit depending on the passenger's choice. The schedule is strict, entry is only allowed 30 minutes later.",
+                    "Free time for photos at Machupicchu.",
+                    "Board the Consetur bus back to Aguas Calientes according to the schedule.",
+                    "Free time for lunch at your own expense in Aguas Calientes or to visit the hot springs (optional).",
+                    "Waiting area at Aguas Calientes station.",
+                    "Boarding pass.",
+                    "Departure from Aguas Calientes to Ollantaytambo.",
+                    "Reception at Ollantaytambo (transfer).",
+                    "Return from Ollantaytambo to Cusco in our transport (near the main square).",
+                    "Overnight stay at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "HOTEL TRANSFERS - AIRPORT",
+                "descripcion": [
+                    "Breakfast at the hotel from 6:30 to 9:00 AM.",
+                    "Meet with the agency staff for the farewell.",
+                    "If your flight departs late, you can buy souvenirs or book a half-day tour.",
+                    "Pick up from the hotel to the airport: for domestic flights, 2 hours before; for international flights, 3 hours before. The trip can be to the airport or bus terminal.",
+                    "<strong>If the flight is late, you have the option to take a daily exit tour:</strong>",
+                    "- Rainbow Mountain.",
+                    "- Humantay Lagoon.",
+                    "- Waqrapukara.",
+                    "- Quad biking at the Morada de los Dioses.",
+                    "- Others."
+                ]
+            }
+        ],
+        "incluye": [
+            "In case the passenger is requesting flights with us, we offer the following airlines: Sky, Latam, and Jet Smart (OPTIONAL), aimed at national or international tourists with international or internal flights within Peru.",
+            "If booked with us, the airline check-in will be provided one day in advance.",
+            "Transfer - Airport or Terminal - Hotel - Airport or land terminal.",
+            "Entry to the BTG archaeological complexes.",
+            "Buffet lunch on the Sacred Valley VIP tour.",
+            "3 breakfasts included in the service.",
+            "Guide in all tours (Spanish/English).",
+            "Round-trip train (tourist train), depending on the requested category.",
+            "Consettur bus Aguas Calientes-Machupicchu-Aguas Calientes.",
+            "Entrance ticket to Machupicchu (Circuit 2 based on availability).",
+            "3 hotel nights (in Cusco, depending on the requested category). If using a tourist train, the passenger may stay 1 night in Aguas Calientes or Ollantaytambo.",
+            "Transport from Ollantaytambo to Cusco.",
+            "Entry to the Maras Salt Mines.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Lunch on the City Tour (half-day) tour.",
+            "Lunch or breakfast on the Machupicchu tour.",
+            "Dinner is not included in any tour.",
+            "Extra expenses outside the service.",
+            "Entry to Coricancha (20.00 soles, optional).",
+            "Entry to the hot springs in Aguas Calientes (OPTIONAL).",
+            "Flights (optional).",
+            "Travel insurance (optional)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher-category hotels (prior quotation).",
+            "Other train categories (prior quotation)."
+        ],
+        "queLlevar": [
+            "Carry an identity document (valid ID/PASSPORT).",
+            "Bring a rain poncho (depending on the season).",
+            "Sunscreen.",
+            "Hat/cap for the heat.",
+            "Bring a change of clothes suitable for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entrance ticket once purchased with a person's corresponding information.",
+            "The service is subject to variation without prior notice due to weather conditions (rain, landslides, overflows, etc.), strikes, protests, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the optimal development of the service as a whole. This may include changes related to Machupicchu entry.",
+            "If you wish to leave before the service concludes, there will also be no refund.",
+            "Payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as this coincides with the itinerary for ticket delivery.",
+            "If the passenger wishes to pay by credit card, a 6% commission fee will be charged for the purchase.",
+            "For the 50% deposit, a receipt or invoice for the reservation will be issued. The remaining balance must be paid with an 18% VAT if a receipt or invoice is requested."
+        ]
+    },
+    "CuscoIncaico": {
+        "seo": {
+            "title": "INCA CUSCO - 7 Days / 6 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience a 7-day, 6-night adventure in Cusco. Explore the city, Sacred Valley, Machupicchu, and more with expert guides and comfortable accommodation.",
+            "keywords": [
+                "Inca Cusco",
+                "Machu Picchu tour",
+                "Sacred Valley",
+                "Rainbow Mountain",
+                "Humantay Lake",
+                "expert guides"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/inca-cusco",
+            "open_graph": {
+                "title": "Inca Cusco - 7 Days / 6 Nights to Machu Picchu",
+                "description": "Discover Cusco on a 7-day, 6-night tour. Explore Machupicchu, the Sacred Valley, Rainbow Mountain, and more. Book your spot today!",
+                "url": "http://www.machupicchubyworld.com/inca-cusco",
+                "type": "website"
+            }
+        },
+        "title": "INCA CUSCO",
+        "day": "7 Days / 6 Nights",
+        "puntosClave": [
+            "Explore the City Tour in Cusco, travel through the Sacred Valley, and discover Machupicchu",
+            "Includes transportation, comfortable accommodation, and delicious lunches",
+            "Expert guides will reveal the secrets of the archaeological sites",
+            "Travel by train to Machupicchu and use Consettur buses to reach the citadel",
+            "Enjoy three nights in Cusco with the option to stay in Aguas Calientes or Ollantaytambo"
+        ],
+        "details": {
+            "duracion": "7 Days / 6 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "City of Cusco",
+            "alt2": "Moray",
+            "alt3": "Salt Mines of Maras",
+            "alt4": "Rainbow Mountain",
+            "alt5": "Tipón Archaeological Site",
+            "alt6": "Humantay Lake",
+            "alt7": "Machupicchu"
+        },
+        "lugares": "Cusco - Sacred Valley - Machupicchu - Rainbow Mountain - Southern Valley - Humantay Lake",
+        "descripcion": "Live the 7-day <strong>Cusco Incaico</strong> tour, an unforgettable adventure in <strong>Peru</strong> starting with pickup at <strong>Aeropuerto Alejandro Velasco Astete</strong>. Explore the rich Inca culture with a <strong>City Tour</strong> in <strong>Cusco</strong>, the <strong>Sacred Valley</strong>, <strong>Machupicchu</strong> (including <strong>train</strong> and <strong>bus</strong>), <strong>Rainbow Mountain</strong>, <strong>Humantay Lagoon</strong>, and the <strong>Southern Valley</strong>. The package includes <strong>expert guides</strong>, <strong>transportation</strong>, <strong>lunches</strong>, and four <strong>breakfasts</strong>, with <strong>accommodation</strong> in <strong>Cusco</strong> and <strong>Aguas Calientes</strong>. Embark on this unique experience and create invaluable memories in the land of the <strong>Incans</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "CITY TOUR CUSCO",
+                "descripcion": "On day 1, the tour begins with arrival in Cusco, followed by hotel transfer and a welcome with coca tea. The first day includes a City Tour in two shifts, visiting Sacsayhuamán, Qenqo, Puka Pukara, and Tambomachay, with return to Cusco to overnight at the hotel."
+            },
+            "dia2": {
+                "titulo": "SACRED VALLEY",
+                "descripcion": "Day 2 begins with breakfast in Cusco, followed by visits to Chinchero, Moray, and the salt mines of Maras. Then, enjoy lunch in Urubamba and visit Ollantaytambo. The tour ends with a train ride to Machupicchu village, with the option to overnight in Ollantaytambo or Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "Machupicchu",
+                "descripcion": "On day 3, breakfast in Aguas Calientes is followed by transfer to the meeting point to board the bus to Machupicchu. After a 40-minute ride, there is a guided tour of the Llaqta of Machupicchu (approximately 2 hours), with free time for photos. Then, return to Aguas Calientes by bus, with free time to have lunch or visit the Hot Springs. Afterward, transfer to the station, boarding pass is given, and return to Ollantaytambo and then Cusco, where overnight accommodation is provided."
+            },
+            "dia4": {
+                "titulo": "RAINBOW MOUNTAIN",
+                "descripcion": "On day 4, begin with hotel pickup in Cusco and a trip to the village of Cusi Pata, where breakfast is served. Then, continue to the Chilluhuani community, starting the hike to Rainbow Mountain (Vinicunca), with panoramic views of the region. After the visit, return to Cusi Pata for lunch and head back to Cusco, arriving in the afternoon for an overnight stay."
+            },
+            "dia5": {
+                "titulo": "SOUTHERN VALLEY",
+                "descripcion": "On day 5, breakfast in Cusco begins the Southern Valley tour, visiting the archaeological site of Tipón and its aqueduct, followed by a visit to Pikillaqta and the Andahuaylillas temple, known as the Sistine Chapel of America. An optional visit to the Huasao wetland and the chance to taste guinea pig is available. In the afternoon, return to Cusco, arriving near the main square and overnighting at the selected hotel."
+            },
+            "dia6": {
+                "titulo": "HUMANTAY LAKE",
+                "descripcion": "Day 6 begins with hotel pickup in Cusco and a trip to Mollepata, where breakfast is enjoyed. Then, head to the community and begin the hike to Humantay Lake, with spectacular views of the region. After the visit to the lagoon, return to Mollepata for lunch and then head back to Cusco, arriving in the afternoon for an overnight stay."
+            },
+            "dia7": {
+                "titulo": "RETURN",
+                "descripcion": "Day 7 starts with breakfast and a meeting with the staff for the farewell. If the flight is late, you can shop or take an optional tour. Transfer to the airport or bus station is made 2 hours before domestic flights and 3 hours before international flights. Half-day tours like visiting the Home of the Gods or quad bike in Maras-Moray are also offered."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "ARRIVAL IN CUSCO - FIRST DAY CITY TOUR - SHIFT (MORNING OR AFTERNOON)",
+                "descripcion": [
+                    "<strong>START</strong>",
+                    "A.M or P.M Boarding area at Jorge Chavez Airport or others",
+                    "A.M or P.M Flight or bus departure to Cusco",
+                    "A.M or P.M Arrival in Cusco",
+                    "A.M or P.M Pickup from the Airport to the hotel",
+                    "A.M or P.M Pickup from the bus terminal to the hotel (Alejandro Velasco Astete Airport)",
+                    "<strong>START OF OUR SERVICES:</strong>",
+                    "<strong>Welcome to Cusco</strong>",
+                    "Coca tea tasting at the hotel",
+                    "Check-in 11:00 check-out 09:00 A.M.",
+                    "Detailed explanation of the itinerary",
+                    "<strong>FIRST DAY CITY TOUR - SHIFT (MORNING - AFTERNOON)</strong>",
+                    "09:40 to 10:10 A.M. Pickup from your hotel for the morning city tour",
+                    "13:50 to 14:10 P.M Pickup from the hotel for the afternoon tour",
+                    "A.M or P.M Guided tour of the Sacsayhuamán fortress",
+                    "A.M or P.M Visit the Qenqo ceremonial center",
+                    "A.M or P.M Visit the Puka Pukara fortress",
+                    "A.M or P.M Visit the Tambomachay aqueducts",
+                    "13:30 - 14:00 or 18:00 P.M Return to Cusco by bus",
+                    "14:30 or 18:30 P.M Arrival in Cusco (near the main square)",
+                    "Overnight at your hotel in Cusco as per your request or hotel category"
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VIP VALLEY - MARAS, MORAY, SALT MINES",
+                "descripcion": [
+                    "6:00 to 6:40 A.M Breakfast at the corresponding hotel in Cusco",
+                    "6:30 - 7:00 A.M Pickup from your hotel for the VIP valley tour to Chinchero",
+                    "A.M Visit the archaeological site of Chinchero",
+                    "A.M Visit the Chinchero Textile Center where they will show how alpaca textiles are made",
+                    "After this visit, head to the Moray archaeological site",
+                    "A.M Visit the agricultural site of Moray",
+                    "A.M Visit the Maras Salt Mines",
+                    "P.M Buffet lunch in the Sacred Valley of 'Urubamba'",
+                    "P.M Visit the Ollantaytambo archaeological complex",
+                    "P.M The tour ends in Ollantaytambo depending on the train departure to Machupicchu village",
+                    "Head to the station on your own",
+                    "P.M Boarding pass depending on train schedule, always 30 minutes before",
+                    "Train travel time is 1 hour 40 minutes",
+                    "P.M Overnight in Ollantaytambo if requested",
+                    "P.M Overnight in Aguas Calientes, this is usually the best option"
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "MACHUPICCHU",
+                "descripcion": [
+                    "6:00 to 8:00 A.M. Breakfast at the hotel in Aguas Calientes.",
+                    "A.M. Meeting point at the Aguas Calientes main square or the Consetur Bus Station, depending on the arrival time.",
+                    "A.M. Board the Consetur bus from Aguas Calientes to Machupicchu Llaqta, with an average travel time of 40 minutes.",
+                    "A.M. Guided tour of the Machupicchu Llaqta (approx. 2 hours), or another circuit depending on the passenger's choice. The schedule is respected, and early entry is not allowed, only the option to enter 30 minutes later.",
+                    "A.M. Free time to take photos at Machupicchu.",
+                    "A.M. or P.M. Board the Consetur bus according to the time the Llaqta visit ends, heading back to Aguas Calientes.",
+                    "P.M. Free time to have lunch on your own in Aguas Calientes or visit the Thermal Baths (Optional).",
+                    "P.M. Waiting room at the Aguas Calientes station.",
+                    "P.M. Boarding pass.",
+                    "P.M. Departure from Aguas Calientes to Ollantaytambo.",
+                    "P.M. Reception at Ollantaytambo (transfer).",
+                    "P.M. Return from Ollantaytambo to Cusco by our transportation (near the main square).",
+                    "Overnight at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "RAINBOW MOUNTAIN",
+                "descripcion": [
+                    "4:20 to 4:40 A.M. Pick up from the respective hotel in the city of Cusco by our guide or driver.",
+                    "A.M. Travel for an average of 2 hours and 40 minutes to the town of Cusi Pata.",
+                    "A.M. Breakfast in the town of Cusi Pata.",
+                    "A.M. Travel for an average of 1 hour and 40 to 45 minutes towards the community of Chilluhuani.",
+                    "9:00 A.M. Begin the walk to Rainbow Mountain (approx. 1.5 hours), along this hike we will appreciate a beautiful landscape surrounded by mountains and wildlife of the southern Cusco region.",
+                    "A.M. Visit to Rainbow Mountain, also known as 'Vinicunca'.",
+                    "P.M. After the visit to Rainbow Mountain at 5036 M.S.L., in front of the snow-capped Ausangate, we walk back to the drop-off point to board the transportation and travel from Chilluhuani to Cusi Pata, with an average travel time of 1 hour and 20 minutes.",
+                    "P.M. Lunch in the community of Cusi Pata, tasting Andean products from the Cusco region (vegetarian option available upon request).",
+                    "P.M. Travel from Cusi Pata to Cusco, with an average travel time of 2 hours and 20 minutes.",
+                    "4:30 to 5:30 P.M. Arrival in the city of Cusco (near the main square), and then head to your hotel on your own.",
+                    "Overnight at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "SOUTH VALLEY",
+                "descripcion": [
+                    "06:30 to 9:00 A.M. Breakfast at the respective hotel in the city of Cusco with Andean products from the region.",
+                    "8:30 to 9:00 A.M. Pick up from the respective hotel for the South Valley tour.",
+                    "A.M. Travel by transportation for an average of 1 hour and 40 minutes to the Tipón archaeological site, followed by a visit to the Tipón Aqueduct.",
+                    "A.M. Guided tour of the Tipón Aqueduct, which in Inca times was used for irrigation of all the crops grown there.",
+                    "After visiting Tipón, we will visit one of the most important archaeological centers of Pikillaqta, part of the Wari culture. Continuing the journey, we will head to the Andahuaylillas temple.",
+                    "A.M. Visit to the Sistine Chapel of America, one of the most important in Latin America, located in the Cusco region.",
+                    "P.M. Optional visit to the Huasao wetland, after which our guide will give the necessary instructions for tasting cuy (optional, at the passenger's expense).",
+                    "P.M. Return to the city of Cusco, with an average travel time of 40 minutes.",
+                    "P.M. Arrival in the city of Cusco, near the main square, then head to your respective hotel.",
+                    "Overnight in the city of Cusco, depending on the category the customer requests."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "HUMANTAY LAKE",
+                "descripcion": [
+                    "4:20 to 4:40 A.M. Pick up from the respective hotel in the city of Cusco by our guide or driver.",
+                    "A.M. Travel for an average of 2 hours and 40 minutes to the town of Mollepata.",
+                    "A.M. Breakfast in the town of Mollepata.",
+                    "A.M. Travel for an average of 1 hour and 40 to 45 minutes to the community.",
+                    "9:00 A.M. Begin the walk to Humantay Lake (approx. 1.5 hours). Along this hike, we will appreciate a beautiful landscape surrounded by mountains and wildlife from the northern region of Cusco.",
+                    "A.M. Visit to Humantay Lake, located at the edge of the Salkantay snow-capped peak.",
+                    "P.M. After visiting Humantay Lake at 4800 meters above sea level, we walk back to the drop-off point to board the transport and travel from Mollepata to Cusco, with an average travel time of 3 hours.",
+                    "P.M. Lunch at the typical restaurant in Mollepata, tasting Andean products from the region (vegetarian option available upon request).",
+                    "P.M. Travel from Mollepata to Cusco, with an average travel time of 2 hours and 30 minutes.",
+                    "5:30 to 6:00 P.M. Arrival in the city of Cusco (near the main square).",
+                    "Overnight at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "HOTEL- AIRPORT TRANSFERS",
+                "descripcion": [
+                    "Breakfast at the hotel from 6:30 to 9:00 AM.",
+                    "Meet with the agency staff for the farewell.",
+                    "If your flight is late, you can shop for handicrafts or also book half-day tours.",
+                    "Hotel pick-up to the airport: for domestic flights, the pick-up will be 2 hours before. For international flights, it will be 3 hours before the flight. The transfer can be to the airport or bus terminal.",
+                    "<strong>If the flight is late, you have the option to take a daily departure tour:</strong>",
+                    " - Morada de Dioses.",
+                    " - Quad bikes in Maras - Moray.",
+                    " - Waqrapukara.",
+                    " - Quad bikes in Morada de los Dioses.",
+                    " - Others."
+                ]
+            }
+        ],
+        "incluye": [
+            "If the passenger is requesting flights with us, we work with the airlines: Sky, Latam, and Jet Smart (OPTIONAL), aimed at national or international tourists with flights within Peru. If booked with us, the airline check-in will be provided one day before.",
+            "Transfer - Airport or Terminal - Hotel - Airport or bus terminal.",
+            "Admission to the BTG Archaeological Complexes.",
+            "Buffet lunch on the Sacred Valley VIP tour.",
+            "6 breakfasts included in the service.",
+            "Guide in all tours (Spanish/English).",
+            "Round-trip train (tourist train), depending on the requested category.",
+            "Concetur bus Aguas Calientes - Machupicchu - Aguas Calientes.",
+            "Entrance ticket to Machupicchu (Circuit 2 subject to availability).",
+            "6 nights of hotel (in Cusco, depending on the requested category). If booked with a tourist train, the passenger may stay one night in Aguas Calientes or Ollantaytambo.",
+            "Transport from Ollantaytambo to Cusco.",
+            "Breakfast and lunch on the Rainbow Mountain tour.",
+            "Breakfast and lunch on the Humantay Lake tour.",
+            "Entrance fees to Rainbow Mountain and Humantay Lake.",
+            "Support poles for Rainbow Mountain and Humantay Lake.",
+            "Entrance to the Maras Salt Mines.",
+            "Emergency oxygen on the Mountain and Lake.",
+            "Admission to the Andahuaylillas Temple.",
+            "Admission to the Huasao Wetland.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Lunch on the City Tour (half-day).",
+            "Lunch or breakfast on the Machupicchu tour.",
+            "Dinner is not included in any tour.",
+            "Lunch on the Sacred Valley tour.",
+            "Extra expenses not covered by the service.",
+            "Lunches and breakfasts not mentioned in the program.",
+            "Admission to Qoricancha (20.00, optional).",
+            "Admission to the hot springs in Aguas Calientes (OPTIONAL).",
+            "Flights (Optional)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (upon request).",
+            "Other categories of train (upon request)."
+        ],
+        "queLlevar": [
+            "Carry identification document (valid DNI/PASSPORT).",
+            "Bring a rain poncho (depending on the season).",
+            "Sunscreen.",
+            "Hat/Cap for the heat.",
+            "Bring a change of clothes suitable for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions offered by this operator have low risk and difficulty levels, providing the necessary safety.",
+            "There is no name change or refund for the Machupicchu entry ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may change at the operator's discretion, always to ensure the safety of the traveler and the best development of the service as a whole. This may be due to Machupicchu entrance conditions.",
+            "If you wish to leave before the service ends, no refund will be provided.",
+            "The payment for the tour package will be made in full in Cusco on the first day of arrival, as the itinerary is being followed for the delivery of tickets.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "A ticket or invoice will be issued for the 50% deposit of the reservation. The remaining balance must be paid with the 18% VAT if a receipt or invoice is requested."
+        ]
+    },
+    "CuscoIncaicoPuno": {
+        "seo": {
+            "title": "INCA CUSCO AND PUNO - 7 Days / 6 Nights | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover a 7-day, 6-night adventure in Cusco and Puno. Explore Inca culture, Machupicchu, and more with expert guides and comfortable accommodation.",
+            "keywords": [
+                "Cusco Incaico Puno",
+                "Machu Picchu tour",
+                "Sacred Valley",
+                "Rainbow Mountain",
+                "Humantay Lake",
+                "expert guides"
+            ],
+            "canonical_url": "http://www.machupicchubyworld.com/cusco-incaico-puno",
+            "open_graph": {
+                "title": "Inca Cusco and Puno - 7 Days / 6 Nights",
+                "description": "Experience a unique journey in Cusco and Puno. Explore Machupicchu, the Sacred Valley, and more. Book your tour today!",
+                "url": "http://www.machupicchubyworld.com/cusco-incaico-puno",
+                "type": "website"
+            }
+        },
+        "title": "INCA CUSCO AND PUNO",
+        "day": "7 Days / 6 Nights",
+        "puntosClave": [
+            "Tour of Cusco, Sacred Valley, Machupicchu, and Puno",
+            "Guided visit to archaeological and cultural wonders",
+            "Tourist transportation with comfort and safety",
+            "Accommodation in selected hotels with breakfast included",
+            "Connection with local communities in the Peruvian Andes",
+            "Sailing on Lake Titicaca and visiting the Uros and Taquile islands",
+            "Includes transfers, entrance tickets, and personalized assistance"
+        ],
+        "details": {
+            "duracion": "7 Days / 6 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "City of Cusco",
+            "alt2": "Rainbow Mountain",
+            "alt3": "Puno",
+            "alt4": "Sillustani",
+            "alt5": "Uros Islands",
+            "alt6": "Tambomachay",
+            "alt7": "Saqsaywaman",
+            "alt8": "Machupicchu"
+        },
+        "lugares": "Cusco - Rainbow Mountain - Puno - Sacred Valley - Machupicchu",
+        "descripcion": "Embark on a <strong>7-day, 6-night</strong> adventure through Peru, exploring its rich <strong>culture</strong> and <strong>nature</strong>. Begin with a <strong>City Tour in Cusco</strong>, visiting places like <strong>Coricancha</strong> and <strong>Sacsayhuamán</strong>, then enjoy the stunning <strong>Rainbow Mountain</strong>. Travel to <strong>Puno</strong> to discover the <strong>Uros Islands</strong>, <strong>Amantaní</strong>, and <strong>Taquile</strong> on <strong>Lake Titicaca</strong>. The experience culminates with a visit to <strong>Machupicchu</strong>, one of the <strong>wonders of the world</strong>. A tour that combines <strong>history</strong>, <strong>culture</strong>, and <strong>breathtaking landscapes</strong>.",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Morning or Afternoon'",
+                "descripcion": "This tour, available in the morning or afternoon, visits the main archaeological sites around Cusco with a professional guide. The itinerary includes Coricancha (Temple of the Sun), Sacsayhuamán, famous for Inti Raymi, Qenqo (Temple of Q’usilluchayoq), Puca Pucara, and Tambomachay, known for their Inca history and architecture. The tour ends at Cusco's main square, with an overnight stay at the hotel."
+            },
+            "dia2": {
+                "titulo": "Rainbow Mountain Tour",
+                "descripcion": "The tour starts with transportation from Cusco to Cusi Pata, where breakfast is served. Then, participants hike to Rainbow Mountain, with an option to ride horses. After the visit, lunch is provided in Cusi Pata before returning to Cusco for an overnight stay."
+            },
+            "dia3": {
+                "titulo": "Puno Tour - Uros Islands - Amantaní",
+                "descripcion": "Upon arrival in Puno, a transfer takes the group to the port to visit the floating Uros Islands, where participants learn about local life, houses, and crafts. The tour continues to Amantaní, where a local lunch is enjoyed, followed by a hike to the island’s summit to watch the sunset over Lake Titicaca. Overnight accommodation is provided in a local family home."
+            },
+            "dia4": {
+                "titulo": "Amantaní - Taquile - Puno - Cusco Tour",
+                "descripcion": "Participants have breakfast in Amantaní and then travel to Taquile to explore the island, its culture, and non-touristic areas while learning about ancestral traditions. Afterward, the group returns to Puno, where they can have lunch and visit the main square before boarding the bus to Cusco, arriving at the hotel around 5 A.M."
+            },
+            "dia5": {
+                "titulo": "Sacred Valley of the Incas",
+                "descripcion": "The Sacred Valley tour starts at 8:00 A.M., visiting the Valley Viewpoint, Pisaq, enjoying lunch in Urubamba, and exploring Ollantaytambo. Later, participants take the train to Aguas Calientes, where they stay overnight and receive an explanation of the next day’s itinerary."
+            },
+            "dia6": {
+                "titulo": "Visit to the Inca City of Machupicchu 'World Wonder'",
+                "descripcion": "Breakfast at the hotel is followed by a walk to Aguas Calientes Square to board the bus to Machupicchu. During the 2.5-hour visit, the guide explains the history of the citadel, with exploration of temples and Huayna Picchu. Afterward, participants return to Aguas Calientes for lunch, board the train to Ollantaytambo, and continue by transfer to Cusco for an overnight stay at the hotel."
+            },
+            "dia7": {
+                "titulo": "Transfer from Hotel to Cusco Airport",
+                "descripcion": "After breakfast at the hotel, clients are transferred to the airport, thanking them for trusting us and enjoying the region's main attractions. The transfer is scheduled 2 hours before the flight."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "WELCOME TO CUSCO - City Tour Cusco 'Morning or Afternoon'",
+                "descripcion": [
+                    "This tour allows you to visit the main archaeological centers around Cusco, on a journey that can be done in the morning or afternoon, depending on your arrival time.",
+                    "The tour can be carried out in a group or private manner, accompanied by a professional guide.",
+                    "We will visit the Temple of the Sun or Coricancha.",
+                    "We will head to the archaeological complex of Sacsayhuamán, famous for the Inti Raymi, celebrated on June 24th.",
+                    "We will explore Qenqo, with its carvings of animals like snakes and monkeys.",
+                    "We will see the fortress of Puca Pucara and its large walls.",
+                    "We will visit Tambomachay, known for its water fountains.",
+                    "The tour ends in Cusco's Main Square.",
+                    "Overnight stay at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Rainbow Mountain Tour",
+                "descripcion": [
+                    "4:30 to 5:00 A.M.: Hotel pickup by transfer.",
+                    "Transfer from Cusco to the village of Cusi Pata, where breakfast is offered.",
+                    "Transfer to the Community of Phulawasipata: Arrival at the bus station point.",
+                    "Hike: Approximately 1 hour and 30 minutes, enjoying the flora and fauna. There is an option to ride a horse in case of difficulty (additional cost).",
+                    "Arrival at Rainbow Mountain: The guide provides an explanation about the area.",
+                    "Return: Hike back to the bus station and transfer to Cusi Pata for a lunch with typical dishes prepared by the cooks.",
+                    "Return to Cusco: Trip of approximately 2 hours, ending near Cusco's Main Square.",
+                    "Overnight stay at the respective hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Puno Tour - Uros Island - Amantaní",
+                "descripcion": [
+                    "Upon arrival at Puno's bus terminal, a transfer will be waiting to pick up participants.",
+                    "Breakfast on your own before heading to Puno's port to board a boat towards the floating islands of Uros, built with totora reeds.",
+                    "Visit to the main island and tour of 2 to 3 islands for about 40 minutes with the guide's explanations about local life.",
+                    "You will see houses, crafts, and traditional trout-based dishes. Free time for photos and to purchase souvenirs, including the famous Mercedes Benz boats.",
+                    "Transfer to Amantani Island, where locals will offer a lunch made with local products.",
+                    "Optional hike to the top of Amantani, at 4,130 meters altitude, to enjoy a magnificent sunset over Lake Titicaca.",
+                    "Return to lodging in a local family's house."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Amantaní Tour - Taquile - Puno - Cusco",
+                "descripcion": [
+                    "6:30 to 7:00 A.M.: Breakfast prepared by the host family in Amantani.",
+                    "Farewell to the family and departure to Taquile Island, used as a prison during colonial times.",
+                    "Free time to explore Taquile, learn about its culture, textiles, and traditions.",
+                    "Visit to non-touristy areas like temples, tombs, and pre-Inca terraces, with the guide explaining ancestral practices.",
+                    "Descent to the port and embark towards Puno.",
+                    "Lunch on your own and tour around Puno's Main Square.",
+                    "Transfer to the bus terminal for the journey to Cusco, lasting approximately 8 hours.",
+                    "Arrival in Cusco around 5 A.M. and transfer to the hotel."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Sacred Valley of the Incas",
+                "descripcion": [
+                    "At 8:00 A.M., after breakfast at the hotel, the tour of the Sacred Valley of the Incas begins, accompanied by professional guides.",
+                    "The first stop will be at the Sacred Valley Viewpoint to enjoy panoramic views.",
+                    "Then, we will visit the Archaeological Center of Pisaq, famous for its Intihuatana (sundial) and agricultural terraces.",
+                    "Next, we will stop for a buffet lunch in Urubamba, lasting between 40 and 50 minutes.",
+                    "Afterward, we will visit Ollantaytambo, an important archaeological center with agricultural zones, food storage (colcas), and a textile center, where we will also explore local customs.",
+                    "At the end of the tour, you will head to Ollantaytambo train station to travel to Aguas Calientes.",
+                    "A guide will welcome you in Aguas Calientes and escort you to the hotel, where the next day's itinerary will be explained.",
+                    "Overnight stay in Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "Visit to the Inca City of Machupicchu 'World Wonder'",
+                "descripcion": [
+                    "6:30 to 8:30 A.M.: Breakfast at the hotel.",
+                    "Walk to Aguas Calientes Square to meet the guide.",
+                    "Bus ride to the historic sanctuary of Machupicchu (40 minutes), enjoying the flora, fauna, and the Vilcanota River.",
+                    "Arrival at Machupicchu: Ticket presentation at the control point.",
+                    "Guided tour: Lasting 2 hours and 30 minutes, the guide explains the history of Machupicchu and answers questions while visiting temples like the Temple of the Sun and the Temple of the Moon, with views of Huayna Picchu Mountain.",
+                    "Return to Aguas Calientes: After the visit, take the bus back and enjoy free time for lunch in the village.",
+                    "Afternoon: Head to the train station, pass through ticket control, and travel from Aguas Calientes to Ollantaytambo.",
+                    "Transfer to Cusco: A transfer will welcome you at Ollantaytambo station and take you by bus or sprinter to Cusco, near the Main Square.",
+                    "Overnight stay at the hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "7",
+                "titulo": "Transfer from Hotel to Cusco Airport",
+                "descripcion": [
+                    "After breakfast at your hotel, our company fulfills one last activity by saying goodbye to our clients, thanking them for trusting us and providing our services, showcasing the main tourist attractions in the region. The corresponding transfer will take place 2 hours before the flight."
+                ]
+            }
+        ],
+        "incluye": [
+            "Pickup from the airport and transfer to Alejandro Velasco Astete Airport.",
+            "City Tour.",
+            "Sacred Valley of the Incas Tour.",
+            "Machupicchu tour by tourist train.",
+            "Rainbow Mountain Tour.",
+            "Humantay Lake Tour.",
+            "South Valley Tour.",
+            "Entrance ticket to Machupicchu (Circuit 2 subject to availability).",
+            "Expedition or The Voyager train tickets, depending on the category purchased by our client.",
+            "Bus tickets for the round trip to the Historic Sanctuary of Machupicchu (Aguas Calientes - Machupicchu - Aguas Calientes town).",
+            "BTG (Entrance to archaeological complexes) and entry to Coricancha.",
+            "Transportation for each mentioned tour.",
+            "Professional guide in Spanish and English.",
+            "Lunch included in Sacred Valley, Mountain, and Lagoon tours.",
+            "4 breakfasts at the hotel.",
+            "2 hotel nights in Cusco.",
+            "140° reclining bus CUSCO - PUNO - CUSCO.",
+            "1 lunch, dinner, and breakfast in Amantani.",
+            "1 night in Amantani.",
+            "1 night at a hotel in Aguas Calientes or Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Breakfast, lunch, or dinner not mentioned in the program.",
+            "Tips.",
+            "Additional drinks.",
+            "Entrance tickets not mentioned in the description.",
+            "Extra expenses outside the service.",
+            "Reed boat ride (30.00 PEN).",
+            "Lunch in Taquile (40.00 PEN).",
+            "Terminal usage fee in Cusco and Puno.",
+            "Breakfast upon arrival in Puno."
+        ],
+        "extras": [
+            "Professional Guides: Enjoy tours with guides specialized in Inca history and culture.",
+            "Included Lunches: Savor local cuisine with buffet lunches at selected locations.",
+            "Comfortable Transport: Travel in comfortable and safe vehicles throughout the tour.",
+            "Horseback Options: Access the option of horseback riding for challenging walks, for added comfort.",
+            "Personalized Assistance: Personalized service from your arrival at the airport to the end of the tour."
+        ],
+        "queLlevar": [
+            "Specialized Guides: Our guides are experts in Inca history and Andean biology, providing valuable and contextualized information on each tour.",
+            "Private Transport: We provide comfortable and safe vehicles, offering direct transfers to all tourist destinations.",
+            "Included Meals: Enjoy a buffet lunch in the Sacred Valley, as well as hotel breakfasts to start the day with energy.",
+            "Accommodation Options: Choose from various hotels of different categories based on your budget and preferences.",
+            "Personalized Service: We offer flexible itineraries and 24/7 customer support to address any questions or needs during your trip."
+        ],
+        "importante": [
+            "The tours and excursions offered by this operator have low risk and difficulty levels, providing the necessary safety.",
+            "There is no name change or refund for the Machupicchu entry ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may change at the operator's discretion, always to ensure the safety of the traveler and the best development of the service as a whole. This may be due to Machupicchu entrance conditions.",
+            "If you wish to leave before the service ends, no refund will be provided.",
+            "The payment for the tour package will be made in full in Cusco on the first day of arrival, as the itinerary is being followed for the delivery of tickets.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "A ticket or invoice will be issued for the 50% deposit of the reservation. The remaining balance must be paid with the 18% VAT if a receipt or invoice is requested."
+        ]
+    },
+    "CuscoAventurero": {
+        "seo": {
+            "title": "CUSCO ADVENTURE - 5 DAYS / 4 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience the Cusco ADVENTURE tour in 5 days and 4 nights. Explore Machu Picchu, the Sacred Valley, and the South Valley with expert guides and total comfort.",
+            "keywords": [
+                "Cusco Adventure",
+                "Machu Picchu tour",
+                "Sacred Valley",
+                "South Valley",
+                "Maras Salt Mines",
+                "Moray",
+                "Andahuaylillas",
+                "expert guides",
+                "Cusco travel package"
+            ],
+            "canonical_url": "https://www.machupicchubyworld.com/cusco-adventurero",
+            "open_graph": {
+                "title": "CUSCO ADVENTURE - 5 DAYS / 4 NIGHTS",
+                "description": "Experience adventure in Cusco, the Sacred Valley, and Machu Picchu with an all-inclusive package. Book your tour now!",
+                "url": "https://www.machupicchubyworld.com/cusco-adventurero",
+                "type": "website",
+                "images": [
+                    {
+                        "url": "https://www.machupicchubyworld.com/images/cusco-adventurero.jpg",
+                        "alt": "Panoramic view of Machu Picchu"
+                    }
+                ]
+            }
+        },
+        "title": "CUSCO ADVENTURE",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Experience the magic of Cusco, the Sacred Valley, Machupicchu, and the Southern Valley.",
+            "Explore Moray, the Maras Salt Mines, and the charming Andahuaylillas Temple.",
+            "Enjoy expert guides who accompany you in Spanish and English.",
+            "Travel comfortably with all transportation included.",
+            "Relax in comfortable accommodations in Cusco and Aguas Calientes.",
+            "Savor a delicious buffet lunch in the Sacred Valley.",
+            "Access tickets to the main archaeological sites so you don’t miss anything."
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "City of Cusco",
+            "alt2": "Moray",
+            "alt3": "Maras Salt Mines",
+            "alt4": "Machupicchu",
+            "alt5": "Andahuaylillas Church"
+        },
+        "lugares": "Cusco - Sacred Valley - Machupicchu - Southern Valley",
+        "descripcion": "This fascinating <strong>five-day</strong> tour in <strong>Cusco</strong> invites you to discover the treasures of the <strong>Inca Empire</strong>. Begin with a tour of the main archaeological sites in <strong>Cusco</strong>, such as <strong>Sacsayhuamán</strong> and <strong>Coricancha</strong>. Then, explore the <strong>Sacred Valley</strong> by visiting <strong>Chinchero</strong>, <strong>Moray</strong>, <strong>Maras</strong>, and <strong>Ollantaytambo</strong>. On the third day, experience the unforgettable <strong>Machupicchu</strong>. Finally, tour the <strong>Southern Valley</strong>, where you'll visit <strong>Pikillaqta</strong>, <strong>Andahuaylillas</strong>, and <strong>Tipón</strong>. Includes <strong>transfers</strong>, <strong>guides</strong>, <strong>accommodation</strong>, and <strong>tickets</strong>. Perfect for those seeking an immersion in Inca history and culture!",
+        "resumen": {
+            "dia1": {
+                "titulo": "Cusco City Tour 'Morning or Afternoon'",
+                "descripcion": "This tour takes you to Cusco's main archaeological sites, including the Temple of the Sun, Sacsayhuamán, Qenqo, Puca Pucara, and Tambomachay, with the option to do it as a group or privately. The tour ends at Cusco's Plaza de Armas, where you'll spend the night at your hotel."
+            },
+            "dia2": {
+                "titulo": "VIP Super Sacred Valley of the Incas",
+                "descripcion": "After breakfast, we will start a full-day tour of the Sacred Valley, visiting Chinchero, Moray, the Maras Salt Mines, Pisaq, and Ollantaytambo, where we will explore historical, agricultural, and cultural sites. We will enjoy a buffet lunch in Urubamba before ending the tour at Ollantaytambo train station, heading to Aguas Calientes, where we will spend the night. The guide will meet us in Aguas Calientes to explain the next day's itinerary."
+            },
+            "dia3": {
+                "titulo": "Visit to the Inca City of Machupicchu 'World Wonder'",
+                "descripcion": "After breakfast, we will walk to Aguas Calientes square to meet the guide and take a bus to Machupicchu. The guided tour, lasting approximately 2 hours and 30 minutes, will include the Temple of the Sun, the Temple of the Moon, and Huayna Picchu Mountain. After the tour, we will return to Aguas Calientes for lunch, then take the train to Ollantaytambo, where a transfer will take us back to Cusco. Finally, we will stay overnight at a hotel in Cusco."
+            },
+            "dia4": {
+                "titulo": "Southern Valley Half-Day Tour",
+                "descripcion": "After breakfast, we will start the Southern Valley tour, visiting the Pikillaqta Archaeological Center, the Andahuaylillas Temple, known as the Sistine Chapel of America, and the Tipón site with its water canals. We will end the tour at the Huaso Wetland, famous for its tree root carvings. The tour concludes in Cusco, near the main square, where you can enjoy lunch before spending the night at your hotel."
+            },
+            "dia5": {
+                "titulo": "Transfer from Your Hotel to Cusco Airport",
+                "descripcion": "After breakfast at your hotel, we will transfer you to the airport two hours before your flight as part of our farewell service, thanking our customers for trusting us and exploring the main tourist attractions in the region."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "City Tour Cusco 'Morning or Afternoon'",
+                "descripcion": [
+                    "This tour allows you to visit the main archaeological sites around Cusco, in a journey that can be done in the morning or afternoon, depending on your arrival time.",
+                    "The tour can be carried out in a group or privately, accompanied by a professional guide.",
+                    "We will visit the Temple of the Sun or Coricancha.",
+                    "We will head to the archaeological complex of Sacsayhuamán, famous for the Inti Raymi celebration on June 24th.",
+                    "We will explore Qenqo, known for its carvings of animals like snakes and monkeys.",
+                    "We will see the fortress of Puca Pucara and its large walls.",
+                    "We will visit Tambomachay, known for its water fountains.",
+                    "The tour ends in the Plaza de Armas of Cusco.",
+                    "Overnight stay at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Super Sacred Valley of the Incas VIP",
+                "descripcion": [
+                    "6:30 to 7:00 A.M.: After breakfast at the hotel, we will start a full-day tour of the Sacred Valley of the Incas, guided by professionals who will share Inca history.",
+                    "Chinchero: We will explore pre-Hispanic roads, agricultural terraces, and the process of transforming wool into textiles.",
+                    "Moray: We will visit the natural depressions used as an agricultural research center.",
+                    "Maras Salt Mines: We will observe more than 3,000 salt ponds.",
+                    "Pisaq: We will learn about the Intihuatana and the history behind the name of the place (partridge in Quechua, 'pisaqa').",
+                    "Buffet lunch in Urubamba: We will enjoy typical dishes for 40 to 50 minutes, savoring the rich traditional foods of our region.",
+                    "Ollantaytambo: We will tour an important center with agricultural areas, palaces, and storage buildings.",
+                    "We will finish the tour at the Ollantaytambo train station to travel to Aguas Calientes, where we will spend the night. The guide will meet us and take us to the hotel to explain the next day's itinerary.",
+                    "Overnight stay in Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visit to the Inca City of Machupicchu 'World Wonder'",
+                "descripcion": [
+                    "6:30 to 8:30 A.M.: Breakfast at the hotel. We will walk to the main square of Aguas Calientes to meet our guide.",
+                    "Trip to Machupicchu: We will take a bus to Machupicchu. The journey lasts approximately 40 minutes, where we can appreciate the flora, fauna, and the Vilcanota River.",
+                    "Entrance to Machupicchu: We will present the entry tickets at the control point. The guided tour will last about 2 hours and 30 minutes, during which the site's history will be explained, and temples like the Temple of the Sun and the Temple of the Moon, as well as Huayna Picchu Mountain, can be visited.",
+                    "Return to Aguas Calientes: After the visit, we will return by bus to Aguas Calientes, where you will have time for lunch.",
+                    "Train trip to Ollantaytambo: In the afternoon, we will head to the train station according to the departure schedule. We will pass the ticket control and take the train to Ollantaytambo.",
+                    "Transfer to Cusco: Upon arrival, a transfer will be waiting to take you by bus or sprinter from Ollantaytambo to the city of Cusco, near the Plaza de Armas.",
+                    "Overnight stay in Cusco: Accommodation at the corresponding hotel in the city of Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "South Valley Tour Half Day",
+                "descripcion": [
+                    "8:30 A.M.: After breakfast at your hotel, our transport will pick you up to start the South Valley tour, where we will explore important archaeological and cultural sites.",
+                    "Archaeological Center of Pikillaqta: We will start in Pikillaqta, famous for its well-structured streets and canals, which was an important entrance from Collasuyo.",
+                    "Andahuaylillas Temple: Next, we will visit the Andahuaylillas Temple, known as the Sistine Chapel of America, where we will admire the Andean Baroque style and an outstanding painting from Cusco's Fine Arts School.",
+                    "Tipón Site: We will then head to Tipón, where we will observe part of the Inca construction and ingenious water channeling for agriculture.",
+                    "Huaso Wetland: Finally, we will visit the Huaso Wetland, known for its carvings in the roots of trees that depict fictional characters and animals from the ecosystem.",
+                    "The tour will end in the city of Cusco, near the main square, where you can enjoy lunch at any local restaurant.",
+                    "Overnight stay at the corresponding hotel in the city of Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Transfer from Your Hotel to the Cusco Airport",
+                "descripcion": [
+                    "After breakfast at your hotel, our company will assist with your transfer to the airport as a way to thank you for trusting us and for allowing us to provide our services in showing you the main tourist attractions of the region. The transfer will take place 2 hours before your flight."
+                ]
+            }
+        ],
+        "incluye": [
+            "Pickup from the Airport and transfer to Alejandro Velasco Astete Airport.",
+            "City Tour Cusco.",
+            "Tour to the Sacred Valley of the Incas.",
+            "Tour to Machupicchu by tourist train.",
+            "Tour to the South Valley.",
+            "Entrance ticket to Machupicchu (Circuit 2 subject to availability).",
+            "Expeditions train tickets, Vista Dome, or Vista Dome Observatory, depending on the category acquired by our client.",
+            "Round-trip bus to the historic sanctuary Machupicchu (Aguas Calientes - Machupicchu - Aguas Calientes Town).",
+            "BTG (entrance to archaeological complexes) and entrance to Coricancha.",
+            "Transportation for each mentioned tour.",
+            "Professional guide in Spanish and English.",
+            "Lunch during the Sacred Valley, Mountain, and Lagoon tour.",
+            "4 breakfasts at the hotel.",
+            "3 nights of accommodation in Cusco.",
+            "1 night of accommodation in Aguas Calientes or Ollantaytambo."
+        ],
+        "noIncluye": [
+            "Breakfast, lunch, dinner not mentioned in the program.",
+            "Tips.",
+            "Additional beverages.",
+            "Entrance tickets not mentioned in the description.",
+            "Extra expenses outside the service."
+        ],
+        "extras": [
+            "Airport-Hotel-Airport Transfers: Included in the package, both at the beginning and end of the tour.",
+            "Entrance to Archaeological Sites: Includes the General Tourist Ticket (BTG) for archaeological complexes and entrance to Machupicchu.",
+            "Buffet Lunch in the Sacred Valley: During the Sacred Valley tour, you will enjoy a buffet lunch in Urubamba.",
+            "Accommodation: The package includes 3 nights of accommodation in Cusco and 1 night in Aguas Calientes or Ollantaytambo, depending on availability."
+        ],
+        "queLlevar": [
+            "Wear shoes appropriate for the tour you will undertake.",
+            "Bring clothing suitable for the season.",
+            "Sunscreen.",
+            "Hat for sunny days.",
+            "Medication and/or personal items for altitude and hygiene.",
+            "A lightweight backpack or bag (20 liters).",
+            "Cameras.",
+            "Extra money in local currency.",
+            "Sunglasses.",
+            "Plastic bags for the waste you generate.",
+            "Original passports or personal identification documents (copies are not accepted)."
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have low risk and difficulty levels and provide the necessary safety.",
+            "No name changes or refunds are allowed for the Machupicchu entry ticket once purchased with a person’s details.",
+            "The service is subject to variation without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, demonstrations, or any other event that disrupts the normal itinerary.",
+            "The itinerary may vary at the operator's discretion to ensure the traveler's safety and the best possible execution of the service. This may include changes to Machupicchu entry times.",
+            "If you decide to leave before the service concludes, no refunds will be provided.",
+            "The payment for the tour package will be made in cash in Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission fee will apply.",
+            "For the 50% deposit, a ticket or reservation invoice will be issued. The remainder must be paid along with the 18% VAT if a receipt or invoice is required."
+        ]
+    },
+    "CuscoAventureroVinicunca": {
+        "seo": {
+            "title": "CUSCO ADVENTURE + VINICUNCA - 5 DAYS / 4 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover the best of Cusco in 5 days. Explore Machupicchu, the Sacred Valley, and Rainbow Mountain with expert guides and total comfort.",
+            "keywords": [
+                "Cusco Adventure",
+                "Machupicchu tour",
+                "Rainbow Mountain",
+                "Sacred Valley",
+                "Maras Salt Mines",
+                "expert guides",
+                "Cusco cultural and natural tour"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cusco-aventurero-vinicunca",
+            "open_graph": {
+                "title": "Cusco ADVENTURE + Vinicunca - 5 Days / 4 Nights",
+                "description": "Experience a unique adventure exploring Cusco, Machupicchu, the Sacred Valley, and Rainbow Mountain. Book your trip today!",
+                "url": "https://machupicchubyworld.com/cusco-aventurero-vinicunca",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO ADVENTURE + VINICUNCA",
+        "day": "5 Days / 4 Nights",
+        "puntosClave": [
+            "Varied tours with cultural, archaeological, and natural visits such as Sacred Valley, Machupicchu, and Rainbow Mountain",
+            "Comfortable transfers with transportation for the tours and strategic lodging options",
+            "Flexible experiences with additional activities and free time",
+            "Professional guides, planned meals, and personalized attention",
+            "Admission included to the main tourist attractions in the itinerary"
+        ],
+        "details": {
+            "duracion": "5 Days / 4 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Cusco City",
+            "alt2": "Coricancha",
+            "alt3": "Maras Salt Mines",
+            "alt4": "Machupicchu",
+            "alt5": "Machupicchu",
+            "alt6": "Andahuaylillas Church"
+        },
+        "lugares": "Cusco - Sacred Valley - Machupicchu - Rainbow Mountain",
+        "descripcion": "Get ready for an <strong>epic adventure in Cusco</strong>! This <strong>5-day tour</strong> will take you through the best <strong>natural and cultural treasures of Peru</strong>. You'll start with an exciting <strong>City Tour in Cusco</strong>, where the <strong>Inca past</strong> awaits with open arms. Then, you'll explore the fascinating <strong>Sacred Valley</strong> and marvel at <strong>Machupicchu</strong>, the <strong>jewel of the Inca Empire</strong>. But that's not all: you'll embrace a palette of <strong>vibrant colors</strong> as you climb the famous <strong>Rainbow Mountain</strong>! With <strong>expert guides</strong> and a mix of <strong>history</strong>, <strong>nature</strong>, and a bit of <strong>exercise</strong>, this is the perfect getaway!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Morning or Afternoon'",
+                "descripcion": "The first day includes arrival in Cusco, where tourists will be welcomed at the airport and transferred to the hotel. After a short break with coca tea, they will take a City Tour in two shifts, visiting Sacsayhuamán, Qenqo, Puka Pukara, and Tambomachay. At the end of the tour, they will return to Cusco and stay overnight in the hotel according to the selected category."
+            },
+            "dia2": {
+                "titulo": "Sacred Valley of the Incas",
+                "descripcion": "The second day of the VIP Valley-Maras-Moray tour includes breakfast, followed by visits to the archaeological complex of Chinchero, the textile center of Chinchero, Moray, and the Maras Salt Mines. Tourists then enjoy a buffet lunch in Urubamba and visit Ollantaytambo. The day ends with a transfer to the station to take the train to Machupicchu, with the option of staying overnight in Ollantaytambo or Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "Visit to the Inca City of Machupicchu",
+                "descripcion": "The third day starts with breakfast in Aguas Calientes, followed by a bus transfer to Machupicchu for a guided tour of approximately 2 hours. Afterward, tourists have free time for photos before returning to Aguas Calientes. They can then have lunch or visit the Hot Springs (optional). The day concludes with a trip to Ollantaytambo and a return to Cusco for the overnight stay."
+            },
+            "dia4": {
+                "titulo": "Rainbow Mountain Tour",
+                "descripcion": "This day includes an early transfer from Cusco to Cusi Pata for breakfast, followed by a trip to Phulawasipata, where a 1-hour and 30-minute hike to Rainbow Mountain begins. There is a guided tour upon arrival before returning to Cusi Pata for lunch. Finally, transportation takes tourists back to Cusco, concluding near the Main Square, with an overnight stay in the hotel."
+            },
+            "dia5": {
+                "titulo": "Transfer from Your Hotel to Cusco Airport",
+                "descripcion": "After breakfast at your hotel, our company ensures a warm farewell to our clients for trusting us and experiencing our services while exploring the main tourist attractions of the region. The corresponding transfer will be made 2 hours before the flight."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arrival in Cusco - City Tour 'Morning or Afternoon'",
+                "descripcion": [
+                    "<strong>START</strong>",
+                    "A.M. or P.M. Boarding lounge at Jorge Chavez Airport",
+                    "A.M. or P.M. Departure of the flight from the city of origin to CUSCO",
+                    "A.M. or P.M. Airport pick-up to the hotel",
+                    "A.M. or P.M. Terminal pick-up - Hotel.",
+                    "A.M. or P.M. Arrival in Cusco city (Alejandro Velasco Astete Airport).",
+                    "<strong>START OF OUR SERVICES:</strong>",
+                    "<strong>Welcome to Cusco</strong>",
+                    "Coca tea tasting at the hotel.",
+                    "Check-in at 11:00, check-out at 09:00 A.M.",
+                    "Detailed itinerary explanation.",
+                    "<strong>FIRST DAY CITY TOUR (MORNING OR AFTERNOON)</strong>",
+                    "09:40 to 10:10 A.M. Hotel pick-up for the morning city tour.",
+                    "13:50 to 14:10 A.M. Hotel pick-up for the afternoon city tour.",
+                    "A.M. or P.M. Guided visit to the fortress of Sacsayhuamán.",
+                    "A.M. or P.M. Visit to the ceremonial center of Qenqo.",
+                    "A.M. or P.M. Visit to the fortress of Puka Pukara.",
+                    "A.M. or P.M. Visit to the aqueducts of Tambomachay.",
+                    "13:30 - 14:00 or 18:00 P.M. Return by bus to Cusco",
+                    "14:30 or 18:30 P.M. Arrival in Cusco (near the main square).",
+                    "Overnight at your hotel in Cusco according to the request or hotel category."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VIP Valley - Maras - Moray, Salt Mines",
+                "descripcion": [
+                    "6:00 to 6:30 A.M. Breakfast at the hotel with prior coordination.",
+                    "6:30 – 06:50 A.M. Hotel pick-up for the VIP Valley tour heading to Chinchero",
+                    "A.M. Visit to the archaeological complex of Chinchero",
+                    "A.M. Visit to the Chinchero Textile Center to learn about alpaca garment making",
+                    "After this visit, we head to the archaeological center of Moray",
+                    "A.M. Visit to the agricultural area of Moray",
+                    "A.M. Visit to the Maras Salt Mines",
+                    "P.M. Buffet lunch in the Sacred Valley of Urubamba",
+                    "P.M. Visit to the archaeological complex of Ollantaytambo",
+                    "P.M. The tour ends in Ollantaytambo. Depending on the train schedule to Machupicchu town, tourists must head to the station independently.",
+                    "P.M. Boarding pass, always 30 minutes before the train departure. Travel time is approximately 1 hour and 40 minutes.",
+                    "P.M. Overnight in Ollantaytambo if requested by the passenger.",
+                    "P.M. Overnight in Aguas Calientes, which is usually the best option."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visit to the Inca City of Machupicchu",
+                "descripcion": [
+                    "05:30 to 8:00 A.M. Breakfast at the hotel in Aguas Calientes.",
+                    "A.M. Meeting point at the main square of Aguas Calientes or Bus Station Consetur, depending on entry schedule.",
+                    "A.M. Board the Consetur bus from Aguas Calientes to Machupicchu llaqta. Average travel time is 40 minutes.",
+                    "A.M. Guided tour of Machupicchu llaqta (approx. 2 hours) or another circuit chosen by the passenger. Entry times are respected; entry is allowed 30 minutes late but not earlier.",
+                    "A.M. Free time to take photos in Machupicchu.",
+                    "A.M. or P.M. Return on the Consetur bus to Aguas Calientes after the visit.",
+                    "P.M. Free time for lunch in Aguas Calientes or to visit the Hot Springs (optional).",
+                    "P.M. Waiting area at the Aguas Calientes train station.",
+                    "P.M. Boarding pass.",
+                    "P.M. Departure from Aguas Calientes to Ollantaytambo.",
+                    "P.M. Reception in Ollantaytambo (transfer).",
+                    "P.M. Return to Cusco by car.",
+                    "P.M. Overnight stay in Cusco."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Rainbow Mountain",
+                "descripcion": [
+                    "4:20 to 4:40 A.M. Pick up from the hotel in Cusco city by our guide or driver.",
+                    "A.M. Travel approximately 2 hours and 40 minutes to the town of Cusi Pata.",
+                    "A.M. Breakfast in the town of Cusi Pata.",
+                    "A.M. Travel approximately 1 hour and 40 to 45 minutes towards the Chilluhuani Community.",
+                    "9:00 A.M. We start the hike to Rainbow Mountain (approximately 1.30 hours). During this hike, we will enjoy beautiful landscapes surrounded by mountains and fauna of the Cusco region in the southern part.",
+                    "A.M. Visit Rainbow Mountain, also known as 'Vinicunca.'",
+                    "P.M. After visiting Rainbow Mountain at 5036 M.A.S.L, we walk back to the spot where our transport awaits to travel from Chilluhuani to Cusi Pata, approximately 1 hour and 20 minutes.",
+                    "P.M. Lunch in the Cusi Pata Community, enjoying the Andean products of the Cusco region (vegetarian option available upon request).",
+                    "P.M. Travel from Cusi Pata to Cusco, approximately 2 hours and 20 minutes.",
+                    "4:30 to 5:30 P.M. Arrival in Cusco city (near the main square), after which you will head to your hotel on your own.",
+                    "P.M. Overnight stay at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "HOTEL-AIRPORT TRANSFERS",
+                "descripcion": [
+                    "Breakfast at the hotel from 6:30 to 9:00 A.M.",
+                    "Meeting with the agency staff for farewell.",
+                    "If your flight departs late, you can shop for handicrafts or book half-day tours.",
+                    "Hotel to airport transfer: For domestic flights, it will be 2 hours before departure; for international flights, it will be 3 hours before departure. This can be to the airport or the bus terminal.",
+                    "<strong>If your flight departs late, you have the option to take a tour.</strong>",
+                    "8 daily departures:",
+                    "• Rainbow Mountain",
+                    "• Humantay Lagoon",
+                    "• Waqrapukara",
+                    "• Quad bikes to the Abode of the Gods",
+                    "• Others"
+                ]
+            }
+        ],
+        "incluye": [
+            "In case the passenger is requesting flights with us, we have the following airlines: Sky, Latam, and Jet Smart (OPTIONAL), aimed at national or international tourists with international and domestic flights in Peru. If booked with us, the airline check-in will be provided one day prior.",
+            "Transfer - Airport or Terminal - Hotel - Airport or bus terminal.",
+            "Entry to BTG Archaeological Complexes.",
+            "Buffet lunch on the Sacred Valley VIP tour.",
+            "4 breakfasts included in the service.",
+            "Guide in all tours (Spanish/English).",
+            "Round-trip train (tourist train), depending on the category requested.",
+            "Consetur bus Aguas Calientes-Machupicchu-Aguas Calientes.",
+            "Entrance ticket to Machupicchu (Circuit 2 depending on availability).",
+            "4 nights in a hotel in Cusco, according to the category requested by the passenger. If it includes a tourist train, the passenger may stay in Aguas Calientes or Ollantaytambo (1 night).",
+            "Ollantaytambo-Cusco transportation.",
+            "Entry to the Maras Salt Mines.",
+            "Breakfast and lunch at the Mountain.",
+            "Entry and maintenance at the Mountain.",
+            "Trekking poles for the hike.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Lunch on the City Tour (half-day tour).",
+            "Lunch or breakfast on the Machupicchu tour.",
+            "No tour includes dinner.",
+            "Extra expenses outside of the service.",
+            "Horses for the hike to Rainbow Mountain (Optional).",
+            "Entry to Coricancha (20.00, optional).",
+            "Entry to the thermal baths in Aguas Calientes (OPTIONAL).",
+            "Flights (Optional).",
+            "Travel insurance (Optional)."
+        ],
+        "extras": [
+            "Flights (optional).",
+            "Higher category hotels (prior quotation).",
+            "Other train categories (prior quotation)."
+        ],
+        "queLlevar": [
+            "Carry an identity document (valid DNI/PASSPORT).",
+            "Bring a rain poncho depending on the season.",
+            "Sunscreen.",
+            "Hat/cap for the heat.",
+            "Bring appropriate clothes for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entrance ticket once purchased with the corresponding person's data.",
+            "The service is subject to change without prior notice due to weather conditions (rain, mudslides, flooding, etc.), strikes, demonstrations, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may change at the operator's discretion, always to ensure the safety of the traveler and the best development of the service in its entirety. This could be due to Machupicchu entry schedules.",
+            "If you wish to leave before the service ends, no refund will be issued for that.",
+            "The payment for the tourist package will be made in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remaining amount must be paid with the 18% VAT, and the passenger can request a receipt or invoice."
+        ]
+    },
+    "CuscoImperial": {
+        "seo": {
+            "title": "CUSCO IMPERIAL - 6 DAYS / 5 NIGHTS | MACHUPICCHU BY WORLD",
+            "meta_description": "Embark on a 6-day adventure exploring Cusco’s top attractions: Sacred Valley, Machupicchu, Rainbow Mountain, and Humantay Lagoon. Book now!",
+            "keywords": [
+                "Cusco Imperial tour",
+                "Machu Picchu travel",
+                "Sacred Valley adventure",
+                "Rainbow Mountain trek",
+                "Humantay Lagoon hike",
+                "Cusco guided tours",
+                "Peru travel package"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/cusco-imperial",
+            "open_graph": {
+                "title": "Cusco Imperial - 6 Days / 5 Nights",
+                "description": "Discover Cusco's cultural and natural wonders: explore Machupicchu, Sacred Valley, Rainbow Mountain, and Humantay Lagoon with expert guides.",
+                "url": "https://machupicchubyworld.com/cusco-imperial",
+                "type": "website"
+            }
+        },
+        "title": "CUSCO IMPERIAL",
+        "day": "6 Days / 5 Nights",
+        "puntosClave": [
+            "Tours through Cusco's most iconic sites, such as Sacsayhuamán and Tambomachay.",
+            "Adventure in the Sacred Valley, with stops at Chinchero, Moray, Maras, and Ollantaytambo.",
+            "A guided visit to Machupicchu to uncover its magic, followed by free time to explore.",
+            "Hike to Rainbow Mountain, where breathtaking landscapes await.",
+            "Trek to Humantay Lake, an incredible spot at the foot of the Salkantay glacier."
+        ],
+        "details": {
+            "duracion": "6 Days / 5 Nights",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Inca Pachacutec Monument",
+            "alt2": "Cusco",
+            "alt3": "Sacred Valley",
+            "alt4": "Ollantaytambo",
+            "alt5": "Machupicchu",
+            "alt6": "Rainbow Mountain",
+            "alt7": "Humantay Lake"
+        },
+        "lugares": "Cusco - Sacred Valley - Machupicchu - Rainbow Mountain - South Valley - Humantay Lake",
+        "descripcion": "Embark on <strong>6 epic days</strong> through <strong>Cusco</strong> and its wonders: explore <strong>impressive archaeological sites</strong> on the <strong>City Tour</strong>, be amazed by the <strong>Sacred Valley</strong> and the <strong>majestic Machupicchu</strong>, hike the vibrant <strong>Rainbow Mountain</strong>, and discover the serene <strong>Humantay Lagoon</strong>. All accompanied by <strong>expert guides</strong>, <strong>breathtaking views</strong>, and delicious <strong>local food</strong>. A perfect mix of <strong>culture</strong>, <strong>history</strong>, and <strong>nature</strong> in one <strong>unforgettable</strong> trip!",
+        "resumen": {
+            "dia1": {
+                "titulo": "City Tour Cusco 'Morning or Afternoon'",
+                "descripcion": "The first day includes arrival in Cusco, where tourists will be welcomed at the airport and transferred to the hotel. After a short break with coca tea, they will take a City Tour in two shifts, visiting Sacsayhuamán, Qenqo, Puka Pukara, and Tambomachay. At the end of the tour, they will return to Cusco and stay overnight in the hotel according to the selected category."
+            },
+            "dia2": {
+                "titulo": "Sacred Valley of the Incas",
+                "descripcion": "The second day of the VIP Valley-Maras-Moray tour includes breakfast, followed by visits to the archaeological complex of Chinchero, the textile center of Chinchero, Moray, and the Maras Salt Mines. Tourists then enjoy a buffet lunch in Urubamba and visit Ollantaytambo. The day ends with a transfer to the station to take the train to Machupicchu, with the option of staying overnight in Ollantaytambo or Aguas Calientes."
+            },
+            "dia3": {
+                "titulo": "Visit to the Inca City of Machupicchu",
+                "descripcion": "The third day starts with breakfast in Aguas Calientes, followed by a bus transfer to Machupicchu for a guided tour of approximately 2 hours. Afterward, tourists have free time for photos before returning to Aguas Calientes. They can then have lunch or visit the Hot Springs (optional). The day concludes with a trip to Ollantaytambo and a return to Cusco for the overnight stay."
+            },
+            "dia4": {
+                "titulo": "Rainbow Mountain Tour",
+                "descripcion": "On day 4, the day begins with a hotel pickup in Cusco and a trip to the town of Cusi Pata, where breakfast is enjoyed. Then, the journey continues to the Chilluhuani community to start the hike towards Rainbow Mountain (Vinicunca), with panoramic views of the region. After the visit, the return to Cusi Pata for lunch follows, and finally, the return to Cusco, arriving in the afternoon and spending the night at the hotel."
+            },
+            "dia5": {
+                "titulo": "Humantay Lake Tour",
+                "descripcion": "Day 5 begins with pickup in Cusco and a trip to Mollepata, where breakfast is served. Then, the journey continues to Soraypampa to hike toward the Humantay Lake, located at the edge of the Salkantay glacier. After the visit, the group returns to Mollepata for lunch, and in the afternoon, heads back to Cusco to arrive at the hotel for an overnight stay."
+            },
+            "dia6": {
+                "titulo": "Transfer from Your Hotel to Cusco Airport",
+                "descripcion": "Day 6 begins with breakfast and a farewell meeting with the staff. If the flight is late, you can take the opportunity to do some shopping or take an optional tour. The transfer to the airport or land terminal is 2 hours before for domestic flights and 3 hours for international flights. There are also half-day tours such as the visit to the Abode of Gods or Quad bikes in Maras-Moray."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Arrival in Cusco - City Tour 'Morning or Afternoon'",
+                "descripcion": [
+                    "A.M or P.M Boarding lounge at Jorge Chávez Airport",
+                    "A.M or P.M Departure of the flight from the city of origin",
+                    "A.M or P.M Pickup from the airport or bus terminal to the hotel",
+                    "A.M or P.M Arrival in the city of Cusco (Alejandro Velasco Astete Airport)",
+                    "<strong>A.M or P.M Start of our services</strong>",
+                    "A.M or P.M Welcome to Cusco - Enjoy a coca tea at the hotel",
+                    "Check-in 11:00 A.M, Check-out 09:00 A.M at our hotels",
+                    "A.M or P.M Detailed explanation of the itinerary",
+                    "<strong>FIRST DAY CITY TOUR (Morning - Afternoon Shift)</strong>",
+                    "09:40 to 10:10 A.M. Pickup from your hotel for the morning city tour",
+                    "13:50 to 14:10 P.M. Pickup from the hotel for the afternoon city tour",
+                    "A.M or P.M Guided visit to the Sacsayhuamán fortress",
+                    "A.M or P.M Visit to the ceremonial center of Qenqo",
+                    "A.M or P.M Guided visit to the Puka Pukara fortress",
+                    "A.M or P.M Guided visit to the water temple of Tambomachay",
+                    "13:30 - 14:00 or 18:00 P.M. Return to Cusco by bus",
+                    "14:30 or 18:30 P.M. Arrival in the city of Cusco (near the main square)",
+                    "A.M or P.M Overnight stay at your hotel in Cusco according to your request or hotel category"
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VIP Valley - Maras - Moray, Salt Mines",
+                "descripcion": [
+                    "6:00 to 6:30 A.M. Breakfast at the hotel with prior coordination.",
+                    "6:30 – 06:50 A.M. Hotel pick-up for the VIP Valley tour heading to Chinchero",
+                    "A.M. Visit to the archaeological complex of Chinchero",
+                    "A.M. Visit to the Chinchero Textile Center to learn about alpaca garment making",
+                    "After this visit, we head to the archaeological center of Moray",
+                    "A.M. Visit to the agricultural area of Moray",
+                    "A.M. Visit to the Maras Salt Mines",
+                    "P.M. Buffet lunch in the Sacred Valley of Urubamba",
+                    "P.M. Visit to the archaeological complex of Ollantaytambo",
+                    "P.M. The tour ends in Ollantaytambo. Depending on the train schedule to Machupicchu town, tourists must head to the station independently.",
+                    "P.M. Boarding pass, always 30 minutes before the train departure. Travel time is approximately 1 hour and 40 minutes.",
+                    "P.M. Overnight in Ollantaytambo if requested by the passenger.",
+                    "P.M. Overnight in Aguas Calientes, which is usually the best option."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Visit to the Inca City of Machupicchu",
+                "descripcion": [
+                    "05:30 to 8:00 A.M. Breakfast at the hotel in Aguas Calientes",
+                    "A.M. Meeting point at the main square of Aguas Calientes or the Consettur bus station, depending on the entrance time",
+                    "A.M. Board the Consettur bus from Aguas Calientes to Machupicchu, with an average travel time of 40 minutes",
+                    "A.M. Guided tour of the Machupicchu citadel (approximately 2 hours), or another circuit depending on the passenger's choice. The schedule is respected; entry is not allowed before the scheduled time, with the option to enter 30 minutes later",
+                    "A.M. Free time to take photos in Machupicchu",
+                    "A.M. or P.M. Board the Consettur bus according to the time the visit to the citadel ends, heading back to Aguas Calientes",
+                    "P.M. Free time to have lunch on your own in Aguas Calientes or visit the hot springs (optional)",
+                    "P.M. Waiting room at the Aguas Calientes train station",
+                    "P.M. Boarding pass",
+                    "P.M. Departure from Aguas Calientes to Ollantaytambo",
+                    "P.M. Reception in Ollantaytambo (transfer)",
+                    "P.M. Return from Ollantaytambo to Cusco in our transport (near the main square)",
+                    "Overnight stay at your hotel in Cusco"
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Tour Rainbow Mountain",
+                "descripcion": [
+                    "4:20 to 4:40 A.M. Pick up from the hotel in Cusco city by our guide or driver.",
+                    "A.M. Travel approximately 2 hours and 40 minutes to the town of Cusi Pata.",
+                    "A.M. Breakfast in the town of Cusi Pata.",
+                    "A.M. Travel approximately 1 hour and 40 to 45 minutes towards the Chilluhuani Community.",
+                    "9:00 A.M. We start the hike to Rainbow Mountain (approximately 1.30 hours). During this hike, we will enjoy beautiful landscapes surrounded by mountains and fauna of the Cusco region in the southern part.",
+                    "A.M. Visit Rainbow Mountain, also known as 'Vinicunca.'",
+                    "P.M. After visiting Rainbow Mountain at 5036 M.A.S.L, we walk back to the spot where our transport awaits to travel from Chilluhuani to Cusi Pata, approximately 1 hour and 20 minutes.",
+                    "P.M. Lunch in the Cusi Pata Community, enjoying the Andean products of the Cusco region (vegetarian option available upon request).",
+                    "P.M. Travel from Cusi Pata to Cusco, approximately 2 hours and 20 minutes.",
+                    "4:30 to 5:30 P.M. Arrival in Cusco city (near the main square), after which you will head to your hotel on your own.",
+                    "P.M. Overnight stay at your hotel in Cusco."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Humantay Lake Tour",
+                "descripcion": [
+                    "4:20 to 4:40 A.M. Pickup from your hotel in the city of Cusco by our guide or driver",
+                    "A.M. Approximately 2 hours and 40 minutes drive to the town of Molle Pata",
+                    "A.M. Breakfast in the town of Molle Pata",
+                    "A.M. Approximately 1 hour and 40 to 45 minutes drive to the community of Soraypampa",
+                    "9:00 A.M. Start of the hike to Humantay Lake (approximately 1.5 hours), enjoying a beautiful landscape surrounded by mountains and regional fauna in northern Cusco",
+                    "A.M. Visit to Humantay Lake, located at the edge of the Salkantay snow-capped mountain",
+                    "P.M. After visiting Humantay Lake at 4800 MASL, at the edge of the Salkantay snow-capped mountain, we hike back to the point where the transport dropped us off to board and travel from Soraypampa to Molle Pata (approximately 1 hour and 20 minutes)",
+                    "P.M. Lunch in the community of Molle Pata, savoring Andean products from the Cusco region (vegetarian option available upon request)",
+                    "P.M. Travel from Molle Pata to Cusco, average time of 2 hours and 20 minutes",
+                    "5:30 to 6:00 P.M. Arrival in the city of Cusco (near the main square) to then head to your hotel on your own",
+                    "Overnight stay at your hotel in Cusco"
+                ]
+            },
+            {
+                "dia": "6",
+                "titulo": "Transfer from Your Hotel to Cusco Airport",
+                "descripcion": [
+                    "Breakfast at the hotel from 6:30 to 9:00 A.M.",
+                    "Meet with agency staff for a farewell.",
+                    "If your flight departs later, you can shop for handicrafts or book half-day tours.",
+                    "Hotel pickup to the airport: for domestic flights, the transfer will be 2 hours before departure. For international flights, it will be 3 hours before departure. The transfer can be to the airport or bus terminal.",
+                    "If the flight departs late, you have the option to take a daily departure tour:",
+                    " - Abode of the Gods.",
+                    " - Quad bikes in Maras - Moray.",
+                    " - Waqrapukara.",
+                    " - Quad bikes in Abode of the Gods.",
+                    " - Others."
+                ]
+            }
+        ],
+        "incluye": [
+            "Flights with airlines Sky, Latam, and Jet Smart (OPTIONAL) for national or international tourists with domestic and international flights in Peru, with check-in one day before.",
+            "Transfer - Airport or Terminal - Hotel - Airport or Bus Terminal.",
+            "Entry to archaeological sites with the BTG (General Tourist Ticket).",
+            "Buffet lunch on the VIP Sacred Valley tour.",
+            "5 breakfasts during the service.",
+            "Guide on all tours (Spanish/English).",
+            "Round-trip train (tourist train) depending on the requested category.",
+            "Consettur bus Aguas Calientes - Machupicchu - Aguas Calientes.",
+            "Entrance ticket to Machupicchu (Circuit 2 subject to availability).",
+            "5 nights of accommodation in Cusco according to the requested category (with the tourist train, passengers may stay one night in Aguas Calientes or Ollantaytambo).",
+            "Transportation from Ollantaytambo to Cusco.",
+            "Breakfast and lunch on the Rainbow Mountain tour.",
+            "Breakfast and lunch on the Humantay Lake tour.",
+            "Entrance fees to Rainbow Mountain and Humantay Lake.",
+            "Walking sticks for Rainbow Mountain and Humantay Lake.",
+            "Entry to the Maras Salt Mines.",
+            "Emergency oxygen for Rainbow Mountain and Humantay Lake.",
+            "24/7 assistance via WhatsApp."
+        ],
+        "noIncluye": [
+            "Lunch during the City Tour (half-day).",
+            "Breakfast or lunch during the Machupicchu tour.",
+            "Dinner is not included in any tour.",
+            "Lunch during the South Valley tour.",
+            "Extra expenses outside of the service.",
+            "Meals not mentioned in the program.",
+            "Entrance to Qoricancha (20.00, optional).",
+            "Entrance to the thermal baths in Aguas Calientes (OPTIONAL)."
+        ],
+        "queLlevar": [
+            "Carry an identity document (valid DNI/PASSPORT).",
+            "Bring a rain poncho depending on the season.",
+            "Sunscreen.",
+            "Hat/cap for the heat.",
+            "Bring appropriate clothes for the trip.",
+            "Mosquito repellent."
+        ],
+        "importante": [
+            "The tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entrance ticket once purchased with the corresponding person's data.",
+            "The service is subject to change without prior notice due to weather conditions (rain, mudslides, flooding, etc.), strikes, demonstrations, or any other event that prevents the normal development of the itinerary.",
+            "The itinerary may change at the operator's discretion, always to ensure the safety of the traveler and the best development of the service in its entirety. This could be due to Machupicchu entry schedules.",
+            "If you wish to leave before the service ends, no refund will be issued for that.",
+            "The payment for the tourist package will be made in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remaining amount must be paid with the 18% VAT, and the passenger can request a receipt or invoice."
+        ]
+    },
+    "MontanaColores": {
+        "seo": {
+            "title": "RAINBOW MOUNTAIN - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience the breathtaking Rainbow Mountain on a full-day tour from Cusco. Includes transportation, guide, and meals. Book your adventure now!",
+            "keywords": [
+                "Rainbow Mountain Tour",
+                "Vinicunca Trip",
+                "7 Colors Mountain Excursion",
+                "Cusco Trekking",
+                "Peru Tourism",
+                "Cusco Adventure Tour",
+                "Rainbow Mountain from Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/rainbow-mountain",
+            "open_graph": {
+                "title": "Rainbow Mountain - Full Day",
+                "description": "Discover the stunning Rainbow Mountain on an unforgettable full-day tour. Enjoy breathtaking landscapes, expert guides, and a unique experience.",
+                "url": "https://machupicchubyworld.com/rainbow-mountain",
+                "type": "website"
+            }
+        },
+        "title": "RAINBOW MOUNTAIN",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Managed by local experts for an authentic experience.",
+            "Includes transportation, breakfast, lunch, and assistance during the tour.",
+            "Small and exclusive groups for a more personalized experience.",
+            "Bilingual guide (Spanish, English, and Portuguese) for a barrier-free experience.",
+            "Spectacular views and unique moments on the hike to Rainbow Mountain."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Panoramic view of Rainbow Mountain",
+            "alt2": "Rainbow Mountain",
+            "alt3": "Photograph of our clients at Rainbow Mountain",
+            "alt4": "Photograph of our clients at Rainbow Mountain",
+            "alt5": "Photograph of our clients at Rainbow Mountain"
+        },
+        "lugares": "Cusco - Cusi Pata - Pitumarca - Rainbow Mountain - Cusi Pata - Cusco",
+        "descripcion": "The <strong>Rainbow Mountain</strong>, also known as <strong>Mountain of 7 Colors</strong> due to its shape and the colors it reflects from the <strong>rainbow</strong>, is also called <strong>Vinincunca</strong> in Quechua. During the journey to the <strong>Rainbow Mountain</strong>, you will see <strong>ichu</strong>, animals like <strong>llama</strong>, <strong>alpaca</strong>, <strong>sheep</strong>, and <strong>vizcacha</strong>; among the birds, you might spot the <strong>Huallata</strong> and <strong>Caracara</strong>. On the route, you will find the <strong>Ausangate snow-capped mountain</strong>, which is the tallest in the <strong>Cusco</strong> region at <strong>6384 m.a.s.l.</strong>",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Cusi Pata - Pitumarca - Rainbow Mountain - Cusi Pata - Cusco",
+                "descripcion": [
+                    "4:20 to 4:50 A.M. Hotel pick-up for the Rainbow Mountain or Vinicunca tour, travel time 1 hour and 40 minutes to Cusi Pata.",
+                    "A.M. Breakfast in the village of Cusi Pata prepared with local Andean products.",
+                    "A.M. Travel to the town of Pitumarca, approximately 1 hour to the start of the Rainbow Mountain hike.",
+                    "A.M. Start of the hike to Rainbow Mountain, accompanied by our official tour guide, the hike lasts 1 hour and 40 minutes to reach the viewpoint.",
+                    "P.M. Return from the mountain to the community of Cusi Pata in our tourist transport.",
+                    "P.M. Lunch in Cusi Pata to recharge energy, then we return to Cusco by transport.",
+                    "16:30 to 17:20 P.M. Arrival in the city of Cusco near the main square, after which you can head to your hotel on your own."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist Transportation",
+            "01 breakfast",
+            "01 lunch",
+            "Professional bilingual guide Spanish - Portuguese - English",
+            "Entrance tickets to Rainbow Mountain",
+            "Support poles for the hike",
+            "First aid kit / oxygen",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Horses (can be rented directly)",
+            "Extra expenses",
+            "Tips for the guide",
+            "Quad bikes (prior quotation)"
+        ],
+        "queLlevar": [
+            "Wear trekking shoes or sneakers",
+            "Warm jacket",
+            "Sunscreen",
+            "Hat for sunny days",
+            "Medicine and/or personal hygiene items for altitude",
+            "A light backpack or bag of 20 liters",
+            "Cameras",
+            "Extra cash in local currency",
+            "Comfortable hiking pants and warm sweaters",
+            "Sunglasses",
+            "Plastic bags for waste produced by each of you",
+            "Original passports or personal documents (no copies accepted)"
+        ],
+        "importante": [
+            "Tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund of the Machupicchu entrance ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best development of the service as a whole. This may be due to Machupicchu entrance issues.",
+            "If you wish to leave before the service ends, there will also be no refund for this.",
+            "The payment for the tourist package will be made in cash in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT, if you want a receipt or invoice."
+        ]
+    },
+    "LagunaHumantay": {
+        "seo": {
+            "title": "HUMANTAY LAKE - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Discover Humantay Lake on a full-day tour. Stunning hike, breathtaking views, and an unforgettable experience in the Andes. Book now!",
+            "keywords": [
+                "Humantay Lake Tour",
+                "Humantay Lake Excursion",
+                "Trekking in the Andes",
+                "Cusco Adventure",
+                "Humantay Lake from Cusco",
+                "Peru Travel",
+                "Cusco Tours"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/humantay-lake",
+            "open_graph": {
+                "title": "Humantay Lake - Full Day",
+                "description": "Explore Humantay Lake with a guided hike in the Andes. Transportation, expert guide, and lunch included for a unique adventure.",
+                "url": "https://machupicchubyworld.com/humantay-lake",
+                "type": "website"
+            }
+        },
+        "title": "HUMANTAY LAKE",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Managed by local experts to ensure a unique experience at Humantay Lake.",
+            "Includes transportation, breakfast, lunch, and drinks, as well as a professional bilingual guide.",
+            "The hike to Humantay Lake is accompanied by an expert guide, ensuring safety and enjoyment.",
+            "Small group for a more personalized and quality experience.",
+            "The package offers flexibility and additional options, such as horse rentals for those who prefer not to walk."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Humantay Lake",
+            "alt2": "Humantay Lake",
+            "alt3": "Humantay Lake",
+            "alt4": "Humantay Lake",
+            "alt5": "Humantay Lake"
+        },
+        "lugares": "Cusco - Mollepata - Soraypampa - Humantay Lake - Mollepata - Cusco",
+        "descripcion": "The <strong>Humantay Lake</strong> is one of the most famous wonders in the <strong>Cusco</strong> region, known for its crystal-clear waters descending from the <strong>Humantay snow-capped mountain</strong> located at 3500 m.a.s.l. It is a landscape surrounded by flora and fauna and Andean communities, whose traditional clothing enchants all visitors. Our travel agency <strong>Machupichu by World</strong> offers you the best services and tours where you can enjoy and be enchanted by this marvelous attraction.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Mollepata - Soraypampa - Humantay Lake - Mollepata - Cusco",
+                "descripcion": [
+                    "4:20 to 4:40 A.M: Hotel pick-up for the Humantay Lake tour, approximately 2 hours travel time to the community of Mollepata.",
+                    "Breakfast in the village of Mollepata, prepared with local products.",
+                    "Travel to the town of Soraypampa, approximately 1 hour and 20 minutes from Mollepata.",
+                    "Start of the hike to Humantay Lake, accompanied by an official tour guide, the hike lasts approximately 2 hours.",
+                    "Return to Mollepata in our tourist transport.",
+                    "Lunch in Mollepata to recharge energy, then return to Cusco.",
+                    "17:40 to 18:20 P.M: Arrival in the city of Cusco near the main square, after which you can head to your hotel on your own."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist Transportation",
+            "01 breakfast - 01 lunch",
+            "Professional bilingual guide Spanish - English",
+            "Entrance tickets to Humantay Lake",
+            "Support poles for the hike",
+            "First aid kit / oxygen",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Horses (can be rented directly)",
+            "Extra expenses",
+            "Tips for the guide"
+        ],
+        "queLlevar": [
+            "Wear trekking shoes or sneakers.",
+            "Warm jacket.",
+            "Sunscreen.",
+            "Hat for sunny days.",
+            "Medicine and/or personal hygiene items for altitude.",
+            "A light backpack or bag of 20 liters.",
+            "Cameras.",
+            "Extra cash in local currency.",
+            "Comfortable hiking pants and warm sweaters.",
+            "Sunglasses.",
+            "Plastic bags for waste produced by each of you.",
+            "Original passports or personal documents (no copies accepted)."
+        ],
+        "extras": [
+            "Horse Rental: Available for those who prefer not to walk.",
+            "Personalized Assistance: Ongoing support from our team throughout the tour.",
+            "Expert Guides: Our staff is highly trained to provide you with the best experience.",
+            "Transportation Options: Comfortable and safe transportation in a minivan.",
+            "Itinerary Flexibility: We adapt the tour according to visitors' needs and preferences."
+        ],
+        "importante": [
+            "Tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund of the Machupicchu entrance ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best development of the service as a whole. This may be due to Machupicchu entrance issues.",
+            "If you wish to leave before the service ends, there will also be no refund for this.",
+            "The payment for the tourist package will be made in cash in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT, if you want a receipt or invoice."
+        ]
+    },
+    "Ausangate": {
+        "seo": {
+            "title": "7 AUSANGATE LAKES - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Embark on a full-day adventure through the stunning 7 lakes of Ausangate. Enjoy a scenic hike, breathtaking views, and thermal baths at the end. Book now!",
+            "keywords": [
+                "7 AUSANGATE LAKES Tour",
+                "Ausangate Lakes Excursion",
+                "Trekking in Vilcanota Range",
+                "Cusco Adventure",
+                "Thermal Baths in Pacchanta",
+                "Peru Travel",
+                "Cusco Tours"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/7-lagunas-ausangate",
+            "open_graph": {
+                "title": "7 AUSANGATE LAKES - Full Day",
+                "description": "Discover the beauty of the 7 Ausangate lakes with a guided trek through the Vilcanota Range. Enjoy thermal baths and lunch in Pacchanta.",
+                "url": "https://machupicchubyworld.com/7-lagunas-ausangate",
+                "type": "website"
+            }
+        },
+        "title": "7 AUSANGATE LAKES",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Expert guide throughout the tour, explaining about local fauna and culture.",
+            "Tour of the Ausangate lakes: Azul Cocha, Otorongo, Pucacocha, Alqacocha, and Q’omercocha.",
+            "Possibility of seeing animals such as alpacas, llamas, and Andean condors.",
+            "Enjoy the hot springs of Pacchanta at the end of the tour.",
+            "Stop in the village of Tinke to learn about local life."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Lake of Ausangate",
+            "alt2": "Lake of Ausangate"
+        },
+        "lugares": "Pacchanta - Tinke - Ausangate Lakes - Pacchanta Hot Springs - Cusco",
+        "descripcion": "Our one-day excursion to the <strong>7 Ausangate Lakes</strong> is a beautiful experience where you can see several turquoise lakes belonging to the <strong>Vilcanota Mountain Range</strong>. You will also be close to the <strong>Ausangate</strong> mountains, which is the highest mountain in <strong>Peru</strong>. In the end, you will enjoy the hot springs with a beautiful view of the surrounding mountains and the daily life of the farmers in the <strong>Pacchanta</strong> community.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Pacchanta - Tinke - Ausangate Lakes: Azul Cocha, Otorongo, Pucacocha, Alqacocha, Q’omercocha - Pacchanta Hot Springs - Cusco",
+                "descripcion": [
+                    "4:00 a.m.: Hotel pick-up and departure to the village of Pacchanta.",
+                    "Brief stop in Tinke.",
+                    "Continue the trip to Pacchanta (45 minutes).",
+                    "Breakfast in Pacchanta.",
+                    "Start the hike to the Ausangate lakes: Azul Cocha, Otorongo, Pucacocha, Alqacocha, and Q’omercocha.",
+                    "During the hike, you may see birds, alpacas, llamas, and, hopefully, the Andean condor.",
+                    "Return to Pacchanta to enjoy the hot springs.",
+                    "Buffet lunch in Pacchanta.",
+                    "Return trip to Cusco.",
+                    "Arrival in Cusco around 7:00 p.m., concluding the tour near the main square."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guide on all tours.",
+            "Transportation for each mentioned tour.",
+            "Support poles for the tour.",
+            "Breakfast in Pacchanta.",
+            "Lunch in Pacchanta.",
+            "Entrance to the circuit of the lakes."
+        ],
+        "noIncluye": [
+            "Dinner.",
+            "Entrance to the Pacchanta hot springs."
+        ],
+        "queLlevar": [
+            "Physical ID.",
+            "Money in soles for extra expenses.",
+            "Hat or cap for the heat.",
+            "Rain poncho.",
+            "Warm clothing.",
+            "Appropriate shoes for the tour.",
+            "Change of clothes."
+        ],
+        "extras": [
+            "Support poles for the hike: We provide trekking poles to facilitate walking, especially on uneven terrain and to provide greater stability during the lake tour.",
+            "Specialized guide throughout the tour: You will have an expert guide who will not only accompany you throughout the journey but will also explain details about the lakes, fauna, mountains, and local culture of Pacchanta.",
+            "Hot springs in Pacchanta for relaxation: At the end of the tour, you will have the opportunity to enjoy a relaxing bath in the hot springs of Pacchanta, ideal for relieving muscle fatigue after the hike.",
+            "Stop in the village of Tinke for a quick exploration: On the way to the starting point of the hike, there will be a brief stop in the picturesque village of Tinke, where you can learn more about local life."
+        ],
+        "importante": [
+            "Tours and excursions provided by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund of the Machupicchu entrance ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best development of the service as a whole. This may be due to Machupicchu entrance issues.",
+            "If you wish to leave before the service ends, there will also be no refund for this.",
+            "Payment for the tourist package will be made in cash in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT, if you want a receipt or invoice."
+        ]
+    },
+    "Palcoyo": {
+        "seo": {
+            "title": "PALCOYO MOUNTAIN - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Explore Palcoyo Mountain on a full-day tour. Enjoy scenic hikes, vibrant landscapes, and the unique Checacupe Hanging Bridge. Book your adventure now!",
+            "keywords": [
+                "Palcoyo Mountain Tour",
+                "Palcoyo Trekking",
+                "Cusco Adventure",
+                "Checacupe Hanging Bridge",
+                "Rainbow Mountain Palcoyo",
+                "Peru Travel",
+                "Tours in Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/palcoyo-mountain",
+            "open_graph": {
+                "title": "Palcoyo Mountain - Full Day",
+                "description": "Explore the stunning Palcoyo Mountain, famous for its vibrant landscapes and scenic hikes. Visit the historic Checacupe Hanging Bridge and enjoy local meals.",
+                "url": "https://machupicchubyworld.com/palcoyo-mountain",
+                "type": "website"
+            }
+        },
+        "title": "PALCOYO MOUNTAIN",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Exploration of Palcoyo Mountain, with scenic walks and time for photos.",
+            "Visit to the Checacupe hanging bridge, a unique historical attraction on the route.",
+            "Includes Andean breakfast, buffet lunch, and hot beverages.",
+            "Bilingual professional guide and first aid kit throughout the tour.",
+            "Option to rent horses to facilitate the hike."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Palcoyo Mountain"
+        },
+        "lugares": "Cusco - Palcoyo",
+        "descripcion": "<strong>Palcoyo</strong> is known for its landscapes that, due to their rainbow colors, resemble a twin of the famous <strong>Rainbow Mountain</strong>. During the tour to <strong>Palcoyo</strong>, you can appreciate <strong>icchu</strong> and typical animals such as <strong>llamas</strong>, <strong>alpacas</strong>, <strong>sheep</strong>, and <strong>vizcachas</strong>. Among the birds, the <strong>huallata</strong> stands out.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Palcoyo Mountain - Cusco",
+                "descripcion": [
+                    "Pickup between 4:30 and 5:00 a.m. to Cusi Pata.",
+                    "Brief stop along the way to acquire supplies.",
+                    "Start of the hike to Palcoyo.",
+                    "Andean breakfast at 8:00 a.m.",
+                    "Continuation by minibus to Combapata.",
+                    "40-minute hike to Palcoyo Mountain, with time for photos and snacks.",
+                    "Return hike to Combapata.",
+                    "Visit to the Checacupe hanging bridge.",
+                    "Buffet lunch in Cusi Pata.",
+                    "Return to Cusco, arriving in the historic center around 5:00 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist transportation",
+            "01 breakfast, 01 lunch.",
+            "Bilingual professional guide (Spanish and English)",
+            "Entry to Palcoyo Mountain",
+            "Hiking support poles",
+            "First aid kit / oxygen",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Horses (available for direct rental)",
+            "Extra expenses",
+            "Tips for the guide"
+        ],
+        "queLlevar": [
+            "Trekking shoes or sneakers",
+            "Warm jacket",
+            "Sunscreen",
+            "Hat for sunny days",
+            "Medications and/or personal items for altitude and hygiene",
+            "Lightweight 20-liter backpack or bag",
+            "Camera",
+            "Extra cash in local currency",
+            "Comfortable pants for walking and warm sweaters",
+            "Sunglasses",
+            "Plastic bags for personal waste",
+            "Original passport or personal document (no copies accepted)"
+        ],
+        "extras": [
+            "Hiking support poles",
+            "First aid kit and oxygen",
+            "Strategic stops for supplies",
+            "Option to rent horses along the route",
+            "Permanent assistance throughout the tour"
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entry ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rains, landslides, overflow, etc.), strikes, demonstrations, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service development. This could be due to the entrance to Machupicchu.",
+            "If you wish to withdraw before the service concludes, there will also be no refund.",
+            "The payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as it aligns with the ticket delivery itinerary.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The rest must be paid with the 18% VAT, if you require a ticket or invoice."
+        ]
+    },
+    "Cuatrimotos": {
+        "seo": {
+            "title": "QUAD BIKE TOUR SACRED VALLEY - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Explore the Sacred Valley on a full-day quad bike tour. Discover Moray, the Maras Salt Mines, and the Huaypo Lagoon with stunning views and cultural insights. Book your adventure now!",
+            "keywords": [
+                "Quad Bike Tour Sacred Valley",
+                "Moray Tour",
+                "Maras Salt Mines",
+                "Huaypo Lagoon Tour",
+                "Sacred Valley Adventure",
+                "Quad Biking Cusco",
+                "Peru Tours"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/quad-bike-tour-sacred-valley",
+            "open_graph": {
+                "title": "Quad Bike Tour Sacred Valley - Full Day",
+                "description": "Enjoy a thrilling quad bike ride through the Sacred Valley. Visit the Inca agricultural terraces of Moray, the Maras Salt Mines, and the Huaypo Lagoon, with breathtaking views and cultural insights.",
+                "url": "https://machupicchubyworld.com/quad-bike-tour-sacred-valley",
+                "type": "website"
+            }
+        },
+        "title": "QUAD BIKE TOUR SACRED VALLEY",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Daily tours in morning and afternoon schedules.",
+            "Guided in Spanish, English, and Portuguese.",
+            "Safe adventure with safety equipment.",
+            "Scenic routes with views of snow-capped peaks.",
+            "Cultural experience in Moray and Maras Salt Mines."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Moray",
+            "alt2": "Maras Salt Mines"
+        },
+        "lugares": "Huaypo Lagoon - Moray - Maras Salt Mines",
+        "descripcion": "The <strong>quad bike</strong> circuit through <strong>Huaypo Lagoon</strong>, <strong>Moray</strong>, and <strong>Maras Salt Mines</strong> combines adventure, culture, and unique landscapes. <strong>Moray</strong> is notable for its circular terraces used as an <strong>Incan agricultural laboratory</strong>, and <strong>Maras</strong> for its <strong>natural salt mines</strong>. Ideal for enjoying nature and culture in a single tour.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Route 1: Maras - Moray (archaeological site) and Maras salt mines.",
+                "descripcion": [
+                    "The tour begins in Cruzpata after a brief training on quad bikes.",
+                    "The first stop is at the Moray terraces, an Incan center for agricultural experimentation, where a guided explanation is provided.",
+                    "Then, visit the town of Maras, with stunning views of the Urubamba Mountain Range and the snow-capped peaks of Verónica and Chicón.",
+                    "Finally, arrive at the Maras Salt Mines, then return to Cruzpata via a new route before heading back to Cusco."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Route 2: Huaypo Lagoon and Maras Salt Mines",
+                "descripcion": [
+                    "After training in Cruzpata, the first stop is at Huaypo Lagoon, famous for its stories and legends.",
+                    "Then proceed to Maras, enjoying views of the Urubamba Mountain Range and the snow-capped peaks of Verónica and Chicón.",
+                    "The last stop is at the Salt Mines, with a brief guided explanation.",
+                    "Finally, take a different route back to Cruzpata and return to Cusco."
+                ]
+            }
+        ],
+        "incluye": [
+            "Round-trip transportation",
+            "Safety equipment (helmet and gloves)",
+            "Bilingual professional guide (English and Spanish)",
+            "One single quad bike (Honda 420, year 2021)",
+            "Gasoline",
+            "Rain poncho",
+            "Backpack converter",
+            "First aid kit"
+        ],
+        "noIncluye": [
+            "Entry tickets for Moray and Maras Salt Mines",
+            "Extra expenses",
+            "Tips for the guide"
+        ],
+        "queLlevar": [
+            "Wear comfortable shoes",
+            "Waterproof jacket",
+            "Sunscreen and sunglasses",
+            "Hat for sunny days",
+            "Cameras",
+            "Extra money in local currency"
+        ],
+        "extras": [
+            "The sport is for young people and adults who want to enjoy an unforgettable adventure.",
+            "Types of services: Individual service (1 person on a bike) - Double service (2 people on a bike)",
+            "Daily departures in two groups: Morning: 07:00 - 13:00 - Afternoon: 13:00 - 18:00"
+        ],
+        "importante": [
+            "The tours and activities conducted by this operator have low levels of risk and difficulty and provide necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, and any other events that may disrupt the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service experience. This may include issues related to entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will also be no refund.",
+            "Payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as part of the ticket delivery itinerary.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged on the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% VAT, if you require a receipt or invoice."
+        ]
+    },
+    "Zipline": {
+        "seo": {
+            "title": "ZIP LINE SACRED VALLEY \"CHINCHERO\" - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience the excitement of Zip Line in the Sacred Valley of the Incas. Enjoy views of the Sacred Valley, the Pacchayoc Canyon, and the Chicón and Pitusiray snow-capped mountains. Book your adventure now!",
+            "keywords": [
+                "Zip Line Sacred Valley",
+                "Chinchero Zip Line Tour",
+                "Racchi",
+                "Sacred Valley Adventure",
+                "Pacchayoc Canyon",
+                "Zipline Cusco",
+                "Tours in Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/zip-line-chincheros",
+            "open_graph": {
+                "title": "Zip Line Sacred Valley Chinchero - Full Day",
+                "description": "Enjoy an exciting adventure on the Zip Line in Cusco. Fly over the Sacred Valley and the Pacchayoc Canyon with breathtaking views and maximum adrenaline.",
+                "url": "https://machupicchubyworld.com/zip-line-chincheros",
+                "type": "website"
+            }
+        },
+        "title": "ZIP LINE SACRED VALLEY \"CHINCHERO\"",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "4 cables with different heights and views",
+            "Safe and comfortable transportation",
+            "Permanent assistance throughout the tour",
+            "Professional and trained guides",
+            "Flexible schedules in the morning and afternoon"
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Chincheros"
+        },
+        "lugares": "Racchi - Sacred Valley of the Incas - Chinchero (optional).",
+        "descripcion": "The <strong>Zip Line in Cusco</strong>, located in <strong>Racchi</strong> 35 km from the city, offers an exciting experience surrounded by spectacular landscapes, such as the <strong>Sacred Valley</strong>, the <strong>Pacchayoc canyon</strong>, and the snow-capped <strong>Chicón</strong> and <strong>Pitusiray</strong>. It consists of 4 cables: the first, gentle to build confidence; the second, the fastest; the third, the longest for extreme movements; and the fourth, with stunning views of the canyon and mountains.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Racchi - Sacred Valley of the Incas - Chinchero (optional).",
+                "descripcion": [
+                    "The tour begins with pickup from our office and transfer to Racchi, where the zip line will take place amid a magnificent natural landscape. Participants will glide along the different cables, enjoying the sensation of flying while appreciating the Andean scenery, the Sacred Valley of the Incas, the mountains, and the living culture of the Racchi Ayllu community. At the end of the activity, return to the city of Cusco. Optionally, participants can visit the textile centers in Chinchero. The approximate duration of the tour is 4 hours."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist Transportation",
+            "Instructor for the 'Zip Line' activity",
+            "04 Zip Line lines",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Video and Photography Service",
+            "Snacks"
+        ],
+        "queLlevar": [
+            "Wear comfortable shoes",
+            "Warm jacket",
+            "Sunscreen",
+            "Hat for sunny days",
+            "Cameras",
+            "Extra money in local currency",
+            "Comfortable pants",
+            "Sunglasses"
+        ],
+        "extras": [
+            "Optional visit to textile centers in Chinchero",
+            "Round-trip tourist transportation",
+            "Opportunity to interact with the Racchi community",
+            "Flexible scheduling options (morning and afternoon)"
+        ],
+        "importante": [
+            "The tours and activities conducted by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, floods, etc.), strikes, protests, and any other events that may disrupt the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service experience. This may include issues related to entry to Machupicchu.",
+            "If you wish to leave before the service ends, there will also be no refund.",
+            "Payment for the tour package will be made in cash in the city of Cusco on the first day of arrival in the city, as part of the ticket delivery itinerary.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged on the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% VAT, if you require a receipt or invoice."
+        ]
+    }
+}

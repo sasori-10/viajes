@@ -1,0 +1,39 @@
+.ScrollFijo {
+    position: relative;
+    background-attachment: fixed;
+    /* Fondo fijo */
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    /* Ajusta la altura como desees */
+    overflow: hidden;
+    transition: background-image 0.3s ease-in-out;
+}
+
+.ScrollFijo::before {
+    content: '';
+    /* Necesario para el pseudo-elemento */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.212);
+    /* Capa oscura (50% opacidad) */
+    z-index: 1;
+    /* Coloca la capa por debajo del texto */
+}
+
+.content {
+    position: sticky;
+    /* Hace que el texto se quede fijo dentro del contenedor */
+    top: 50%;
+    /* Fija el texto cuando llega al centro */
+    transform: translateY(-50%);
+    /* Centra el texto verticalmente */
+    color: white;
+    text-align: center;
+    z-index: 2;
+    /* Asegura que el texto esté por encima de la imagen */
+}

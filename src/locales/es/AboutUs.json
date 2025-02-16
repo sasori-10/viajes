@@ -1,0 +1,194 @@
+{
+    "aboutUs": {
+        "seo": {
+            "title": "Sobre Nosotros | MACHUPICCHU BY WORLD",
+            "meta_description": "Machupicchu By World es una agencia de viajes en Cusco dedicada a ofrecer experiencias únicas y sostenibles. Con más de 6 años de experiencia, priorizamos la seguridad, calidad y satisfacción de cada viajero.",
+            "keywords": [
+                "Agencia de viajes Cusco",
+                "Turismo en Machu Picchu",
+                "Tours a Machupicchu",
+                "Viajes en Perú",
+                "Turismo sostenible en Cusco",
+                "Machu Picchu By World",
+                "Mejor agencia de viajes en Cusco",
+                "Experiencias turísticas únicas",
+                "Turismo responsable en Perú"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/about-us",
+            "open_graph": {
+                "title": "Sobre Nosotros | Machupicchu By World",
+                "description": "Somos una agencia de viajes especializada en turismo sostenible y de calidad en Cusco. Descubre nuestra historia, visión y equipo.",
+                "url": "https://machupicchubyworld.com/about-us",
+                "type": "website"
+            }
+        },
+        "imageHeader": {
+            "title": "ACERCA DE NOSOTROS",
+            "subtitle": "CONOCE AL EQUIPO DE MACHU PICCHU BY WORLD"
+        },
+        "textSeccion": {
+            "nameCompany": "Machu Picchu by World",
+            "title": "Dedicados a Hacer de Cada Viaje una Historia Única",
+            "descripcion": "Machupicchu By World Travel Agency es una empresa tour operadora fundada en la histórica ciudad de Cusco en el año 2019. Desde su creación, se ha posicionado como una empresa local comprometida con el turismo de calidad, destacándose entre las primeras en brindar experiencias memorables y un servicio de excelencia. Con más de seis años de trayectoria en el rubro turístico, ofrece una amplia variedad de servicios tanto a nivel nacional como internacional, diseñados para satisfacer las expectativas de sus clientes. Su enfoque está en garantizar viajes inolvidables, priorizando la comodidad, seguridad y satisfacción de cada viajero que confía en su experiencia y dedicación."
+        },
+        "values": {
+            "vision": {
+                "name": "Visión",
+                "content1": "Ser líderes en turismo sostenible, ofreciendo experiencias únicas que conecten a los viajeros con el patrimonio cultural y natural, promoviendo la conservación del medio ambiente y la equidad social.",
+                "content2": "Nuestra visión resalta la sostenibilidad y responsabilidad social, atrayendo a un público consciente de viajar de manera responsable."
+            },
+            "mission": {
+                "name": "Misión",
+                "content1": "Ofrecer experiencias turísticas inolvidables con excelencia, calidad e innovación, contribuyendo al desarrollo económico y social de los destinos y fomentando la conservación del medio ambiente.",
+                "content2": "Nuestra misión prioriza la satisfacción del cliente, el desarrollo sostenible de los destinos y el cuidado del medio ambiente, con la excelencia en el servicio como pilar fundamental."
+            },
+            "valores": {
+                "name": "Nuestros Valores",
+                "subtitle": "En Machu Picchu by World, asumimos un compromiso total con nuestros clientes.",
+                "text1": "Nos comprometemos con la calidad y un servicio de excelencia.",
+                "text2": "Priorizamos la seguridad y comodidad de nuestros viajeros.",
+                "text3": "Satisfacemos las expectativas de cada cliente con atención personalizada.",
+                "text4": "Ofrecemos paquetes turísticos innovadores de alto nivel.",
+                "text5": "Contribuimos al desarrollo sostenible del turismo."
+            }
+        },
+        "scroll1": {
+            "title": "Conoce a Nuestro Equipo",
+            "subtitle": "Un equipo apasionado por brindarte experiencias inolvidables."
+        },
+        "team": {
+            "manager": {
+                "name": "LUIS ANGEL RONDAN CUEVA",
+                "position": "Gerente General",
+                "description": "Luis Ángel es un joven apasionado por el mundo del turismo. Nació en el distrito de Maras, perteneciente al departamento del Cusco. Desde muy niño apoyaba a su madre, quien se dedicaba a la actividad del turismo rural. Realizó sus estudios de primaria en Urubamba y de secundaria en Anta. Luego de concluir con buenas calificaciones, se trasladó a la ciudad de Cusco, donde comenzó a estudiar la carrera profesional de Guía Oficial de Turismo. A lo largo de este camino, trabajó en diferentes compañías muy importantes, ganando experiencia en el ámbito turístico. Durante sus estudios, nació la idea de crear una compañía dedicada a ofrecer experiencias únicas para diferentes viajeros, destacando el cuidado del medio ambiente y la revalorización de la importancia de la cultura incaica. Con el tiempo, esta visión se materializó en diversas experiencias de excelencia, reflejadas en plataformas como TripAdvisor.",
+                "imageAlt": "Luis Ángel Rondan Cueva - (Gerente General)"
+            },
+            "teamMembers": {
+                "member1": {
+                    "name": "Noemi Conde Yupanqui",
+                    "position": "Subgerente General",
+                    "imageAlt": "Noemi Conde Yupanqui (Subgerente General)"
+                },
+                "member2": {
+                    "name": "Miluska Quispe Gallegos",
+                    "position": "Jefa de Ventas",
+                    "imageAlt": "Miluska Quispe Gallegos (Jefa de Ventas)"
+                },
+                "member3": {
+                    "name": "Alvaro Álvarez Taqquiare",
+                    "position": "Ejecutivo de Reservas",
+                    "imageAlt": "Alvaro Álvarez Taqquiare (Ejecutivo de Reservas)"
+                },
+                "member4": {
+                    "name": "Pilar Alahui Quentasi",
+                    "position": "Jefa de Ventas",
+                    "imageAlt": "Pilar Alahui Quentasi (Jefa de Ventas)"
+                },
+                "member5": {
+                    "name": "Ronald Huanca Palacios",
+                    "position": "Ejecutivo de Ventas",
+                    "imageAlt": "Ronald Huanca Palacios (Ejecutivo de Ventas)"
+                },
+                "member6": {
+                    "name": "Jhordan Chacon Guerra",
+                    "position": "Marketing",
+                    "imageAlt": "Jhordan Chacon Guerra (Marketing)"
+                }
+            }
+        },
+        "scroll2": {
+            "title": "Viajamos Juntos, Crecemos Juntos",
+            "subtitle": "Unimos sueños y destinos mientras apoyamos a las comunidades que más lo necesitan"
+        },
+        "ourWork": {
+            "title1": "Sonrisas en",
+            "title2": "Un Día Especial para los Más Pequeños",
+            "subtitle": "En Machu Picchu by World, no solo nos dedicamos al turismo, también trabajamos para llevar alegría a las comunidades. Durante nuestra visita a Rosaspata, organizamos un show infantil y entregamos pequeños regalos a los niños, creando momentos de diversión y alegría para ellos."
+        },
+        "scroll3": {
+            "title": "Opiniones de Nuestros Viajeros",
+            "subtitle": "Experiencias reales, recuerdos inolvidables"
+        }
+    },
+    "ourLicenses": {
+        "seo": {
+            "title": "Nuestras Licencias y Certificaciones | MACHUPICCHU BY WORLD",
+            "meta_description": "Garantizamos tu seguridad con todas las certificaciones y licencias necesarias para operar en el sector turístico. Conoce nuestras licencias emitidas por GERCETUR, Municipalidad de Cusco y SUNAT.",
+            "keywords": [
+                "Licencias de agencia de viajes Cusco",
+                "Certificaciones de turismo en Perú",
+                "GERCETUR Machu Picchu",
+                "Licencia operativa de turismo",
+                "Agencia de viajes certificada en Cusco",
+                "Seguridad en turismo Machu Picchu"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/our-licenses",
+            "open_graph": {
+                "title": "Nuestras Licencias y Certificaciones | Machupicchu By World",
+                "description": "Contamos con todas las certificaciones y licencias necesarias para operar legalmente y garantizar un servicio seguro y confiable.",
+                "url": "https://machupicchubyworld.com/our-licenses",
+                "type": "website"
+            }
+        },
+        "title": "NUESTRAS LICENCIAS",
+        "subtitle": "Tu tranquilidad es nuestra prioridad. Contamos con todas las certificaciones y licencias necesarias para operar.",
+        "text1": {
+            "name": "CONSTANCIA OTORGADA POR EL GERCETUR",
+            "alt": "LICENCIA OTORGADA POR EL GERCETUR A MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        },
+        "text2": {
+            "name": "CERTIFICADO DE INSPECCION TÉCNICA",
+            "alt": "CERTIFICADO DE INSPECCION TECNICA OTORGADA POR EL LA MUNICIPALIDAD DEL CUSCO A MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        },
+        "text3": {
+            "name": "SUNAT - FICHA RUC",
+            "alt": "CONSTANCIA DE INFORMACIÓN REGISTRADA (CIR) - FICHA RUC DE MACHU PICCHU BY WORLD, DATOS OFICIALES SUNAT"
+        },
+        "text4": {
+            "name": "LICENCIA DE FUNCIONAMIENTO",
+            "alt": "LICENCIA DE FUNCIONAMIENTO OTORGADO POR LA MUNICIPALIDAD DEL CUSCO A MACHU PICCHU BY WORLD TRAVEL AGENCY"
+        }
+    },
+    "terminos": {
+        "seo": {
+            "title": "Términos y Condiciones | MACHUPICCHU BY WORLD",
+            "meta_description": "Lee nuestros términos y condiciones para disfrutar de una experiencia segura con Machu Picchu by World. Información sobre reservas, pagos, cancelaciones y más.",
+            "keywords": [
+                "Términos y condiciones de viaje",
+                "Políticas de reserva Machu Picchu",
+                "Cancelaciones y reembolsos tours Perú",
+                "Reglas de viaje a Machu Picchu",
+                "Condiciones de servicio de agencia de viajes",
+                "Machu Picchu términos legales"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/terms-conditions",
+            "open_graph": {
+                "title": "Términos y Condiciones | Machupicchu By World",
+                "description": "Consulta nuestras políticas de reserva, pagos, cancelaciones y responsabilidades para garantizar un viaje seguro y sin inconvenientes.",
+                "url": "https://machupicchubyworld.com/terms-conditions",
+                "type": "website"
+            }
+        },
+        "title": "TÉRMINOS Y CONDICIONES",
+        "subtitle": "Conoce las normas y políticas para disfrutar de nuestros servicios turísticos con seguridad y tranquilidad.",
+        "listContent": {
+            "list1": "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad, y brindan la seguridad necesaria.",
+            "list2": "No hay cambio de nombre ni devolución del boleto de ingreso a Machu Picchu una vez comprados con los datos correspondientes de una persona.",
+            "list3": "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas y/o manifestaciones, y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "list4": "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por temas relacionados con los ingresos a Machu Picchu.",
+            "list5": "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "list6": "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "list7": "Manejo de información del cliente: Para proceder con la reserva, le solicitaremos información personal, la cual será utilizada de manera estrictamente confidencial. Los detalles del cliente incluyen nombre completo, edad, nacionalidad, número de celular, número de pasaporte, información de vuelos internacionales y nacionales, y condición médica (imprescindible para realizar tours de aventura).",
+            "list8": "Reservaciones: Para confirmar la reserva de nuestros servicios, deberá efectuar un pago inicial del 50% del precio total de los servicios solicitados. Para los tours a Machu Picchu, es necesario hacer la reservación con el 50% del precio del servicio. Los pagos pueden ser realizados mediante depósitos, transferencias bancarias o aplicativos de BCP, BBVA, Interbank, Yape, Plin. Es importante mencionar que algunas modalidades de pago por tarjetas o pago por link, PayPal, generan comisiones, las cuales serán asumidas por el cliente.",
+            "list9": "Pago del saldo: El pago del saldo pendiente deberá ser efectivo o transferencia de forma presencial el día del arribo a la ciudad de Cusco, al momento de dar la explicación del itinerario y la entrega de los tickets y entradas. Por ningún motivo se le permitirá realizar las visitas guiadas si incurre en el incumplimiento del saldo pendiente.",
+            "list10": "Las tarifas de nuestros programas están sujetas a modificaciones de acuerdo con la tendencia de divisas en el mercado. Los precios no incluyen impuestos de ley para turistas nacionales. En el caso de turistas extranjeros, se aplicará la ley N° 919 de acuerdo con las normas que rigen en el país.",
+            "list11": "Itinerario: Las actividades programadas en los diferentes itinerarios pueden tener modificaciones debido a factores externos que no competen a la empresa. La agencia de viajes considerará tomar dichas acciones cuando sea necesario priorizar la seguridad de nuestros turistas ante casos fortuitos, como problemas sociales, acciones gubernamentales, condiciones climáticas, desastres naturales, epidemias, pandemias o cualquier otro factor que impida el libre desarrollo de actividades. La agencia de viajes no tiene ninguna responsabilidad por dichos acontecimientos, gastos adicionales que estos impliquen o por la no prestación de los servicios ofertados causados por factores anteriormente mencionados.",
+            "list12": "Modificaciones: Las modificaciones de fecha solicitadas por el cliente tendrán una penalidad del 5% del precio total. Las modificaciones correspondientes a Machu Picchu no son factibles por ningún motivo, así como las modificaciones antes de las 48 horas de cualquier otro tour. Con respecto a la modificación en hoteles, el cliente está sujeto a las políticas del establecimiento hotelero.",
+            "list13": "Cancelaciones y anulaciones: No habrá devolución de dinero por cancelaciones y anulaciones.",
+            "list14": "No show: En caso de no presentarse al tour, no se hará ningún reembolso, considerándose esto un no show. Responsabilidad y compromiso del cliente: Los clientes son responsables de llevar siempre consigo su documentación personal vigente, portar su tarjeta de migraciones y su pasaporte válido visado. Debe tener en cuenta la protección de sus pertenencias personales durante el uso de transportes internacionales y nacionales. Los equipajes deben contar con la debida documentación de la empresa prestadora del servicio para hacer el reclamo respectivo ante pérdidas o deterioros. Le recomendamos contar con un seguro de viajes antes de salir de su país. Consulte con su agente. Los clientes deben practicar un turismo responsable y sostenible, teniendo en cuenta que el cuidado y respeto por los atractivos turísticos culturales y naturales es primordial para la práctica de actividades. Seguir las normas de comportamiento de cada atractivo turístico salvaguardará su integridad personal y la del grupo.",
+            "list15": "Responsabilidades de la empresa: MachuPicchu by World está obligado a cumplir con el 100% de los servicios contratados por el cliente. En casos imprevistos, si los servicios no llegaran a cumplirse de acuerdo con lo estipulado en el presente contrato y esta responsabilidad sea atribuible a la empresa, el cliente está en la obligación de exigir el reembolso total por los servicios no prestados. En tales casos, la agencia de viajes se compromete a buscar las mejores alternativas de solución y brindar todas las facilidades para reparar los daños ocasionados. Los casos fortuitos, como problemas sociales, acciones gubernamentales, condiciones climáticas, desastres naturales, epidemias, pandemias o cualquier otro factor que impida el libre desarrollo de actividades no son atribuibles a la agencia de viajes.",
+            "list16": "Para envío de voucher digital de reserva: Al realizar el pago de la reserva, acepta los términos y condiciones presentes en el actual documento, otorga su consentimiento libre y expreso para el tratamiento de sus datos personales, lo que implica el recojo y la utilización de estos con la única finalidad de actualizarlos en nuestra base de datos y fines de los servicios contratados. A su vez, acepta haber sido informado y asesorado sobre la exposición que conlleva realizar actividades turísticas en sus diferentes modalidades.",
+            "list17": "Importante: Las tarifas promocionales están sujetas a temporada."
+        }
+    }
+}

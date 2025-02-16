@@ -1,0 +1,171 @@
+/* SECCION DE INSTITUCIONES QUE NOS RESPALDAN */
+.homeBehindUs>h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.homeBehindUsImage {
+    display: flex;
+    justify-content: center;
+    /* Centra las imágenes en el eje horizontal */
+    align-items: center;
+    /* Centra las imágenes verticalmente */
+    gap: 40px;
+    /* Espacio entre las imágenes */
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.homeBehindUsImage>img {
+    transition: all 0.3s ease;
+    /* Transiciones suaves para los efectos */
+}
+
+/* Imagen central (más grande) */
+.AgenciaRegistrada {
+    width: auto;
+    /* Imagen central más grande */
+    height: 210px;
+    position: relative;
+}
+
+/* Imágenes laterales */
+.TripadvisorCertificacion {
+    width: auto;
+    /* Imagen central más grande */
+    height: 145px;
+    position: relative;
+}
+
+.TurismoResponsable {
+    width: 110px;
+    /* Imagen lateral más pequeña */
+    height: auto;
+    position: relative;
+}
+
+.Gercetur {
+    width: 110px;
+    /* Imagen lateral más pequeña */
+    height: auto;
+    position: relative;
+}
+
+.Mincetur {
+    width: 100px;
+    /* Imagen lateral más pequeña */
+    height: auto;
+    position: relative;
+}
+
+.Trekking {
+    width: 150px;
+    /* Imagen lateral más pequeña */
+    height: auto;
+    position: relative;
+}
+
+.Calidad {
+    width: auto;
+    /* Imagen central más grande */
+    height: 135px;
+    position: relative;
+}
+
+
+/* Añadir reglas para centrado si es necesario */
+.homeBehindUsImage img {
+    position: relative;
+}
+
+/* Pantallas medianas (tablet) */
+@media (max-width: 1024px) {
+    .homeBehindUsImage {
+        gap: 30px;
+        /* Reduce el espacio entre las imágenes */
+    }
+
+    .AgenciaRegistrada {
+        height: 180px;
+        /* Ajusta el tamaño de la imagen central */
+    }
+
+    .TripadvisorCertificacion {
+        height: 135px;
+        /* Ajusta el tamaño de las imágenes laterales */
+    }
+
+    .Trekking {
+        width: 140px;
+        /* Ajusta el tamaño de la imagen lateral */
+    }
+
+    .Calidad {
+        height: 130px;
+        /* Ajusta el tamaño de la imagen */
+    }
+}
+
+/* Pantallas pequeñas (smartphones) */
+@media (max-width: 768px) {
+    .homeBehindUsImage {
+        flex-direction: row;
+        /* Asegura que las imágenes se mantengan en filas */
+        gap: 10px;
+        /* Reduce el espacio entre las imágenes */
+    }
+
+    .homeBehindUsImage>img {
+        width: calc(15% - 15px);
+        /* Ocupa el 50% del ancho, con menos espacio entre ellas */
+        height: auto;
+    }
+
+    .AgenciaRegistrada {
+        height: 180px;
+    }
+
+    .TripadvisorCertificacion {
+        height: 120px;
+    }
+
+    .Trekking {
+        width: 120px;
+    }
+
+    .Calidad {
+        height: 110px;
+    }
+}
+
+/* Pantallas muy pequeñas (móviles en modo retrato) */
+@media (max-width: 480px) {
+    .homeBehindUsImage {
+        flex-direction: row;
+        /* Asegura que las imágenes se mantengan en filas */
+        gap: 10px;
+        /* Reduce el espacio entre las imágenes */
+    }
+
+    .homeBehindUsImage>img {
+        width: calc(50% - 10px);
+        /* Ocupa el 50% del ancho, con espacio ajustado entre ellas */
+        height: auto;
+    }
+
+    .AgenciaRegistrada {
+        height: 130px;
+    }
+
+    .TripadvisorCertificacion {
+        height: 100px;
+    }
+
+    .Trekking {
+        width: 100px;
+    }
+
+    .Calidad {
+        height: 90px;
+    }
+}

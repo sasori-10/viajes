@@ -1,0 +1,64 @@
+.CarruselPaquetes {
+    width: 100%; /* Ocupa todo el ancho de la página */
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+.CarruselContenedor {
+    display: flex; /* Usamos Flexbox para distribuir las imágenes */
+    justify-content: center; /* Centra las imágenes en el contenedor */
+    gap: 1rem; /* Espacio entre las imágenes */
+    padding: 1rem 10rem;
+    overflow-x: auto; /* Permite desplazamiento horizontal si las imágenes exceden el ancho */
+    white-space: nowrap; /* Evita que las imágenes se envuelvan */
+}
+.CarruselImagen {
+    flex: 1 0 auto; /* Las imágenes ocupan el mismo ancho sin ser estiradas */
+    width: 18%; /* Asegura que las imágenes ocupen un 18% del ancho del contenedor */
+    height: auto; /* Mantiene la proporción de las imágenes */
+    object-fit: cover; /* Hace que las imágenes cubran su contenedor sin distorsionarse */
+    border-radius: 5px; /* Bordes redondeados */
+    transition: transform 0.3s ease; /* Transición suave al pasar el ratón */
+    display: block;
+}
+
+.CarruselImagen:hover {
+    transform: scale(1.05); /* Efecto de zoom al pasar el ratón */
+}
+.ScrollContent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ScrollContent>svg {
+    width: 2.5rem;
+    height: auto;
+}
+
+.TextoScroll {
+    color: #006D3B;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 800;
+}
+.TextoScroll::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 30%;
+    height: 3px;
+    background-color: #FDC318;
+    transform: translateX(-50%);
+    display: block;
+    border-radius: 10px;
+}
+.iconScroll{
+    margin-bottom: -15px;
+}

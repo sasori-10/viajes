@@ -1,0 +1,993 @@
+{
+    "labelMenu": {
+        "resumen": "RESUMEN",
+        "itinerario": "ITINERARIO COMPLETO",
+        "incluye": "INCLUYE",
+        "extras": "EXTRAS",
+        "queLlevar": "¿QUÉ LLEVAR?",
+        "importante": "IMPORTANTE"
+    },
+    "Salkantay4dias": {
+        "seo": {
+            "title": "Salkantay Trek + Machupicchu - 4 Días / 3 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "¡Disfruta del Salkantay Trek en 4 días! Desde la Laguna Humantay hasta Machupicchu, pasando por el desafiante Paso Salkantay, con vistas espectaculares y una experiencia única.",
+            "keywords": [
+                "Salkantay Trek",
+                "Salkantay Machupicchu",
+                "Trekking Salkantay",
+                "Laguna Humantay",
+                "Paso Salkantay",
+                "Chaullay",
+                "Aguas Calientes",
+                "Huayna Picchu",
+                "Viaje a Machupicchu",
+                "Trekking a Machupicchu",
+                "Aventura Salkantay",
+                "Aventura Machupicchu",
+                "Trekking Perú",
+                "Senderismo Machupicchu",
+                "Salkantay Trekking 4 días"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/salkantay-4d-3n",
+            "open_graph": {
+                "title": "Salkantay Trek + Machupicchu",
+                "description": "Disfruta de 4 días de aventura en el Salkantay Trek, desde la Laguna Humantay hasta Machupicchu, pasando por el Paso Salkantay y disfrutando de vistas impresionantes.",
+                "url": "https://machupicchubyworld.com/salkantay-4d-3n",
+                "type": "website"
+            }
+        },
+        "title": "SALKANTAY TREK + MACHUPICCHU",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "Disfruta de impresionantes paisajes, desde la Laguna Humantay hasta Machupicchu.",
+            "Asciende al Paso Salkantay a 4,640 metros sobre el nivel del mar.",
+            "Acampa en lugares como Soraypampa y Chaullay con vistas espectaculares.",
+            "Relájate en un hotel en Aguas Calientes tras un día de aventuras.",
+            "Viaja con una guía profesional que te acompañará en todo momento.",
+            "Vive una experiencia única de trekking rodeado de naturaleza."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Exigente",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Montaña Salkantay",
+            "alt2": "Laguna Humantay",
+            "alt3": "Montaña Salkantay",
+            "alt4": "Aguas Calientes",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Laguna Humantay - Paso Salkantay - Chaullay - Aguas Calientes - Machupicchu",
+        "descripcion": "¡Prepárate para una <strong>aventura épica</strong> en la ruta <strong>Salkantay</strong> hacia <strong>Machupicchu</strong>! Comienza con una caminata impresionante hacia la <strong>Laguna Humantay</strong> de aguas turquesas, luego asciende al desafiante <strong>Paso Salkantay</strong> a 4,640 metros, donde las vistas te dejarán sin aliento. Desciende hacia la selva alta amazónica y disfruta de la vibrante <strong>vida silvestre</strong>. Finalmente, explora la majestuosa ciudadela de <strong>Machupicchu</strong> y, si te sientes valiente, escala <strong>Huayna Picchu</strong>. ¡Este tour es una mezcla perfecta de <strong>paisajes impresionantes</strong>, <strong>cultura</strong> y <strong>aventura</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "Cusco - Mollepata - Challacancha - Soraypampa - Laguna Humantay",
+                "descripcion": "En el día 1 del tour, viajamos de Cusco a Challacancha, con una parada en Mollepata para desayuno. Luego, ascendemos a Soraypampa y visitamos la Laguna Humantay, terminando el día en Soraypampa bajo un cielo estrellado."
+            },
+            "dia2": {
+                "titulo": "Soraypampa - Paso Salkantay - Huayracmachay - Chaullay",
+                "descripcion": "El día 2 comienza con un desayuno y ascenso al Paso Salkantay a 4,640 m.s.n.m. Luego, descendemos a Huayracmachay para almorzar y continuamos hacia la selva amazónica, terminando en Chaullay para descansar."
+            },
+            "dia3": {
+                "titulo": "Chaullay - La Playa - Hidroeléctrica - Aguas Calientes",
+                "descripcion": "El Día 3, caminamos hacia Aguas Calientes, almorzamos en La Playa y luego tomamos transporte a Hidroelectrica. Puedes tomar el tren o caminar 3 horas. Al llegar, disfrutas de las termales o exploras el pueblo, terminando con cena y regreso al hotel."
+            },
+            "dia4": {
+                "titulo": "Aguas Calientes - Machupicchu - Ollantaytambo - Cusco",
+                "descripcion": "El último día, tras un desayuno, visitas Machupicchu, con opción de subir en bus o caminando. Luego, puedes escalar Huayna Picchu o la Montaña Machupicchu. Después, regresas a Aguas Calientes, tomas el tren a Ollantaytambo y te trasladan a Cusco, finalizando el tour."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "MOLLEPATA - CHALLACANCHA - SORAYPAMPA (LAGUNA HUMANTAY)",
+                "descripcion": [
+                    "4.00 a 4.30 A.M Comenzamos con el recojo en el hotel",
+                    "El viaje desde Cusco hasta el punto del Desayuno es aproximadamente de 3-4 horas pasando por Anta y Mollepata hasta llegar a Challacancha. Durante el recorrido, podras disfrutar de impresionantes vistas de las montana y el nevadas Salkantay. tambien la riqueza de la flora y Fauna.",
+                    "Después de una breve parada en Mollepata para utilizar los banos, comprar souvenirs y disfrutar de un desayuno andino preparado por los mismo cocineros de la localidad llegaremos a Challacancha.",
+                    "El guia les dara a conocer el equipo de apoyo y te prepararas para la caminata aproximadamente. A las 9:30 a.m.",
+                    "iniciando el recorrido comenzaras tu ascenso hacia Soraypampa (3820 m.s.n.m./ 12,621pies s.n.m), recorriendo 7 km (4.35 millas) en aproximadamente 3 horas.",
+                    "A lo largo del camino, podras observar un antiguo acueducto que todavia sirve a los agricultores locales para la riego de sembrios. Ilegando a Soraypampa, se servira el almuerzo con el Hermoso paisaje del nevado Salkantay (parte baja) seguido de una caminata de 5 km (3.1 millas) de ida y vuelta hasta el impresionante Laguna Humantay (4300 m.s.n.m./ 13,779 pies).",
+                    "Esta Laguna presenta aguas turquesas y reflejos de glaciares de Salkantay.",
+                    "Que parecen sacados de una pelicula ficticia debido a que presenta diferentes minerales de Laguna Humantay.",
+                    "luego regresaremos al campamento, donde disfrutaras de la tranquila en Soraypampa por la noche apreciaras una vista increible de estrellas creando una atmosfera pacifica, perfecta para la reflexión y la tranquilidad."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Soraypampa - Paso Salkantay - Wayracmachay - Chaullay",
+                "descripcion": [
+                    "Al despertar por la mañana aproximadamente a las 5:30 AM y desayunando rápidamente, comenzaremos nuestra caminata hacia el Paso Salkantay a 4.640 M.S.N.M.",
+                    "Este ascenso de 7 km nos tomará aproximadamente una caminata de 3 horas observando las impresionantes vistas de la montaña Salkantay y los picos circundantes.",
+                    "Al llegar a la cima, disfrutarás del espectacular nevado y todo el paisaje del alrededor, y tendrás tiempo libre para tomarte las mejores fotografías.",
+                    "Luego descenderemos aproximadamente 5 km hasta el campamento de almuerzo en Huayracmachay, apreciando un sendero rocoso y serpenteante con impresionantes vistas panorámicas del valle.",
+                    "Siguiendo nuestra caminata por la tarde, entraremos en la parte alta de la selva amazónica (caminata de 10 km aproximadamente).",
+                    "El clima presenta un cambio dramático en el paisaje y la atmósfera a medida que transitamos de los Andes a la Amazonía; la selva está llena de vibrante vida silvestre y plantas nativas.",
+                    "Terminaremos el día en el pueblo de Chaullay, que está aproximadamente a 2.900 M.S.N.M., donde podremos descansar en nuestros respectivos campamentos después de un increíble día de caminata."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Chaullay - La Playa - Hidroeléctrica - Aguas Calientes",
+                "descripcion": [
+                    "Al día siguiente nos despertaremos con todas las energías para seguir nuestra caminata hacia Aguas Calientes (Machupicchu).",
+                    "La caminata de Chaullay comienza súper temprano hacia la playa donde podremos disfrutar de nuestro almuerzo.",
+                    "Después de un rico almuerzo en La Playa, tomaremos el transporte local hasta la estación de tren de Hidroelectrica.",
+                    "Tendrás dos opciones:",
+                    "1. Si estás cansado, puedes tomar el tren a Aguas Calientes por un costo adicional de $37.00.",
+                    "2. Si te sientes con energía, puedes realizar la caminata de 3 horas a lo largo de los rieles del tren hacia Aguas Calientes, disfrutando del hermoso paisaje.",
+                    "Una vez en Aguas Calientes, realizas tu check-in en el hotel y puedes salir a relajarte en las aguas termales o explorar el encantador pueblo pequeño y hermoso, que cuenta con un ambiente tranquilo y libre de coches.",
+                    "Por la noche, aproximadamente a las 07:00 P.M., disfrutaremos de la cena en un restaurante local.",
+                    "Luego de la cena, dirígete a su respectivo hotel por su cuenta propia."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Aguas Calientes - Machupicchu - Ollantaytambo - Cusco",
+                "descripcion": [
+                    "Comenzamos con el desayuno en el hotel para luego subir hacia la ciudadela Machupicchu y disfrutar del recorrido antes de que la mayoría de los otros turistas lleguen.",
+                    "Para subir hacia la ciudadela Inca tenemos 2 opciones:",
+                    "1- Tomar el bus de consetur con un costo adicional de $12.00 (ida) o $24 (ida y vuelta) que te trasladará hacia la puerta de ingreso de Machupicchu.",
+                    "2- Realizar una caminata de 2 horas aproximadamente de Aguas Calientes a Machupicchu, es importante mencionar que la caminata puede ser exigente.",
+                    "En el ingreso o puerta de control presentarás tus tickets de ingreso a Machupicchu junto con el guía y recibirás una visita guiada de aproximadamente 2 horas.",
+                    "Después del recorrido, los pasajeros pueden escalar Huayna Picchu o la Montaña Machupicchu si han reservado sus boletos con anticipación.",
+                    "El tiempo estimado para subir y bajar estas montañas es de aproximadamente 3 horas.",
+                    "Después de disfrutar de esta fortaleza inca, nos dirigiremos de regreso al pueblo de Aguas Calientes.",
+                    "Luego nos trasladaremos hacia la estación 30 minutos antes de la salida de nuestro tren.",
+                    "Salida del tren de Aguas Calientes con destino a Ollantaytambo.",
+                    "Salida del transporte desde Ollantaytambo a la ciudad de Cusco."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del hotel en Cusco",
+            "Transporte turístico Cusco - Soraypampa",
+            "Ingreso para el trek de Salkantay",
+            "Ingreso a Machupicchu",
+            "Guía profesional experimentado",
+            "Equipo de Campamento (tiendas equipadas)",
+            "Kit médico",
+            "02 noches en camping o campamento en ruta",
+            "01 noche hotel en Aguas Calientes",
+            "01 Box lunch para el día 1 de la caminata",
+            "03 Desayunos",
+            "03 Almuerzos",
+            "03 Cenas",
+            "Boleto de tren Aguas Calientes - Ollantaytambo",
+            "Transporte de Ollantaytambo - Cusco",
+            "Mulas de carga para el día 1 y 2 (límite de peso 7kg)",
+            "Polo de identificación de Grupo",
+            "Asistencia Permanente",
+            "Regalo sorpresa después de terminar el tour"
+        ],
+        "noIncluye": [
+            "Bolsa de lona",
+            "Saco de dormir 20 USD (alquiler en oficina)",
+            "Bastones de trekking (par) 20 USD",
+            "Ingreso a Huayna Picchu 60 USD",
+            "Almuerzo y cena en Aguas Calientes",
+            "Bloqueador",
+            "Seguro de viaje",
+            "Snacks",
+            "Gastos fuera de servicio",
+            "Ingreso a Humantay 20.00 soles",
+            "Bus de Consetur Subida y bajada 24 USD (solo ida 12 USD)",
+            "Tren Hidroeléctrica - Aguas Calientes 37 USD"
+        ],
+        "queLlevar": [
+            "Pasaporte vigente",
+            "Dinero extra en soles",
+            "Medicamentos personales",
+            "Botella de agua",
+            "Repelente de insectos",
+            "Productos de aseo personal",
+            "Botas/zapatos de montaña",
+            "Calzado ligero o sandalias",
+            "Calcetines de caminata",
+            "Pantalones térmicos",
+            "Shorts",
+            "Escarpines impermeables",
+            "Camisetas manga larga",
+            "Casaca térmica/Casaca impermeable",
+            "Poncho impermeable",
+            "Guantes de lana o impermeables",
+            "Sombrero para sol",
+            "Gorro de lana, pañuelo para cuello",
+            "Lentes de protección UV",
+            "Bolsa de dormir, bastones de caminata",
+            "Mochila mediana (15 a 25 litros)",
+            "Traje de baño, toalla",
+            "Cámara, Batería externa",
+            "Linterna"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Salkantay5dias": {
+        "seo": {
+            "title": "Salkantay Trek + Machupicchu - 5 Días / 4 Noches | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive una aventura épica de 5 días por la ruta Salkantay, desde la Laguna Humantay hasta Machupicchu, pasando por el Paso Salkantay, la selva amazónica y el histórico Machupicchu.",
+            "keywords": [
+                "Salkantay Trek",
+                "Salkantay Machupicchu",
+                "Trekking Salkantay",
+                "Laguna Humantay",
+                "Paso Salkantay",
+                "Chaullay",
+                "Aguas Calientes",
+                "Llactapata",
+                "Cascadas Santa Teresa",
+                "Huayna Picchu",
+                "Montaña Machupicchu",
+                "Trekking Machupicchu",
+                "Aventura Salkantay",
+                "Aventura Machupicchu",
+                "Senderismo Perú"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/salkantay-5d-4n",
+            "open_graph": {
+                "title": "Salkantay Trek + Machupicchu 5 Días",
+                "description": "Disfruta de 5 días de aventura por la ruta Salkantay hacia Machupicchu, desde la Laguna Humantay hasta la selva amazónica, pasando por el Paso Salkantay y explorando ruinas incas.",
+                "url": "https://machupicchubyworld.com/salkantay-5d-4n",
+                "type": "website"
+            }
+        },
+        "title": "SALKANTAY TREK + MACHUPICCHU",
+        "day": "5 Días / 4 Noches",
+        "puntosClave": [
+            "Prepárate para un trekking épico rodeado por el majestuoso nevado Salkantay, con vistas a montañas, valles y la selva amazónica.",
+            "Explora ruinas incas, plantaciones de café y cascadas en el camino hacia Salkantay.",
+            "Duerme bajo las estrellas en campamentos, cabañas o domos con todas las comodidades.",
+            "Disfruta de un guía experto y un chef que prepara deliciosos platos adaptados a todos los gustos.",
+            "¡Y no te olvides de tu entrada a Machupicchu, con opciones de subir a Huayna Picchu o la Montaña!"
+        ],
+        "details": {
+            "duracion": "5 Días / 4 Noches",
+            "nivel": "Exigente",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Montaña Salkantay",
+            "alt2": "Paso Salkantay",
+            "alt3": "Laguna Humantay",
+            "alt4": "selva tropical alrededor de Chaullay",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Laguna Humantay - Paso Salkantay - Chaullay - Aguas Calientes - Machupicchu",
+        "descripcion": "Descubre una emocionante aventura de 5 días que te llevará desde <strong>Cusco</strong> hasta <strong>Machupicchu</strong>, pasando por la <strong>Laguna Humantay</strong>, el <strong>Paso Salkantay</strong> y la <strong>selva amazónica</strong>. Recorre antiguos <strong>caminos incas</strong>, visita <strong>Llactapata</strong> y culmina con una experiencia inolvidable en <strong>Machupicchu</strong>, con la opción de explorar <strong>Huayna Picchu</strong> o la <strong>Montaña Machupicchu</strong>. Un viaje único que combina <strong>naturaleza</strong>, <strong>historia</strong> y <strong>cultura</strong>. ¡Perfecto para aventureros!",
+        "resumen": {
+            "dia1": {
+                "titulo": "Cusco - Mollepata - Challacancha - Soraypampa - Laguna Humantay",
+                "descripcion": "El primer día comienza a las 4 a.m., viajando hacia Challacancha y caminando hasta la Laguna Humantay. Después, regresamos al campamento para descansar bajo un cielo estrellado."
+            },
+            "dia2": {
+                "titulo": "Soraypampa - Paso Salkantay - Huayracmachay - Chaullay",
+                "descripcion": "El Día 2 comienza con desayuno a las 5 a.m., seguido de una caminata hacia el paso Salkantay, un descenso hasta Huayracmachay, y 10 km hacia la selva amazónica, terminando en el campamento de Chaullay o domos (extra)."
+            },
+            "dia3": {
+                "titulo": "Chaullay - Collpapampa - La Playa - Lucmabamba",
+                "descripcion": "El Día 3 inicia a las 6 a.m. con una caminata de 6 horas por el valle de Santa Teresa, visitando cascadas y plantaciones de café. Luego, se explora la selva y se visita una finca de café orgánico, terminando en el campamento o domos (extra)."
+            },
+            "dia4": {
+                "titulo": "Chaullay - Collpapampa - La Playa - Lucmabamba",
+                "descripcion": "El Día 4 comienza con desayuno y caminata hacia Llactapata, seguido de un descenso y un trayecto de 3 horas hasta Aguas Calientes, donde se puede tomar el tren (extra). La noche es en un hotel compartido."
+            },
+            "dia5": {
+                "titulo": "Aguas Calientes - Machupicchu - Ollantaytambo - Cusco",
+                "descripcion": "El último día incluye una visita a Machupicchu, con opción de subir a Huayna Picchu o la Montaña (extra). Luego, regresamos a Cusco en tren y autobús, donde finaliza el tour."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco - Mollepata - Challacancha - Soraypampa - Laguna Humantay",
+                "descripcion": [
+                    "Comenzaremos con el recojo a las 4 am de su hotel (aprox). De preferencia cerca a la plaza principal.",
+                    "Luego nos dirigiremos durante 3-4 horas, pasando por Anta y Mollepata, hasta llegar a Challacancha, nuestro punto de inicio para la caminata.",
+                    "Alrededor de las 9:30 am, comenzaremos nuestra excursión hacia Soraypampa (3,869 msnm / 12,690 pies), lo que tomará aproximadamente 3 horas.",
+                    "Una vez allí, nuestro cocinero servirá el rico almuerzo.",
+                    "Después, caminaremos durante 3 horas (5 km / 3.1 millas) hasta la Laguna Humantay (4,221 msnm / 13,845 pies) donde apreciaremos la majestuosa Chakana cerca de Laguna Humantay.",
+                    "Tras visitarla, regresaremos a nuestro campamento o domos (costo Extra) en Soraypampa para pasar la noche.",
+                    "Donde la noche podrán apreciar las estrellas, a veces cometas, de los Andes del Perú."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Soraypampa - Paso Salkantay - Huayracmachay - Chaullay",
+                "descripcion": [
+                    "Usted disfrutarán de su desayuno a las 5 a.m. para luego inciar con nuestra caminata hacia el punto más alto de la ruta: el paso Salkantay o mas conocido el Abra (4,638 msnm/15,213 ft).",
+                    "Esto tomará al rededor de 4 horas en una distancia de 7 km(4.34 millas) a través de la base de la montaña Salkantay (6,271 msnm/20,574 ft).",
+                    "Luego caminaremos 5 km (3.1 millas) en descenso por protuverantes rocosos que nos llevará al lugar para comer en Huayracmachay conocido (Donde hay bastante viento), donde se servirá el almuerzo.",
+                    "Continuaremos nuestra ruta por la tarde, que nos llevará hacia la selva amazónica, donde podremos ver los 'bosques nubosos'.",
+                    "Este tramo es de 10 km (6.2 millas) y toma alrededor de 6 horas.",
+                    "Al final de esta desafiante caminata, llegaremos a nuestro campamento en Chaullay o si desea dormir en domos costo Extra (2,870 msnm / 9,414 ft) para pasar la noche."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Chaullay - Collpapampa - La Playa - Lucmabamba",
+                "descripcion": [
+                    "A las 6 am, comenzaremos nuestra caminata del día durante 6 horas a través del valle de Santa Teresa, hacia el pequeño pueblo de La Playa.",
+                    "Los pasajeros podrán observar ríos, cascadas, orquídeas silvestres, plantaciones de café, plátanos y aguacates (también conocidos como Paltas).",
+                    "También pasaremos por el pueblo de Collpapampa.",
+                    "Después de almorzar, exploraremos la selva tropical por un tiempo y visitaremos una finca de café orgánico.",
+                    "Nos dirigiremos al tercer campamento o Domos (costo extra) para pasar la noche allí.",
+                    "Desde la comodidad de nuestros domos, podrá estar en íntimo contacto con la naturaleza que le rodea.",
+                    "Mientras escuchas las voces del viento, la lluvia y la flora y fauna de la zona, sumérgete en este entorno verde."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Chaullay - Collpapampa - La Playa - Lucmabamba",
+                "descripcion": [
+                    "El Día de las Ruinas Incas y Tu Primer Vistazo de Machupicchu",
+                    "En el campamento, disfrutaremos el último desayuno.",
+                    "Luego, subiremos durante 2 horas a través del valle de Santa Teresa y llegaremos al sitio Inca de Llactapata, que exploraremos con nuestro guía.",
+                    "Nuestra caminata continuará con un descenso de 2 horas aproximadamente hasta el lugar donde se servirá el almuerzo.",
+                    "Después de esto, nos dirigiremos a la estación de tren en Hidroeléctrica.",
+                    "Llegaremos a las vías del tren, que caminaremos hasta el pueblo de Aguas Calientes durante 3 horas.",
+                    "Si alguno de los pasajeros está muy cansado, tendrá la opción de tomar el tren a Aguas Calientes (aprox. 37.00 dólares adicionales).",
+                    "Una vez en Aguas Calientes, el pasajero pasará la noche en el hotel, en una habitación compartida."
+                ]
+            },
+            {
+                "dia": "5",
+                "titulo": "Aguas Calientes - Machupicchu - Ollantaytambo - Cusco",
+                "descripcion": [
+                    "Iniciaremos muy temprano para disfrutar del sitio arqueológico de Machupicchu.",
+                    "Es importante mencionar que esta caminata hacia Machupicchu puede ser difícil y que hay la opción de tomar un autobús.",
+                    "Una vez dentro de Machupicchu, el guiado será aproximadamente de 2 horas.",
+                    "Después del recorrido, los pasajeros pueden subir a Huayna Picchu o a la Montaña Machupicchu (60 USD) si han reservado con antelación.",
+                    "El tiempo que toma subir y bajar estas montañas es de aproximadamente 3 horas.",
+                    "Después de disfrutar de esta fortaleza Inca, regresaremos a la ciudad de Aguas Calientes.",
+                    "Aproximadamente a las 18:20 PM o 18:45 PM (dependiendo del horario del ticket del tren), tomaremos nuestro tren de regreso a Ollantaytambo (aproximadamente 2 horas).",
+                    "En Ollantaytambo abordaremos nuestro autobús que nos llevará de regreso a la ciudad de Cusco.",
+                    "El tour finalizará cerca de la Plaza principal."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guía profesional de turismo (Experimentado).",
+            "Equipo de Camping.",
+            "Tiendas equipadas con comedor y cocina, mesas, sillas y material de cocina (todo transportado por los caballos).",
+            "Kit Médico.",
+            "Alojamiento Personal en Campamentos Privados.",
+            "Todo el alojamiento en los campamentos es para dos personas.",
+            "Cabañas de madera y tiendas.",
+            "Andean Huts.",
+            "Jungle Domes.",
+            "01 Noche de hotel en Aguas Calientes.",
+            "Comidas: 4 Desayunos, 4 Almuerzos, 4 Cenas.",
+            "Nuestro chef prepara los mejores platos en medio de la montaña! Respetamos todas las dietas (vegetariana, vegana), así que háznoslo saber si tienes alguna restricción particular en tu formulario de reserva y recuérdaselo a tu guía durante la reunión. Disfrutarás de desayuno, almuerzo y cena, además de bebidas calientes.",
+            "Día 1: Serás recogido de tu hotel por la mañana y viajarás en nuestro transporte hasta Challacancha, el punto de partida del trekking.",
+            "Día 5: Transporte desde la estación de tren de Ollantaytambo hasta tu hotel en Cusco.",
+            "Boleto de Tren.",
+            "Día 5: De Aguas Calientes a Ollantaytambo.",
+            "Mulas de Carga.",
+            "En los días 1, 2 y 3, las mulas de carga transportan todo el equipo de camping y tu límite de equipaje personal (7 kgs/15.4 lbs).",
+            "Permisos y entradas Tickets.",
+            "Boleto de entrada al Sitio Arqueológico de Machupicchu."
+        ],
+        "noIncluye": [
+            "Boleto de entrada para el Trek Salkantay (s/. 20).",
+            "Desayuno en el Día 1 (aproximadamente s/. 20).",
+            "Snacks.",
+            "Bolsa de lona.",
+            "Equipamiento de alquiler.",
+            "Todos nuestros viajeros necesitan un saco de dormir para acampar, y los bastones de senderismo (con puntas de goma) son opcionales, pero muy recomendados. Si no los tienes, no te preocupes, puedes alquilarlos con Machupicchu by World.",
+            "Ingreso a Huayna Picchu. (60 USD Opcional)",
+            "Ingreso Montaña Machupicchu. (60 USD Opcional)",
+            "No incluye guiado a la montaña Huayna Picchu ni a Montaña Machupicchu.",
+            "Día 5: Último almuerzo en Aguas Calientes.",
+            "Día 5: Boleto de bus de ida y vuelta Consettur Aguas Calientes - Machupicchu.",
+            "Ropa y equipo personal.",
+            "Seguro de viaje.",
+            "Propinas para nuestro personal.",
+            "Las propinas son habituales en cualquier excursión en Perú. Aunque pagamos buenos salarios a todo nuestro equipo, algo extra siempre es bienvenido, especialmente considerando el duro trabajo que realizan.",
+            "Costos adicionales o retrasos fuera del control de la administración.",
+            "Paisaje, condiciones climáticas adversas, modificación de itinerario debido a preocupaciones de seguridad, enfermedad, cambio de política gubernamental, inestabilidad política/paro, etc."
+        ],
+        "queLlevar": [
+            "Puedes escalar la famosa montaña que siempre se ve en las fotos, detrás del sitio arqueológico de Machupicchu. Son 45 minutos cuesta arriba. Bajar puede ser aterrador si temes a las alturas. Puedes hacer esta excursión una vez que termine tu recorrido guiado por Machupicchu. El costo adicional es de USD $60.00. El permiso debe ser emitido al menos 1 mes antes debido a la alta demanda. Para proteger tu integridad, puede haber cambios debido a las condiciones climáticas y está sujeto a disponibilidad.",
+            "Pasaporte vigente.",
+            "Dinero extra (recomendado soles).",
+            "Medicamentos personales.",
+            "Botella de agua o camelbak (opcional pastillas purificadoras).",
+            "Bloqueador solar 70+ o más.",
+            "Repelente de insectos.",
+            "Productos de aseo personal.",
+            "Botas/zapatos de montaña (de preferencia impermeables).",
+            "Pantalones para caminata (*).",
+            "Calcetines de caminata.",
+            "Pantalones térmicos.",
+            "Shorts.",
+            "Escarpines impermeables.",
+            "Camisetas manga larga.",
+            "Casaca térmica.",
+            "Casaca impermeable.",
+            "Poncho impermeable.",
+            "Guantes de lana o impermeables.",
+            "Sombrero que proteja cara y cuello.",
+            "Gorro de lana.",
+            "Pañuelo para cuello o buff.",
+            "Lentes con protección UV.",
+            "Bolsa de dormir (-15C).",
+            "Bastones de caminata.",
+            "Mochila para caminata mediana (15 a 25 litros).",
+            "Cámara con cargador.",
+            "Batería externa.",
+            "Snacks: barras energéticas, electrolitos, frutos secos, geles energéticos, etc.",
+            "Traje de baño.",
+            "Toalla.",
+            "Linterna."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "InkaTrail2dias": {
+        "seo": {
+            "title": "Inka Trail to Machupicchu -  2 Días | MACHUPICCHU BY WORLD",
+            "meta_description": "Disfruta de una aventura épica de 2 días en el Camino Inca, con paradas en Chachabamba, Wiñay Wayna, la Puerta del Sol y Machupicchu, con todo incluido: transporte, guía y más.",
+            "keywords": [
+                "Inca Trail 2 días",
+                "Camino Inca Machupicchu",
+                "Wiñay Wayna",
+                "Puerta del Sol",
+                "Inca Trail",
+                "Machupicchu 2 días",
+                "Aguas Calientes",
+                "Tour Inca Trail",
+                "Chachabamba",
+                "Machu Picchu",
+                "Aventura Machupicchu",
+                "Trekking Perú",
+                "Camino Inca 2 días"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/inka-trail-2d-1n",
+            "open_graph": {
+                "title": "Inka Trail to Machupicchu 2 Días",
+                "description": "Vive una aventura de 2 días por el Camino Inca, explorando lugares como Chachabamba, Wiñay Wayna, la Puerta del Sol y Machupicchu. Todo cubierto: transporte, guía y entradas.",
+                "url": "https://machupicchubyworld.com/inka-trail-2d-1n",
+                "type": "website"
+            }
+        },
+        "title": "INKA TRAIL TO MACHUPICCHU",
+        "day": "2 Días / 1 Noches",
+        "puntosClave": [
+            "¡Aventura épica! Caminatas, Wiñay Wayna, la Puerta del Sol y Machupicchu en solo 2 días.",
+            "Todo cubierto: transporte, entradas, guía top y asistencia 24/7 para que solo disfrutes.",
+            "Viaja con estilo: tren turístico, noche en Aguas Calientes y buses cómodos incluidos.",
+            "Historia viva: descubre los secretos de Machupicchu y sus lugares más increíbles.",
+            "¡Personaliza tu experiencia! Añade Huayna Picchu, baños termales o upgrades exclusivos."
+        ],
+        "details": {
+            "duracion": "2 Días / 1 Noches",
+            "nivel": "Moderado",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Camino Inca",
+            "alt2": "Chachabamba",
+            "alt3": "Camino Inca",
+            "alt4": "Camino Inca",
+            "alt5": "Inti Punku"
+        },
+        "lugares": "Chachabamba - Wiñay Wayna - Puerta del Sol (Intipunku) - Machupicchu - Aguas Calientes.",
+        "descripcion": "¡Prepárate para una <strong>aventura inolvidable</strong> en el <strong>Camino Inca</strong> de <strong>2 días y 1 noche</strong>! Comienza tu viaje en <strong>Chachabamba</strong>, donde te maravillarás con la <strong>flora y fauna local</strong>. Luego, asciende a la impresionante <strong>Wiñay Wayna</strong> y disfruta de sus terrazas incas. Al llegar a la <strong>Puerta del Sol (Intipunku)</strong>, serás recibido por una vista espectacular de <strong>Machupicchu</strong>. Pasa la noche en <strong>Aguas Calientes</strong> y, al día siguiente, explora la majestuosa ciudadela de <strong>Machupicchu</strong> con sus templos y plazas. ¡Este tour es una mezcla perfecta de <strong>historia</strong>, <strong>naturaleza</strong> y <strong>aventura</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "OLLANTAYTAMBO CHACHABAMBA KM 104 - MACHUPICHU.",
+                "descripcion": "Día 1: ¡A las 4 A.M. empieza la aventura! Parada en Ollantaytambo, tren al KM 104, caminata épica por Chachabamba, Wiñay Wayna y la Puerta del Sol. Vistas increíbles de Machupicchu y noche en Aguas Calientes. "
+            },
+            "dia2": {
+                "titulo": "AGUAS CALIENTES - CUSCO.",
+                "descripcion": "Día 2: Después del desayuno, visitamos Machupicchu con guía, exploramos, y volvemos a Aguas Calientes. Tras un rato libre, tomamos el tren a Ollantaytambo y retornamos a Cusco."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "CAMINATA CHACHABAMBA, KM 104 – MACHUPICHU.",
+                "descripcion": [
+                    "04:00 A.M. - Iniciaremos con el recojo desde su respectivo Hotel en la ciudad de Cusco para dirigirnos al pueblo de Ollantaytambo.",
+                    "En Ollantaytambo, haremos una pequeña parada para hacer las compras necesarias como repelente, bloqueador, etc.",
+                    "Luego nos dirigiremos a la estación de los trenes para abordar con destino al KM 104, observando el hermoso paisaje a las orillas del Rio Vilcanota.",
+                    "A.M. - Comenzaremos con la caminata desde Chachabamba (KM 104) a una altitud de 2,150 m.s.n.m. durante este recorrido apreciaremos la flora y fauna.",
+                    "P.M. - Visita a la zona arqueológica de Wiñay Wayna a una altitud de 2,650 m.s.n.m., apreciando sus hermosas terrazas como las qolcas y los baños del Inca.",
+                    "P.M. - Llegada a la Puerta del Sol (Intipunku) a una altura de 2,730 m.s.n.m., apreciando las hermosas terrazas de los Incas. Luego, nos dirigiremos a la Casa del Guardián de Llacta de Machupicchu.",
+                    "Desde la Casa del Guardián, tendremos una hermosa vista a la Ciudadela de Machupicchu con un paisaje espectacular.",
+                    "P.M. - Luego abordaremos los Buses de Consetur con destino al Pueblo de Aguas Calientes.",
+                    "P.M. - Pernocte en su respectivo hotel en el Pueblo de Aguas Calientes."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "VISITA LA LLACTA DE MACHUPICHU",
+                "descripcion": [
+                    "05:30 Nos serviremos nuestro desayuno en el hotel correspondiente.",
+                    "Luego de acuerdo al horario de nuestro ingreso a la llaqta de Machupicchu nos dirigiremos a la estación de donde salen los buses de Consetur.",
+                    "El tiempo que tomará la subida en el bus será un aproximado de 40 minutos, durante el trayecto por la carretera de Hiram Bingham apreciaremos los hermosos paisajes tanto como la flora y fauna.",
+                    "Una vez que ingresemos a la llaqta de Machupicchu, el guiado durará un aproximado de 2 horas en compañía de su guía, quien le brindará información sobre esta maravilla del mundo moderno.",
+                    "Podrá visitar los lugares más impresionantes como el templo de las 3 ventanas, el templo principal, la plaza sagrada, el famoso Intihuatana, escalinatas, plazas, fuentes, etc.",
+                    "Después del guiado, usted tendrá un tiempo libre para recorrer el lugar por su propia cuenta.",
+                    "Después bajará hasta el pueblo de Aguas Calientes en bus de Consetur.",
+                    "Finalmente, dispondrá de tiempo libre en Aguas Calientes (para almorzar, hacer compras, etc.).",
+                    "Esa misma tarde retornaremos en el tren hasta Ollantaytambo donde nos esperará nuestro conductor para llevarnos de retorno a la ciudad del Cusco.",
+                    "Pernocte en su respectivo hotel en la ciudad de Cusco."
+                ]
+            }
+        ],
+        "incluye": [
+            "Briefing y recojo desde el hotel del turista",
+            "Guía para el tour (español/inglés) completo",
+            "Tren ida y vuelta (tren turístico) dependiendo de la categoría solicitada",
+            "Un desayuno (Box Lunch)",
+            "Una noche de hotel en Aguas Calientes (Machupicchu pueblo)",
+            "Bus de Consetur Machupicchu - Aguas Calientes - Machupicchu - Aguas Calientes",
+            "Ingreso a Camino Inka",
+            "Ingreso a Wiñayhuayna",
+            "Boleto de ingreso para visitar la llaqta de Machupicchu",
+            "Transporte Cusco - Ollantaytambo - Cusco",
+            "Oxígeno de emergencia para la caminata de Camino Inka",
+            "Asistencia 24/7 a través de WhatsApp"
+        ],
+        "noIncluye": [
+            "Gastos extras que tengan fuera del servicio",
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL)",
+            "Vuelos (OPCIONAL)",
+            "Almuerzo el segundo día",
+            "Cena en los días indicados",
+            "Portes (OPCIONAL)",
+            "Ingreso a Huayna Picchu o Montaña de Machupicchu 60.00 USD"
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Pasaporte vigente",
+            "Dinero extra en soles",
+            "Medicamentos personales",
+            "Botella de agua",
+            "Repelente de insectos",
+            "Productos de aseo personal",
+            "Botas/ zapatos de montaña",
+            "Calzado ligero o sandalias",
+            "Calcetines de caminata",
+            "Pantalones térmicos",
+            "Shorts",
+            "Escarpines impermeables",
+            "Camisetas manga larga",
+            "Casaca térmica",
+            "Casaca impermeable",
+            "Poncho impermeable",
+            "Guantes de lana o impermeables",
+            "Sombrero para sol",
+            "Gorro de lana",
+            "Pañuelo para cuello",
+            "Lentes de protección UV",
+            "Mochila mediana (15 a 25 litros)",
+            "Traje de baño, toalla",
+            "Cámara, Batería externa, linterna"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "InkaTrail4dias": {
+        "seo": {
+            "title": "Inka Trail to Machupicchu - 4 Días | MACHUPICCHU BY WORLD",
+            "meta_description": "Adéntrate en el Camino Inca en una aventura de 4 días por paisajes épicos y ruinas misteriosas, con todo cubierto: permisos, camping, guías y transporte. Conquista el Abra de Warmihuanusca y explora Machupicchu.",
+            "keywords": [
+                "Inca Trail 4 días",
+                "Camino Inca Machupicchu",
+                "Camino Inca",
+                "Warmihuanusca",
+                "Machu Picchu",
+                "Ruinas Incas",
+                "Aventura Camino Inca",
+                "Trekking Perú",
+                "Paisajes Camino Inca",
+                "Wiñayhuayna",
+                "Tour Machupicchu 4 días",
+                "Inca Trail"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/inka-trail-4d-3n",
+            "open_graph": {
+                "title": "Inka Trail to Machupicchu 4 Días",
+                "description": "Embárcate en una aventura de 4 días por el legendario Camino Inca, explorando paisajes impresionantes y ruinas antiguas, con todo incluido: guías, camping, permisos y más.",
+                "url": "https://machupicchubyworld.com/inka-trail-4d-3n",
+                "type": "website"
+            }
+        },
+        "title": "INKA TRAIL TO MACHUPICCHU",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "¡Adéntrate en el legendario Camino Inca, rodeado de paisajes épicos y ruinas misteriosas!",
+            "¡Desafía el abra de Warmihuanusca y conquista vistas increíbles mientras exploras sitios arqueológicos únicos!",
+            "Relájate con guías expertos, cómodas carpas y comida deliciosa que te recargará de energía.",
+            "Vive la magia de Machupicchu, Wiñayhuayna y otros secretos incaicos en cada paso.",
+            "¡Todo está cubierto! Permisos, entradas, camping, oxígeno y transporte, solo te falta la mochila."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Moderado",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Machupicchu",
+            "alt2": "Ruinas de Machupicchu",
+            "alt3": "Camino Inca",
+            "alt4": "Camino Inca",
+            "alt5": "Camino Inca"
+        },
+        "lugares": "PISCACUCHO - HUAYLLABAMBA - PAKAY MAYO - WIÑAYHUAYNA - Machupicchu.",
+        "descripcion": "Disfruta de una caminata épica de <strong>4 días y 3 noches</strong> por el <strong>Camino Inca</strong>, pasando por <strong>paisajes impresionantes</strong> y <strong>ruinas antiguas</strong>. El viaje incluye visitas a <strong>Huayllabamba</strong>, <strong>Pacaymayu</strong> y <strong>Wiñayhuayna</strong>, culminando en la majestuosa ciudadela de <strong>Machupicchu</strong>. ¡Una <strong>aventura llena de historia</strong> y <strong>naturaleza</strong>!",
+        "resumen": {
+            "dia1": {
+                "titulo": "PISCACUCHO -HUAYLLABAMBA.",
+                "descripcion": "El primer día incluye un viaje en bus a Piscacucho, una caminata de 13 km junto al río Urubamba, visitando Miskay y Patallacta, y terminando en el campamento con almuerzo y noche bajo las estrellas."
+            },
+            "dia2": {
+                "titulo": "HUAYLLABAMBA - PAKAY MAYO.",
+                "descripcion": "El día 2 comienza con un desayuno y la subida al abra de Warmihuanusca, la parte más difícil del recorrido. Tras una caminata impresionante, llegamos a Lluluchpampa para almorzar. Luego, alcanzamos el punto más alto del día (4,200 m.s.n.m.) y descendemos al Valle del río Pacaymayu para la cena y una noche en las carpas. ¡Un día de grandes logros!"
+            },
+            "dia3": {
+                "titulo": "PAKAY MAYO - WIÑAYHUAYNA.",
+                "descripcion": "El día 3 comienza con desayuno, ascenso al abra de Runkuracay, exploración de Sayaqmarca y Phuyupatamarca, almuerzo en Chaquicocha y descenso a Wiñayhuayna para cenar y descansar."
+            },
+            "dia4": {
+                "titulo": "WIÑAYHUYNA - MACHUPICHU.",
+                "descripcion": "El día 4 comienza con desayuno y caminata hacia Wiñayhuayna e Intipunku, con vistas de Machupicchu. Después del tour guiado y tiempo libre, descendemos a Aguas Calientes y regresamos a Cusco en tren."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Cusco – Km 82 | Huayllabamba",
+                "descripcion": [
+                    "05:00 A.M. Le pasaremos a recogerlo a su hotel para luego dirigirnos en un bus privado hasta la Comunidad de Piscacucho ubicado en el kilometro 82 (2,800 m.s.n.m).",
+                    "En el recorrido pasaremos por el Valle Sagrado de los Incas, por la localidad de Urubamba y Ollantaytambo, en este lugar realizaremos una pequeña parada para que usted pueda hacer las compras necesarias como por ejemplo algunos medicamentos o bloqueadores, etc.",
+                    "Luego continuaremos con nuestro recorrido hasta Piscacucho. Al momento de llegar al Km. 82 (Piscacucho), pasaremos por el control, para comenzar con la caminata a orillas del río Urubamba.",
+                    "En esta primera tramo del camino inca, visitaremos la pequeña comunidad de Miskay (2,800 m.s.n.m.).",
+                    "Más tarde llegaremos a la pequeña meseta, desde este sitio tendremos una vista panorámica al Centro Arqueológico de Patallacta de donde apreciaremos de la parte más alta las construcciones incas, terrazas, qolcas y andenerías.",
+                    "Más tarde el personal de Porter encabezado por el cocinero nos estará esperando listo ya con el delicioso almuerzo en el respectivo campamento.",
+                    "Después de haber caminado por alrededor de 13 kilómetros llegaremos a nuestro primer campamento donde cenaremos y pasaremos la noche en las carpas que nuestro personal de Porter nos ha preparado con mucho cariño.",
+                    "Antes de pernoctar, el guía nos dará una pequeña explicación sobre la caminata del día siguiente."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Huayllabamba – Pacaymayo",
+                "descripcion": [
+                    "04:30 A.M. Nos depertaremos y nuestros amigos porter nos esperaran ya con el delicioso Desayuno, para alistarnos para Iniciar con la caminata.",
+                    "En este día tendremos un gran reto para subir hacia el abra de Warmihuanusca que sera la caminata mas fuerte de todo los tramos.",
+                    "Seguidamente empezaremos nuestra caminata con direccion al valle de Ayapata el cual tomara 1 hora para llegar a este sector.",
+                    "Después pasaremos a través de un sendero estrecho lleno de vegetación, pasando por un pequeño puente que nos llevará a través de un bosque nuboso, con una belleza unica de la flora y fauna.",
+                    "Luego llegaremos al campamento de Lluluchpampa, el Cocinero juntamente con el personal de porter nos esperaran con un delicioso Almuerzo para aumentar energias para el ultimo tramo del abra.",
+                    "Finalmente llegaremos al punto mas alto, el abra Warmihuañusca, nombre en quechua que significa 'Cuando la mujer muere'. Este punto tiene una altura de 4,200 m.s.n.m.",
+                    "Luego descenderemos hasta llegar al Valle del rio Pacaymayu (3,600 m.s.n.m.), donde tendremos nuestra cena y campamento nocturno.",
+                    "Al llegar el Cocinero y el personal de porter nos recibira con aplausos por lograr el tramo mas pesado.",
+                    "Luego tendremos nuestro delicioso cena que nos prepar el cocinero con la ayuda del personal del porter.",
+                    "Mas tarde pernoctaremos en las carpas que nos alistaron nuestros amigos porteadores."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Pacaymayo | Wiñayhuayna",
+                "descripcion": [
+                    "04:30 A.M. Nos despertaremos para alistarnos para proseguir con la caminata.",
+                    "Luego tendremos nuestro delicioso desayuno ya listo, que nos preparo el Cocinero juntamente con la ayuda del personal porter.",
+                    "Luego de un nutritivo desayuno seguiremos nuestra caminata ascendiendo un camino empinado pasaremos por una segunda abra donde se encuentran el impresionante restos arqueológicos de Runkuracay 3,800 (m.s.n.m.) el jcual toma el nombre por su forma unica de medio círculo.",
+                    "Luego ascenderemos hacia la laguna Yanacocha (laguna negra) y continuaremos hasta llegar a Sayaqmarca (3,600 (m.s.n.m.) llamado 'El pueblo dominante', donde apreciaremos imprecionantes construcciones incas.",
+                    "Después seguiremos con la caminata hasta llegar a Chaquicocha y nuestro Cocinero al igual nuestros amigos porter nos esperaran y nos recibirán con unos aplausos para luego disfrutar del almuerzo.",
+                    "Luego nos dirigiremos con destino a la tercera y última abra, donde veremos en el sitio arqueológico de Phuyupatamarca (3,665 m.s.n.m.).",
+                    "Proseguimos la caminata bajando al sitio arqueológico Wiñayhuayna, aquí el Cocinero y personal de porter nos dará la ultima bienvenida por lograr este tramo y más tarde tendremos la cena correspondiente para luego pernoctar."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Wiñaywayna – Machupicchu",
+                "descripcion": [
+                    "04:00 A.M. En este último día nos levantaremos muy temprano para luego tomar desayuno (box lunch) y continuar con nuestra caminata.",
+                    "Luego nos dirigiremos al centro Arqueológico de Wiñayhuayna, aquí tendremos la oportunidad de apreciar recintos incas, baño de los inca, qolcas, etc.",
+                    "Después de una breve caminata, llegaremos a la zona de Intipunku o Puerta del Sol (2,490 m.s.n.m.), un pequeño complejo de edificios aparentemente utilizados como un control al acceso a la llacta de Machupicchu.",
+                    "Es una excelente oportunidad para tomar fotos panorámicas de la ciudadela de Machupicchu, tal vez el mejor lugar y momento para observar el esplendor de la Ciudad Perdida de los Incas.",
+                    "Luego descenderemos para recorrer la ciudadela inca de Machupicchu. Tendremos un tour guiado de aproximadamente 2 horas.",
+                    "También dispondremos de un tiempo libre para que usted pueda disfrutar esta maravilla del mundo.",
+                    "Después bajaremos en bus de Consettur a Aguas Calientes (2,160 m.s.n.m.), donde usted podrá visitar los baños termales del pueblo (la entrada de 10 Soles no está incluida en el tour).",
+                    "Finalmente, retornaremos al Cusco en bus y tren Expedition (de forma opcional, por un costo extra, puede solicitar un tren superior Vistadome)."
+                ]
+            }
+        ],
+        "incluye": [
+            "Briefing el primer día antes de realizar la actividad de trekking.",
+            "Box lunch (día 1).",
+            "Carpa comedor con sillas y mesas.",
+            "Carpa compartida Eureka Timberline para 2 personas.",
+            "Porteador para 7 kg de pertenencias personales.",
+            "3 personal de porter por persona (solo 18 kilos puede cargar si es varón, si es mujer un poco menos).",
+            "Menajerías para la ruta y equipo de camping.",
+            "4 desayunos, 3 almuerzos, 3 cenas.",
+            "Tanque de oxígeno y botiquín de primeros auxilios.",
+            "Permiso para ingreso a Camino Inca.",
+            "Ingreso a Machupicchu.",
+            "Guía en español o inglés.",
+            "Boleto de tren de retorno a Ollantaytambo (Expedition o The Voyager 14:30, 14:55 o 15:20).",
+            "Bus de Consettur Machupicchu-Aguas Calientes.",
+            "Gas para cocinar.",
+            "Baño.",
+            "Transporte Ollantaytambo-Cusco.",
+            "Camiseta de recuerdo de Camino Inca.",
+            "Almacenamiento de equipaje de cortesía.",
+            "Chef profesional que prepara desayunos, almuerzos y cenas.",
+            "Almacenamiento gratuito para pertenencias personales adicionales."
+        ],
+        "noIncluye": [
+            "Ingreso a los baños termales en Aguas Calientes (OPCIONAL).",
+            "Bolsas de dormir (puede alquilar en la oficina a 25 USD).",
+            "Bastones de trekking (15 USD).",
+            "Ingreso a Huayna Picchu o Montaña (60 USD por su cuenta, no incluye guiado).",
+            "Almuerzo del último día después del tour a Machupicchu.",
+            "Seguro de viaje."
+        ],
+        "extras": [
+            "Vuelos (opcional).",
+            "Hoteles de más categoría (previa cotización).",
+            "Otras categorías de tren (previa cotización)."
+        ],
+        "queLlevar": [
+            "Pasaporte vigente",
+            "Dinero extra en soles",
+            "Medicamentos personales",
+            "Botella de agua",
+            "Repelente de insectos",
+            "Productos de aseo personal",
+            "Botas/zapatos de montaña",
+            "Calzado ligero o sandalias",
+            "Calcetines de caminata",
+            "Pantalones térmicos",
+            "Shorts",
+            "Escarpines impermeables",
+            "Camisetas manga larga",
+            "Casaca térmica",
+            "Casaca impermeable",
+            "Poncho impermeable",
+            "Guantes de lana o impermeables",
+            "Sombrero para sol",
+            "Gorro de lana",
+            "Pañuelo para cuello",
+            "Lentes de protección UV",
+            "Bolsa de dormir",
+            "Bastones de caminata",
+            "Mochila mediana (15 a 25 litros)",
+            "Traje de baño",
+            "Toalla",
+            "Cámara",
+            "Batería externa",
+            "Linterna"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "InkaJungle": {
+        "seo": {
+            "title": "Inca Jungle + Machupicchu - 4 Días | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive una aventura única de 4 días. Desde el descenso en bicicleta en Abra Málaga hasta la exploración de Machupicchu, pasando por rafting, zipline, baños termales y mucho más. ¡Disfruta de la selva y cultura incaica!",
+            "keywords": [
+                "Inca Jungle",
+                "Inca Jungle Machupicchu",
+                "Bicicleta Abra Malaga",
+                "Rafting Vilcanota",
+                "Baños Termales Cocalmayo",
+                "Zipline",
+                "Camino Inca",
+                "Aventura Machupicchu",
+                "Caminata Santa Teresa",
+                "Explorar Machupicchu",
+                "Viaje a Machupicchu"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/inka-jungle-4d-3n",
+            "open_graph": {
+                "title": "Inca Jungle + Machupicchu 4 Días",
+                "description": "Vive una aventura única de 4 días que incluye bici, rafting, zipline y una exploración completa de Machupicchu. ¡Adrenalina, cultura y naturaleza en un solo tour!",
+                "url": "https://machupicchubyworld.com/inka-jungle-4d-3n",
+                "type": "website"
+            }
+        },
+        "title": "INCA JUNGLE + MACHUPICCHU",
+        "day": "4 Días / 3 Noches",
+        "puntosClave": [
+            "Disfruta de un descenso en bicicleta y rafting en el río Vilcanota desde el primer día.",
+            "Explora la flora tropical y aprende sobre café orgánico durante la caminata a Santa Teresa.",
+            "Vive la adrenalina con actividades de Canopi, Zipline y una caminata por el Santuario de Machupicchu.",
+            "Realiza una visita guiada a Machupicchu con tiempo libre para explorar y subir a Huayna Picchu.",
+            "Viaja con comodidad y seguridad gracias a equipos de calidad, guías expertos y alojamiento en hostales cómodos."
+        ],
+        "details": {
+            "duracion": "4 Días / 3 Noches",
+            "nivel": "Moderado",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Camino Inca",
+            "alt2": "Cocalmayo",
+            "alt3": "Rafting",
+            "alt4": "ZipLine",
+            "alt5": "Machupicchu"
+        },
+        "lugares": "Abra Malaga - Santa María - Santa Teresa - Aguas Calientes - Machupicchu - Cusco",
+        "descripcion": "¡Vive una <strong>aventura única de 4 días</strong>! Comienza con una emocionante bajada en bicicleta desde <strong>Abra Málaga</strong>, disfruta de rafting en el <strong>río Vilcanota</strong> y camina por el histórico <strong>Camino Inca</strong>. Explora la <strong>selva tropical</strong>, visita una <strong>familia local</strong>, relájate en las <strong>aguas termales de Cocalmayo</strong> y siente la adrenalina con <strong>tirolesa</strong> y <strong>zipline</strong>. Luego, descubre <strong>Machupicchu</strong> en todo su esplendor, con tiempo libre para explorar y la opción de subir a <strong>Huayna Picchu</strong>. Un tour lleno de <strong>emoción</strong>, <strong>cultura</strong> y <strong>paisajes impresionantes</strong> que te dejarán recuerdos inolvidables.",
+        "resumen": {
+            "dia1": {
+                "titulo": "Descenso en Bicicleta desde Abra Malaga a Santa Maria",
+                "descripcion": "Día 1: Recojo en Cusco, desayuno en Ollantaytambo y capacitación sobre bicicletas en Abra Malaga. Descenso hacia Santa Maria, almuerzo, y Rafting o Canotaje por la tarde. Cena y descanso en un hostal. ¡Aventura asegurada!"
+            },
+            "dia2": {
+                "titulo": "Caminata hacia Santa Teresa y Relajación en los Baños Termales",
+                "descripcion": "Día 2: Desayuno, caminata hacia Santa Teresa, aprendemos sobre café orgánico, vistas al Valle del Cusco y Río Urubamba. Almuerzo en Qellomayo, baño termal en Cocalmayo y descanso en Santa Teresa."
+            },
+            "dia3": {
+                "titulo": "Aventura en Canopi, Zipline y Caminata hacia Aguas Calientes",
+                "descripcion": "Día 3: Desayuno a las 6:30 a.m., Canopi y Zipline opcionales, caminata de 1 hora hasta Hidroelectrica para almorzar. Luego, 2.5 horas a pie hasta Aguas Calientes, disfrutando la naturaleza. Llegada a las 7:00 p.m., cena y descanso en el hotel."
+            },
+            "dia4": {
+                "titulo": "Exploración de Machupicchu y Regreso a Cusco",
+                "descripcion": "Día 4: Visita guiada de 2 horas por Machupicchu, con tiempo libre para explorar o subir a Huayna Picchu. Regreso a Aguas Calientes, tren a Ollantaytambo y bus a Cusco, donde termina el tour."
+            }
+        },
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Descenso en Bicicleta desde Abra Malaga a Santa Maria",
+                "descripcion": [
+                    "Iniciaremos el recojo muy temprano de su hotel en Cusco para dirigirnos hacía Abra Malaga, (4 horas aprox.) en el trayecto haremos una pequeña parada en el pueblo de Ollantaytambo (30min aprox.) tiempo para poder desayunar, comer snacks o ir a los servicios higiénicos.",
+                    "Cuando lleguemos a Abra Malaga el guía presentará a todo el equipo de trabajo, para luego dar el briefing correspondiente del día 01.",
+                    "Después el guía dará una pequeña capacitación del uso de la bicicleta. Descenderemos hasta Santa Maria por 3 horas aproximadamente.",
+                    "Se brindará equipos de seguridad como cascos, chalecos, rodilleras, etc.",
+                    "Cuando lleguemos a Santa Maria (1450 msnm) degustaremos de nuestro almuerzo.",
+                    "En la tarde haremos una de las más emocionantes actividades, sea Canotaje o Rafting (opcional) en el río Vilcanota Clase III, IV.",
+                    "Descansaremos y cenaremos en el hostal de Santa Maria brindados por la agencia."
+                ]
+            },
+            {
+                "dia": "2",
+                "titulo": "Caminata hacia Santa Teresa y Relajación en los Baños Termales",
+                "descripcion": [
+                    "El día 02 comienza con un rico desayuno, para iniciar la caminata hacia Santa Teresa.",
+                    "En el trayecto podremos observar flora y fauna exóticas de clima tropical.",
+                    "Tendremos la oportunidad de visitar a una familia local y aprender a hacer café orgánico artesanal.",
+                    "Luego caminaremos por una parte clásica del Camino Inca, con impresionantes vistas del Valle del Cusco y el Río Urubamba.",
+                    "El viaje continúa con un descenso a Qellomayo (1650 msnm), donde almorzaremos, seguido de una pequeña siesta en hamacas.",
+                    "Tendremos un tiempo libre en los Baños Termales de Cocalmayo para relajarnos, uno de los más bonitos de la región Cusco.",
+                    "Finalmente, caminaremos unos 40 minutos hasta el poblado de Santa Teresa, donde cenaremos y descansaremos para recargar energías para el día siguiente."
+                ]
+            },
+            {
+                "dia": "3",
+                "titulo": "Aventura en Canopi, Zipline y Caminata hacia Aguas Calientes",
+                "descripcion": [
+                    "Despertamos a las 6:30 a.m. para desayunar y comenzar un día lleno de acción.",
+                    "Realizaremos la actividad opcional de Canopi y Zipline por la mañana, recogidos a las 8:00 a.m. por la empresa de tirolesa para un emocionante viaje de 2 horas a través de cuatro tirolesas y puentes colgantes.",
+                    "Continuamos la aventura caminando durante 1 hora hasta Hidroelectrica para degustar un rico almuerzo.",
+                    "Después del almuerzo, caminamos por una de las rutas más emblemáticas, Hidroelectrica - Aguas Calientes, durante aproximadamente 2 horas y media.",
+                    "En el trayecto, pasaremos por las vías del tren, observando flora y fauna de la ceja de selva del Santuario de Machupicchu.",
+                    "Llegaremos a Aguas Calientes alrededor de las 7:00 p.m. y cenaremos en un restaurante local.",
+                    "Finalmente, descansaremos en nuestro respectivo hotel."
+                ]
+            },
+            {
+                "dia": "4",
+                "titulo": "Exploración de Machupicchu y Regreso a Cusco",
+                "descripcion": [
+                    "Desayunaremos en nuestro respectivo hostal.",
+                    "Nos dirigiremos a la estación de buses de Consettur para llevarnos al control de tickets del Parque Arqueológico de Machupicchu.",
+                    "Una vez ingresados a Machupicchu, tendremos una visita guiada de 2 horas aproximadamente por los lugares más destacados del parque, aprendiendo sobre la historia y cultura de los Incas.",
+                    "Tiempo libre para explorar por cuenta propia. Si tienen planeado escalar Huayna Picchu, deberán haber separado el ticket con anticipación (aproximadamente 2 meses). Es importante destacar que el recorrido a Huayna Picchu será independiente.",
+                    "Retornaremos en bus hacia Aguas Calientes y posteriormente tomaremos nuestro tren de Aguas Calientes a Ollantaytambo, dependiendo del horario del tren.",
+                    "Viajaremos en bus desde Ollantaytambo hasta la ciudad de Cusco.",
+                    "Finalmente, llegaremos a la ciudad de Cusco para ser trasladados a su respectivo hostal. Fin del servicio."
+                ]
+            }
+        ],
+        "incluye": [
+            "Recojo del Hotel en Cusco",
+            "Transporte privado del Cusco a Carrizales donde comenzamos el tour",
+            "Guía profesional Español o Inglés",
+            "Alimentación: 3 desayunos, 3 almuerzos, 3 cenas (Opcional comida vegetariana)",
+            "Equipo Biking (bicicleta, protector de brazos y rodilleras, casco, guantes, etc)",
+            "3 noches de hostal",
+            "Equipo de primeros auxilios",
+            "Canotaje o Rafting río Vilcanota",
+            "Tirolesa o zip line",
+            "Ticket de entrada a Machupicchu Santuario Arqueológico",
+            "Visita guiada de 2 horas en Machupicchu",
+            "Bus de ida y bajada de Machupicchu al pueblo de Aguas Calientes",
+            "Tren de Retorno a Ollantaytambo",
+            "Transporte Privado de Retorno a Cusco"
+        ],
+        "noIncluye": [
+            "Alimentación y bebidas no mencionadas en el programa",
+            "Bolsa de dormir (puede rentar en la oficina USD 25.00)",
+            "Bastones de caminata (puede rentar en la oficina USD 10.00)",
+            "Seguro de Viajero",
+            "Ingreso a Huayna Picchu o Montaña de Machupicchu (adicional USD 60.00)",
+            "Entrada a los baños termales de Santa Teresa (PEN 10.00)",
+            "Entrada a los baños termales de Cocalmayo (PEN 10.00)",
+            "Almuerzo y cena en el día 04",
+            "Desayuno en el primer día",
+            "Ropa y equipo personal de senderismo",
+            "El día 3, puedes tomar el tren desde Hidroeléctrica (opcional)",
+            "Actividades extras y propinas para el personal (opcional)"
+        ],
+        "queLlevar": [
+            "Pasaporte válido",
+            "Dinero extra (en moneda nacional soles)",
+            "Medicación personal",
+            "Botella de agua o tabletas purificadoras de agua (opcional)",
+            "Protector solar: factor 70 o más",
+            "Repelente de insectos",
+            "Productos de higiene personal",
+            "Botas o zapatos para caminar (preferiblemente impermeables)",
+            "Zapatos ligeros o sandalias",
+            "Pantalones de trekking",
+            "Calcetines de trekking",
+            "Bermudas",
+            "Camisetas de manga larga",
+            "Chaqueta de abrigo",
+            "Chaqueta impermeable",
+            "Capas de lluvia o poncho para la lluvia",
+            "Gorro para proteger el cuello y la cara",
+            "Gafas de sol con protección UV",
+            "Mochila de trekking mediana (15 - 25 litros)",
+            "Cámara y cargador",
+            "Baterías extra para cargar los móviles (opcional)",
+            "Snacks: Barritas energéticas, chocolate, caramelos, frutos secos, etc.",
+            "Ropa para los bañarios: Traje de baño, toalla, sandalias, etc.",
+            "Importante llevar los ingresos brindados por la agencia"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    }
+}

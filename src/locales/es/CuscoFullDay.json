@@ -1,0 +1,368 @@
+{
+    "labelMenu": {
+        "resumen": "RESUMEN",
+        "itinerario": "ITINERARIO COMPLETO",
+        "incluye": "INCLUYE",
+        "extras": "EXTRAS",
+        "queLlevar": "¿QUÉ LLEVAR?",
+        "importante": "IMPORTANTE"
+    },
+    "Parapente": {
+        "seo": {
+            "title": "PARAPENTE VALLE SAGRADO - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Vuela sobre el Valle Sagrado en una emocionante aventura de parapente. Disfruta de impresionantes vistas desde los 3800 metros sobre el nivel del mar. ¡Reserva tu vuelo inolvidable ahora!",
+            "keywords": [
+                "Parapente Valle Sagrado",
+                "Aventura Valle Sagrado",
+                "Tour Parapente",
+                "Vistas Andinas",
+                "Parapente Cusco",
+                "Parapente en Cusco",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/parapente-valle-sagrado",
+            "open_graph": {
+                "title": "Parapente Valle Sagrado - Full Day",
+                "description": "Emprende una experiencia de parapente inolvidable sobre el Valle Sagrado. Vuela a 3800 metros sobre el nivel del mar y disfruta de paisajes andinos impresionantes. Seguridad y guías expertos incluidos.",
+                "url": "https://machupicchubyworld.com/parapente-valle-sagrado",
+                "type": "website"
+            }
+        },
+        "title": "PARAPENTE VALLE SAGRADO",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Transporte ida y vuelta desde Cusco incluido.",
+            "Vuelo en parapente de 10 a 25 minutos.",
+            "Guía bilingüe español-inglés durante el tour.",
+            "Despegue desde 3800 msnm en el Valle Sagrado.",
+            "Actividad segura, cancelación si el clima no es seguro."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "imagen referencial del parapente",
+            "alt2": "Valle Sagrado"
+        },
+        "lugares": "Racchi - Valle Sagrado de los Incas - Chinchero (opcional).",
+        "descripcion": "El <strong>parapente</strong> es un deporte que requiere voluntad y mucha fuerza para disfrutar del <strong>hermoso paisaje</strong> desde los <strong>cielos andinos</strong> más altos. Nuestros <strong>guías capacitados</strong> te brindarán un excelente servicio para asegurarte una <strong>aventura inolvidable</strong> con <strong>Machupicchu by World</strong>. <strong>Advertencia:</strong> Si eres una persona con dificultades respiratorias o tienes mucha fobia a la altura, se recomienda no participar.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Valle Sagrado de los Incas",
+                "descripcion": [
+                    "El tour comienza con el recojo de los pasajeros entre las 08:15 am y las 08:30 am. Luego, se realiza el traslado hacia el lugar de despegue, ubicado a 3800 msnm, aproximadamente a 01:30 horas de Cusco. Dependiendo de las condiciones climáticas, el vuelo en parapente tiene una duración de entre 10 y 25 minutos, y antes de despegar, se realiza un briefing de seguridad."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte Turístico",
+            "Vuelo en Parapente junto a un Piloto Profesional acreditado.",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Gastos extras.",
+            "Propinas para el Guía"
+        ],
+        "queLlevar": [
+            "Usar zapatos cómodos",
+            "Casaca abrigadora",
+            "Bloqueador solar",
+            "Sombrero para los días de sol",
+            "Cámaras fotográficas",
+            "Dinero extra en moneda nacional",
+            "Pantalones cómodos",
+            "Lentes de sol"
+        ],
+        "extras": [
+            "Transporte: Incluido en el servicio de ida y regreso a Cusco.",
+            "Video GO-PRO: Servicio adicional con un costo de $20.00 dólares."
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Canotaje": {
+        "seo": {
+            "title": "CANOTAJE RÍO VILCANOTA - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Disfruta de una emocionante experiencia de canotaje en el Río Vilcanota. Navega por paisajes espectaculares, rodeado de naturaleza y adrenalina. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Canotaje Río Vilcanota",
+                "Rafting Cusco",
+                "Aventura en el río Vilcanota",
+                "Deportes acuáticos Cusco",
+                "Rafting Perú",
+                "Rafting en Cusco",
+                "Tours en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/canotaje-rio-vilcanota",
+            "open_graph": {
+                "title": "Canotaje Río Vilcanota - Full Day",
+                "description": "Vive una experiencia única de canotaje en el Río Vilcanota. Navega a través de impresionantes paisajes naturales y disfruta de un almuerzo buffet. Una aventura ideal para los amantes de la adrenalina.",
+                "url": "https://machupicchubyworld.com/canotaje-rio-vilcanota",
+                "type": "website"
+            }
+        },
+        "title": "CANOTAJE RÍO VILCANOTA",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Experiencia de canotaje en paisajes únicos.",
+            "Almuerzo buffet incluido.",
+            "Guías bilingües español-inglés.",
+            "Servicio de sauna post-canotaje.",
+            "Asistencia permanente durante el tour."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Rio Vilcanota"
+        },
+        "lugares": "RÍO VILCANOTA",
+        "descripcion": "El <strong>rafting</strong> es un deporte lleno de <strong>adrenalina</strong> que pondrá a prueba tus habilidades. Se realiza en <strong>ríos</strong> cuya corriente va río abajo en una <strong>balsa inflable</strong>. Durante el recorrido, disfrutarás de la <strong>hermosa flora</strong>, <strong>fauna</strong> y <strong>paisajes</strong> que rodean al río. Esta actividad, considerada un <strong>deporte de valentía</strong>, es especialmente popular entre los jóvenes. Nuestro <strong>equipo</strong> estará presente en todo momento para guiarte, resolver tus dudas y asegurarse de que disfrutes de este <strong>deporte único</strong> en <strong>Cusco</strong>.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "RÍO VILCANOTA",
+                "descripcion": [
+                    "El tour comienza con el recojo en tu hotel entre las 8:30 a.m. y las 9:00 a.m., seguido de un viaje hacia Cusipata, que toma alrededor de 1 hora y 30 minutos. Al llegar, tendrás acceso a servicios como vestidores, sauna y casilleros, y se te proporcionará el equipo de canotaje. Después de una breve explicación de seguridad, disfrutarás de un emocionante recorrido de 2 horas por el río en balsas inflables, acompañado de guías y un kayakista de seguridad. Al finalizar, podrás relajarte en la sauna y disfrutar de un almuerzo antes de regresar a Cusco, llegando alrededor de las 5:30 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Transporte Turístico",
+            "Almuerzo buffet",
+            "Guía profesional bilingüe español – inglés",
+            "Equipo de Canotaje (Casco, Chaleco Salvavidas, Traje de Neopreno y Remo)",
+            "Equipo de primeros auxilios / oxígeno",
+            "Asistencia permanente"
+        ],
+        "noIncluye": [
+            "Gastos extras",
+            "Propinas para el Guía"
+        ],
+        "queLlevar": [
+            "Usar zapatos cómodos de fácil secado",
+            "Casaca abrigadora",
+            "Bloqueador solar",
+            "Cámaras fotográficas",
+            "Dinero extra en moneda nacional",
+            "Ropa adicional",
+            "Lentes de sol",
+            "Bolsas plásticas o impermeables",
+            "Llevar snacks 'chocolates'"
+        ],
+        "extras": [
+            "Vestidores y servicios higiénicos: Disponibles al llegar a Cusipata para mayor comodidad",
+            "Sauna: Relájate después del canotaje en nuestras instalaciones",
+            "Asistencia permanente: Nuestro equipo está disponible para responder consultas y asegurar tu seguridad durante toda la actividad",
+            "Opciones de comida: Ofrecemos un almuerzo buffet con opción vegetariana",
+            "Equipo de primeros auxilios: Incluye oxígeno y atención médica en caso de emergencia"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Queswachaca": {
+        "seo": {
+            "title": "QUESWACHACA Y CIRCUITO 4 LAGUNAS - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Vive una experiencia única explorando el Puente Qeswachaka y el Circuito de 4 lagunas. Disfruta de paisajes impresionantes y aprende sobre la cultura andina. ¡Reserva tu tour ahora!",
+            "keywords": [
+                "Queswachaca",
+                "Circuito 4 lagunas",
+                "Puente Qeswachaca",
+                "Lagunas de Acomayo",
+                "Turismo Cusco",
+                "Turismo cultural en Cusco",
+                "Aventura en Cusco",
+                "Paisajes andinos"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/queswachaca-circuito-4lagunas",
+            "open_graph": {
+                "title": "Queswachaca y Circuito 4 Lagunas - Full Day",
+                "description": "Descubre el Puente Qeswachaka y las hermosas lagunas de Acomayo. Un recorrido cultural y natural lleno de historia y paisajes impresionantes en el corazón de los Andes.",
+                "url": "https://machupicchubyworld.com/queswachaca-circuito-4lagunas",
+                "type": "website"
+            }
+        },
+        "title": "QUESWACHACA Y CIRCUITO 4 LAGUNAS",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Recorrido por paisajes naturales asombrosos.",
+            "Almuerzo buffet incluido en Cusipata.",
+            "Vistas impresionantes en cada parada.",
+            "Guías expertos en historia y naturaleza.",
+            "Experiencia cultural única."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Puente Queswachaka",
+            "alt2": "Circuito 4 lagunas",
+            "alt3": "Circuito 4 lagunas"
+        },
+        "lugares": "Puente Qeswachaka - Laguna Pomacanchi - Laguna Acopía - Laguna Asnaqocha - Laguna Pampamarca",
+        "descripcion": "Embárcate en un fascinante tour al <strong>Puente Qeswachaka</strong>, el último <strong>puente colgante</strong> de la <strong>cultura inca</strong>, y descubre las hermosas <strong>lagunas de Acomayo</strong>: Pomacanchi, Acopía, Asnacocha y Pampamarca. Este recorrido combina <strong>naturaleza</strong> y <strong>cultura</strong>, permitiéndote explorar <strong>paisajes impresionantes</strong> mientras te sumerges en la rica <strong>herencia andina</strong>. Ideal para los amantes de la <strong>aventura</strong> y la <strong>historia</strong>, ¡no te pierdas esta oportunidad de vivir una <strong>experiencia única</strong> en el corazón de los <strong>Andes</strong>!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Puente Qeswachaka - Laguna Pomacanchi - Laguna Acopía - Laguna Asnaqocha - Laguna Pampamarca",
+                "descripcion": [
+                    "El tour comienza con la recogida en los hoteles entre las 4:30 a.m. y las 5:00 a.m., dirigiéndonos hacia el Valle Sur de Cusco. Haremos una primera parada en Cusi Pata para disfrutar de un delicioso desayuno, seguido por una visita al Mirador de Combapata y al Mini Volcán de los Pabellones, pasando por Yanaoca. Continuaremos hasta Q’ewe, donde se encuentra el puente inca Qeswachaca, a 3,600 metros de altitud. Disfrutaremos de tiempo para explorar el puente y el cañón del Apurímac, antes de visitar la casa de Túpac Amaru II en Mosoc Llaqta. Luego, recorreremos las lagunas Pampamarca, Asnacocha, Acopía y Pomacanchi, y finalmente, disfrutaremos de un almuerzo buffet en Cusipata. El tour concluirá con un viaje de regreso a Cusco, llegando alrededor de las 16:30 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guía en todos los tours",
+            "Transporte para cada tour mencionado",
+            "Bastones de Apoyo",
+            "Almuerzo en Cusipata",
+            "Desayuno en Cusipata"
+        ],
+        "noIncluye": [
+            "No incluye cena",
+            "Gastos extras que tengan fuera del servicio",
+            "No incluye ingresos a Qeswachaka",
+            "Almuerzos y desayunos no mencionados en el programa"
+        ],
+        "queLlevar": [
+            "DNI físico o pasaporte",
+            "Dinero en soles para sus gastos extras",
+            "Sombrero o gorra para el calor",
+            "Poncho de lluvias",
+            "Ropa abrigadora",
+            "Zapatillas adecuadas para el tour",
+            "Muda de ropas",
+            "Repelente para mosquitos"
+        ],
+        "extras": [
+            "Recogida Personalizada: Disfruta de un servicio de recogida en tu hotel entre las 4:30 a.m. y las 5:00 a.m., asegurando un inicio cómodo y puntual de tu aventura",
+            "Desayuno Local Incluido: Comienza tu día con un delicioso desayuno en el pintoresco poblado de Cusi Pata, donde podrás probar sabores auténticos de la región",
+            "Guía Especializado: Nuestros guías expertos te acompañarán durante todo el recorrido, ofreciendo información valiosa sobre la cultura inca y los paisajes que visitarás",
+            "Almuerzo Buffet en Cusipata: Disfruta de un almuerzo buffet variado y nutritivo en Cusipata, ideal para reponer energías después de un día lleno de exploración",
+            "Transporte Privado: Viaja cómodamente en transporte privado, permitiéndote disfrutar de las vistas panorámicas mientras te diriges a los impresionantes destinos del tour"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    },
+    "Waqrapukara": {
+        "seo": {
+            "title": "WAQRAPUKARA - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Explora el complejo arqueológico Waqrapukara y disfruta de vistas impresionantes del Cañón del Apurímac en un tour lleno de historia y naturaleza. ¡Reserva tu aventura ahora!",
+            "keywords": [
+                "Waqrapukara",
+                "Cañón del Apurímac",
+                "Aventura en Cusco",
+                "Paisajes prístinos",
+                "Turismo Cusco",
+                "Complejo Waqrapukara",
+                "Caminata a Waqrapukara",
+                "Turismo cultural en Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/waqrapukara",
+            "open_graph": {
+                "title": "Waqrapukara - Full Day",
+                "description": "Embárcate en un recorrido por el complejo arqueológico Waqrapukara, ubicado en el impresionante Cañón del Apurímac, rodeado de paisajes naturales únicos. ¡Una experiencia inolvidable!",
+                "url": "https://machupicchubyworld.com/waqrapukara",
+                "type": "website"
+            }
+        },
+        "title": "WAQRAPUKARA",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Explora el Cañón del Apurímac.",
+            "Caminata a 4,330 m.s.n.m.",
+            "Visita al impresionante Waqrapukara.",
+            "Guía experto durante todo el tour.",
+            "Disfruta de paisajes prístinos."
+        ],
+        "details": {
+            "duracion": "1 Día",
+            "nivel": "Moderada",
+            "grupo": "*Hasta 10 personas"
+        },
+        "images": {
+            "alt1": "Waqrapukara",
+            "alt2": "Turistas en el complejo Waqrapukara"
+        },
+        "lugares": "Acomayo - Laguna Qentercocha - Complejo Waqrapukara - Cañón de Apurímac - Cusco",
+        "descripcion": "<strong>Waqrapukara</strong> representa una gran alternativa para quienes buscan una <strong>aventura diferente</strong> durante su estadía en la ciudad del <strong>Cusco</strong>, con sus <strong>paisajes prístinos e impresionantes</strong>, que van desde maravillosas <strong>lagunas</strong> hasta <strong>montañas</strong>, <strong>riachuelos</strong> y <strong>paredes rocosas</strong> de esta parte del <strong>Cañón del Apurímac</strong>. Encuentra en este post toda la <strong>información necesaria</strong> para poder hacer una visita a este <strong>impresionante lugar</strong>",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Acomayo - Laguna Qentercocha - Complejo Waqrapukara - Cañón de Apurímac - Cusco",
+                "descripcion": [
+                    "El tour comenzará a las 4:30 a.m. con el recojo en su hotel para dirigirnos a Acomayo, donde iniciaremos la caminata hacia la Laguna Qentercocha (4,330 m.s.n.m / 14,138 pies), donde disfrutaremos de un desayuno. Luego, comenzaremos la caminata hacia el complejo Waqrapukara, identificando flora y fauna en el trayecto. Al llegar a un punto desde donde se puede ver el complejo arqueológico, haremos una pausa para tomar fotos. Posteriormente, continuaremos hasta el centro arqueológico, donde descansaremos y exploraremos con la guía, quien nos brindará información detallada. Después de un tiempo libre para fotos, iniciaremos el regreso por un camino diferente, disfrutando de nuevos paisajes del Cañón de Apurímac. Regresaremos al inicio del sendero alrededor de las 14:00 hrs para almorzar antes de retornar a Cusco, llegando aproximadamente a las 19:00 hrs. Los viajeros deben estar en buenas condiciones físicas y tener buena aclimatación a la altura."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guía en todos los tours",
+            "Transporte para cada tour mencionado",
+            "Bastones de Apoyo para el tour de Waqrapukara",
+            "Ingreso a los complejos arqueológicos",
+            "Almuerzo en Waqrapukara"
+        ],
+        "noIncluye": [
+            "No incluye cena",
+            "Gastos extras que tengan fuera del servicio",
+            "Almuerzos y desayunos no mencionados en el programa"
+        ],
+        "queLlevar": [
+            "DNI físico",
+            "Dinero en soles para sus gastos extras",
+            "Sombrero o gorra para el calor",
+            "Poncho de lluvias",
+            "Ropa abrigadora",
+            "Zapatillas adecuadas para el tour",
+            "Muda de ropas",
+            "Repelente para mosquitos"
+        ],
+        "extras": [
+            "Guía en Todos los Tours: Guía experto que proporciona información detallada sobre los lugares visitados",
+            "Transporte para Cada Tour Mencionado: Transporte privado desde el hotel hasta el inicio del tour y regreso a Cusco",
+            "Bastones de Apoyo para el Tour de Waqrapukara: Bastones de apoyo para facilitar la caminata en secciones desafiantes",
+            "Ingreso a los Complejos Arqueológicos: Costos de entrada incluidos para garantizar acceso a todas las áreas de interés",
+            "Almuerzo en Waqrapukara: Delicioso almuerzo durante la visita para disfrutar de la gastronomía local"
+        ],
+        "importante": [
+            "Los tours y paseos realizados por este operador tienen poco nivel de riesgo y dificultad y brindan la seguridad necesaria.",
+            "No hay cambio de nombre ni devolución del Boleto de ingreso a Machupicchu una vez comprados con los datos correspondientes de una persona.",
+            "El servicio está sujeto a variación sin previo aviso, por cuestiones climatológicas (lluvias, huaycos, desbordes, etc.), huelgas, manifestaciones y cualquier otro evento que no permita el desarrollo normal del itinerario.",
+            "El itinerario podrá variar a criterio del operador, siempre para garantizar la seguridad del viajero y el mejor desarrollo del servicio en su totalidad. Puede ser por tema de los ingresos a Machupicchu.",
+            "Si desea retirarse antes de que finalice el servicio, tampoco habrá devolución por ello.",
+            "El pago del paquete turístico se realizará de manera efectiva en la ciudad de Cusco el primer día de arribo a la ciudad, ya que se está cumpliendo con el itinerario de entrega de boletos.",
+            "Si el pasajero desea pagar con tarjeta de crédito, se hará un cargo del 6% de comisión por la compra.",
+            "Del depósito del 50%, se emitirá un boleto o factura de la reserva. El resto deberá pagarse con el IGV del 18%, si desea una boleta o factura."
+        ]
+    }
+}

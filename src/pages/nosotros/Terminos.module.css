@@ -1,0 +1,30 @@
+.TerminosContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 12rem;
+    padding-right: 12rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+.TerminosTitulo{
+    color: #0D643A;
+}
+
+.TerminosList {
+    list-style-type: decimal;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    line-height: 3rem;
+    width: 90%;
+}
+.TerminosList>li::marker {
+    color: #0D643A;
+    font-weight: 600;
+}
+.NosotrosRazon {
+    background-color: #E5E5E5;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

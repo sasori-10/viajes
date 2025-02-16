@@ -1,0 +1,368 @@
+{
+    "labelMenu": {
+        "resumen": "OVERVIEW",
+        "itinerario": "COMPLETE ITINERARY",
+        "incluye": "INCLUDES",
+        "extras": "EXTRAS",
+        "queLlevar": "WHAT TO BRING?",
+        "importante": "IMPORTANT"
+    },
+    "Parapente": {
+        "seo": {
+            "title": "PARAGLIDING SACRED VALLEY - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Soar over the Sacred Valley with a thrilling paragliding adventure. Experience breathtaking views from 3800 meters above sea level. Book your unforgettable flight today!",
+            "keywords": [
+                "Paragliding Sacred Valley",
+                "Sacred Valley Adventure",
+                "Paragliding Tour",
+                "Andean Views",
+                "Paragliding Cusco",
+                "Cusco Paragliding",
+                "Tours in Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/parapente-valle-sagrado",
+            "open_graph": {
+                "title": "Paragliding Sacred Valley - Full Day",
+                "description": "Embark on an unforgettable paragliding experience over the Sacred Valley. Fly from 3800 meters above sea level and enjoy stunning Andean landscapes. Safety and expert guides included.",
+                "url": "https://machupicchubyworld.com/parapente-valle-sagrado",
+                "type": "website"
+            }
+        },
+        "title": "PARAGLIDING SACRED VALLEY",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Round trip transportation from Cusco included.",
+            "Paragliding flight of 10 to 25 minutes.",
+            "Bilingual Spanish-English guide during the tour.",
+            "Take-off from 3800 m above sea level in the Sacred Valley.",
+            "Safe activity, cancellation if the weather is not safe."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "reference image of paragliding",
+            "alt2": "Sacred Valley"
+        },
+        "lugares": "Racchi - Sacred Valley of the Incas - Chinchero (optional).",
+        "descripcion": "The <strong>paragliding</strong> is a sport that requires willpower and a lot of strength to enjoy the <strong>beautiful scenery</strong> from the <strong>highest Andean skies</strong>. Our <strong>trained guides</strong> will provide you with excellent service to ensure you have an <strong>unforgettable adventure</strong> with <strong>Machupicchu by World</strong>. <strong>Warning:</strong> If you have respiratory difficulties or a strong fear of heights, it is recommended not to participate.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Sacred Valley of the Incas",
+                "descripcion": [
+                    "The tour begins with the pick-up of passengers between 08:15 am and 08:30 am. Then, transportation is provided to the take-off point, located at 3800 m above sea level, approximately 1.5 hours from Cusco. Depending on weather conditions, the paragliding flight lasts between 10 and 25 minutes, and before take-off, a safety briefing is conducted."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist Transportation",
+            "Paragliding flight with an accredited Professional Pilot.",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Extra expenses.",
+            "Tips for the Guide"
+        ],
+        "queLlevar": [
+            "Wear comfortable shoes",
+            "Warm jacket",
+            "Sunscreen",
+            "Hat for sunny days",
+            "Cameras",
+            "Extra cash in local currency",
+            "Comfortable pants",
+            "Sunglasses"
+        ],
+        "extras": [
+            "Transportation: Included in the round trip service to Cusco.",
+            "GO-PRO Video: Additional service with a cost of $20.00."
+        ],
+        "importante": [
+            "The tours and activities carried out by this operator have low levels of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the Machupicchu entrance ticket once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, protests, and any other event that prevents the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to guarantee the traveler's safety and the best overall service development.",
+            "If you wish to leave before the service ends, there will be no refund for that.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as the itinerary for the delivery of tickets is being fulfilled.",
+            "If the passenger wishes to pay with a credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice of the reservation will be issued. The rest must be paid with the 18% IGV if a receipt or invoice is desired."
+        ]
+    },
+    "Canotaje": {
+        "seo": {
+            "title": "VILCANOTA RIVER RAFTING - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Enjoy an exciting rafting experience on the Vilcanota River. Paddle through breathtaking landscapes, surrounded by nature and adrenaline. Book your adventure now!",
+            "keywords": [
+                "Vilcanota River Rafting",
+                "Rafting Cusco",
+                "Adventure in Vilcanota River",
+                "Water sports Cusco",
+                "Rafting Peru",
+                "Rafting in Cusco",
+                "Tours in Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/vilcanota-river-rafting",
+            "open_graph": {
+                "title": "Vilcanota River Rafting - Full Day",
+                "description": "Experience a unique rafting adventure on the Vilcanota River. Paddle through stunning natural landscapes and enjoy a buffet lunch. A thrilling adventure for adrenaline lovers.",
+                "url": "https://machupicchubyworld.com/vilcanota-river-rafting",
+                "type": "website"
+            }
+        },
+        "title": "VILCANOTA RIVER CANOEING",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Canoeing experience in unique landscapes.",
+            "Buffet lunch included.",
+            "Bilingual Spanish-English guides.",
+            "Post-canoeing sauna service.",
+            "Permanent assistance during the tour."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Vilcanota River"
+        },
+        "lugares": "VILCANOTA RIVER",
+        "descripcion": "The <strong>rafting</strong> is an adrenaline-filled sport that will test your skills. It takes place on <strong>rivers</strong> with downstream currents in an <strong>inflatable raft</strong>. During the journey, you will enjoy the <strong>beautiful flora</strong>, <strong>fauna</strong>, and <strong>scenery</strong> surrounding the river. This activity, considered a <strong>sport of bravery</strong>, is especially popular among young people. Our <strong>team</strong> will be present at all times to guide you, answer your questions, and ensure you enjoy this <strong>unique sport</strong> in <strong>Cusco</strong>.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "VILCANOTA RIVER",
+                "descripcion": [
+                    "The tour begins with pickup at your hotel between 8:30 a.m. and 9:00 a.m., followed by a trip to Cusipata, which takes about 1 hour and 30 minutes. Upon arrival, you will have access to facilities such as changing rooms, sauna, and lockers, and you will be provided with the canoeing equipment. After a brief safety explanation, you will enjoy an exciting 2-hour ride on the river in inflatable rafts, accompanied by guides and a safety kayaker. After finishing, you can relax in the sauna and enjoy a lunch before returning to Cusco, arriving around 5:30 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Tourist Transportation",
+            "Buffet lunch",
+            "Bilingual professional guide (Spanish-English)",
+            "Canoeing equipment (Helmet, Life Jacket, Neoprene Suit, and Paddle)",
+            "First aid equipment / oxygen",
+            "Permanent assistance"
+        ],
+        "noIncluye": [
+            "Extra expenses",
+            "Tips for the guide"
+        ],
+        "queLlevar": [
+            "Wear comfortable, quick-drying shoes",
+            "Warm jacket",
+            "Sunscreen",
+            "Cameras",
+            "Extra money in local currency",
+            "Additional clothing",
+            "Sunglasses",
+            "Plastic or waterproof bags",
+            "Bring snacks 'chocolates'"
+        ],
+        "extras": [
+            "Changing rooms and restrooms: Available upon arrival in Cusipata for greater comfort",
+            "Sauna: Relax after canoeing in our facilities",
+            "Permanent assistance: Our team is available to answer questions and ensure your safety throughout the activity",
+            "Food options: We offer a buffet lunch with vegetarian options",
+            "First aid equipment: Includes oxygen and medical attention in case of emergency"
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entrance ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rains, landslides, etc.), strikes, demonstrations, and any other events that may disrupt the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the safety of the traveler and the best overall service development.",
+            "If you wish to leave before the service ends, there will be no refund for this.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "Queswachaca": {
+        "seo": {
+            "title": "QUESWACHACA AND 4 LAGOONS CIRCUIT - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Experience a unique journey exploring the Qeswachaka Bridge and the 4 Lagoons Circuit. Enjoy breathtaking landscapes and learn about Andean culture. Book your tour now!",
+            "keywords": [
+                "Qeswachaca",
+                "4 Lagoons Circuit",
+                "Qeswachaka Bridge",
+                "Acomayo Lagoons",
+                "Cusco tourism",
+                "Cultural tourism in Cusco",
+                "Adventure in Cusco",
+                "Andean landscapes"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/queswachaca-circuito-4lagunas",
+            "open_graph": {
+                "title": "Queswachaca and 4 Lagoons Circuit - Full Day",
+                "description": "Explore the Qeswachaka Bridge and the beautiful Acomayo lagoons. A cultural and natural journey full of history and breathtaking landscapes in the heart of the Andes.",
+                "url": "https://machupicchubyworld.com/queswachaca-circuito-4lagunas",
+                "type": "website"
+            }
+        },
+        "title": "QUESWACHACA AND CIRCUIT OF 4 LAGOONS",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Tour through amazing natural landscapes.",
+            "Buffet lunch included in Cusipata.",
+            "Stunning views at each stop.",
+            "Expert guides in history and nature.",
+            "Unique cultural experience."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Queswachaka Bridge",
+            "alt2": "Circuit 4 lakes",
+            "alt3": "Circuit 4 lakes"
+        },
+        "lugares": "Qeswachaka Bridge - Pomacanchi Lake - Acopía Lake - Asnaqocha Lake - Pampamarca Lake",
+        "descripcion": "Embark on a fascinating tour to the <strong>Qeswachaka Bridge</strong>, the last <strong>suspension bridge</strong> of the <strong>Inca culture</strong>, and discover the beautiful <strong>lagoons of Acomayo</strong>: Pomacanchi, Acopía, Asnaqocha, and Pampamarca. This journey combines <strong>nature</strong> and <strong>culture</strong>, allowing you to explore <strong>stunning landscapes</strong> while immersing yourself in the rich <strong>Andean heritage</strong>. Ideal for adventure and history lovers, don't miss this opportunity to experience a <strong>unique adventure</strong> in the heart of the <strong>Andes</strong>!",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Qeswachaka Bridge - Pomacanchi Lake - Acopía Lake - Asnaqocha Lake - Pampamarca Lake",
+                "descripcion": [
+                    "The tour begins with pickup at hotels between 4:30 a.m. and 5:00 a.m., heading towards the Southern Valley of Cusco. We will make a first stop in Cusi Pata to enjoy a delicious breakfast, followed by a visit to the Combapata viewpoint and the Mini Volcano of Pabellones, passing through Yanaoca. We will continue to Q’ewe, where the Inca bridge Qeswachaca is located, at an altitude of 3,600 meters. We will have time to explore the bridge and the Apurímac canyon, before visiting the house of Túpac Amaru II in Mosoc Llaqta. Then, we will visit the lagoons Pampamarca, Asnacocha, Acopía, and Pomacanchi, and finally enjoy a buffet lunch in Cusipata. The tour will conclude with a return trip to Cusco, arriving around 4:30 p.m."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guide in all tours",
+            "Transportation for each mentioned tour",
+            "Support sticks",
+            "Lunch in Cusipata",
+            "Breakfast in Cusipata"
+        ],
+        "noIncluye": [
+            "Dinner not included",
+            "Extra expenses outside the service",
+            "Entrance to Qeswachaka not included",
+            "Meals not mentioned in the program"
+        ],
+        "queLlevar": [
+            "Physical ID or passport",
+            "Money in soles for extra expenses",
+            "Hat or cap for the heat",
+            "Rain poncho",
+            "Warm clothing",
+            "Suitable shoes for the tour",
+            "Change of clothes",
+            "Mosquito repellent"
+        ],
+        "extras": [
+            "Personalized Pickup: Enjoy a pickup service at your hotel between 4:30 a.m. and 5:00 a.m., ensuring a comfortable and timely start to your adventure",
+            "Local Breakfast Included: Start your day with a delicious breakfast in the picturesque village of Cusi Pata, where you can try authentic regional flavors",
+            "Specialized Guide: Our expert guides will accompany you throughout the tour, providing valuable information about Inca culture and the landscapes you will visit",
+            "Buffet Lunch in Cusipata: Enjoy a varied and nutritious buffet lunch in Cusipata, ideal for replenishing energy after a day full of exploration",
+            "Private Transportation: Travel comfortably in private transportation, allowing you to enjoy panoramic views while heading to the impressive destinations of the tour"
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty and provide the necessary safety.",
+            "There is no name change or refund for the entrance ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rains, landslides, etc.), strikes, demonstrations, and any other events that may disrupt the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the safety of the traveler and the best overall service development.",
+            "If you wish to leave before the service ends, there will be no refund for this.",
+            "Payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice for the reservation will be issued. The remainder must be paid with the 18% VAT if you want a receipt or invoice."
+        ]
+    },
+    "Waqrapukara": {
+        "seo": {
+            "title": "WAQRAPUKARA - FULL DAY | MACHUPICCHU BY WORLD",
+            "meta_description": "Explore the archaeological complex of Waqrapukara and enjoy breathtaking views of the Apurímac Canyon on a tour filled with history and nature. Book your adventure now!",
+            "keywords": [
+                "Waqrapukara",
+                "Apurímac Canyon",
+                "Adventure in Cusco",
+                "Pristine landscapes",
+                "Cusco tourism",
+                "Waqrapukara archaeological site",
+                "Waqrapukara hike",
+                "Cultural tourism in Cusco"
+            ],
+            "canonical_url": "https://machupicchubyworld.com/waqrapukara",
+            "open_graph": {
+                "title": "Waqrapukara - Full Day",
+                "description": "Embark on a journey to the Waqrapukara archaeological site, located in the stunning Apurímac Canyon, surrounded by unique natural landscapes. An unforgettable experience!",
+                "url": "https://machupicchubyworld.com/waqrapukara",
+                "type": "website"
+            }
+        },
+        "title": "WAQRAPUKARA",
+        "day": "FULL DAY",
+        "puntosClave": [
+            "Explore the Apurímac Canyon.",
+            "Hike at 4,330 m.a.s.l.",
+            "Visit the impressive Waqrapukara.",
+            "Expert guide throughout the tour.",
+            "Enjoy pristine landscapes."
+        ],
+        "details": {
+            "duracion": "1 Day",
+            "nivel": "Moderate",
+            "grupo": "*Up to 10 people"
+        },
+        "images": {
+            "alt1": "Waqrapukara",
+            "alt2": "Tourists at the Waqrapukara complex"
+        },
+        "lugares": "Acomayo - Laguna Qentercocha - Waqrapukara Complex - Apurímac Canyon - Cusco",
+        "descripcion": "<strong>Waqrapukara</strong> represents a great alternative for those seeking a <strong>different adventure</strong> during their stay in the city of <strong>Cusco</strong>, with its <strong>pristine and impressive landscapes</strong>, ranging from beautiful <strong>lagoons</strong> to <strong>mountains</strong>, <strong>streams</strong>, and <strong>rocky cliffs</strong> in this part of the <strong>Apurímac Canyon</strong>. Find all the <strong>necessary information</strong> in this post to visit this <strong>impressive place</strong>.",
+        "itinerario": [
+            {
+                "dia": "1",
+                "titulo": "Acomayo - Laguna Qentercocha - Waqrapukara Complex - Apurímac Canyon - Cusco",
+                "descripcion": [
+                    "The tour will begin at 4:30 a.m. with pick-up at your hotel to head to Acomayo, where we will start the hike towards Laguna Qentercocha (4,330 m.a.s.l. / 14,138 feet), where we will enjoy breakfast. Then, we will begin the hike towards the Waqrapukara complex, identifying flora and fauna along the way. Upon reaching a viewpoint of the archaeological complex, we will pause for photos. Afterwards, we will continue to the archaeological center, where we will rest and explore with the guide, who will provide detailed information. After some free time for photos, we will start the return via a different path, enjoying new landscapes of the Apurímac Canyon. We will return to the trailhead around 2:00 p.m. for lunch before returning to Cusco, arriving approximately at 7:00 p.m. Travelers must be in good physical condition and properly acclimated to the altitude."
+                ]
+            }
+        ],
+        "incluye": [
+            "Guide on all tours",
+            "Transportation for each mentioned tour",
+            "Support sticks for the Waqrapukara tour",
+            "Entry to the archaeological complexes",
+            "Lunch at Waqrapukara"
+        ],
+        "noIncluye": [
+            "Dinner not included",
+            "Extra expenses outside of the service",
+            "Lunches and breakfasts not mentioned in the program"
+        ],
+        "queLlevar": [
+            "Physical ID",
+            "Cash in soles for extra expenses",
+            "Hat or cap for heat",
+            "Rain poncho",
+            "Warm clothing",
+            "Appropriate shoes for the tour",
+            "Change of clothes",
+            "Mosquito repellent"
+        ],
+        "extras": [
+            "Guide on All Tours: Expert guide providing detailed information about the places visited",
+            "Transportation for Each Mentioned Tour: Private transportation from the hotel to the tour start and back to Cusco",
+            "Support Sticks for the Waqrapukara Tour: Support sticks to facilitate hiking in challenging sections",
+            "Entry to the Archaeological Complexes: Entry costs included to ensure access to all areas of interest",
+            "Lunch at Waqrapukara: Delicious lunch during the visit to enjoy local cuisine"
+        ],
+        "importante": [
+            "The tours and excursions conducted by this operator have a low level of risk and difficulty, providing the necessary safety.",
+            "No name changes or refunds for the entry ticket to Machupicchu once purchased with the corresponding person's details.",
+            "The service is subject to change without prior notice due to weather conditions (rain, landslides, flooding, etc.), strikes, demonstrations, and any other event that may prevent the normal development of the itinerary.",
+            "The itinerary may vary at the operator's discretion, always to ensure the traveler's safety and the best overall service development. This may be due to issues with entry to Machupicchu.",
+            "If you wish to leave before the service is completed, there will be no refund.",
+            "The payment for the tourist package will be made effectively in the city of Cusco on the first day of arrival in the city, as the ticket delivery itinerary is being fulfilled.",
+            "If the passenger wishes to pay by credit card, a 6% commission will be charged for the purchase.",
+            "From the 50% deposit, a ticket or invoice of the reservation will be issued. The rest must be paid with the 18% VAT if a receipt or invoice is desired."
+        ]
+    }
+}
