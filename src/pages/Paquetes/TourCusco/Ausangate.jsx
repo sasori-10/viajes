@@ -14,8 +14,8 @@ import { FaPlusCircle } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourCusco/imageAusangate/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageAusangate/imagen_ (2).webp"
+import imagen1 from "../TourCusco/imageAusangate/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageAusangate/imagen_(2).webp"
 //imagenes del itinerario completo
 import TourCarousel from "../PaquetesComponentes/Card";
 import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";

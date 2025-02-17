@@ -15,13 +15,13 @@ import { FaPlusCircle } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (1).webp"
-import imagen2 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (2).webp"
-import imagen3 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (3).webp"
-import imagen4 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (4).webp"
-import imagen5 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (5).webp"
-import imagen6 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (6).webp"
-import imagen7 from "./imageToursMachuPicchu/machupicchuBus/imagen_ (7).webp"
+import imagen1 from "./imageToursMachuPicchu/machupicchuBus/imagen_(1).webp"
+import imagen2 from "./imageToursMachuPicchu/machupicchuBus/imagen_(2).webp"
+import imagen3 from "./imageToursMachuPicchu/machupicchuBus/imagen_(3).webp"
+import imagen4 from "./imageToursMachuPicchu/machupicchuBus/imagen_(4).webp"
+import imagen5 from "./imageToursMachuPicchu/machupicchuBus/imagen_(5).webp"
+import imagen6 from "./imageToursMachuPicchu/machupicchuBus/imagen_(6).webp"
+import imagen7 from "./imageToursMachuPicchu/machupicchuBus/imagen_(7).webp"
 //imagenes de resumen
 import Paisaje1 from './imageToursMachuPicchu/machupicchuBus/Plaza-de-Machupicchu-Pueblo.webp';
 import Paisaje2 from './imageToursMachuPicchu/machupicchuBus/image00035.webp';

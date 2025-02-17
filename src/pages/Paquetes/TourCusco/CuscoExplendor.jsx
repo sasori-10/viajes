@@ -23,11 +23,11 @@ import Paisaje1 from '../TourCusco/imageCuscoExplendor/resumen1.webp';
 import Paisaje2 from '../TourCusco/imageCuscoExplendor/resumen2.webp';
 import Paisaje3 from '../TourCusco/imageCuscoExplendor/resumen3.webp';
 //importando imagenes
-import imagen1 from "../TourCusco/imageCuscoExplendor/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageCuscoExplendor/imagen_ (2).webp"
-import imagen3 from "../TourCusco/imageCuscoExplendor/imagen_ (3).webp"
-import imagen4 from "../TourCusco/imageCuscoExplendor/imagen_ (4).webp"
-import imagen5 from "../TourCusco/imageCuscoExplendor/imagen_ (5).webp"
+import imagen1 from "../TourCusco/imageCuscoExplendor/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageCuscoExplendor/imagen_(2).webp"
+import imagen3 from "../TourCusco/imageCuscoExplendor/imagen_(3).webp"
+import imagen4 from "../TourCusco/imageCuscoExplendor/imagen_(4).webp"
+import imagen5 from "../TourCusco/imageCuscoExplendor/imagen_(5).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";

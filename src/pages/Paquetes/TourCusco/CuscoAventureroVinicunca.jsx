@@ -15,12 +15,12 @@ import { FaPlusCircle } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (2).webp"
-import imagen3 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (3).webp"
-import imagen4 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (4).webp"
-import imagen5 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (5).webp"
-import imagen6 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_ (6).webp"
+import imagen1 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(2).webp"
+import imagen3 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(3).webp"
+import imagen4 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(4).webp"
+import imagen5 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(5).webp"
+import imagen6 from "../TourCusco/imageTourCuscoAventureroVinicunca/imagen_(6).webp"
 //imagenes de resumen
 import resumen1 from '../TourCusco/imageTourCuscoAventureroVinicunca/resumen1.webp';
 import resumen2 from '../TourCusco/imageTourCuscoAventureroVinicunca/resumen2.webp';

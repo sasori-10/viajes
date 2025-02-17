@@ -18,8 +18,8 @@ import TourCarousel from "../PaquetesComponentes/Card";
 import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";
 import GoogleReviews from "../../home/componentsHome/GoogleReviews";
 //importando imagenes 
-import imagen1 from "../TourCusco/imageParapenteValleSagrado/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageParapenteValleSagrado/imagen_ (2).webp"
+import imagen1 from "../TourCusco/imageParapenteValleSagrado/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageParapenteValleSagrado/imagen_(2).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";

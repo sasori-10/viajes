@@ -25,11 +25,11 @@ import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";
 import GoogleReviews from "../../home/componentsHome/GoogleReviews";
 import TourCarousel from "../PaquetesComponentes/Card";
 //importando imagenes
-import imagen1 from "../TourCusco/imageTourCuscoClasico/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageTourCuscoClasico/imagen_ (2).webp"
-import imagen3 from "../TourCusco/imageTourCuscoClasico/imagen_ (3).webp"
-import imagen4 from "../TourCusco/imageTourCuscoClasico/imagen_ (4).webp"
-import imagen5 from "../TourCusco/imageTourCuscoClasico/imagen_ (5).webp"
+import imagen1 from "../TourCusco/imageTourCuscoClasico/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageTourCuscoClasico/imagen_(2).webp"
+import imagen3 from "../TourCusco/imageTourCuscoClasico/imagen_(3).webp"
+import imagen4 from "../TourCusco/imageTourCuscoClasico/imagen_(4).webp"
+import imagen5 from "../TourCusco/imageTourCuscoClasico/imagen_(5).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";

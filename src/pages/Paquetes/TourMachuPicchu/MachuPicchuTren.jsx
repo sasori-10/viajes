@@ -23,11 +23,11 @@ import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 //importando imagenes
-import imagen1 from "./imageToursMachuPicchu/machupicchuTren/imagen_ (1).webp"
-import imagen2 from "./imageToursMachuPicchu/machupicchuTren/imagen_ (2).webp"
-import imagen3 from "./imageToursMachuPicchu/machupicchuTren/imagen_ (3).webp"
-import imagen4 from "./imageToursMachuPicchu/machupicchuTren/imagen_ (4).webp"
-import imagen5 from "./imageToursMachuPicchu/machupicchuTren/imagen_ (5).webp"
+import imagen1 from "./imageToursMachuPicchu/machupicchuTren/imagen_(1).webp"
+import imagen2 from "./imageToursMachuPicchu/machupicchuTren/imagen_(2).webp"
+import imagen3 from "./imageToursMachuPicchu/machupicchuTren/imagen_(3).webp"
+import imagen4 from "./imageToursMachuPicchu/machupicchuTren/imagen_(4).webp"
+import imagen5 from "./imageToursMachuPicchu/machupicchuTren/imagen_(5).webp"
 //importando el seo dinamico
 import { Helmet } from "react-helmet-async";
 import { getSchemaMachuPicchuTren } from "../../../seo/schema/machupicchuTours";

@@ -14,19 +14,19 @@ import { FaPlusCircle } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourInternacionales/imageTour13dias/imagen_ (1).webp"
-import imagen2 from "../TourInternacionales/imageTour13dias/imagen_ (2).webp"
-import imagen3 from "../TourInternacionales/imageTour13dias/imagen_ (3).webp"
-import imagen4 from "../TourInternacionales/imageTour13dias/imagen_ (4).webp"
-import imagen5 from "../TourInternacionales/imageTour13dias/imagen_ (5).webp"
-import imagen6 from "../TourInternacionales/imageTour13dias/imagen_ (6).webp"
-import imagen7 from "../TourInternacionales/imageTour13dias/imagen_ (7).webp"
-import imagen8 from "../TourInternacionales/imageTour13dias/imagen_ (8).webp"
-import imagen9 from "../TourInternacionales/imageTour13dias/imagen_ (9).webp"
-import imagen10 from "../TourInternacionales/imageTour13dias/imagen_ (10).webp"
-import imagen11 from "../TourInternacionales/imageTour13dias/imagen_ (11).webp"
-import imagen12 from "../TourInternacionales/imageTour13dias/imagen_ (12).webp"
-import imagen13 from "../TourInternacionales/imageTour13dias/imagen_ (13).webp"
+import imagen1 from "../TourInternacionales/imageTour13dias/imagen_(1).webp"
+import imagen2 from "../TourInternacionales/imageTour13dias/imagen_(2).webp"
+import imagen3 from "../TourInternacionales/imageTour13dias/imagen_(3).webp"
+import imagen4 from "../TourInternacionales/imageTour13dias/imagen_(4).webp"
+import imagen5 from "../TourInternacionales/imageTour13dias/imagen_(5).webp"
+import imagen6 from "../TourInternacionales/imageTour13dias/imagen_(6).webp"
+import imagen7 from "../TourInternacionales/imageTour13dias/imagen_(7).webp"
+import imagen8 from "../TourInternacionales/imageTour13dias/imagen_(8).webp"
+import imagen9 from "../TourInternacionales/imageTour13dias/imagen_(9).webp"
+import imagen10 from "../TourInternacionales/imageTour13dias/imagen_(10).webp"
+import imagen11 from "../TourInternacionales/imageTour13dias/imagen_(11).webp"
+import imagen12 from "../TourInternacionales/imageTour13dias/imagen_(12).webp"
+import imagen13 from "../TourInternacionales/imageTour13dias/imagen_(13).webp"
 //Importando imagenes del carrucel
 import TourCarousel from "../PaquetesComponentes/Card";
 import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";

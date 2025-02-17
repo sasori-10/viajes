@@ -17,7 +17,7 @@ import TourCarousel from "../PaquetesComponentes/Card";
 import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";
 import GoogleReviews from "../../home/componentsHome/GoogleReviews";
 //importando imagenes
-import imagen1 from "../TourCusco/imageZipLineChincheros/imagen_ (1).webp"
+import imagen1 from "../TourCusco/imageZipLineChincheros/imagen_(1).webp"
 import BannerCarrucel from "../PaquetesComponentes/BannerCarrucel";
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';

@@ -18,7 +18,7 @@ import GoogleReviews from "../../home/componentsHome/GoogleReviews";
 import TourCarousel from "../PaquetesComponentes/Card";
 import BannerCarrucel from "../PaquetesComponentes/BannerCarrucel";
 //importando imagenes 
-import imagen1 from "../TourCusco/imageCanotajeVilcanota/imagen_ (1).webp"
+import imagen1 from "../TourCusco/imageCanotajeVilcanota/imagen_(1).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";

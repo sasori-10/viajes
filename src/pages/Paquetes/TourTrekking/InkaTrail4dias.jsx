@@ -15,11 +15,11 @@ import { FaCheck } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourTrekking/imageInkatrail4dias/imagen_ (1).webp"
-import imagen2 from "../TourTrekking/imageInkatrail4dias/imagen_ (2).webp"
-import imagen3 from "../TourTrekking/imageInkatrail4dias/imagen_ (3).webp"
-import imagen4 from "../TourTrekking/imageInkatrail4dias/imagen_ (4).webp"
-import imagen5 from "../TourTrekking/imageInkatrail4dias/imagen_ (5).webp"
+import imagen1 from "../TourTrekking/imageInkatrail4dias/imagen_(1).webp"
+import imagen2 from "../TourTrekking/imageInkatrail4dias/imagen_(2).webp"
+import imagen3 from "../TourTrekking/imageInkatrail4dias/imagen_(3).webp"
+import imagen4 from "../TourTrekking/imageInkatrail4dias/imagen_(4).webp"
+import imagen5 from "../TourTrekking/imageInkatrail4dias/imagen_(5).webp"
 //imagenes de resumen
 import resumen1 from '../TourTrekking/imageInkaTrail4dias/resumen1.webp';
 import resumen2 from '../TourTrekking/imageInkaTrail4dias/resumen2.webp';

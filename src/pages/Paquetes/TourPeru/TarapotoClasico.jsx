@@ -15,7 +15,7 @@ import { FaPlusCircle } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourPeru/imageTarapotoClasico/imagen_ (1).webp"
+import imagen1 from "../TourPeru/imageTarapotoClasico/imagen_(1).webp"
 //imagenes de resumen
 import resumen1 from '../TourPeru/imageTarapotoClasico/resumen1.webp';
 import resumen2 from '../TourPeru/imageTarapotoClasico/resumen2.webp';

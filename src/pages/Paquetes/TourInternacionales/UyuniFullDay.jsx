@@ -17,11 +17,11 @@ import { FaCheck } from "react-icons/fa";
 import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes
-import imagen1 from "../TourInternacionales/imageUyuni/imagen_ (1).webp"
-import imagen2 from "../TourInternacionales/imageUyuni/imagen_ (2).webp"
-import imagen3 from "../TourInternacionales/imageUyuni/imagen_ (3).webp"
-import imagen4 from "../TourInternacionales/imageUyuni/imagen_ (4).webp"
-import imagen5 from "../TourInternacionales/imageUyuni/imagen_ (5).webp"
+import imagen1 from "../TourInternacionales/imageUyuni/imagen_(1).webp"
+import imagen2 from "../TourInternacionales/imageUyuni/imagen_(2).webp"
+import imagen3 from "../TourInternacionales/imageUyuni/imagen_(3).webp"
+import imagen4 from "../TourInternacionales/imageUyuni/imagen_(4).webp"
+import imagen5 from "../TourInternacionales/imageUyuni/imagen_(5).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";

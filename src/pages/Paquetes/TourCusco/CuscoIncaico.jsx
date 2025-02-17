@@ -16,13 +16,13 @@ import { BsBackpack3Fill } from "react-icons/bs";
 import { IoMdInformationCircleOutline } from "react-icons/io";
 //importando imagenes del resumen
 //importando imagenes
-import imagen1 from "../TourCusco/imageTourCuscoIncaico/imagen_ (1).webp"
-import imagen2 from "../TourCusco/imageTourCuscoIncaico/imagen_ (2).webp"
-import imagen3 from "../TourCusco/imageTourCuscoIncaico/imagen_ (3).webp"
-import imagen4 from "../TourCusco/imageTourCuscoIncaico/imagen_ (4).webp"
-import imagen5 from "../TourCusco/imageTourCuscoIncaico/imagen_ (5).webp"
-import imagen6 from "../TourCusco/imageTourCuscoIncaico/imagen_ (6).webp"
-import imagen7 from "../TourCusco/imageTourCuscoIncaico/imagen_ (7).webp"
+import imagen1 from "../TourCusco/imageTourCuscoIncaico/imagen_(1).webp"
+import imagen2 from "../TourCusco/imageTourCuscoIncaico/imagen_(2).webp"
+import imagen3 from "../TourCusco/imageTourCuscoIncaico/imagen_(3).webp"
+import imagen4 from "../TourCusco/imageTourCuscoIncaico/imagen_(4).webp"
+import imagen5 from "../TourCusco/imageTourCuscoIncaico/imagen_(5).webp"
+import imagen6 from "../TourCusco/imageTourCuscoIncaico/imagen_(6).webp"
+import imagen7 from "../TourCusco/imageTourCuscoIncaico/imagen_(7).webp"
 //imagenes de resumen
 import resumen1 from '../TourCusco/imageTourCuscoIncaico/resumen1.webp';
 import resumen2 from '../TourCusco/imageTourCuscoIncaico/resumen2.webp';
