@@ -23,12 +23,12 @@ import TripadvisorReviews from "../../home/componentsHome/TripadvisorReviews";
 import GoogleReviews from "../../home/componentsHome/GoogleReviews";
 import BannerCarrucel from "../PaquetesComponentes/BannerCarrucel";
 //importando imagenes
-import imagen1 from "./imageToursMachuPicchu/caminoinca/imagen_(1).webp"
-import imagen2 from "./imageToursMachuPicchu/caminoinca/imagen_(2).webp"
-import imagen3 from "./imageToursMachuPicchu/caminoinca/imagen_(3).webp"
-import imagen4 from "./imageToursMachuPicchu/caminoinca/imagen_(4).webp"
-import imagen5 from "./imageToursMachuPicchu/caminoinca/imagen_(5).webp"
-import imagen6 from "./imageToursMachuPicchu/caminoinca/imagen_(6).webp"
+import imagen1 from "./imageToursMachuPicchu/caminoInca/imagen_(1).webp"
+import imagen2 from "./imageToursMachuPicchu/caminoInca/imagen_(2).webp"
+import imagen3 from "./imageToursMachuPicchu/caminoInca/imagen_(3).webp"
+import imagen4 from "./imageToursMachuPicchu/caminoInca/imagen_(4).webp"
+import imagen5 from "./imageToursMachuPicchu/caminoInca/imagen_(5).webp"
+import imagen6 from "./imageToursMachuPicchu/caminoInca/imagen_(6).webp"
 //implementando las traducciones
 import { useTranslation } from 'react-i18next';
 import IncluyeNew from "../PaquetesComponentes/componentsMenuInfo/IncluyeNew";
